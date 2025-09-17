@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-09-17
 
 词条
@@ -167,7 +167,7 @@ Yoko：妖狐
 Mifune：三船
 Rikudo：六道
 Otsutsuki：大筒木
-Hakaki：火核
+Hikaku：火核
 Izuna：泉奈
 Touka：桃华
 Mito：水户
@@ -232,7 +232,7 @@ Tokubetsu：特别上忍
 Kage：影
 Mangekyo：万花筒
 Hakkesho：八卦掌
-Tenketsu：点穴
+Tenketsu：查克拉经络
 Byakugan：白眼
 Konoha：木叶
 Keimusho：警卫队
@@ -409,3 +409,4 @@ Kugutsushi：傀儡师
 Sennin：仙人
 Gama：蛤蟆
 Kuchiyose：通灵兽
+sensor：感知忍者
