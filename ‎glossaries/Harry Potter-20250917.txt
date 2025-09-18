@@ -1505,7 +1505,7 @@ The Battle of Hogwarts：霍格沃茨之战
 Galleon：加隆
 Knut：纳特
 Sickle：西可
-The Quibbler：《唱唱反调》
+Quibbler：《唱唱反调》
 A Beginner's Guide to Transfiguration：《初学变形指南》
 The Adventures of Martin Miggs, the Mad Muggle：《疯麻瓜马丁·米格斯历险记》
 A Guide to Advanced Transfiguration：《高级变形术指南》
