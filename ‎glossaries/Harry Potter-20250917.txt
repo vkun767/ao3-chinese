@@ -88,7 +88,6 @@ Katie Bell=凯蒂 贝尔
 Cormac McLaggen=考迈克 麦克拉根
 Colin Creevey=科林 克里维
 Lavender Brown=拉文德 布朗
-Lily Luna Potter=莉莉 卢娜 波特
 Lee Jordan=李 乔丹
 Ritchie Coote=里切 古特
 Romilda Vane=罗米达 万尼
@@ -103,11 +102,12 @@ Hugo：雨果
 James=詹姆
 Astoria Malfoy=阿斯托利亚 马尔福
 Polly Chapman=波利 查普曼
-Blaise Zabini=布雷司 沙比尼
+Blaise Zabini=布雷斯 扎比尼
 Daphne Greengrass=达芙妮 格林格拉斯
 Urquhart：厄克特
 Graham Montague=格拉哈姆 蒙太
 Gregory Goyle=格雷戈里 高尔
+Greg：格雷格
 Harper：哈珀
 Cassius Warrington=卡休斯 沃林顿
 Marcus Flint=马库斯 弗林特
@@ -221,11 +221,10 @@ Radolphus Lestrange=拉多福斯 莱斯特兰奇
 Goyle：高尔
 Crabbe：克拉布
 Regulus Black=雷古勒斯 布莱克
-Lucius Malfoy IⅡ=卢修斯 马尔福
+Lucius Malfoy=卢修斯 马尔福
 Rodolphus Lestrange=罗道夫斯 莱斯特兰奇
 Mulciber=穆尔塞伯
-Narcissa Black=纳西莎 布莱克
-Narcissa Malfoy=纳西莎 马尔福
+Narcissa=纳西莎
 Nott：诺特
 Selwyn：塞尔温
 Travers：特拉弗斯
@@ -573,7 +572,8 @@ Nagini：纳吉尼
 诺贝塔：Norberta
 Norbert：诺伯
 Mr. Tibbles：踢踢
-Fang变形课：Transfiguration：牙牙
+Fang：变形课
+Transfiguration：牙牙
 Herbology：草药课
 Flying lesson：飞行课
 Broom Flight Class：飞行课
@@ -591,76 +591,6 @@ Divination：占卜学
 Alchemy：炼金术
 Ornithomancy：鸟相学
 Heptomology：七字学
-Galleon：加隆
-Knut：纳特
-Sickle：西可
-The Quibbler：《唱唱反调》
-A Beginner's Guide to Transfiguration：《初学变形指南》
-The Adventures of Martin Miggs, the Mad Muggle：《疯麻瓜马丁·米格斯历险记》
-A Guide to Advanced Transfiguration：《高级变形术指南》
-Advanced Potion-Making：《高级魔药制作》
-Advanced Rune Translation：《高级如尼文翻译》
-Common Apparition Mistakes and How to Avoid Them：《幻影显形常见错误及避免方法》
-Magical Me：《会魔法的我》
-Secrets of the Darkest Art：《尖端黑魔法揭秘》
-The Dream Oracle：《解梦指南》
-Transfiguration Today：《今日变形术》
-A Study of Recent Developments in Wizardry：《近代巫术发展研究》
-Defensive Magical Theory：《魔法防御理论》
-Magical Theory：《魔法理论》
-Sites of Historical Sorcery：《魔法名胜古迹》
-A History of Magic：《魔法史》
-Magical Hieroglyphs and Logograms：《魔法图符集》
-Magical Drafts and Potions：《魔法药剂与药水》
-Spellman's Syllabary：《魔法字音表》
-Rune Dictionary：《魔文词典》
-One Thousand Magical Herbs and Fungi：《千种神奇药草及蕈类》
-Moste Potente Potions：《强力药剂》
-The Tales of Beedle the Bard：《诗翁彼豆故事集》
-Practical Defensive Magic and Its Use Against the Dark Arts：《实用防御魔法及其对黑魔法的克制》
-The Practical Potioneer：《实用魔药大师》
-Flesh-Eating Trees of the World：《食肉树大全》
-Witch Weekly：《巫师周刊》
-Important Modern Magical：《现代魔法的重大发现》
-Travels with Trolls：《与巨怪同行》
-Daily Prophet：《预言家日报》
-Magick Moste Evile：《至毒魔法》
-Intermediate Transfiguration：《中级变形术》
-Curses and Counter-Curses：《诅咒与反诅咒》
-Scarhead：疤头
-Pinhead：笨瓜
-Snivellus：鼻涕精
-Skingving Sneak Thief：臭大粪
-Know-it-all：万事通
-Wormtail：虫尾巴
-Padfoot：大脚板
-The Boy Who Lived：大难不死的男孩儿
-Bighead Boy：大头男孩
-Loony：疯姑娘
-Mad-Eye：疯眼汉
-Hermy：赫米
-Dark Lord：黑魔王
-Half-Blood Prince：混血王子
-Prongs：尖头叉子
-The Chosen One：救世之星
-Won-Won：罗罗
-Perfect Percy：模范珀西
-Mollywobbles：莫丽小颤颤
-Phlegm：黏痰
-Your Wheezy：你的韦崽
-Witherwing：蔫翼
-Penelope Clearwater：珀涅罗珀·克里尔沃特
-Humongous Bighead：奇大无比的脑袋
-You-Kown-Who：神秘人
-He-Who-Must-Not-Be-Named：神秘人
-He who Must Not Be Named：神秘人
-Cissy：西茜
-Jckle Ronnie：小罗尼
-Little Ronnie：小罗尼
-Weatherby：韦瑟比
-Miss Question-all：问题多小姐
-Miss Prissy：一本正经小姐
-Monny：月亮脸
 
 
 
@@ -1572,3 +1502,79 @@ The Battle of Astronomy Tower：天文塔之战
 The Battle of The Seven Potters：七个波特之战
 The Battle of Malfoy Manor：马尔福庄园激战
 The Battle of Hogwarts：霍格沃茨之战
+Galleon：加隆
+Knut：纳特
+Sickle：西可
+The Quibbler：《唱唱反调》
+A Beginner's Guide to Transfiguration：《初学变形指南》
+The Adventures of Martin Miggs, the Mad Muggle：《疯麻瓜马丁·米格斯历险记》
+A Guide to Advanced Transfiguration：《高级变形术指南》
+Advanced Potion-Making：《高级魔药制作》
+Advanced Rune Translation：《高级如尼文翻译》
+Common Apparition Mistakes and How to Avoid Them：《幻影显形常见错误及避免方法》
+Magical Me：《会魔法的我》
+Secrets of the Darkest Art：《尖端黑魔法揭秘》
+The Dream Oracle：《解梦指南》
+Transfiguration Today：《今日变形术》
+A Study of Recent Developments in Wizardry：《近代巫术发展研究》
+Defensive Magical Theory：《魔法防御理论》
+Magical Theory：《魔法理论》
+Sites of Historical Sorcery：《魔法名胜古迹》
+A History of Magic：《魔法史》
+Magical Hieroglyphs and Logograms：《魔法图符集》
+Magical Drafts and Potions：《魔法药剂与药水》
+Spellman's Syllabary：《魔法字音表》
+Rune Dictionary：《魔文词典》
+One Thousand Magical Herbs and Fungi：《千种神奇药草及蕈类》
+Moste Potente Potions：《强力药剂》
+The Tales of Beedle the Bard：《诗翁彼豆故事集》
+Practical Defensive Magic and Its Use Against the Dark Arts：《实用防御魔法及其对黑魔法的克制》
+The Practical Potioneer：《实用魔药大师》
+Flesh-Eating Trees of the World：《食肉树大全》
+Witch Weekly：《巫师周刊》
+Important Modern Magical：《现代魔法的重大发现》
+Travels with Trolls：《与巨怪同行》
+Daily Prophet：《预言家日报》
+Magick Moste Evile：《至毒魔法》
+Intermediate Transfiguration：《中级变形术》
+Curses and Counter-Curses：《诅咒与反诅咒》
+Scarhead：疤头
+Pinhead：笨瓜
+Snivellus：鼻涕精
+Skingving Sneak Thief：臭大粪
+Know-it-all：万事通
+Wormtail：虫尾巴
+Padfoot：大脚板
+The Boy Who Lived：大难不死的男孩儿
+Bighead Boy：大头男孩
+Loony：疯姑娘
+Mad-Eye：疯眼汉
+Hermy：赫米
+Dark Lord：黑魔王
+Half-Blood Prince：混血王子
+Prongs：尖头叉子
+The Chosen One：救世之星
+Won-Won：罗罗
+Perfect Percy：模范珀西
+Mollywobbles：莫丽小颤颤
+Phlegm：黏痰
+Your Wheezy：你的韦崽
+Witherwing：蔫翼
+Penelope Clearwater：珀涅罗珀·克里尔沃特
+Humongous Bighead：奇大无比的脑袋
+You-Kown-Who：神秘人
+He-Who-Must-Not-Be-Named：神秘人
+He who Must Not Be Named：神秘人
+Cissy：西茜
+Jckle Ronnie：小罗尼
+Little Ronnie：小罗尼
+Weatherby：韦瑟比
+Miss Question-all：问题多小姐
+Miss Prissy：一本正经小姐
+Monny：月亮脸
+
+禁翻词条：
+O.W.L.
+N.E.W.T.
+OWL
+NEWT
