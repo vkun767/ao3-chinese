@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.1
-更新时间：2025-09-17
+版本号：1.0.2
+更新时间：2025-09-18
 
 词条
 
@@ -530,7 +530,7 @@ Snallygaster：山暴龙
 Glumbumble：伤心虫
 Sphinx：斯芬克斯
 Basilisk：蛇怪
-the King of Serpenrs：蛇王
+King of Serpenrs：蛇王
 Griffin：狮身鹰首兽
 Ghoul：食尸鬼
 Clabbert：树猴蛙
@@ -600,7 +600,7 @@ Heptomology：七字学
 Diagon Alley：对角巷
 Death Eaters：​食死徒
 St. Mungo's：圣芒戈
-The Order of the Phoenix：凤凰社
+Order of the Phoenix：凤凰社
 Kitchen：厨房
 Boathouse：船屋
 Dungeon Five：第五地下教室
@@ -634,7 +634,7 @@ Honeydukes Sweetshop：蜂蜜公爵糖果店
 Gladrags Wizardwear：风雅牌巫师服装店
 Scrivenshaft's Quill Shop：文人居羽毛笔专卖店
 Madam Puddifoot's Tea Shop：帕笛芙夫人茶馆
-The Three Broomsticks：三把扫帚酒吧
+Three Broomsticks：三把扫帚酒吧
 Hog's Head：猪头酒吧
 Zonko's Joke Shop：佐科笑话店
 Hogsmeade：霍格莫德
@@ -642,7 +642,7 @@ Ollivanders：奥利凡德
 Gambol and Japes Wizarding Joke Shop：蹦跳嬉闹魔法笑话商店
 Florean Fortescue's Ice Cream Parlour：福洛林·福斯科冰淇淋店
 Scribbulus Writing Implements：疾书文具用品店
-The Junk Shop：旧货铺
+Junk Shop：旧货铺
 Terror Tours：恐怖之旅巫师旅行社
 Quality Quidditch Supplies：魁地奇精品店
 Flourish and Blotts：丽痕书店
@@ -1006,7 +1006,7 @@ Mimbulus Mimbletonia：米布米宝
 Devil's Snare：魔鬼网
 Puffapod：泡泡豆荚
 Bouncing Bulb：跳跳球茎
-The Mirror of Erised：厄里斯魔镜
+Mirror of Erised：厄里斯魔镜
 Sorting Hat：分院帽
 Marauder's Map：活点地图
 Philosopher's Stone：魔法石
@@ -1059,7 +1059,7 @@ Secrecy Sensor：探密器
 Pocket Sneakoscope：袖珍窥镜
 Invisibility Cloak：隐形衣
 Resurrection Stone：复活石
-the Elder Wand：老魔杖
+Elder Wand：老魔杖
 Potter Stinks Badge：波特臭大粪徽章
 Mokeskin Pouch：变形蜥蜴皮袋
 Stink Pellets：臭弹
@@ -1080,7 +1080,7 @@ Howler：吼叫信
 Amulet：护身符
 Moving Photograph：活动照片
 Model of a Firebolt：火弩箭模型
-The Goblet of Fire：火焰杯
+Goblet of Fire：火焰杯
 Screaming Yo-yo：尖叫悠悠球
 Remembrall：记忆球
 Prefect Badge：级长勋章
@@ -1091,7 +1091,7 @@ Registry of Proscribed Charmable Objects：禁用魔法用品登记簿
 Troll Tapestry：巨怪挂毯
 Ever-Bashing Boomerang：连击回飞镖
 Billywig Propeller：灵光推进器
-The Clock at The Burrow Kitchen：陋居厨房的挂钟
+Clock at The Burrow Kitchen：陋居厨房的挂钟
 Muggle Guard：麻瓜警戒器
 Luminous Rosette：玫瑰形徽章
 Order of Merlin：梅林爵士团勋章
@@ -1112,7 +1112,7 @@ Shrinking Key：缩身钥匙
 Two-way Mirror：双向镜
 Silver Shield：银盾
 Prophecy Record：预言球
-The Trace：踪丝
+Trace：踪丝
 Crystal Bell Jar：钟形水晶玻璃罩
 A Roughly Cut Wooden Flute：做工粗糙的笛子
 Advanced Potion-Making of Half-Blood Prince：混血王子的魔药学教材
@@ -1389,12 +1389,12 @@ Wimbourne Wasps：温布恩黄蜂队
 Quidditch World Cup：魁地奇世界杯
 Quidditch Through the Ages：《魁地奇溯源》
 Quidditch Teams of Britain and Ireland：《英国和爱尔兰的魁地奇球队》
-The Official Guide to the Quidditch World Cup：《魁地奇世界杯官方指南》
+Official Guide to the Quidditch World Cup：《魁地奇世界杯官方指南》
 Handbook of Do-It-Yourself Broomcare：《飞天扫帚护理手册》
 Which Broomstick：《飞天扫帚大全》
 International Statute of Wizarding Secrecy：《国际巫师联合会保密法》
 Decree for the Reasonable Restriction of Underage Sorcery：《对未成年巫师加以合理约束法》
-the International Ban on Dueling：《国际禁止决斗法》
+International Ban on Dueling：《国际禁止决斗法》
 Leprechaun gold：小矮妖金币
 Niffler's fancy：嗅幻草
 Sugar Quills：棒糖羽毛笔
@@ -1456,7 +1456,7 @@ Bonaventure：波拿文都号
 Durmstrang Ship：德姆斯特朗大船
 Hogwarts Boats：霍格沃茨的渡船
 Mayflower：五月花号
-The Cave Boat：岩洞里的船
+Cave Boat：岩洞里的船
 Beauxbatons Carriage：布斯巴顿的马车
 Flying Ford Anglia：会飞的福特安格里亚车
 Hogwarts Carriages：霍格沃茨马车
@@ -1464,7 +1464,7 @@ Hogwarts Express：霍格沃茨特快列车
 Knight Bus：骑士公共汽车
 Animals：动物
 Floo Powder：飞路粉
-The Floo Network：飞路网
+Floo Network：飞路网
 Flying Carpets：飞毯
 Mine Cart：古灵阁小推车
 Portkeys：门钥匙
@@ -1482,8 +1482,8 @@ Horseback Head-Juggling：马背头戏
 Exploding Snap：噼啪爆炸牌
 Backgammon：十五子棋
 Ten-pin Bowling：十柱滚木球戏
-The Blood Ball：嗜血舞会
-The Hobgoblins：淘气妖精
+Blood Ball：嗜血舞会
+Hobgoblins：淘气妖精
 Head Polo：头顶球
 Wizard's Chess：巫师棋
 All-England Wizarding Duelling Competition：全英巫师决斗大赛
@@ -1496,25 +1496,25 @@ The last enemy that shall be destroyed is death.：最后一个要消灭的敌�
 Hogwarts School Song：霍格沃茨校歌
 Mudblood：泥巴种
 Weasley is Our King：韦斯莱是我们的王
-The Battle of the Graveyard：墓地之战
-The Battle of the Department of Mysteries：神秘事务司之战
-The Battle of Astronomy Tower：天文塔之战
-The Battle of The Seven Potters：七个波特之战
-The Battle of Malfoy Manor：马尔福庄园激战
-The Battle of Hogwarts：霍格沃茨之战
+Battle of the Graveyard：墓地之战
+Battle of the Department of Mysteries：神秘事务司之战
+Battle of Astronomy Tower：天文塔之战
+Battle of The Seven Potters：七个波特之战
+Battle of Malfoy Manor：马尔福庄园激战
+Battle of Hogwarts：霍格沃茨之战
 Galleon：加隆
 Knut：纳特
 Sickle：西可
 Quibbler：《唱唱反调》
 A Beginner's Guide to Transfiguration：《初学变形指南》
-The Adventures of Martin Miggs, the Mad Muggle：《疯麻瓜马丁·米格斯历险记》
+Adventures of Martin Miggs, the Mad Muggle：《疯麻瓜马丁·米格斯历险记》
 A Guide to Advanced Transfiguration：《高级变形术指南》
 Advanced Potion-Making：《高级魔药制作》
 Advanced Rune Translation：《高级如尼文翻译》
 Common Apparition Mistakes and How to Avoid Them：《幻影显形常见错误及避免方法》
 Magical Me：《会魔法的我》
 Secrets of the Darkest Art：《尖端黑魔法揭秘》
-The Dream Oracle：《解梦指南》
+Dream Oracle：《解梦指南》
 Transfiguration Today：《今日变形术》
 A Study of Recent Developments in Wizardry：《近代巫术发展研究》
 Defensive Magical Theory：《魔法防御理论》
@@ -1527,9 +1527,9 @@ Spellman's Syllabary：《魔法字音表》
 Rune Dictionary：《魔文词典》
 One Thousand Magical Herbs and Fungi：《千种神奇药草及蕈类》
 Moste Potente Potions：《强力药剂》
-The Tales of Beedle the Bard：《诗翁彼豆故事集》
+Tales of Beedle the Bard：《诗翁彼豆故事集》
 Practical Defensive Magic and Its Use Against the Dark Arts：《实用防御魔法及其对黑魔法的克制》
-The Practical Potioneer：《实用魔药大师》
+Practical Potioneer：《实用魔药大师》
 Flesh-Eating Trees of the World：《食肉树大全》
 Witch Weekly：《巫师周刊》
 Important Modern Magical：《现代魔法的重大发现》
@@ -1545,7 +1545,7 @@ Skingving Sneak Thief：臭大粪
 Know-it-all：万事通
 Wormtail：虫尾巴
 Padfoot：大脚板
-The Boy Who Lived：大难不死的男孩儿
+Boy Who Lived：大难不死的男孩儿
 Bighead Boy：大头男孩
 Loony：疯姑娘
 Mad-Eye：疯眼汉
@@ -1553,7 +1553,7 @@ Hermy：赫米
 Dark Lord：黑魔王
 Half-Blood Prince：混血王子
 Prongs：尖头叉子
-The Chosen One：救世之星
+Chosen One：救世主
 Won-Won：罗罗
 Perfect Percy：模范珀西
 Mollywobbles：莫丽小颤颤
