@@ -411,3 +411,4 @@ Gama：蛤蟆
 Kuchiyose：通灵兽
 sensor：感知忍者
 bakakashi：笨卡卡
+bakashi：笨卡卡
