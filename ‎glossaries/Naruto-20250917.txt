@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.5
-更新时间：2025-09-24
+版本号：1.0.6
+更新时间：2025-10-09
 
 词条
 
@@ -199,8 +199,8 @@ Tajima：田岛
 Butsuma：佛间
 Naka River：南贺川
 Nankagawa：南贺川
-Itama：瓦间
-Kawarama：板间
+Itama：板间
+Kawarama：瓦间
 Tobi：阿飞
 Menma：面麻
 Sakumo：朔茂
