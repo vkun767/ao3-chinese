@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.6
-更新时间：2025-10-09
+版本号：1.0.7
+更新时间：2025-10-13
 
 词条
 
@@ -187,6 +187,7 @@ Urashiki：浦式
 Shibai：矢楳
 Ryuchido：龙地洞
 Shikkotsurin：湿骨林
+shikkotsu：湿骨林
 Hakuja：白蛇
 Hamura：羽村
 Jubi：十尾
