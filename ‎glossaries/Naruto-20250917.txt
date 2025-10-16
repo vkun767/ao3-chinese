@@ -416,3 +416,4 @@ sensor：感知忍者
 bakakashi：笨卡卡
 bakashi：笨卡卡
 tenketsu：查克拉经络
+Happuri：护额
