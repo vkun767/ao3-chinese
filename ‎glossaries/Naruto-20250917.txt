@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.8
+版本号：1.0.9
 更新时间：2025-10-16
 
 词条
@@ -234,7 +234,6 @@ Tokubetsu：特别上忍
 Kage：影
 Mangekyo：万花筒
 Hakkesho：八卦掌
-Tenketsu：查克拉经络
 Byakugan：白眼
 Konoha：木叶
 Keimusho：警卫队
@@ -414,3 +413,4 @@ Kuchiyose：通灵兽
 sensor：感知忍者
 bakakashi：笨卡卡
 bakashi：笨卡卡
+tenketsu：查克拉经络
