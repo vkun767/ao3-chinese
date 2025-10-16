@@ -415,7 +415,8 @@ Kuchiyose：通灵
 sensor：感知忍者
 bakakashi：笨卡卡
 bakashi：笨卡卡
-tenketsu：查克拉经络
+tenketsu：经脉
 Happuri：护额
 Whirlpool：涡潮村
 otouto：弟弟
+kunoichi：女忍
