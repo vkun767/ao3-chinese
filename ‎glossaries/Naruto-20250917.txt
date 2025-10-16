@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.13
+版本号：1.0.14
 更新时间：2025-10-16
 
 词条
@@ -418,3 +418,4 @@ bakashi：笨卡卡
 tenketsu：查克拉经络
 Happuri：护额
 Whirlpool：涡潮村
+otouto：弟弟
