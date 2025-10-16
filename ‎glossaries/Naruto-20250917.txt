@@ -285,6 +285,7 @@ Kaen Hoin=封火 法印
 Shisho：四象
 Hakke：八卦
 Hiraishin：飞雷神
+hiraishin：飞雷神
 Kongo Fusa：金刚封锁
 Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
