@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.10
+版本号：1.0.12
 更新时间：2025-10-16
 
 词条
@@ -366,6 +366,7 @@ Bunshin：分身
 Kawarimi：替身
 Kage Bunshin：影分身
 Edo Tensei：秽土转生
+Edo Tensai：秽土转生
 Shosen：掌仙术
 Iryo Ninjutsu：医疗忍术
 Shakuton：灼遁
@@ -409,7 +410,7 @@ Shinobigatana Shichininshu=忍刀 七人众
 Kugutsushi：傀儡师
 Sennin：仙人
 Gama：蛤蟆
-Kuchiyose：通灵术
+Kuchiyose：通灵
 sensor：感知忍者
 bakakashi：笨卡卡
 bakashi：笨卡卡
