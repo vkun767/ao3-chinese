@@ -260,6 +260,7 @@ chakra：查克拉
 Ninjutsu：忍术
 Taijutsu：体术
 Juken：柔拳
+jyuuken：柔拳
 Genjutsu：幻术
 Juinjutsu：咒印术
 Fuinjutsu：封印术
@@ -426,3 +427,6 @@ Doro Domu：土牢 堂无
 Mokuton：木遁
 Endan：炎弹
 Suihachi：水铁炮
+botchan：三色团子
+teppanyaki：铁板烧
+shishou：师父
