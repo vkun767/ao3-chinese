@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.15
+版本号：1.0.16
 更新时间：2025-10-17
 
 词条
@@ -344,7 +344,7 @@ Sen Ju Shishisen：千年杀
 Gudodama：求道玉
 Raikiri：雷切
 Raiden Chuan：雷传
-Suiryudan no Jutsu：水龙弹之术
+Suiryudan：水龙弹
 Suijinheki：水阵壁
 Daibakufu：大瀑布
 Naraku Mi：奈落见
@@ -353,6 +353,7 @@ Tendo：天道
 Shunshin：瞬身
 Gokakyu：豪火球
 Hosenka：凤仙火
+Hōsenka：凤仙火
 Ryuka：龙火
 Goryuka：豪龙火
 Chidori：千鸟
@@ -421,5 +422,7 @@ otouto：弟弟
 kunoichi：女忍
 Kekkai：结界
 Dorō Dōmu：土牢 堂无
+Doro Domu：土牢 堂无
 Mokuton：木遁
-Endan：凤仙火
+Endan：炎弹
+Suihachi：水铁炮
