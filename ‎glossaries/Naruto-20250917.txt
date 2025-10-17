@@ -56,7 +56,6 @@ Torune：取根
 Senju：千手
 Hashirama：柱间
 Shodaime：初代目
-Mokuton：木遁
 Tobirama：扉间
 Nidaime：二代目
 Hiruzen：日斩
@@ -422,3 +421,4 @@ otouto：弟弟
 kunoichi：女忍
 Kekkai：结界
 Dorō Dōmu：土牢 堂无
+Mokuton：木遁
