@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.16
+版本号：1.0.17
 更新时间：2025-10-17
 
 词条
@@ -223,7 +223,7 @@ Bunke：分家
 Aoi Kajitsu：苍蓝 猛兽
 Sannin：三忍
 Shido Jonin=指导 上忍
-Bushin：武士
+Bushin：分身
 Jonin：上忍
 Chunin：中忍
 Genin：下忍
@@ -267,6 +267,7 @@ Fuinjutsu：封印术
 Biju：尾兽
 Senjutsu：仙术
 Kekkei Genkai：血继 限界
+kekkai genkai：血继 限界
 Fushi Tensei：不尸转生
 Odama Rasengan：超大玉螺旋丸
 Rasengan：螺旋丸
@@ -346,6 +347,7 @@ Gudodama：求道玉
 Raikiri：雷切
 Raiden Chuan：雷传
 Suiryudan：水龙弹
+Suiryūdan：水龙弹
 Suijinheki：水阵壁
 Daibakufu：大瀑布
 Naraku Mi：奈落见
@@ -379,6 +381,7 @@ Enton：炎遁
 Katon：火遁
 Suiton：水遁
 Futon：风遁
+Fuuton：风遁
 Raiton：雷遁
 daimyo：大名
 Hokage：火影
@@ -421,7 +424,6 @@ Happuri：护额
 Whirlpool：涡潮村
 otouto：弟弟
 kunoichi：女忍
-Kekkai：结界
 Dorō Dōmu：土牢 堂无
 Doro Domu：土牢 堂无
 Mokuton：木遁
@@ -430,3 +432,4 @@ Suihachi：水铁炮
 botchan：三色团子
 teppanyaki：铁板烧
 shishou：师父
+taicho：队长
