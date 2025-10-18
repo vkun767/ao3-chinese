@@ -1,8 +1,8 @@
 维护者：weikun767@163.com
-版本号：1.0.21
-更新时间：2025-10-18
+版本号：1.0.22
+更新时间：2025-10-19
 
-//本词条里包括了很多错别字词条，原因是洋太太们有时会出现拼写错误，于是在不影响正常词翻译的情况下，我把部分拼写错误词条也加入术语翻译了，比如Juken、jyuken、jyuuken我都标注了柔拳
+//本词条里包括了很多错别字词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
 词条
 
@@ -79,7 +79,6 @@ Madara：斑
 Gaara：我爱罗
 Kankuro：勘九郎
 Temari：手鞠
-Futon：风遁
 Baki：马基
 Chiyo：千代
 Terumi：照美
@@ -214,7 +213,7 @@ Mitsuki：巳月
 通用词条
 
 //不限制大小写
--sama：大人
+hime：公主
 sama：大人
 Deva Path：天道
 sharingan：写轮眼
@@ -340,7 +339,7 @@ Shikotsumyaku：尸骨脉
 Komatsu Hone：共杀灰骨
 Jukai Kotan：树界降诞
 Yomotsu Hirasaka：黄泉比良坂
-Suiton Hoka no Jutsu：水化之术
+Suiton Hoka：水遁·水化
 Oiroke：色诱
 Harem：色诱术
 Doryuheki：土流壁
@@ -362,6 +361,7 @@ Shunshin：瞬身
 Gokakyu：豪火球
 Hosenka：凤仙火
 Hōsenka：凤仙火
+Housenka：凤仙火
 Ryuka：龙火
 Goryuka：豪龙火
 Chidori：千鸟
@@ -440,3 +440,6 @@ taicho：队长
 dojutsu：瞳术
 Senpuu：旋风
 doujutsu：瞳术
+Komon：顾问
+tomoe：勾玉
+haragake：工具包
