@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.18
+版本号：1.0.19
 更新时间：2025-10-18
 
 词条
@@ -260,6 +260,7 @@ chakra：查克拉
 Ninjutsu：忍术
 Taijutsu：体术
 Juken：柔拳
+jyuken：柔拳
 jyuuken：柔拳
 Genjutsu：幻术
 Juinjutsu：咒印术
