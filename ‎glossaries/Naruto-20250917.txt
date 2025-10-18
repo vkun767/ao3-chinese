@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.22
+版本号：1.0.23
 更新时间：2025-10-19
 
 //本词条里包括了很多错别字词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -359,6 +359,7 @@ Gakido：饿鬼道
 Tendo：天道
 Shunshin：瞬身
 Gokakyu：豪火球
+Goukakyuu：豪火球
 Hosenka：凤仙火
 Hōsenka：凤仙火
 Housenka：凤仙火
@@ -442,4 +443,4 @@ Senpuu：旋风
 doujutsu：瞳术
 Komon：顾问
 tomoe：勾玉
-haragake：工具包
+haragake：忍具包
