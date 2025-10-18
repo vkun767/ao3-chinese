@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.17
-更新时间：2025-10-17
+版本号：1.0.18
+更新时间：2025-10-18
 
 词条
 
@@ -433,3 +433,5 @@ botchan：三色团子
 teppanyaki：铁板烧
 shishou：师父
 taicho：队长
+dojutsu：瞳术
+Senpuu：旋风
