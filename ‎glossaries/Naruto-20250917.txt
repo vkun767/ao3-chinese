@@ -208,12 +208,14 @@ Menma：面麻
 Sakumo：朔茂
 Shinki：新希
 Mitsuki：巳月
-Deva Path：天道
+
 
 
 通用词条
 
 //不限制大小写
+sama：大人
+Deva Path：天道
 sharingan：写轮眼
 Juppan：第十班
 Hachihan：第八班
