@@ -2,7 +2,7 @@
 版本号：1.0.20
 更新时间：2025-10-18
 
-//本词条里包括了很多错别字词条，原因是洋太太们实在太容易出现拼写错误了，于是在不影响正常词翻译的情况下，我把部分拼写错误词条也加入术语翻译了，比如Juken、jyuken、jyuuken我都标注了柔拳……叹气
+//本词条里包括了很多错别字词条，原因是洋太太们有时容易出现拼写错误，于是在不影响正常词翻译的情况下，我把部分拼写错误词条也加入术语翻译了，比如Juken、jyuken、jyuuken我都标注了柔拳
 
 词条
 
@@ -289,7 +289,6 @@ Kaen Hoin=封火 法印
 Shisho：四象
 Hakke：八卦
 Hiraishin：飞雷神
-hiraishin：飞雷神
 Kongo Fusa：金刚封锁
 Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
@@ -394,7 +393,6 @@ Raikage：雷影
 Tsuchikage：土影
 Kumo：云忍
 Kiri：雾忍
-Konoha：木叶忍者
 Suna：砂忍
 Iwa：岩忍
 Kumogakure：云忍村
