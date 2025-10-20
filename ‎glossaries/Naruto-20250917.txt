@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.23
-更新时间：2025-10-19
+版本号：1.0.24
+更新时间：2025-10-20
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -409,7 +409,8 @@ Futton：沸遁
 Jinton：尘遁
 Doton：土遁
 Yoton：熔遁
-Otogakure：音忍者村
+Otogakure：音忍村
+shinobi：忍者
 Otonin：音忍
 Kusa：草忍
 Kusagakure：草忍村
@@ -444,3 +445,4 @@ doujutsu：瞳术
 Komon：顾问
 tomoe：勾玉
 haragake：忍具包
+genkan：玄关
