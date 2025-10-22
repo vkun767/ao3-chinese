@@ -449,3 +449,5 @@ genkan：玄关
 kinomo：和服
 sensei：老师
 shadow clone：影分身
+nii-san：尼桑
+White Demon：白色恶魔
