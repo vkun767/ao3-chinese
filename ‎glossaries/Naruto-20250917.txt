@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.27
+版本号：1.0.28
 更新时间：2025-10-23
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -210,7 +210,7 @@ Mitsuki：巳月
 Kinkaku：金角
 Ginkaku：银角
 Kai：解
-
+Shika-Ino-Cho：鹿-猪-蝶
 
 通用词条
 
@@ -453,3 +453,4 @@ sensei：老师
 shadow clone：影分身
 nii-san：尼桑
 White Demon：白色恶魔
+Aneue：姐姐大人
