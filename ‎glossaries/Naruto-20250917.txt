@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.31
+版本号：1.0.32
 更新时间：2025-10-30
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -7,75 +7,47 @@
 词条
 
 // 限制大小写
-Uzumaki：漩涡
-Naruto：鸣人
-Uchiha：宇智波
-Sasuke：佐助
-Sakura：樱
-Haruno：春野
-Hatake：旗木
-Kakashi：卡卡西
-Nara：奈良
-Shikamaru：鹿丸
-Ino：井野
-Akimichi：秋道
-Choji：丁次
-Sarutobi：猿飞
-Asuma：阿斯玛
-Hyuga：日向
-Hinata：雏田
-Hiashi：日足
-Hanabi：花火
-Hizashi：日差
-Inuzuka：犬冢
-Kiba：牙
+Uzumaki Naruto：漩涡 鸣人
+Uchiha Sasuke：宇智波 佐助
+Haruno Sakura：春野 樱
+Hatake Kakashi：旗木 卡卡西
+Hatake Sakumo：旗木 朔茂
+Nara Shikamaru：奈良 鹿丸
+Yamanaka Ino：山中 井野
+Akimichi Choji：秋道 丁次
+Nara Shikaku：奈良 鹿久
+Yamanaka Inoichi：山中 亥一
+Akimichi Choza：秋道 丁座
+Ino Shika Cho：猪鹿蝶
+Sarutobi Asuma：猿飞 阿斯玛
+Hyuga Hinata：日向 雏田
+Hyuga Hiashi：日向 日足
+Hyuga Hanabi：日向 花火
+Hyuga Hizashi：日向 日差
+Inuzuka Kiba：犬冢 牙
 Akamaru：赤丸
-Aburame：油女
-Shino：志乃
-Yuhi：夕日
-Kurenai：红
-Rock：李
-Lee：洛克
-Neji：宁次
+Aburame Shino：油女 志乃
+Yuhi Kurenai：夕日 红
+Lee Rock：李 洛克
+Hyuga Neji：日向 宁次
 Tenten：天天
-Might：迈特
-Guy：凯
+Might Guy：迈特 凯
 Jiraiya：自来也
 Tsunade：纲手
-Godaimē：五代目
 Yamato：大和
-Shimura：志村
-Danzo：团藏
-Yondaime：四代目
-Sandaime：三代目
-Rokudaime：六代目
-Nanadaime：七代目
+Shimura Danzo：志村 团藏
 Sai：佐井
-Yamanaka：山中
-Anbu：暗部
-Ne：根组织
-Torune：取根
-Senju：千手
-Hashirama：柱间
-Shodaime：初代目
-Tobirama：扉间
-Nidaime：二代目
-Hiruzen：日斩
-Namikaze：波风
-Minato：水门
-Umino：海野
-Iruka：伊鲁卡
-Konohamaru：木叶丸
-Shikaku：鹿久
-Inoichi：亥一
-Choza：丁座
-Ino Shika Cho：猪鹿蝶
-Obito：带土
-Shinobi Hashi：神无毗桥
-Rin：野原
-Nohara：琳
-Kushina：玖辛奈
-Madara：斑
+Aburame Torune：油女 取根
+Senju Hashirama：千手 柱间
+Senju Tobirama：千手 扉间
+Sarutobi Hiruzen：猿飞 日斩
+Namikaze Minato：波风 水门
+Umino Iruka：海野 伊鲁卡
+Sarutobi Konohamaru：猿飞 木叶丸
+Uchiha Obito：宇智波 带土
+Nohara Rin：野原 琳
+Uzumaki Kushina：漩涡 玖辛奈
+Uchiha Madara：宇智波 斑
 Gaara：我爱罗
 Kankuro：勘九郎
 Temari：手鞠
@@ -85,8 +57,7 @@ Terumi：照美
 Mei：冥
 Chojuro：长十郎
 Ao：青
-Momochi：桃地
-Zabuza：再不斩
+Momochi Zabuza：桃地 再不斩
 Haku：白
 Onoki：大野木
 Ohnoki：大野木
@@ -95,8 +66,7 @@ Kurotsuchi：黑土
 Akatsuchi：赤土
 Ranton：岚遁
 Darui：达鲁伊
-Yakushi:药师
-Kabuto：兜
+Yakushi Kabuto:药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
 Otonin Yoninshu：音忍四人众
@@ -108,20 +78,17 @@ Hanzo：半藏
 Nagato：长门
 Yahiko：弥彦
 Konan：小南
-Hozuki：鬼灯
-Suigetsu：水月
-Gengetsu：幻月
+Hozuki Suigetsu：鬼灯 水月
+Hozuki Gengetsu：鬼灯 幻月
 Karin：香燐
 Jugo：重吾
-Juin：咒印
 Pain：佩恩
 Men no Otoko：面具男
 Zetsu：绝
 Kuro Zetsu：黑绝
 Shiro Zetsu：白绝
-Itachi：鼬
-Hoshigaki：干柿
-Kisame：鬼鲛
+Uchiha Itachi：宇智波 鼬
+Hoshigaki Kisame：干柿 鬼鲛
 Deidara：迪达拉
 Sasori：蝎
 Hidan：飞段
@@ -161,52 +128,59 @@ Nanabi：七尾
 Takigakure：泷忍
 Gyuki：牛鬼
 Hachibi：八尾
-Killer Bee：奇拉比
+Killer Bee：奇拉 比
 Kurama：九喇嘛
-Kyubi：九尾
-Yoko：妖狐
+Kyubi Yoko：九尾 妖狐
+Jubi：十尾
 Mifune：三船
 Rikudo：六道
-Otsutsuki：大筒木
-Hikaku：火核
-Izuna：泉奈
-Touka：桃华
-Tōka：桃华
-Mito：水户
-Boruto：博人
-Himawari：向日葵
-Sarada：佐良娜
-Kawaki：川木
+Uchiha Hikaku：宇智波 火核
+Uchiha Izuna：宇智波 泉奈
+Senju Touka：千手 桃华
+Senju Tōka：千手 桃华
+Uzumaki Mito：漩涡 水户
+Uzumaki Boruto：漩涡 博人
+Uzumaki Himawari：漩涡 向日葵
+Uchiha Sarada：宇智波 佐良娜
+Otsutsuki Kawaki：大筒木 川木
 Daikokuten：大黑天
 Ashura：阿修罗
 Indora：因陀罗
 Hagoromo：羽衣
-Shin：信
-Kaguya：辉夜
-Toneri：舍人
-Momoshiki：桃式
-Urashiki：浦式
-Shibai：矢楳
+Uchiha Shin：宇智波 信
+Otsutsuki Kaguya：大筒木 辉夜
+Otsutsuki Toneri：大筒木 舍人
+Otsutsuki Momoshiki：大筒木 桃式
+Otsutsuki Urashiki：大筒木 浦式
+Otsutsuki Shibai：大筒木 矢楳
 Ryuchido：龙地洞
 Shikkotsurin：湿骨林
 shikkotsu：湿骨林
 Hakuja：白蛇
 Hamura：羽村
-Jubi：十尾
-Kagami：镜
-Shisui：止水
-Fugaku：富岳
-Mikoto：美琴
-Izumi：泉
-Tajima：田岛
-Butsuma：佛间
+Uchiha Kagami：宇智波 镜
+Uchiha Shisui：宇智波 止水
+Uchiha Fugaku：宇智波 富岳
+Uchiha Mikoto：宇智波 美琴
+Uchiha Izumi：宇智波 泉
+Uchiha Tajima：宇智波 田岛
+Senju Butsuma：千手 佛间
+Senju Itama：千手 板间
+Senju Kawarama：千手 瓦间
+Shinobi Hashi：神无毗桥
+Shodaime：初代目
+Nidaime：二代目
+Yondaime：四代目
+Sandaime：三代目
+Godaimē：五代目
+Rokudaime：六代目
+Nanadaime：七代目
+Anbu：暗部
+Ne：根组织
 Naka River：南贺川
 Nankagawa：南贺川
-Itama：板间
-Kawarama：瓦间
 Tobi：阿飞
 Menma：面麻
-Sakumo：朔茂
 Shinki：新希
 Mitsuki：巳月
 Kinkaku：金角
@@ -218,6 +192,7 @@ Tobriama：扉间
 通用词条
 
 //不限制大小写
+Juin：咒印
 hime：公主
 sama：大人
 Deva Path：天道
