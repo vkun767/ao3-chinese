@@ -456,3 +456,4 @@ shadow clone：影分身
 nii-san：尼桑
 White Demon：白色恶魔
 Aneue：姐姐大人
+clone：分身
