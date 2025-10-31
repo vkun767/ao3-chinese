@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.35
+版本号：1.0.36
 更新时间：2025-10-31
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -437,3 +437,10 @@ nii-san：尼桑
 White Demon：白色恶魔
 Aneue：姐姐大人
 clone：分身
+Hyūga：日向
+fūinjutsu：封印术
+Mangekyō：万花筒
+Otōsama：父亲大人
+futon：蒲团
+baka：笨蛋
+otōto：弟弟
