@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.34
+版本号：1.0.35
 更新时间：2025-10-31
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -191,6 +191,8 @@ Ginkaku：银角
 Kai：解
 Shika-Ino-Cho：鹿-猪-蝶
 Tobriama：扉间
+Futon：风遁
+
 
 通用词条
 
@@ -369,7 +371,6 @@ Kusanagi no Tsurugi：草薙剑
 Enton：炎遁
 Katon：火遁
 Suiton：水遁
-Futon：风遁
 Fuuton：风遁
 Raiton：雷遁
 daimyo：大名
