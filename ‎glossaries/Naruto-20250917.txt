@@ -141,6 +141,7 @@ Uchiha Hikaku=宇智波 火核
 Uchiha Izuna=宇智波 泉奈
 Senju Touka=千手 桃华
 Senju Tōka=千手 桃华
+Senju toka=千手 桃华
 Uzumaki Mito=漩涡 水户
 Uzumaki Boruto=漩涡 博人
 Uzumaki Himawari=漩涡 向日葵
