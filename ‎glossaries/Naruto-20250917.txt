@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.40
-更新时间：2025-12-06
+版本号：1.0.41
+更新时间：2025-12-07
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -85,7 +85,6 @@ Hozuki Suigetsu=鬼灯 水月
 Hozuki Gengetsu=鬼灯 幻月
 Uzumaki Karin=漩涡 香燐
 Jugo：重吾
-Pain：佩恩
 Men no Otoko：面具男
 Zetsu：绝
 Kuro Zetsu：黑绝
