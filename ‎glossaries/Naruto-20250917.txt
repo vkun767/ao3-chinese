@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.44
-更新时间：2025-12-20
+版本号：1.0.45
+更新时间：2025-12-25
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -319,7 +319,7 @@ Sashiki：扦插之术
 Jubi no Hitsugi：十尾柩印
 Rinne Tensei：轮回天生
 Tandem Paper Bomb：互乘起爆符
-Anija：大哥
+Anija：兄长
 Aniki：哥哥
 Shikotsumyaku：尸骨脉
 Komatsu Hone：共杀灰骨
