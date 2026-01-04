@@ -1215,7 +1215,6 @@ Redwood：红杉木
 Red Oak：红橡木
 Walnut：胡桃木
 Birch：桦木
-Elder：接骨木
 Acacia：刺槐
 Fir：冷杉木
 Pear：梨木
