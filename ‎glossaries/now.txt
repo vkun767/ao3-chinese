@@ -4,10 +4,10 @@
 
 词条
 // 限制大小写
-Uchiha Kazuka=宇智波 和贺
-Uchiha Tadao=宇智波 忠雄
-Uchiha Aoki=宇智波 青木
-Nara Shikaichi=奈良 鹿一
+Kazuka：和贺
+Tadao：忠雄
+Aoki：青木
+Shikaichi：鹿一
 
 
 通用词条
