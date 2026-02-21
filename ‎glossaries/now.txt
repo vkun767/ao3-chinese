@@ -32,7 +32,10 @@ Matsuyo：松世
 Yasuko：安子
 Yasu：亚苏
 Ashina：芦名
-
+Kurou：九郎
+Naoki：直树
+Suoma：芬兰
+Kurou：黑羽
 
 通用词条
 //不限制大小写
