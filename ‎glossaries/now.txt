@@ -1,6 +1,6 @@
 维护者：临时用
-版本号：1.0.2
-更新时间：2025-10-13
+版本号：1.0.3
+更新时间：2025-10-14
 
 词条
 // 限制大小写
@@ -12,6 +12,19 @@ Kuroma：黑间
 Sahoma：沙穗间
 Hoshika：星华
 Aikawa Toshiro=相川俊郎
+Shiyu：时悠
+Takeshi：武
+Shibiki：志木
+Ayaka：绫华
+Masako：雅子
+Okimoto：奥本
+Itsumi：伊美
+Kazuya：和也
+Chiemi：千惠美
+Shikaido：鹿道
+Keisuke：圭介
+Tomoya：智也
+
 
 通用词条
 //不限制大小写
