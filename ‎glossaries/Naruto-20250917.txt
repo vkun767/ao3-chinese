@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.54
-更新时间：2026-01-14
+版本号：1.0.55
+更新时间：2026-01-15
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -28,7 +28,7 @@ Inuzuka Kiba=犬冢 牙
 Akamaru：赤丸
 Aburame Shino=油女 志乃
 Yuhi Kurenai=夕日 红
-Lee Rock=李 洛克
+Lee Rock：李 洛克
 Hyuga Neji=日向 宁次
 Tenten：天天
 TenTen：天天
