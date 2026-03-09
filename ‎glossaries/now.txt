@@ -15,7 +15,6 @@ Daruzo：达鲁藏
 Dachi：大地
 Eijirō：英次郎
 Fushito：伏人
-Hana：哈娜
 Haro：哈罗
 Hina：希娜
 Hitomi：瞳
@@ -47,7 +46,6 @@ Nashimi：梨美
 Ryunosuke：龙之介
 Sango：珊瑚
 Sahoma：沙穗间
-Shikadai：鹿代
 Shikaichi：鹿一
 Shibiki：志木
 Shinji：慎二
