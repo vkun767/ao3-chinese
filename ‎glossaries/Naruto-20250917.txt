@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.57
-更新时间：2026-01-17
+版本号：1.0.58
+更新时间：2026-01-18
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -47,6 +47,8 @@ Inuzuka Tsume=犬冢 爪
 Inuzuka Hana=犬冢 花
 Kamizuki Izumo=神月 出云
 Hagane Kotetsu=钢 子铁
+Tobitake Tonbo=飞竹 蜻蜓
+Dokuraku Mawashi=独乐 迥
 Jiraiya：自来也
 Tsunade：纲手
 Shizune：静音
