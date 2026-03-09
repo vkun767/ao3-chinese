@@ -1,6 +1,6 @@
 维护者：临时用
-版本号：1.0.7
-更新时间：2025-10-16
+版本号：1.0.8
+更新时间：2025-10-17
 
 词条
 // 限制大小写
@@ -44,10 +44,11 @@ Misaki：美咲
 Naoki：直树
 Nanami：七海
 Nashimi：梨美
+Ryunosuke：龙之介
 Sango：珊瑚
 Sahoma：沙穗间
+Shikadai：鹿代
 Shikaichi：鹿一
-hikadai：鹿代
 Shibiki：志木
 Shinji：慎二
 Shiyu：时悠
