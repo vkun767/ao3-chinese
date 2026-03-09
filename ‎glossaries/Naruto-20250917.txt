@@ -42,9 +42,11 @@ Yamashiro Aoba=山城 青叶
 Namiashi Raidou=并足 雷同
 Tatami Iwashi=叠伊 瓦希
 Mitarashi Anko=御手洗 红豆
-Morino Ibishi：森乃 伊比喜
-Inuzuka Tsume：犬冢 爪
-Inuzuka Hana：犬冢 花
+Morino Ibishi=森乃 伊比喜
+Inuzuka Tsume=犬冢 爪
+Inuzuka Hana=犬冢 花
+Kamizuki Izumo=神月 出云
+Hagane Kotetsu=钢 子铁
 Jiraiya：自来也
 Tsunade：纲手
 Shizune：静音
