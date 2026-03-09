@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.56
-更新时间：2026-01-16
+版本号：1.0.57
+更新时间：2026-01-17
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -34,9 +34,21 @@ Hyuga Neji=日向 宁次
 Tenten：天天
 TenTen：天天
 Maito Gai：迈特 凯
+Shiranui Genma=不知火 玄间
+Gekkō Hayate=月光 疾风
+Gekkuo Hayate=月光 疾风
+Uzuki Yuugao=卯月 夕颜
+Yamashiro Aoba=山城 青叶
+Namiashi Raidou=并足 雷同
+Tatami Iwashi=叠伊 瓦希
 Mitarashi Anko=御手洗 红豆
+Morino Ibishi：森乃 伊比喜
+Inuzuka Tsume：犬冢 爪
+Inuzuka Hana：犬冢 花
 Jiraiya：自来也
 Tsunade：纲手
+Shizune：静音
+Nawaki：绳树
 Yamato：大和
 Tenzo：天藏
 Katon Dan：加藤 断
@@ -71,6 +83,7 @@ Chojuro：长十郎
 Ao：青
 Momochi Zabuza=桃地 再不斩
 Haku：白
+Ringo Ameyuri=林檎 雨由利
 Onoki：大野木
 Ohnoki：大野木
 Kitsuchi：黄土
@@ -78,6 +91,7 @@ Kurotsuchi：黑土
 Akatsuchi：赤土
 Ranton：岚遁
 Darui：达鲁伊
+Omoi：奥摩伊
 Yakushi Kabuto=药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
@@ -90,8 +104,20 @@ Hanzo：半藏
 Nagato：长门
 Yahiko：弥彦
 Konan：小南
+Kurosuki Raiga=黑锄 雷牙
+Karatachi Kagura=枸橘 神乐
+Kurosuki Buntan=黑锄 文淡
+Hoshigaki Shizuma=干柿 尸澄真
+Munashi Jinpachi=无梨 甚八
+Biwa Jūzō=枇杷 十藏
+Suikazan Fuguki：西瓜山 河豚鬼
+Kuriarare Kushimaru=栗霰 串丸
+Akebino Jinin=通草 野饵人
 Hozuki Suigetsu=鬼灯 水月
-Hozuki Gengetsu=鬼灯 幻月
+Hohzuki Suigetsu=鬼灯 水月
+Hōzuki Suigetsu=鬼灯 水月
+Hōzuki Mangetsu=鬼灯 满月
+Hohzuki Mangetsu=鬼灯 满月
 Uzumaki Karin=漩涡 香燐
 Jugo：重吾
 Men no Otoko：面具男
@@ -483,6 +509,13 @@ hara-kiri：切腹
 Haha-ue：母亲大人
 Chichi-ue：父亲大人
 Kaama：楔
+Bakutō Shibuki=爆刀 飞沫
+Dontō Kabutowari=钝刀 兜割
+Hebiichigo：蛇莓
+Chōtō Nuibari=长刀 缝针
+Dantō Kubikiribōchō=断刀 斩首大刀
+
+
 
 禁翻词条
 Alpha
