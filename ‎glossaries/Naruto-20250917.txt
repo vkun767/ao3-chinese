@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.55
-更新时间：2026-01-15
+版本号：1.0.56
+更新时间：2026-01-16
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -16,6 +16,7 @@ Nara Shikamaru=奈良 鹿丸
 Yamanaka Ino=山中 井野
 Akimichi Choji=秋道 丁次
 Nara Shikaku=奈良 鹿久
+Nara Yoshino：奈良 吉乃
 Yamanaka Inoichi=山中 亥一
 Akimichi Choza=秋道 丁座
 Ino Shika Cho：猪鹿蝶
@@ -33,6 +34,7 @@ Hyuga Neji=日向 宁次
 Tenten：天天
 TenTen：天天
 Maito Gai：迈特 凯
+Mitarashi Anko=御手洗 红豆
 Jiraiya：自来也
 Tsunade：纲手
 Yamato：大和
@@ -47,6 +49,8 @@ Aburame Torune=油女 取根
 Senju Hashirama=千手 柱间
 Senju Tobirama=千手 扉间
 Sarutobi Hiruzen=猿飞 日斩
+Sarutobi Biwako=猿飞 琵琶湖
+Sarutobi Mirai=猿飞 未来
 Namikaze Minato=波风 水门
 Umino Iruka=海野 伊鲁卡
 Sarutobi Konohamaru=猿飞 木叶丸
@@ -58,9 +62,11 @@ Gaara：我爱罗
 Kankuro：勘九郎
 Temari：手鞠
 Baki：马基
+Karura：加琉罗
+Yashamaru：夜叉丸
+Rasa：罗砂
 Chiyo：千代
-Terumi：照美
-Mei：冥
+Terumi Mei：照美 冥
 Chojuro：长十郎
 Ao：青
 Momochi Zabuza=桃地 再不斩
@@ -150,7 +156,16 @@ Uzumaki Mito=漩涡 水户
 Uzumaki Boruto=漩涡 博人
 Uzumaki Himawari=漩涡 向日葵
 Uchiha Sarada=宇智波 佐良娜
+Akimichi Chouchou=秋道 蝶蝶
+Akimichi Chōchō=秋道 蝶蝶
+Shinki：新希
+Mitsuki：巳月
+Nara Shikadai：奈良 鹿代
 Otsutsuki Kawaki=大筒木 川木
+Yamanaka Inojin：山中 井阵
+Kazamatsuri Moegi=风祭 萌黄
+Ise Udon=伊势 乌冬
+Kakei Sumire=笕 堇
 Daikokuten：大黑天
 Ashura：阿修罗
 Indora：因陀罗
@@ -190,8 +205,6 @@ Nankagawa：南贺川
 Nakano：南河川
 Tobi：阿飞
 Menma：面麻
-Shinki：新希
-Mitsuki：巳月
 Kinkaku：金角
 Ginkaku：银角
 Kai：解
@@ -199,6 +212,16 @@ Shika-Ino-Cho：鹿-猪-蝶
 Tobriama：扉间
 Futon：风遁
 Whirlpool：涡潮村
+Jigen：慈弦
+Sanzu Amado=三途 阿玛多
+Delta：迪鲁达
+Ada：艾达
+Daemon：迪蒙
+Ebisu：惠比寿
+Yuino Iwabee=结乃 岩部
+Raimon Denki=雷门 电气
+Izuno Wasabi=伊豆 野山葵
+
 
 通用词条
 
@@ -459,7 +482,7 @@ Naka：南贺川
 hara-kiri：切腹
 Haha-ue：母亲大人
 Chichi-ue：父亲大人
-
+Kaama：楔
 
 禁翻词条
 Alpha
