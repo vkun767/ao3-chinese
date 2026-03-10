@@ -179,6 +179,7 @@ Kyubei：九尾
 Jubi：十尾
 Mifune：三船
 Rikudo：六道
+Uchiha Setsuna：宇智波 刹那
 Uchiha Hikaku=宇智波 火核
 Uchiha Izuna=宇智波 泉奈
 Senju Touka=千手 桃华
@@ -228,6 +229,7 @@ Nidaime：二代目
 Yondaime：四代目
 Sandaime：三代目
 Godaimē：五代目
+Godaime：五代目
 Rokudaime：六代目
 Nanadaime：七代目
 Anbu：暗部
