@@ -117,6 +117,7 @@ Biwa Jūzō=枇杷 十藏
 Suikazan Fuguki：西瓜山 河豚鬼
 Kuriarare Kushimaru=栗霰 串丸
 Akebino Jinin=通草 野饵人
+Hoozuki Suigetsu：鬼灯 水月
 Hozuki Suigetsu=鬼灯 水月
 Hohzuki Suigetsu=鬼灯 水月
 Hōzuki Suigetsu=鬼灯 水月
@@ -124,6 +125,7 @@ Hōzuki Mangetsu=鬼灯 满月
 Hohzuki Mangetsu=鬼灯 满月
 Uzumaki Karin=漩涡 香燐
 Jugo：重吾
+Juugo：重吾
 Men no Otoko：面具男
 Zetsu：绝
 Kuro Zetsu：黑绝
@@ -302,6 +304,7 @@ Keirakukei：经络系统
 Onmyoton：阴阳遁
 Ketsu-in：结印
 Jinchuriki：人柱力
+Jinchuuriki：人柱力
 Tetsu：铁
 Tsuchi：土
 Mizu：水
