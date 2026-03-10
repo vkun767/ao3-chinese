@@ -262,6 +262,8 @@ hime：公主
 sama：大人
 Deva Path：天道
 sharingan：写轮眼
+Dananahan：第七班
+Dai-nana-han：第七班
 Juppan：第十班
 Hachihan：第八班
 Hachimon Tonko=八门 遁甲
@@ -519,6 +521,7 @@ Hebiichigo：蛇莓
 Chōtō Nuibari=长刀 缝针
 Dantō Kubikiribōchō=断刀 斩首大刀
 Pakun：帕克
+Pakkun：帕克
 Buru：布鲁
 Shiba：西巴
 Biske：弥助
@@ -526,7 +529,6 @@ Akino：阿基诺
 Gurugo：古鲁克
 Uuhei：乌黑
 Urushi：乌鲁西
-
 
 禁翻词条
 Alpha
