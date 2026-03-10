@@ -50,6 +50,7 @@ Hagane Kotetsu=钢 子铁
 Tobitake Tonbo=飞竹 蜻蜓
 Dokuraku Mawashi=独乐 迥
 Jiraiya：自来也
+Jirayai：自来也
 Tsunade：纲手
 Shizune：静音
 Nawaki：绳树
