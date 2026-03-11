@@ -284,6 +284,8 @@ Sannin：三忍
 Shido Jonin=指导 上忍
 Bushin：分身
 Jonin：上忍
+Jounin：上忍
+Chounin：中忍
 Chunin：中忍
 Genin：下忍
 Iryo：医疗
