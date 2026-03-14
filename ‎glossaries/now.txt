@@ -1,6 +1,6 @@
 维护者：临时用
-版本号：1.0.9
-更新时间：2025-10-17
+版本号：1.0.10
+更新时间：2025-10-18
 
 词条
 // 限制大小写
@@ -44,6 +44,7 @@ Naoki：直树
 Naomi：直美
 Nanami：七海
 Nashimi：梨美
+Okimoto：奥本
 Ryunosuke：龙之介
 Sango：珊瑚
 Sahoma：沙穗间
@@ -55,14 +56,16 @@ Shikaido：鹿道
 Suoma：芬兰
 Sarana：纱良
 Susano’o：须佐能乎
+Ryo：凉
 Takeshi：武
 Takeru：健
 Takahashi：高桥
 Tadao：忠雄
+Tsubaki：椿
 Tomoya：智也
 Toshiro：俊郎
 Tsukiyomi：月读
-Okimoto：奥本
+Unarigoe ：宇那利
 Yuzuki：柚希
 Yukari：由香里
 Yasuko：安子
