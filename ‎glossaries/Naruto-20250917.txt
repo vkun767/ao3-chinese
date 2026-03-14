@@ -15,6 +15,7 @@ Hatake Sakumo=旗木 朔茂
 Nara Shikamaru=奈良 鹿丸
 Yamanaka Ino=山中 井野
 Akimichi Choji=秋道 丁次
+Akimichi Chōji=秋道 丁次
 Nara Shikaku=奈良 鹿久
 Nara Yoshino：奈良 吉乃
 Yamanaka Inoichi=山中 亥一
