@@ -84,6 +84,7 @@ Karura：加琉罗
 Yashamaru：夜叉丸
 Rasa：罗砂
 Chiyo：千代
+Daimaru：大丸
 Terumi Mei：照美 冥
 Chojuro：长十郎
 Ao：青
@@ -113,6 +114,7 @@ Hanzo：半藏
 Nagato：长门
 Yahiko：弥彦
 Konan：小南
+Karatachi Yagura：枸橘 矢仓
 Kurosuki Raiga=黑锄 雷牙
 Karatachi Kagura=枸橘 神乐
 Kurosuki Buntan=黑锄 文淡
@@ -162,10 +164,11 @@ Nibi：二尾
 Yugito：由木人
 Isobu：矶抚
 Sanbi：三尾
-Yagura：矢仓
 Son Goku：孙悟空
 Yonbi：四尾
 Roshi：老紫
+Rōshi：老紫
+Roushi：老紫
 Kokuo：穆王
 Gobi：五尾
 Saiken：犀犬
