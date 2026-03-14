@@ -354,6 +354,7 @@ Kongo Fusa：金刚封锁
 Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
 Infuin：阴封印
+Uzushio：百豪
 Tensai Fuin：转写封印
 Mokusa Ban：默杀缚
 Koshijin no Jutsu：虎视眈弹
@@ -462,6 +463,7 @@ Kirigakure：雾忍村
 Konohagakure：木叶忍村
 Sunagakure：砂忍村
 Iwagakure：岩忍村
+Uzushio：涡之国
 Hyoton：冰遁
 Futton：沸遁
 Jinton：尘遁
@@ -485,6 +487,7 @@ bakakashi：笨卡卡
 bakashi：笨卡卡
 tenketsu：经脉
 Happuri：护额
+Suna no Sankyoudai：砂之三姐弟
 otouto：弟弟
 kunoichi：女忍
 Dorō Dōmu：土牢 堂无
