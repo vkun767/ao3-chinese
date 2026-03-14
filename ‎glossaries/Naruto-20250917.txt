@@ -496,6 +496,7 @@ botchan：三色团子
 teppanyaki：铁板烧
 shishou：师父
 taicho：队长
+taichou：队长
 dojutsu：瞳术
 Senpuu：旋风
 doujutsu：瞳术
