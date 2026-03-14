@@ -4,12 +4,13 @@
 
 词条
 // 限制大小写
-Aoki：青木
+Aiko：爱子
 Aikawa：相川
-Ayaka：绫华
 Akiyama：秋山
 Akihito：明仁
 Ashina：芦名
+Aoki：青木
+Ayaka：绫华
 Chiemi：千惠美
 Daruzo：达鲁藏
 Dachi：大地
