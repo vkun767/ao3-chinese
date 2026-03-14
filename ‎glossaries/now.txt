@@ -6,6 +6,7 @@
 // 限制大小写
 Aiko：爱子
 Aikawa：相川
+Akira：亮
 Akiyama：秋山
 Akihito：明仁
 Ashina：芦名
@@ -40,6 +41,7 @@ Makoto：诚
 Matsuyo：松世
 Masumi：真理
 Masako：雅子
+Minako：美奈子
 Misaki：美咲
 Naoki：直树
 Naomi：直美
