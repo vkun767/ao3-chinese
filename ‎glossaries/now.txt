@@ -25,6 +25,7 @@ Hjouske：兵介
 Hideyoshi：秀吉
 Hoshika：星华
 Homura：焰
+Inari：稻荷
 Itsumi：伊美
 Itsuko：伊津子
 Izuya：伊豆弥
@@ -39,6 +40,7 @@ Kurou：九郎
 Makiko：真纪子
 Makoto：诚
 Matsuyo：松世
+Masuyo：真代
 Masumi：真理
 Masako：雅子
 Minako：美奈子
@@ -46,7 +48,9 @@ Misaki：美咲
 Naoki：直树
 Naomi：直美
 Nanami：七海
+Nami：奈美
 Nashimi：梨美
+Natsu：夏
 Okimoto：奥本
 Ryunosuke：龙之介
 Sango：珊瑚
@@ -57,6 +61,7 @@ Shinji：慎二
 Shiyu：时悠
 Shikaido：鹿道
 Suoma：芬兰
+Suzume：雀
 Sarana：纱良
 Susano’o：须佐能乎
 Ryo：凉
@@ -64,9 +69,10 @@ Takeshi：武
 Takeru：健
 Takahashi：高桥
 Tadao：忠雄
-Tsubaki：椿
 Tomoya：智也
 Toshiro：俊郎
+Tsubaki：椿
+Tsunami：海啸
 Tsukiyomi：月读
 Unarigoe ：宇那利
 Yuzuki：柚希
