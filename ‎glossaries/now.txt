@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.11
+版本号：1.0.12
 更新时间：2025-10-18
 
 词条
@@ -18,6 +18,7 @@ Daruzo：达鲁藏
 Dachi：大地
 Eijirō：英次郎
 Fushito：伏人
+Haruka：春
 Haro：哈罗
 Haruki：春树
 Hibiko：响子
