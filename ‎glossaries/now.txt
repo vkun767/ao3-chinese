@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.10
+版本号：1.0.11
 更新时间：2025-10-18
 
 词条
@@ -18,6 +18,7 @@ Dachi：大地
 Eijirō：英次郎
 Fushito：伏人
 Haro：哈罗
+Haruki：春树
 Hina：希娜
 Hitomi：瞳
 Hibiko：响子
@@ -75,6 +76,7 @@ Tsubaki：椿
 Tsunami：海啸
 Tsukiyomi：月读
 Unarigoe ：宇那利
+Usami：宇佐美
 Yuzuki：柚希
 Yukari：由香里
 Yasuko：安子
