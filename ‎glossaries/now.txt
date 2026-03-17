@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.12
+版本号：1.0.13
 更新时间：2025-10-19
 
 词条
@@ -32,10 +32,12 @@ Hjouske：兵介
 Honoka：穗香
 Hoshika：星华
 Homura：焰
+Ikanago：伊卡格那
 Inari：稻荷
 Itsumi：伊美
 Itsuko：伊津子
 Izuya：伊豆弥
+Jōseki：常石
 Kaede：枫
 Kashio：柏尾
 Kanon：卡农
@@ -65,6 +67,7 @@ Nori：诺里
 Nashimi：梨美
 Natsu：夏
 Okimoto：奥本
+Onikiri：鬼切
 Renzu：莲组
 Ryunosuke：龙之介
 Sango：珊瑚
