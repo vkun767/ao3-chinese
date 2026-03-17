@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.62
-更新时间：2026-01-19
+版本号：1.0.63
+更新时间：2026-01-20
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -11,6 +11,7 @@ Uzumaki Naruto=漩涡 鸣人
 Uchiha Sasuke=宇智波 佐助
 Haruno Sakura=春野 樱
 Hatake Kakashi=旗木 卡卡西
+Sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
 Nara Shikamaru=奈良 鹿丸
 Yamanaka Ino=山中 井野
