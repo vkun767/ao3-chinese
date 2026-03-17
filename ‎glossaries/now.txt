@@ -1,6 +1,6 @@
 维护者：临时用
 版本号：1.0.12
-更新时间：2025-10-18
+更新时间：2025-10-19
 
 词条
 // 限制大小写
@@ -9,6 +9,7 @@ Aikawa：相川
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
+Asahi：朝日
 Ashina：芦名
 Aoki：青木
 Ayaka：绫华
@@ -18,6 +19,7 @@ Daruzo：达鲁藏
 Dachi：大地
 Eijirō：英次郎
 Fushito：伏人
+Hachiro：八郎
 Haruka：春
 Haro：哈罗
 Haruki：春树
@@ -34,15 +36,17 @@ Inari：稻荷
 Itsumi：伊美
 Itsuko：伊津子
 Izuya：伊豆弥
+Kaede：枫
 Kashio：柏尾
+Kanon：卡农
 Kaneda：金田
 Kazuka：和贺
 Kazuki：和树
-Kaede：枫
-Kuroma：黑间
-Keisuke：圭介
 Kazuya：和也
-Kurou：黑羽
+Keisuke：圭介
+Kiraku：木乐
+Kowa：科亚
+Kuroma：黑间
 Kurou：九郎
 Makiko：真纪子
 Makoto：诚
@@ -57,9 +61,11 @@ Naoki：直树
 Naomi：直美
 Nanami：七海
 Nami：奈美
+Nori：诺里
 Nashimi：梨美
 Natsu：夏
 Okimoto：奥本
+Renzu：莲组
 Ryunosuke：龙之介
 Sango：珊瑚
 Sahoma：沙穗间
@@ -68,12 +74,14 @@ Shibiki：志木
 Shinji：慎二
 Shiyu：时悠
 Shikaido：鹿道
+Shokari：肖卡里
 Suoma：芬兰
 Suzume：雀
 Sarana：纱良
 Susano’o：须佐能乎
 Ryo：凉
-Takeshi：武
+Takeda：武田
+Takeshi：武史
 Takeru：健
 Takahashi：高桥
 Tadao：忠雄
@@ -87,15 +95,15 @@ Tsukiyomi：月读
 Unarigoe ：宇那利
 Umeo：梅尾
 Usami：宇佐美
-Yuzuki：柚希
-Yukari：由香里
 Yasuko：安子
 Yasu：亚苏
 Yashiro：八代
 Yasuo：康夫
+Yoko：洋子
 Yumiko：由美子
 Yume：梦
-
+Yuzuki：柚希
+Yukari：由香里
 
 
 通用词条
