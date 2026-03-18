@@ -61,6 +61,7 @@ Masako：雅子
 Mei：梅
 Minako：美奈子
 Misaki：美咲
+Myo：美代
 Naoki：直树
 Naomi：直美
 Nanami：七海
@@ -94,9 +95,10 @@ Tomoya：智也
 Toshiro：俊郎
 Tsubaki：椿
 Tsuki：月
+Tsukiyomi：月读
 Tsumi：津美
 Tsunami：海啸
-Tsukiyomi：月读
+Tsuru：鹤
 Unarigoe ：宇那利
 Umeo：梅尾
 Usami：宇佐美
