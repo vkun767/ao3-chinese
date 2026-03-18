@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.64
+版本号：1.0.65
 更新时间：2026-01-20
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -36,6 +36,7 @@ Aburame Shibi=油女 志微
 Ranka：岚华
 Aburame Torune=油女 取根
 Yuhi Kurenai=夕日 红
+Yūhi Shinku=夕日 真红
 Lee Rock：李 洛克
 Hyuga Neji=日向 宁次
 Tenten：天天
@@ -158,6 +159,9 @@ Fukasaku：深作
 Shima：志麻
 Gamabunta：蛤蟆文太
 Gamakichi：蛤蟆吉
+Gamatatsu：蛤蟆龙
+Gamaken：蛤蟆健
+GamaHiro：蛤蟆广
 Manda：万蛇
 Aoda：青蛇
 Gamaro：加尔达
@@ -438,6 +442,7 @@ Hōsenka：凤仙火
 Housenka：凤仙火
 Ryuka：龙火
 Goryuka：豪龙火
+Hiruko：绯流琥
 Chidori：千鸟
 Eiso：刃
 Nagashi：流
