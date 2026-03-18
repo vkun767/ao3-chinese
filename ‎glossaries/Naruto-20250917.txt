@@ -27,9 +27,14 @@ Hyuga Hinata=日向 雏田
 Hyuga Hiashi=日向 日足
 Hyuga Hanabi=日向 花火
 Hyuga Hizashi=日向 日差
+﻿Hyuga Tokuma=日向 德间
 Inuzuka Kiba=犬冢 牙
 Akamaru：赤丸
 Aburame Shino=油女 志乃
+Aburame Muta=油女 牟田
+Aburame Shibi=油女 志微
+Ranka：岚华
+Aburame Torune=油女 取根
 Yuhi Kurenai=夕日 红
 Lee Rock：李 洛克
 Hyuga Neji=日向 宁次
@@ -66,7 +71,6 @@ Mitokado Homura=水户 门炎
 Utatane Koharu=转寝 小春
 Akimichi Torifu=秋道 取风
 Sai：佐井
-Aburame Torune=油女 取根
 Senju Hashirama=千手 柱间
 Senju Tobirama=千手 扉间
 Sarutobi Hiruzen=猿飞 日斩
