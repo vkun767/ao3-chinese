@@ -13,6 +13,7 @@ Asahi：朝日
 Ashina：芦名
 Aoki：青木
 Ayaka：绫华
+Ayame：彩女
 Chiemi：千惠美
 Chiori：千织
 Daruzo：达鲁藏
@@ -47,6 +48,7 @@ Kazuki：和树
 Kazuya：和也
 Keisuke：圭介
 Kiraku：木乐
+Kishi：岸
 Kowa：科亚
 Kuroma：黑间
 Kurou：九郎
@@ -107,7 +109,7 @@ Yumiko：由美子
 Yume：梦
 Yuzuki：柚希
 Yukari：由香里
-
+Yuki：雪
 
 通用词条
 //不限制大小写
