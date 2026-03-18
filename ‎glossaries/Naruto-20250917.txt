@@ -54,6 +54,7 @@ Morino Ibishi=森乃 伊比喜
 Morino Ibiki=森乃 伊比喜
 Inuzuka Tsume=犬冢 爪
 Inuzuka Hana=犬冢 花
+Inuzuka Akita=犬冢 秋田
 Kamizuki Izumo=神月 出云
 Hagane Kotetsu=钢 子铁
 Tobitake Tonbo=飞竹 蜻蜓
@@ -165,12 +166,14 @@ GamaHiro：蛤蟆广
 Manda：万蛇
 Aoda：青蛇
 Gamaro：加尔达
+Enkouou Enma=猿猴王 猿魔
 Katsuyu：蛞蝓
 Pakkun：帕克
 Ninken：忍犬
 Biju：尾兽
 Shukaku：守鹤
 Ichibi：一尾
+Bunbuku：分福
 Matatabi：又旅
 Nibi：二尾
 Yugito：由木人
