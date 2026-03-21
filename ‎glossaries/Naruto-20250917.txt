@@ -21,7 +21,10 @@ Nara Shikaku=奈良 鹿久
 Nara Yoshino：奈良 吉乃
 Yamanaka Inoichi=山中 亥一
 Akimichi Choza=秋道 丁座
+Akimichi Chōza=秋道 丁座
 Ino Shika Cho：猪鹿蝶
+Ino-Shika-Cho：猪鹿蝶
+Ino-Shika-Chō：猪鹿蝶
 Sarutobi Asuma=猿飞 阿斯玛
 Hyuga Hinata=日向 雏田
 Hyuga Hiashi=日向 日足
