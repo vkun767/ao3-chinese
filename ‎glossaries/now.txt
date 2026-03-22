@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.13
+版本号：1.0.14
 更新时间：2025-10-19
 
 词条
@@ -13,7 +13,6 @@ Asahi：朝日
 Ashina：芦名
 Aoki：青木
 Ayaka：绫华
-Ayame：彩女
 Chiemi：千惠美
 Chiori：千织
 Daruzo：达鲁藏
