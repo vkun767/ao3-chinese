@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.14
+版本号：1.0.15
 更新时间：2025-10-19
 
 词条
@@ -33,6 +33,7 @@ Honoka：穗香
 Hoshika：星华
 Homura：焰
 Ikanago：伊卡格那
+Inabi：稻火
 Inari：稻荷
 Itsumi：伊美
 Itsuko：伊津子
@@ -87,6 +88,7 @@ Susano’o：须佐能乎
 Ryo：凉
 Takeda：武田
 Takeshi：武史
+Takka：铁火
 Takeru：健
 Takahashi：高桥
 Tadao：忠雄
