@@ -90,7 +90,6 @@ Sarutobi Konohamaru=猿飞 木叶丸
 Uchiha Obito=宇智波 带土
 Nohara Rin=野原 琳
 Uzumaki Kushina=漩涡 玖辛奈
-Uchiha Madara=宇智波 斑
 Gaara：我爱罗
 Kankuro：勘九郎
 Temari：手鞠
@@ -208,9 +207,11 @@ Kyubei：九尾
 Jubi：十尾
 Mifune：三船
 Rikudo：六道
+Uchiha Madara=宇智波 斑
 Uchiha Setsuna：宇智波 刹那
 Uchiha Hikaku=宇智波 火核
 Uchiha Izuna=宇智波 泉奈
+Uchiha Izumi=宇智波 泉
 Senju Touka=千手 桃华
 Senju Tōka=千手 桃华
 Senju Toka=千手 桃华
