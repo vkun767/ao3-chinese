@@ -207,15 +207,6 @@ Kyubei：九尾
 Jubi：十尾
 Mifune：三船
 Rikudo：六道
-Uchiha Madara=宇智波 斑
-Uchiha Setsuna：宇智波 刹那
-Uchiha Hikaku=宇智波 火核
-Uchiha Izuna=宇智波 泉奈
-Uchiha Izumi=宇智波 泉
-Senju Touka=千手 桃华
-Senju Tōka=千手 桃华
-Senju Toka=千手 桃华
-Uzumaki Mito=漩涡 水户
 Uzumaki Boruto=漩涡 博人
 Uzumaki Himawari=漩涡 向日葵
 Uchiha Sarada=宇智波 佐良娜
@@ -244,15 +235,23 @@ Shikkotsurin：湿骨林
 shikkotsu：湿骨林
 Hakuja：白蛇
 Hamura：羽村
+Uchiha Madara=宇智波 斑
+Uchiha Setsuna：宇智波 刹那
+Uchiha Hikaku=宇智波 火核
+Uchiha Izuna=宇智波 泉奈
+Uchiha Izumi=宇智波 泉
 Uchiha Kagami=宇智波 镜
 Uchiha Shisui=宇智波 止水
 Uchiha Fugaku=宇智波 富岳
 Uchiha Mikoto=宇智波 美琴
-Uchiha Izumi=宇智波 泉
 Uchiha Tajima=宇智波 田岛
 Senju Butsuma=千手 佛间
 Senju Itama=千手 板间
 Senju Kawarama=千手 瓦间
+Senju Touka=千手 桃华
+Senju Tōka=千手 桃华
+Senju Toka=千手 桃华
+Uzumaki Mito=漩涡 水户
 Shinobi Hashi：神无毗桥
 Shodaime：初代目
 Nidaime：二代目
