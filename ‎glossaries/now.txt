@@ -1,7 +1,7 @@
 维护者：临时用
-版本号：1.0.15
+版本号：1.0.16
 更新时间：2025-10-19
-
+ 
 词条
 // 限制大小写
 Aiko：爱子
@@ -50,6 +50,7 @@ Keisuke：圭介
 Kiraku：木乐
 Kishi：岸
 Kowa：科亚
+Kurohime:黑姬
 Kuroma：黑间
 Kurou：九郎
 Makiko：真纪子
@@ -62,6 +63,8 @@ Mei：梅
 Minako：美奈子
 Misaki：美咲
 Myo：美代
+Myōkō:妙高
+Myoko:妙高
 Naoki：直树
 Naomi：直美
 Nanami：七海
@@ -94,6 +97,7 @@ Takahashi：高桥
 Tadao：忠雄
 Tomoya：智也
 Toshiro：俊郎
+Togakushi:户隐
 Tsubaki：椿
 Tsuki：月
 Tsukiyomi：月读
