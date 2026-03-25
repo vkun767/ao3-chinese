@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.19
+版本号：1.0.20
 更新时间：2025-10-21
  
 词条
@@ -13,6 +13,7 @@ Akihito：明仁
 Arata:新田
 Asahi：朝日
 Ashina：芦名
+Aoi：葵
 Aoki：青木
 Ayaka：绫华
 Chikara:力
@@ -35,6 +36,7 @@ Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
 Hina：希娜
+Hiro：宏
 Hitomi：瞳
 Hjouske：兵介
 Honoka：穗香
@@ -60,14 +62,18 @@ Kazuya：和也
 Keita:圭太
 Keisuke：圭介
 Kentarō:健太郎
+Kenta：健太
+Kento：健人
+Keisuki：庆杉
 Kiraku：木乐
 Kishi：岸
 Kowa：科亚
 Kuma:熊
+Kurma：来马
 Kurohime:黑姬
 Kuroma：黑间
 Kurou：黑郎
-Kuro:黑郎总
+Kuro:黑郎
 Kyō:京
 Makiko：真纪子
 Makoto：诚
@@ -100,6 +106,7 @@ Ono:小野
 Renzu：莲组
 Ryunosuke：龙之介
 Saburō:三郎
+Sachiko：幸子
 Sango：珊瑚
 Sahoma：沙穗间
 Sarana:纱良
@@ -111,6 +118,7 @@ Shibiki：志木
 Shinji：慎二
 Shiyu：时悠
 Shokari：肖卡里
+Shona：翔南
 Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
@@ -124,6 +132,7 @@ Takeru：健
 Takeshi：武史
 Takka：铁火
 Takuya:拓也
+Turo：图罗
 Tomoya：智也
 Toshiko:敏子
 Toshiro：俊郎
@@ -143,12 +152,15 @@ Yasu：亚苏
 Yashiro：八代
 Yasuo：康夫
 Yoko：洋子
-Yumiko：由美子
-Yume：梦
-Yūna:由奈
-Yuzuki：柚希
+Yoshinori：吉野
+Yui：结衣
 Yukari：由香里
 Yuki：雪
+Yume：梦
+Yumiko：由美子
+Yūna:由奈
+Yuzuki：柚希
+
 
 通用词条
 //不限制大小写
