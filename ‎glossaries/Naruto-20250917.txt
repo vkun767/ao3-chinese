@@ -453,7 +453,6 @@ Housenka：凤仙火
 Ryuka：龙火
 Goryuka：豪龙火
 Hiruko：绯流琥
-Chidori：千鸟
 Eiso：刃
 Nagashi：流
 Yoroi：锐枪
