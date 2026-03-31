@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.3
-更新时间：2025-10-06
+版本号：1.0.4
+更新时间：2025-10-07
 
 词条
 
@@ -1439,7 +1439,6 @@ Gamp's Old Gregarious：甘普陈年交际酒
 Gurdyroot Infusion：戈迪根茶
 Butterbeer：黄油啤酒
 Firewhisky：火焰威士忌
-Elderflower Wine：接骨木花酒
 Rum：朗姆酒
 Pumpkin Fizz：南瓜汽水
 Pumpkin Juice：南瓜汁
