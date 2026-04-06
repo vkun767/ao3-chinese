@@ -1,6 +1,6 @@
 维护者：临时用
-版本号：1.0.20
-更新时间：2025-10-21
+版本号：1.0.21
+更新时间：2025-10-22
  
 词条
 // 限制大小写
@@ -10,6 +10,8 @@ Akemi:阿美
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
+Aki：阿基
+Akshaya：阿克沙亚
 Arata:新田
 Asahi：朝日
 Ashina：芦名
@@ -20,15 +22,19 @@ Chikara:力
 Chiemi：千惠美
 Chiori：千织
 Chizuru:千鹤
+Choko：蝶子
 Daruzo：达鲁藏
 Dachi：大地
 Eijirō：英次郎
 Eiji:英二
+Fubuki：吹雪
 Fushito：伏人
 Fumiko:文子
 Fumio:文雄
+Fumi：芙美
+Goro：五郎
 Hachiro：八郎
-Hajime:始司
+Hajime：始司
 Haruka：春
 Haro：哈罗
 Haruki：春树
@@ -40,6 +46,8 @@ Hiro：宏
 Hitomi：瞳
 Hjouske：兵介
 Honoka：穗香
+Hotaka：穗高
+Hotaru：萤
 Hoshika：星华
 Homura：焰
 Ikanago：伊卡格那
@@ -51,6 +59,7 @@ Ishikoridome:石居
 Izuya：伊豆弥
 Jōseki：常石
 Kaede：枫
+Kaisen：凯森
 Kanon：卡农
 Kaneda：金田
 Karuma:空魔
@@ -86,6 +95,7 @@ Masako：雅子
 Mei：梅
 Miho:美惠
 Minako：美奈子
+Minasu：美那须
 Minoru:稔
 Misaki：美咲
 Misao:美佐叶
@@ -97,6 +107,7 @@ Naomi：直美
 Nanami：七海
 Nami：奈美
 Nori：诺里
+Noriko：纪子
 Nashimi：梨美
 Natsu：夏
 obaa:奶奶
@@ -116,23 +127,30 @@ Shikaichi：鹿一
 Shikaido：鹿道
 Shibiki：志木
 Shinji：慎二
+Shion：诗音
+Shiori：诗织
 Shiyu：时悠
 Shokari：肖卡里
 Shona：翔南
+Suma：苏玛
 Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
+Ruby：露比
 Ryo：凉
 Tadashi:忠
 Tadao：忠雄
 Takahashi：高桥
 Takara:宝
+Takuwa：拓和
 Takeda：武田
 Takeru：健
 Takeshi：武史
 Takka：铁火
 Takuya:拓也
+Tenchi：天地
 Turo：图罗
+Tomiko：富美子
 Tomoya：智也
 Toshiko:敏子
 Toshiro：俊郎
@@ -147,6 +165,7 @@ Tsuru：鹤
 Unarigoe ：宇那利
 Umeo：梅尾
 Usami：宇佐美
+Yadashige：矢田茂
 Yasuko：安子
 Yasu：亚苏
 Yashiro：八代
@@ -158,6 +177,7 @@ Yukari：由香里
 Yuki：雪
 Yume：梦
 Yumiko：由美子
+Yori：由立
 Yūna:由奈
 Yuzuki：柚希
 
