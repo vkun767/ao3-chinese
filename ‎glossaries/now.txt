@@ -23,6 +23,7 @@ Aoki：青木
 Ayaka：绫华
 Chikara:力
 Chiemi：千惠美
+Chinatsu：千夏
 Chiori：千织
 Chizuru:千鹤
 Choko：蝶子
@@ -78,6 +79,7 @@ Kayoko:佳代子
 Kazane：风音
 Kazuka：和贺
 Kitai：北斋
+Kiyo：清子
 Kiyoshi：清志
 Kazuki：和树
 Kazuya：和也
@@ -132,6 +134,7 @@ Okimoto：奥本
 Onikiri：鬼切
 Ono:小野
 Renzu：莲组
+Riku：陆
 Ryunosuke：龙之介
 Saburō:三郎
 Sachiko：幸子
