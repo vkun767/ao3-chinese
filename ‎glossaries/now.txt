@@ -13,6 +13,7 @@ Akiyama：秋山
 Akihito：明仁
 Aki：阿基
 Akshaya：阿克沙亚
+Amaya：天谷
 Arata:新田
 Asahi：朝日
 Asahi：朝日
@@ -39,6 +40,7 @@ Fumi：芙美
 Goro：五郎
 Hachiro：八郎
 Hajime：始司
+Hanako：花子
 Haruka：春
 Haro：哈罗
 Haruki：春树
@@ -66,14 +68,17 @@ Izuya：伊豆弥
 Jōseki：常石
 Kaede：枫
 Kaisen：凯森
+Kaname：要势
 Kanon：卡农
 Kaneda：金田
+Kaoru：薰
 Karuma:空魔
 Kashio：柏尾
 Kayoko:佳代子
 Kazane：风音
 Kazuka：和贺
 Kitai：北斋
+Kiyoshi：清志
 Kazuki：和树
 Kazuya：和也
 Keita:圭太
@@ -91,6 +96,7 @@ Kurohime:黑姬
 Kuroma：黑间
 Kurou：黑郎
 Kuro:黑郎
+Kuzon：九藏族！
 Kyō:京
 Maiya：真弥
 Makiko：真纪子
@@ -104,6 +110,7 @@ Masuyo：真代
 Masumi：真理
 Mei：梅
 Miho:美惠
+Miki：美纪
 Minako：美奈子
 Minasu：美那须
 Minoru:稔
@@ -147,6 +154,7 @@ Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
 Ruby：露比
+Ryusaku：龙介
 Ryo：凉
 Tadashi:忠
 Tadao：忠雄
