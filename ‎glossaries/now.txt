@@ -6,6 +6,7 @@
 // 限制大小写
 Aiko：爱子
 Aikawa：相川
+Aino：爱野
 Akio：秋生
 Akemi:阿美
 Akira：亮
@@ -81,6 +82,7 @@ Kazuka：和贺
 Kitai：北斋
 Kiyo：清子
 Kiyoshi：清志
+Kiyoshige：清重
 Kazuki：和树
 Kazuya：和也
 Keita:圭太
@@ -159,11 +161,13 @@ Susano’o：须佐能乎
 Ruby：露比
 Ryusaku：龙介
 Ryo：凉
+Ryouta：凉太
 Tadashi:忠
 Tadao：忠雄
 Takahashi：高桥
 Takao：高尾
 Takara:宝
+Takaya：贵也
 Takeda：武田
 Takeru：健
 Takeshi：武史
@@ -171,6 +175,7 @@ Takka：铁火
 Takuwa：拓和
 Takuya:拓也
 Tenchi：天地
+Tetsuya：哲也
 Turo：图罗
 Tomiko：富美子
 Tomoya：知也
