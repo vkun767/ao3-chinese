@@ -73,11 +73,12 @@ Ishikoridome:石居
 Izuya：伊豆弥
 Jōseki：常石
 Kaede：枫
+Kaito：海斗
 Kaisen：凯森
+Kako：卡子
 Kaname：要势
 Kanon：卡农
 Kaneda：金田
-Kaito：海斗
 Kaoru：薰
 Karuma:空魔
 Kashio：柏尾
@@ -157,6 +158,7 @@ Satoshi:悟
 Seiko:圣子
 Shikaichi：鹿一
 Shikaido：鹿道
+Shikako：鹿子
 Shibiki：志木
 Shinji：慎二
 Shion：诗音
