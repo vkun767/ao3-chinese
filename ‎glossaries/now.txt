@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.22
+版本号：1.0.23
 更新时间：2025-10-23
  
 词条
@@ -136,10 +136,12 @@ Naomi：直美
 Nanami：七海
 Nami：奈美
 Noa：诺亚
+Nobu：信
 Nori：诺里
 Noriko：纪子
 Nashimi：梨美
 Natsu：夏
+Natsuko：夏子
 obaa:奶奶
 Okimoto：奥本
 Onikiri：鬼切
