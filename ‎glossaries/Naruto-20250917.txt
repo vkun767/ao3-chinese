@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.72
+版本号：1.0.73
 更新时间：2026-01-23
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -533,6 +533,8 @@ Endan：炎弹
 Suihachi：水铁炮
 botchan：三色团子
 teppanyaki：铁板烧
+iryo-nin：医疗忍者
+iryo：医疗
 shishou：师父
 taicho：队长
 taichou：队长
