@@ -228,6 +228,8 @@ Yuzuki：柚希
 通用词条
 //不限制大小写
 Chichi-ue：父亲大人
+Uchiha compound：宇智波族地
+Senju compound：千手族地
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
