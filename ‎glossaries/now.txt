@@ -1,10 +1,11 @@
 维护者：临时用
-版本号：1.0.23
-更新时间：2025-10-23
+版本号：1.0.24
+更新时间：2025-10-24
  
 词条
 // 限制大小写
 Aiko：爱子
+Aina：爱奈
 Aikawa：相川
 Aino：爱野
 Akio：秋生
@@ -42,6 +43,7 @@ Fushito：伏人
 Fumiko:文子
 Fumio:文雄
 Fumi：芙美
+Gouawae：高瓦埃
 Goro：五郎
 Hachiro：八郎
 Hajime：始司
@@ -49,6 +51,7 @@ Hanako：花子
 Haruka：春
 Haro：哈罗
 Haruki：春树
+Hekima：壁间
 Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
@@ -59,10 +62,11 @@ Hiroshi：广志
 Hitomi：瞳
 Hjouske：兵介
 Honoka：穗香
+Homura：焰
 Hotaka：穗高
 Hotaru：萤
 Hoshika：星华
-Homura：焰
+Houju：候朱
 Ikanago：伊卡格那
 Inabi：稻火
 Inari：稻荷
@@ -86,12 +90,12 @@ Kayoko:佳代子
 Kazane：风音
 Kazue：和惠
 Kazuka：和贺
+Kazuki：和树
+Kazuya：和也
 Kitai：北斋
 Kiyo：清子
 Kiyoshi：清志
 Kiyoshige：清重
-Kazuki：和树
-Kazuya：和也
 Keita:圭太
 Keisuke：圭介
 Kenichi：贤一
@@ -103,6 +107,7 @@ Kiraku：木乐
 Kishi：岸
 Kowa：科亚
 Kuma:熊
+Kumano：熊野
 Kurma：来马
 Kurohime:黑姬
 Kuroma：黑间
@@ -110,6 +115,7 @@ Kurou：黑郎
 Kuro:黑郎
 Kuzon：九藏族！
 Kyō:京
+Kyouraku：京乐
 Maiya：真弥
 Makiko：真纪子
 Makoto：诚
@@ -138,6 +144,7 @@ Nanami：七海
 Nami：奈美
 Noa：诺亚
 Nobu：信
+Noboru：信则
 Nori：诺里
 Noriko：纪子
 Nashimi：梨美
@@ -150,15 +157,20 @@ Ono:小野
 Renzu：莲组
 Riko：理子
 Riku：陆
+Rinha：玲羽
 Ruto：露托
 Ryunosuke：龙之介
 Saburō:三郎
 Sachiko：幸子
-Sango：珊瑚
 Sahoma：沙穗间
+Sango：珊瑚
 Sarana:纱良
+Saru：猴子
 Satoshi:悟
 Seiko:圣子
+Seiryū：青龙
+Seiryu：青龙
+Seiryou：青龙
 Shikaichi：鹿一
 Shikaido：鹿道
 Shikako：鹿子
@@ -169,6 +181,8 @@ Shiori：诗织
 Shiyu：时悠
 Shokari：肖卡里
 Shona：翔南
+Shoma：肖马
+Sora：空
 Suki：佑树
 Suma：苏玛
 Suoma：芬兰
@@ -178,6 +192,8 @@ Ruby：露比
 Ryusaku：龙介
 Ryo：凉
 Ryouta：凉太
+Ryujii：龙二
+Ryuuji：龙二
 Tadashi:忠
 Tadao：忠雄
 Takahashi：高桥
@@ -188,8 +204,10 @@ Takeda：武田
 Takeru：健
 Takeshi：武史
 Takka：铁火
-Takuwa：拓和
+Takumi：拓海
 Takuya:拓也
+Takuwa：拓和
+Tamotsu：保
 Tenchi：天地
 Tetsuya：哲也
 Turo：图罗
@@ -210,9 +228,11 @@ Unarigoe ：宇那利
 Umeo：梅尾
 Usami：宇佐美
 Yadashige：矢田茂
+Yami：夜见
 Yasuko：安子
 Yasu：亚苏
 Yashiro：八代
+Yasutora：安田
 Yasuo：康夫
 Yoko：洋子
 Yoshinori：吉野
@@ -231,6 +251,10 @@ Yuzuki：柚希
 Chichi-ue：父亲大人
 Uchiha compound：宇智波族地
 Senju compound：千手族地
+Jukai Kōtan=树界 降诞
+Jukai Kōrin=树界 降诞
+Jukai Koorin=树界 降诞
+Kajukai Koorin=树界 降诞
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
