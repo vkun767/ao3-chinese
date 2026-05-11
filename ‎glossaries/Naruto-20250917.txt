@@ -367,6 +367,7 @@ Juinjutsu：咒印术
 Fuinjutsu：封印术
 Biju：尾兽
 Senjutsu：仙术
+sage art：仙术
 Kekkei Genkai：血继 限界
 kekkai genkai：血继 限界
 Fushi Tensei：不尸转生
@@ -405,6 +406,7 @@ Shikokujin：四黑蛇阵
 Kotoamatsukami：别天神
 Amaterasu：天照
 Kagutsuchi：加具土命
+flame control：加具土命
 Kamui：神威
 Tsukuyomi：月读
 Yachihoko：八千矛
@@ -415,7 +417,10 @@ Rinnegan：轮回眼
 Tenseigan：转生眼
 Ketsuryugan：血龙眼
 Shinra Tensei：神罗天征
+Sinatense：神罗天征
+Almighty push：神罗天征
 Bansho Ten'in：万象天引
+universal pull：万象天引
 Amenotejikara：天手力
 Limbo Hengoku：轮墓·边狱
 Takamimusubinokami：高皇产灵尊
