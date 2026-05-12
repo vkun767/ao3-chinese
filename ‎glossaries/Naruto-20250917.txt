@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.0.73
-更新时间：2026-01-23
+版本号：1.0.74
+更新时间：2026-01-24
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -51,6 +51,7 @@ Gekkuo Hayate=月光 疾风
 Uzuki Yuugao=卯月 夕颜
 Yamashiro Aoba=山城 青叶
 Namiashi Raidou=并足 雷同
+Namiashi Raidō=雷同
 Tatami Iwashi=叠伊 瓦希
 Mitarashi Anko=御手洗 红豆
 Morino Ibishi=森乃 伊比喜
