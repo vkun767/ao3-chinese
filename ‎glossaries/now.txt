@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.25
+版本号：1.0.26
 更新时间：2025-10-24
  
 词条
@@ -209,6 +209,7 @@ Takeda：武田
 Takeru：健
 Takeshi：武史
 Takka：铁火
+Takuma：拓马
 Takumi：拓海
 Takuya:拓也
 Takuwa：拓和
