@@ -146,6 +146,8 @@ Kurosuki Buntan=黑锄 文淡
 Hoshigaki Shizuma=干柿 尸澄真
 Munashi Jinpachi=无梨 甚八
 Biwa Jūzō=枇杷 十藏
+Biwa Juuzo=枇杷 十藏
+Biwa Jūzo=枇杷 十藏
 Suikazan Fuguki：西瓜山 河豚鬼
 Kuriarare Kushimaru=栗霰 串丸
 Akebino Jinin=通草 野饵人
