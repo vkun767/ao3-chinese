@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.24
+版本号：1.0.25
 更新时间：2025-10-24
  
 词条
@@ -75,6 +75,7 @@ Itsumi：伊美
 Itsuko：伊津子
 Ishikoridome:石居
 Izuya：伊豆弥
+Jade：玉兔
 Jōseki：常石
 Kaede：枫
 Kaito：海斗
@@ -105,7 +106,9 @@ Kento：健人
 Keisuki：庆杉
 Kiraku：木乐
 Kishi：岸
+Kouga：甲贺
 Kowa：科亚
+Kukaku：空鹤
 Kuma:熊
 Kumano：熊野
 Kurma：来马
@@ -126,6 +129,7 @@ Masa：正雅
 Masako：雅子
 Masuyo：真代
 Masumi：真理
+Megumi：惠
 Mei：梅
 Miho:美惠
 Miki：美纪
@@ -188,6 +192,7 @@ Suma：苏玛
 Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
+Riku：理久
 Ruby：露比
 Ryusaku：龙介
 Ryo：凉
@@ -211,6 +216,7 @@ Tamotsu：保
 Tenchi：天地
 Tetsuya：哲也
 Turo：图罗
+Tomatsu：保
 Tomiko：富美子
 Tomoya：知也
 Toshihiro：俊宏
@@ -233,7 +239,7 @@ Yami：夜见
 Yasuko：安子
 Yasu：亚苏
 Yashiro：八代
-Yasutora：安田
+Yasutora：泰虎
 Yasuo：康夫
 Yoko：洋子
 Yoshinori：吉野
