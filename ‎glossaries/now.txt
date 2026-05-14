@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-24
  
 词条
@@ -176,6 +176,7 @@ Seiko:圣子
 Seiryū：青龙
 Seiryu：青龙
 Seiryou：青龙
+Seto：濑户
 Shikaichi：鹿一
 Shikaido：鹿道
 Shikako：鹿子
