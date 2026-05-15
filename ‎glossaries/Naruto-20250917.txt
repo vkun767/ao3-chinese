@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.74
+版本号：1.0.75
 更新时间：2026-01-24
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -94,6 +94,7 @@ Sarutobi Konohamaru=猿飞 木叶丸
 Uchiha Obito=宇智波 带土
 Nohara Rin=野原 琳
 Uzumaki Kushina=漩涡 玖辛奈
+Uzumaki Menma=漩涡 面麻
 Sabaku：砂瀑
 Gaara：我爱罗
 Kankuro：勘九郎
@@ -282,7 +283,6 @@ Naka River：南贺川
 Nankagawa：南贺川
 Nakano：南河川
 Tobi：阿飞
-Menma：面麻
 Kinkaku：金角
 Ginkaku：银角
 Kai：解
