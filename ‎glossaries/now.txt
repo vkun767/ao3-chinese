@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-24
  
 词条
@@ -24,6 +24,7 @@ Ashina：芦名
 Aoi：葵
 Aoki：青木
 Ayaka：绫华
+Byakuren：白莲
 Chikara:力
 Chiemi：千惠美
 Chinatsu：千夏
@@ -51,10 +52,12 @@ Hanako：花子
 Haruka：春
 Haro：哈罗
 Haruki：春树
+Hebisuke：赫助
 Hekima：壁间
 Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
+Hiko：彦
 Hina：希娜
 Hinoda：日升
 Hiro：宏
@@ -74,6 +77,7 @@ Iroha：伊吕波
 Itsumi：伊美
 Itsuko：伊津子
 Ishikoridome:石居
+Ishikawa：石川
 Izuya：伊豆弥
 Jade：玉兔
 Jōseki：常石
@@ -157,6 +161,8 @@ Natsu：夏
 Natsuko：夏子
 obaa:奶奶
 Okimoto：奥本
+Okuninushi：奥国奴
+Onamuji：小沼
 Onikiri：鬼切
 Ono:小野
 Renzu：莲组
@@ -177,10 +183,12 @@ Seiryū：青龙
 Seiryu：青龙
 Seiryou：青龙
 Seto：濑户
+Shamon：沙蒙
+Shibiki：志木
 Shikaichi：鹿一
 Shikaido：鹿道
 Shikako：鹿子
-Shibiki：志木
+Shiki：拓海
 Shinji：慎二
 Shion：诗音
 Shiori：诗织
@@ -192,16 +200,21 @@ Shoma：肖马
 Sora：空
 Suki：佑树
 Suma：苏玛
+Suseri：苏绕
 Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
+Reto：濑斗
 Riku：理久
+Rikudo：六道
 Ruby：露比
 Ryusaku：龙介
 Ryo：凉
 Ryota：凉太
 Ryouta：凉太
+Ryuna：龙奈
 Ryujii：龙二
+Ryuuichi：龙一
 Ryuuji：龙二
 Tadashi:忠
 Tadao：忠雄
@@ -221,12 +234,14 @@ Tamotsu：保
 Tenchi：天地
 Tetsuya：哲也
 Turo：图罗
+Tokuren：德莲
 Tomatsu：保
 Tomiko：富美子
 Tomoya：知也
 Toshihiro：俊宏
 Toshiko:敏子
 Toshiro：俊郎
+Toshizo：俊藏
 Togakushi:户隐
 Tsubaki：椿
 Tsukiko:月子
@@ -267,6 +282,6 @@ Jukai Kōtan=树界 降诞
 Jukai Kōrin=树界 降诞
 Jukai Koorin=树界 降诞
 Kajukai Koorin=树界 降诞
-
+black Zetsu：黑绝
 禁翻词条
 // 此区域区分大小写，用于保持原文
