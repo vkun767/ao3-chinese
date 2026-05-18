@@ -50,6 +50,7 @@ Shiranui Genma=不知火 玄间
 Gekkō Hayate=月光 疾风
 Gekkuo Hayate=月光 疾风
 Uzuki Yuugao=卯月 夕颜
+Uzuki Yugao=卯月 夕颜
 Yamashiro Aoba=山城 青叶
 Namiashi Raidou=并足 雷同
 Namiashi Raidō=雷同
