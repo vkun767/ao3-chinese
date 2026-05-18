@@ -163,6 +163,7 @@ Hohzuki Mangetsu=鬼灯 满月
 Uzumaki Karin=漩涡 香燐
 Jugo：重吾
 Juugo：重吾
+Hebi：蛇小队
 Men no Otoko：面具男
 Zetsu：绝
 Kuro Zetsu：黑绝
@@ -596,6 +597,7 @@ Gurugo：古鲁克
 Uuhei：乌黑
 Urushi：乌鲁西
 Hound-taichou：猎犬队长
+ninken：忍犬
 
 
 禁翻词条
