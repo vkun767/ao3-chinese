@@ -192,6 +192,7 @@ Katsuyu：蛞蝓
 Pakkun：帕克
 Ninken：忍犬
 Biju：尾兽
+Bijuu：尾兽
 Shukaku：守鹤
 Ichibi：一尾
 Bunbuku：分福
