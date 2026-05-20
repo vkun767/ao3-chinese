@@ -8,6 +8,8 @@ Aiko：爱子
 Aina：爱奈
 Aikawa：相川
 Aino：爱野
+Airi：爱丽
+Akako：朱子
 Akio：秋生
 Akemi:阿美
 Akira：亮
@@ -17,6 +19,7 @@ Aki：阿基
 Akshaya：阿克沙亚
 Amaya：天谷
 Anzu：安祖
+Anpam：安帕姆
 Arata:新田
 Asahi：朝日
 Asahi：朝日
@@ -25,6 +28,7 @@ Aoi：葵
 Aoki：青木
 Ayaka：绫华
 Byakuren：白莲
+Chiaka：千秋
 Chikara:力
 Chiemi：千惠美
 Chinatsu：千夏
@@ -32,12 +36,14 @@ Chiori：千织
 Chiyuku：千愈
 Chizuru:千鹤
 Choko：蝶子
+Choudai：丁大
 Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
 Eijirō：英次郎
 Eiji:英二
 Eizan：英山
+Erika：绘里香
 Emigiku：惠菊
 Fubuki：吹雪
 Fushito：伏人
@@ -49,18 +55,24 @@ Goro：五郎
 Hachiro：八郎
 Hajime：始司
 Hanako：花子
+Haruhi：春香
 Haruka：春
 Haro：哈罗
+Haromaru：春间
 Haruki：春树
+Haruto：春人
 Hebisuke：赫助
 Hekima：壁间
 Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
 Hiko：彦
+Himiko：卑弥呼
 Hina：希娜
+Hinako：雏子
 Hinoda：日升
 Hiro：宏
+Hiroki：广树
 Hiroshi：广志
 Hitomi：瞳
 Hjouske：兵介
@@ -73,6 +85,8 @@ Houju：候朱
 Ikanago：伊卡格那
 Inabi：稻火
 Inari：稻荷
+Inoko：井子
+Inoru：井乐
 Iroha：伊吕波
 Itsumi：伊美
 Itsuko：伊津子
@@ -80,8 +94,10 @@ Ishikoridome:石居
 Ishikawa：石川
 Izuya：伊豆弥
 Jade：玉兔
+Jiro：次郎
 Jōseki：常石
 Kaede：枫
+Kagane：加金
 Kaito：海斗
 Kaisen：凯森
 Kako：加子
@@ -100,6 +116,7 @@ Kazuya：和也
 Kikiyo：菊代
 Kitai：北斋
 Kiyo：清子
+Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
 Keita:圭太
@@ -111,6 +128,8 @@ Kento：健人
 Keisuki：庆杉
 Kiraku：木乐
 Kishi：岸
+Kodoma
+Koichi：浩一
 Kouga：甲贺
 Kowa：科亚
 Kukaku：空鹤
@@ -124,6 +143,7 @@ Kuro:黑郎
 Kuzon：九藏族！
 Kyō:京
 Kyouraku：京乐
+Madoka：圆香
 Maiya：真弥
 Makiko：真纪子
 Makoto：诚
@@ -154,8 +174,10 @@ Nami：奈美
 Noa：诺亚
 Nobu：信
 Noboru：信则
+Nojiriko：诺吉里
 Nori：诺里
 Noriko：纪子
+Nozomi：希美
 Nashimi：梨美
 Natsu：夏
 Natsuko：夏子
@@ -165,6 +187,7 @@ Okuninushi：奥国奴
 Onamuji：小沼
 Onikiri：鬼切
 Ono:小野
+Otoma：乙马
 Renzu：莲组
 Riko：理子
 Riku：陆
@@ -173,6 +196,7 @@ Ruto：露托
 Ryunosuke：龙之介
 Saburō:三郎
 Sachiko：幸子
+Sadako：贞子
 Sahoma：沙穗间
 Sango：珊瑚
 Sarana:纱良
@@ -250,7 +274,9 @@ Tsukiyomi：月读
 Tsumi：津美
 Tsunami：海啸
 Tsuru：鹤
+Ukie：浮木
 Unarigoe ：宇那利
+Ume：梅
 Umeo：梅尾
 Usami：宇佐美
 Yadashige：矢田茂
