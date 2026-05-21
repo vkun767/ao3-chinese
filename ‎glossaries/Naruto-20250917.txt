@@ -109,7 +109,7 @@ Rasa：罗砂
 Chiyo：千代
 Ebizou：海老藏
 Daimaru：大丸
-Terumi Mei：照美 冥
+Terumi Mei=照美 冥
 Chojuro：长十郎
 Ao：青
 Momochi Zabuza=桃地 再不斩
