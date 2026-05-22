@@ -46,6 +46,7 @@ Hyuga Neji=日向 宁次
 Tenten：天天
 TenTen：天天
 Maito Gai=迈特 凯
+Maito Dai=迈特 戴
 Shiranui Genma=不知火 玄间
 Gekkō Hayate=月光 疾风
 Gekkuo Hayate=月光 疾风
@@ -56,6 +57,7 @@ Namiashi Raidou=并足 雷同
 Namiashi Raidō=雷同
 Tatami Iwashi=叠伊 瓦希
 Mitarashi Anko=御手洗 红豆
+Mitrashi Anko：御手洗 红豆
 Morino Ibishi=森乃 伊比喜
 Morino Ibiki=森乃 伊比喜
 Inuzuka Tsume=犬冢 爪
@@ -333,6 +335,7 @@ Bushin：分身
 Jonin：上忍
 Jounin：上忍
 Chounin：中忍
+Chūnin：中忍
 Chunin：中忍
 Genin：下忍
 Iryo：医疗
