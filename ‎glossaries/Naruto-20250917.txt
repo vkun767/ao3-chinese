@@ -379,6 +379,7 @@ Genjutsu：幻术
 Juinjutsu：咒印术
 Fuinjutsu：封印术
 Biju：尾兽
+Bijuu：尾兽
 Senjutsu：仙术
 sage art：仙术
 Kekkei Genkai：血继 限界
