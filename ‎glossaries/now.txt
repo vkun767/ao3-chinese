@@ -10,13 +10,15 @@ Aikawa：相川
 Aino：爱野
 Airi：爱丽
 Akako：朱子
-Akio：秋生
 Akemi:阿美
+Aki：阿基
+Akio：秋生
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
-Aki：阿基
+Akitsuna：秋纲
 Akshaya：阿克沙亚
+Amaha：天羽
 Amaya：天谷
 Anzu：安祖
 Anpam：安帕姆
@@ -50,6 +52,7 @@ Fushito：伏人
 Fumiko:文子
 Fumio:文雄
 Fumi：芙美
+Furuya：古谷
 Gouawae：高瓦埃
 Goro：五郎
 Hachiro：八郎
@@ -83,10 +86,12 @@ Hotaru：萤
 Hoshika：星华
 Houju：候朱
 Ikanago：伊卡格那
+Ikuko：育子
 Inabi：稻火
 Inari：稻荷
 Inoko：井子
 Inoru：井乐
+Inu：犬
 Iroha：伊吕波
 Itsumi：伊美
 Itsuko：伊津子
@@ -143,6 +148,7 @@ Kurohime:黑姬
 Kuroma：黑间
 Kurou：黑郎
 Kuro:黑郎
+Kurumi：久留美
 Kuzon：九藏族！
 Kyō:京
 Kyouraku：京乐
@@ -167,6 +173,7 @@ Minoru:稔
 Misaki：美咲
 Misao:美佐叶
 Miori：美织
+Miu：美羽
 Myo：美代
 Myōkō:妙高
 Myoko:妙高
@@ -178,6 +185,7 @@ Naruko：鸣子
 Noa：诺亚
 Nobu：信
 Noboru：信则
+Nodoka：希
 Nojiriko：诺吉里
 Nori：诺里
 Noriko：纪子
@@ -213,6 +221,7 @@ Seiryou：青龙
 Seto：濑户
 Shamon：沙蒙
 Shibiki：志木
+Shikabane：尸骨
 Shikaichi：鹿一
 Shikaido：鹿道
 Shikako：鹿子
@@ -226,15 +235,18 @@ Shokari：肖卡里
 Shona：翔南
 Shoma：肖马
 Sora：空
+Subaru：昴
 Suki：佑树
 Suma：苏玛
 Suseri：苏绕
 Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
+Reki：雷基
 Reto：濑斗
 Riku：理久
 Rikudo：六道
+Rowa：罗瓦
 Ruby：露比
 Ryusaku：龙介
 Ryo：凉
@@ -283,6 +295,7 @@ Unarigoe ：宇那利
 Ume：梅
 Umeo：梅尾
 Usami：宇佐美
+Wazuki：和月
 Yadashige：矢田茂
 Yako：野狐
 Yami：夜见
@@ -297,7 +310,8 @@ Yui：结衣
 Yukari：由香里
 Yuki：雪
 Yume：梦
-Yumiko：由美子
+Yumiko：由美
+Yuu：优
 Yori：由立
 Yūna:由奈
 Yuzuki：柚希
