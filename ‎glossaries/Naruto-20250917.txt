@@ -546,6 +546,7 @@ Shinobigatana Shichininshu=忍刀 七人众
 Kugutsushi：傀儡师
 Sennin：仙人
 Gama：蛤蟆
+Kuchiyose no Jutsu：通灵之术
 Kuchiyose：通灵
 sensor：感知忍者
 bakakashi：笨卡卡
