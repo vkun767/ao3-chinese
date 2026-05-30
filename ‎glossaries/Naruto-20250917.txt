@@ -382,6 +382,7 @@ jyuuken：柔拳
 Genjutsu：幻术
 Juinjutsu：咒印术
 Fuinjutsu：封印术
+Fuuinjutsu封印术：封印术
 Biju：尾兽
 Bijuu：尾兽
 Senjutsu：仙术
