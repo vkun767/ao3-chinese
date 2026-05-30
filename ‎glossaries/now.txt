@@ -42,6 +42,7 @@ Choudai：丁大
 Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
+Eiichi：荣一
 Eijirō：英次郎
 Eiji:英二
 Eizan：英山
@@ -52,6 +53,7 @@ Fushito：伏人
 Fumiko:文子
 Fumio:文雄
 Fumi：芙美
+Fumihiro：文宏
 Furuya：古谷
 Gouawae：高瓦埃
 Goro：五郎
@@ -75,6 +77,7 @@ Hina：希娜
 Hinako：雏子
 Hinoda：日升
 Hiro：宏
+Hiroaki：广明
 Hiroki：广树
 Hiroshi：广志
 Hitomi：瞳
@@ -177,11 +180,14 @@ Miu：美羽
 Myo：美代
 Myōkō:妙高
 Myoko:妙高
-Naoki：直树
-Naomi：直美
 Nanami：七海
 Nami：奈美
+Naoki：直树
+Naomi：直美
 Naruko：鸣子
+Nashimi：梨美
+Natsu：夏
+Natsuko：夏子
 Noa：诺亚
 Nobu：信
 Noboru：信则
@@ -190,9 +196,7 @@ Nojiriko：诺吉里
 Nori：诺里
 Noriko：纪子
 Nozomi：希美
-Nashimi：梨美
-Natsu：夏
-Natsuko：夏子
+Numa：沼
 obaa:奶奶
 Okimoto：奥本
 Okuninushi：奥国奴
@@ -243,9 +247,11 @@ Suoma：芬兰
 Suzume：雀
 Susano’o：须佐能乎
 Reki：雷基
+Ren：莲
 Reto：濑斗
 Riku：理久
 Rikudo：六道
+Rou：罗
 Rowa：罗瓦
 Ruby：露比
 Ryusaku：龙介
@@ -293,6 +299,7 @@ Tsuru：鹤
 Ukie：浮木
 Unarigoe ：宇那利
 Ume：梅
+Umeko：梅子
 Umeo：梅尾
 Usami：宇佐美
 Wazuki：和月
@@ -312,6 +319,7 @@ Yuki：雪
 Yume：梦
 Yumiko：由美
 Yuu：优
+Yuuma：优真
 Yori：由立
 Yūna:由奈
 Yuzuki：柚希
