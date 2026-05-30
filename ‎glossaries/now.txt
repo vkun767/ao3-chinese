@@ -51,12 +51,13 @@ Eizan：英山
 Erika：绘里香
 Emigiku：惠菊
 Fubuki：吹雪
-Fushito：伏人
+Fukito：福人
 Fumiko:文子
 Fumio:文雄
 Fumi：芙美
 Fumihiro：文宏
 Furuya：古谷
+Fushito：伏人
 Gouawae：高瓦埃
 Goro：五郎
 Hachiro：八郎
@@ -64,7 +65,7 @@ Hajime：始司
 Hanako：花子
 Haruhi：春香
 Haruka：春
-Haro：哈罗
+aro：哈罗
 Haromaru：春间
 Haruki：春树
 Haruto：春人
@@ -167,6 +168,7 @@ Matsuyo：松世
 Matsunaga:松永
 Masa：正雅
 Masako：雅子
+Masaru：胜人
 Masuyo：真代
 Masumi：真理
 Megumi：惠
