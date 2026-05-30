@@ -214,6 +214,7 @@ Roshi：老紫
 Rōshi：老紫
 Roushi：老紫
 Kokuo：穆王
+Kokuō：穆王
 Gobi：五尾
 Saiken：犀犬
 Rokubi：六尾
@@ -221,9 +222,12 @@ Utakata：泡沫
 Hotaru：萤
 Shiranami：白浪
 Chomei：重明
+Chōmei：重明
+Choumei：重明
 Nanabi：七尾
 Takigakure：泷忍
 Gyuki：牛鬼
+Gyūki：牛鬼
 Hachibi：八尾
 Killer Bee：奇拉比
 Killer B：奇拉比
