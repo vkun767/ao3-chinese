@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.6
+版本号：1.0.7
 更新时间：2025-10-24
  
 词条
@@ -29,8 +29,10 @@ Ashina：芦名
 Aoi：葵
 Aoki：青木
 Ayaka：绫华
+Baru：巴鲁
 Byakuren：白莲
 Chiaka：千秋
+Chiasa：千朝
 Chikara:力
 Chiemi：千惠美
 Chinatsu：千夏
@@ -122,6 +124,7 @@ Kazue：和惠
 Kazuka：和贺
 Kazuki：和树
 Kazuya：和也
+Kikiro：菊郎
 Kikiyo：菊代
 Kitai：北斋
 Kiyo：清子
@@ -184,6 +187,7 @@ Nanami：七海
 Nami：奈美
 Naoki：直树
 Naomi：直美
+Nari：鸣里
 Naruko：鸣子
 Nashimi：梨美
 Natsu：夏
@@ -283,6 +287,7 @@ Turo：图罗
 Tokuren：德莲
 Tomatsu：保
 Tomiko：富美子
+Tomo：友希
 Tomoya：知也
 Toshihiro：俊宏
 Toshiko:敏子
