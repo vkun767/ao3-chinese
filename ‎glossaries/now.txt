@@ -10,6 +10,7 @@ Aikawa：相川
 Aino：爱野
 Airi：爱丽
 Akako：朱子
+Hitabi：赤鸣
 Akemi:阿美
 Aki：阿基
 Akio：秋生
@@ -69,6 +70,7 @@ aro：哈罗
 Haromaru：春间
 Haruki：春树
 Haruto：春人
+Hitabi：火足
 Hebisuke：赫助
 Hekima：壁间
 Hibiko：响子
@@ -119,6 +121,7 @@ Kaoru：薰
 Karuma:空魔
 Kashi：卡西
 Kashio：柏尾
+Katashi：坚志
 Kayoko:佳代子
 Kazane：风音
 Kazue：和惠
@@ -186,6 +189,7 @@ Myo：美代
 Myōkō:妙高
 Myoko:妙高
 Nanami：七海
+Nanashi：无名
 Nami：奈美
 Naoki：直树
 Naomi：直美
