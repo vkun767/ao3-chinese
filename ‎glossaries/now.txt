@@ -10,6 +10,7 @@ Aikawa：相川
 Aino：爱野
 Airi：爱丽
 Akako：朱子
+Arashi：岚
 Hitabi：赤鸣
 Akemi:阿美
 Aki：阿基
@@ -40,7 +41,9 @@ Chinatsu：千夏
 Chiori：千织
 Chiyuku：千愈
 Chizuru:千鹤
+Chōbei：丁卫
 Choko：蝶子
+Chōjirō：丁次郎
 Choudai：丁大
 Daruzo：达鲁藏
 Dachi：大地
@@ -64,6 +67,7 @@ Goro：五郎
 Hachiro：八郎
 Hajime：始司
 Hanako：花子
+Hanjirou：半次郎
 Haruhi：春香
 Haruka：春
 aro：哈罗
@@ -77,6 +81,7 @@ Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
 Hiko：彦
+Higashi：东
 Himiko：卑弥呼
 Hina：希娜
 Hinako：雏子
@@ -99,6 +104,7 @@ Inabi：稻火
 Inari：稻荷
 Inoko：井子
 Inoru：井乐
+Inosuke：井助
 Inu：犬
 Iroha：伊吕波
 Itsumi：伊美
@@ -185,6 +191,7 @@ Misaki：美咲
 Misao:美佐叶
 Miori：美织
 Miu：美羽
+Moriko：森子
 Myo：美代
 Myōkō:妙高
 Myoko:妙高
@@ -239,6 +246,7 @@ Shikabane：尸骨
 Shikaichi：鹿一
 Shikaido：鹿道
 Shikako：鹿子
+Shikari：鹿切
 Shiki：拓海
 Shinji：慎二
 Shion：诗音
@@ -302,6 +310,7 @@ Toshiro：俊郎
 Toshizo：俊藏
 Togakushi:户隐
 Tsubaki：椿
+Tsubisa：月火
 Tsukiko:月子
 Tsuki：月
 Tsukiyomi：月读
@@ -328,6 +337,7 @@ Yoshinori：吉野
 Yui：结衣
 Yukari：由香里
 Yuki：雪
+Yukina：雪名
 Yume：梦
 Yumiko：由美
 Yuu：优
