@@ -75,6 +75,7 @@ Haro：哈罗
 Haromaru：春间
 Haruki：春树
 Haruto：春人
+Hayato：隼人
 Hitabi：火足
 Hebisuke：赫助
 Hekima：壁间
@@ -232,6 +233,7 @@ Saburō:三郎
 Sachiko：幸子
 Sadako：贞子
 Sahoma：沙穗间
+Sakuto：朔人
 Sango：珊瑚
 Sarana:纱良
 Saru：猴子
@@ -259,6 +261,7 @@ Shona：翔南
 Shoma：肖马
 Sora：空
 Subaru：昴
+Suiko：水子
 Suki：佑树
 Suma：苏玛
 Suseri：苏绕
