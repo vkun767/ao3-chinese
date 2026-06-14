@@ -48,6 +48,7 @@ Choudai：丁大
 Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
+Daisuke：大介
 Eiichi：荣一
 Eijirō：英次郎
 Eiji:英二
@@ -76,14 +77,14 @@ Haromaru：春间
 Haruki：春树
 Haruto：春人
 Hayato：隼人
-Hitabi：火足
 Hebisuke：赫助
 Hekima：壁间
 Hibiko：响子
 Hideki：英树
 Hideyoshi：秀吉
-Hiko：彦
 Higashi：东
+Hikari：光
+Hiko：彦
 Himiko：卑弥呼
 Hina：希娜
 Hinako：雏子
@@ -92,6 +93,7 @@ Hiro：宏
 Hiroaki：广明
 Hiroki：广树
 Hiroshi：广志
+Hitabi：火足
 Hitomi：瞳
 Hjouske：兵介
 Honoka：穗香
