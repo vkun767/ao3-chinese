@@ -9,7 +9,7 @@
 // 限制大小写
 Uzumaki Naruto=漩涡 鸣人
 Uchiha Sasuke=宇智波 佐助
-Haruno Sakura=春野 樱
+Haruno Sakura=春野
 Hatake Kakashi=旗木 卡卡西
 Sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
@@ -144,8 +144,8 @@ Kidomaru：鬼童丸
 Sakon：左近
 Ukon：右近
 Tayuya：多由也
-Hanzo：半藏
-Hanzou:半藏
+Sanshuo Hanzo：山椒鱼 半藏
+Sanshōuo Hanzou:山椒鱼 半藏
 Nagato：长门
 Yahiko：弥彦
 Konan：小南
