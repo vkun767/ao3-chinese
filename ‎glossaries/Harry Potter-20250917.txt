@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-07
 
 词条
@@ -572,8 +572,8 @@ Nagini：纳吉尼
 诺贝塔：Norberta
 Norbert：诺伯
 Mr. Tibbles：踢踢
-Fang：变形课
-Transfiguration：牙牙
+Fang：牙牙
+Transfiguration：变形课
 Herbology：草药课
 Flying lesson：飞行课
 Broom Flight Class：飞行课
