@@ -66,6 +66,7 @@ Fushito：伏人
 Gouawae：高瓦埃
 Goro：五郎
 Hachiro：八郎
+Hagemaru：羽月丸
 Hajime：始司
 Hanako：花子
 Hanata：花奏
@@ -113,6 +114,7 @@ Inu：犬
 Iroha：伊吕波
 Itsumi：伊美
 Itsuko：伊津子
+Isamu：勇
 Ishikoridome:石居
 Ishikawa：石川
 Izuya：伊豆弥
@@ -120,6 +122,7 @@ Jade：玉兔
 Jimei：地明
 Jiro：次郎
 Jōseki：常石
+Juro：十郎
 Kaede：枫
 Kagane：加金
 Kaito：海斗
@@ -178,6 +181,7 @@ Madoka：圆香
 Maiya：真弥
 Makiko：真纪子
 Makoto：诚
+Mariko：真理子
 Matsu:松
 Matsuyo：松世
 Matsunaga:松永
@@ -210,6 +214,7 @@ Naruko：鸣子
 Nashimi：梨美
 Natsu：夏
 Natsuko：夏子
+Neko：猫
 Noa：诺亚
 Nobu：信
 Noboru：信则
@@ -239,8 +244,9 @@ Sahoma：沙穗间
 Sakuto：朔人
 Sango：珊瑚
 Sarana:纱良
-Saru：猴子
+Saru：猿
 Satoshi:悟
+Sebamaru：濑羽丸
 Seiko:圣子
 Seiryū：青龙
 Seiryu：青龙
@@ -290,6 +296,8 @@ Ryuuichi：龙一
 Ryuuji：龙二
 Tadashi:忠
 Tadao：忠雄
+Taigen：泰元
+Taka：鹰
 Takahashi：高桥
 Takao：高尾
 Takara:宝
@@ -305,19 +313,21 @@ Takuwa：拓和
 Tamotsu：保
 Tenchi：天地
 Tetsuya：哲也
-Turo：图罗
+Togakushi:户隐
 Tokuren：德莲
+Tokuyoshi：德吉
 Tomatsu：保
 Tome：托梅
 Tomiko：富美子
 Tomo：友希
 Tomoya：知也
 Tooru：透
+Tori：鸟
+Turo：图罗
 Toshihiro：俊宏
 Toshiko:敏子
 Toshiro：俊郎
 Toshizo：俊藏
-Togakushi:户隐
 Tsubaki：椿
 Tsubisa：月火
 Tsukiko:月子
@@ -332,8 +342,10 @@ Ume：梅
 Umeko：梅子
 Umeo：梅尾
 Usami：宇佐美
+Ushi：牛
 Wazuki：和月
 Yadashige：矢田茂
+Yakamaru：夜鸦丸
 Yako：野狐
 Yami：夜见
 Yasuko：亚苏子
@@ -350,6 +362,7 @@ Yukina：雪名
 Yume：梦
 Yumiko：由美
 Yuu：优
+Yuuji：优二
 Yuuma：优真
 Yuuri：优里
 Yori：由立
@@ -367,5 +380,6 @@ Jukai Kōrin=树界 降诞
 Jukai Koorin=树界 降诞
 Kajukai Koorin=树界 降诞
 black Zetsu：黑绝
+“Taka, Ushi, and Kuma
 禁翻词条
 // 此区域区分大小写，用于保持原文
