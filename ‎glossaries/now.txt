@@ -160,7 +160,7 @@ Keisuki：庆杉
 Kiraku：木乐
 Kishi：岸
 Kiyomi：清美
-Kodoma
+Kodoma：儿玉
 Koichi：浩一
 Kojika：治贺
 Kouga：甲贺
@@ -200,6 +200,7 @@ Misaki：美咲
 Misao:美佐叶
 Miori：美织
 Miu：美羽
+Mizuho：水穗
 Moriko：森子
 Myo：美代
 Myōkō:妙高
@@ -283,6 +284,7 @@ Ren：莲
 Reto：濑斗
 Riku：理久
 Rikudo：六道
+Rinka：琳花
 Rou：罗
 Rowa：罗瓦
 Ruby：露比
