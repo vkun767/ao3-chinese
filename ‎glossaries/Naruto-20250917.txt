@@ -133,6 +133,7 @@ Atsui：阿茨伊
 Darui：达鲁伊
 Mabui：麻布伊
 Omoi：奥摩伊
+Yakushi Nonou=药师 野乃宇
 Yakushi Kabuto=药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
