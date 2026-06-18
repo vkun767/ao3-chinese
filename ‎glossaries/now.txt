@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.10
+版本号：1.0.1
 更新时间：2025-10-24
  
 词条
@@ -118,7 +118,6 @@ Isamu：勇
 Ishikoridome:石居
 Ishikawa：石川
 Izuya：伊豆弥
-Jade：玉兔
 Jimei：地明
 Jiro：次郎
 Jōseki：常石
