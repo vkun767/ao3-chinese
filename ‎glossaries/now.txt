@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-24
  
 词条
@@ -392,6 +392,7 @@ Jukai Kōrin=树界 降诞
 Jukai Koorin=树界 降诞
 Kajukai Koorin=树界 降诞
 black Zetsu：黑绝
+White Zetsu：白绝
 Ōmikami：大神
 Ishikori-dome-sama：石凝姥命大人
 Karuma no Kagami：空魔之镜
