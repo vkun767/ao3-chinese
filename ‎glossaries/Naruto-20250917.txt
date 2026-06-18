@@ -333,6 +333,7 @@ Root：根
 
 //不限制大小写
 Charka：查克拉
+Fuuin：封印
 Juin：咒印
 hime：公主
 sama：大人
@@ -630,6 +631,7 @@ Urushi：乌鲁西
 Hound-taichou：猎犬队长
 ninken：忍犬
 copy nin：拷贝忍者
+iryo-jutsu：医疗忍术
 
 禁翻词条
 Alpha
