@@ -115,12 +115,14 @@ Iroha：伊吕波
 Itsumi：伊美
 Itsuko：伊津子
 Isamu：勇
+Ishikori：石凝姥
 Ishikoridome:石居
 Ishikawa：石川
 Izuya：伊豆弥
 Jimei：地明
 Jiro：次郎
 Jōseki：常石
+Junko：顺子
 Juro：十郎
 Kaede：枫
 Kagane：加金
@@ -158,6 +160,7 @@ Kento：健人
 Keisuki：庆杉
 Kiraku：木乐
 Kishi：岸
+Kitsune：狐妖
 Kiyomi：清美
 Kodoma：儿玉
 Koichi：浩一
@@ -173,7 +176,7 @@ Kuroma：黑间
 Kurou：黑郎
 Kuro:黑郎
 Kurumi：久留美
-Kuzon：九藏族！
+Kuzon：九藏
 Kyō:京
 Kyouraku：京乐
 Madoka：圆香
@@ -224,13 +227,13 @@ Nori：诺里
 Noriko：纪子
 Nozomi：希美
 Numa：沼
-obaa:奶奶
 Okimoto：奥本
 Okuninushi：奥国奴
 Onamuji：小沼
 Onikiri：鬼切
 Ono:小野
 Otoma：乙马
+otto：丈夫
 Renzu：莲组
 Riko：理子
 Riku：陆
@@ -300,6 +303,7 @@ Tadao：忠雄
 Taigen：泰元
 Taka：鹰
 Takahashi：高桥
+Takamine：高峰
 Takao：高尾
 Takara:宝
 Takaya：贵也
@@ -374,6 +378,13 @@ Yuzuki：柚希
 通用词条
 //不限制大小写
 Chichi-ue：父亲大人
+Otou-sama：父亲大人
+goshujin-sama：夫君大人
+obaasama：婆婆大人
+baasama：阿姨
+shirei-kan：司令官
+shirei-kan-sama：司令官大人
+sekke kuge：摄政 公家
 Uchiha compound：宇智波族地
 Senju compound：千手族地
 Jukai Kōtan=树界 降诞
@@ -381,7 +392,10 @@ Jukai Kōrin=树界 降诞
 Jukai Koorin=树界 降诞
 Kajukai Koorin=树界 降诞
 black Zetsu：黑绝
+Ōmikami：大神
+Ishikori-dome-sama：石凝姥命大人
 Karuma no Kagami：空魔之镜
+
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
