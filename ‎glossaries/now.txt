@@ -193,9 +193,11 @@ Matsunaga:松永
 Masa：正雅
 Masako：雅子
 Masaru：胜人
+Masayoshi：正义
 Masuyo：真代
 Masumi：真理
 Megumi：惠
+Meiko：明子
 Miho:美惠
 Miki：美纪
 Minako：美奈子
@@ -332,6 +334,7 @@ Tokuyoshi：德吉
 Tomatsu：保
 Tome：托梅
 Tomiko：富美子
+Tomio：富雄
 Tomo：友希
 Tomoko：知子
 Tomoya：知也
