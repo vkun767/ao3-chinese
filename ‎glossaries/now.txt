@@ -4,6 +4,7 @@
  
 词条
 // 限制大小写
+Ako：亚子
 Aiko：爱子
 Aina：爱奈
 Aikawa：相川
@@ -144,6 +145,7 @@ Kazane：风音
 Kazue：和惠
 Kazuka：和贺
 Kazuki：和树
+Kazumi：和美
 Kazuya：和也
 Kikiro：菊郎
 Kikiyo：菊代
@@ -273,6 +275,7 @@ Shion：诗音
 Shiori：诗织
 Shiyu：时悠
 Shizuka：静香
+Shizuki：静月
 Shokari：肖卡里
 Shona：翔南
 Shoma：肖马
@@ -330,6 +333,7 @@ Tomatsu：保
 Tome：托梅
 Tomiko：富美子
 Tomo：友希
+Tomoko：知子
 Tomoya：知也
 Tooru：透
 Tori：鸟
@@ -371,6 +375,7 @@ Yuki：雪
 Yukina：雪名
 Yume：梦
 Yumiko：由美
+Yuko：优子
 Yuu：优
 Yuuji：优二
 Yuuma：优真
