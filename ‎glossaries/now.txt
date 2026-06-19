@@ -77,6 +77,7 @@ Haro：哈罗
 Haromaru：春间
 Haruki：春树
 Haruto：春人
+Hasu：莲
 Hayato：隼人
 Hebisuke：赫助
 Hekima：壁间
@@ -227,10 +228,12 @@ Nori：诺里
 Noriko：纪子
 Nozomi：希美
 Numa：沼
+Ocha：茶茶
 Okimoto：奥本
 Okuninushi：奥国奴
 Onamuji：小沼
 Onikiri：鬼切
+Onikuma：鬼熊
 Ono:小野
 Otoma：乙马
 otto：丈夫
@@ -246,6 +249,7 @@ Sadako：贞子
 Sahoma：沙穗间
 Sakuto：朔人
 Sango：珊瑚
+Samua：三亚
 Sarana:纱良
 Saru：猿
 Satoshi:悟
@@ -310,6 +314,7 @@ Takaya：贵也
 Takeda：武田
 Takeru：健
 Takeshi：武史
+Taketori：竹取
 Takka：铁火
 Takuma：拓马
 Takumi：拓海
@@ -391,8 +396,6 @@ Jukai Kōtan=树界 降诞
 Jukai Kōrin=树界 降诞
 Jukai Koorin=树界 降诞
 Kajukai Koorin=树界 降诞
-black Zetsu：黑绝
-White Zetsu：白绝
 Ōmikami：大神
 Ishikori-dome-sama：石凝姥命大人
 Karuma no Kagami：空魔之镜
