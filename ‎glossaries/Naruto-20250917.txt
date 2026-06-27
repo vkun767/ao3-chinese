@@ -293,6 +293,8 @@ Senju Touka=千手 桃华
 Senju Tōka=千手 桃华
 Senju Toka=千手 桃华
 Uzumaki Mito=漩涡 水户
+Shisui no Shunshin：瞬身的止水
+Shunshin no Shisui：瞬身的止水
 Shinobi Hashi：神无毗桥
 Shodaime：初代目
 Nidaime：二代目
