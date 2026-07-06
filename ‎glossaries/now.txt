@@ -50,6 +50,7 @@ Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
 Daisuke：大助
+Dekai：德凯
 Eiichi：荣一
 Eijirō：英次郎
 Eiji:英二
@@ -92,6 +93,7 @@ Himiko：卑弥呼
 Hina：希娜
 Hinako：雏子
 Hinoda：日升
+Hinoto：日野户
 Hiro：宏
 Hiroaki：广明
 Hiroki：广树
@@ -108,7 +110,9 @@ Houju：候朱
 Ikanago：伊卡格那
 Ikuko：育子
 Inabi：稻火
+Inaka：稻中
 Inari：稻荷
+Inoki：井木
 Inoko：井子
 Inoru：井乐
 Inosuke：井助
@@ -120,6 +124,8 @@ Isamu：勇
 Ishikori：石凝姥
 Ishikoridome:石居
 Ishikawa：石川
+Isshin：一心
+Iwashi：瓦希
 Izuya：伊豆弥
 Jimei：地明
 Jiro：次郎
@@ -288,6 +294,7 @@ Suki：佑树
 Suma：苏玛
 Suseri：苏绕
 Suoma：芬兰
+Suzaku：朱雀
 Suzume：雀
 Susano’o：须佐能乎
 Reki：雷基
