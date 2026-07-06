@@ -137,6 +137,7 @@ Kagane：加金
 Kaito：海斗
 Kaisen：凯森
 Kako：加子
+Kameyo：龟代
 Kaname：要势
 Kanon：卡农
 Kaneda：金田
@@ -155,6 +156,7 @@ Kazumi：和美
 Kazuya：和也
 Kikiro：菊郎
 Kikiyo：菊代
+Kiku：菊
 Kitai：北斋
 Kiyo：清子
 Kiyomizu：清见
@@ -293,6 +295,7 @@ Suiko：水子
 Suki：佑树
 Suma：苏玛
 Suseri：苏绕
+Susuma：寿真
 Suoma：芬兰
 Suzaku：朱雀
 Suzume：雀
