@@ -7,12 +7,14 @@
 词条
 // 限制大小写
 
-//第七班直系、宇智波一族、
+//第七班直系、宇智波一族
 Haruno Sakura=春野 樱
+Haruno Mebuki=春野 芽吹
 Yamato：大和
 Tenzo：天藏
 Sai：佐井
 Uzumaki Naruto=漩涡 鸣人
+Uzumaki Naruko=漩涡 鸣子
 Namikaze Minato=波风 水门
 Uzumaki Kushina=漩涡 玖辛奈
 Uzumaki Menma=漩涡 面麻
@@ -28,9 +30,11 @@ Uchiha Madara=宇智波 斑
 Uchiha Izuna=宇智波 泉奈
 Uchiha Hikaku=宇智波 火核
 Uchiha Kagami=宇智波 镜
-Uchiha Setsuna：宇智波 刹那
+Uchiha Setsuna=宇智波 刹那
 Uchiha Shin=宇智波 信
-Uchiha Teyaki：宇智波 手烧
+Uchiha Teyaki=宇智波 手烧
+Uchiha Yashiro‌=宇智波 八代
+Uchiha Tetsuka‌=宇智波 铁火
 Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
 Sukea：斯坎儿
@@ -81,6 +85,7 @@ Maito Dai=迈特 戴
 //其他木叶忍者
 Umino Iruka=海野 伊鲁卡
 Mizuki：水木
+Tsubaki：椿
 Ebisu：惠比寿
 Shiranui Genma=不知火 玄间
 Gekkō Hayate=月光 疾风
@@ -97,25 +102,16 @@ Ranka：岚华
 Aburame Muta=油女 牟田
 Morino Ibishi=森乃 伊比喜
 Morino Ibiki=森乃 伊比喜
+Morino Idate=森乃 伊达
+Rokushou Aoi=绿青 葵
 Kamizuki Izumo=神月 出云
 Hagane Kotetsu=钢 子铁
 Tobitake Tonbo=飞竹 蜻蜓
 Dokuraku Mawashi=独乐 迥
+Nara Ensui=奈良盐水
 Hyuga Tokuma=日向 德间
-Jiraiya：自来也
-Jirayai：自来也
-Tsunade：纲手
-Shizune：静音
-Tonton：豚豚
-Nawaki：绳树
-Katon Dan：加藤 断
-Mitokado Homura=水户门 炎
-Utatane Koharu=转寝 小春
-Akimichi Torifu=秋道 取风
-Shimura Danzo=志村 团藏
-Shimura Danzou=志村 团藏
-Shimura Danzō=志村 团藏
-Aburame Torune=油女 取根
+Hyuuga Iroha=日向 伊吕波
+Hyuuga Hoheto=日向 火门
 Senju Hashirama=千手 柱间
 Senju Tobirama=千手 扉间
 Senju Butsuma=千手 佛间
@@ -125,14 +121,43 @@ Senju Touka=千手 桃华
 Senju Tōka=千手 桃华
 Senju Toka=千手 桃华
 Uzumaki Mito=漩涡 水户
+Uzumuki Ashina=漩涡 芦名
+Mitokado Homura=水户门 炎
+Utatane Koharu=转寝 小春
+Akimichi Torifu=秋道 取风
+Shimura Danzo=志村 团藏
+Shimura Danzou=志村 团藏
+Shimura Danzō=志村 团藏
+Aburame Torune=油女 取根
+Aburame Tashima‌=油女 龙马
+Yamanaka Fū=山中 风
+Jiraiya：自来也
+Jirayai：自来也
+Tsunade：纲手
+Shizune：静音
+Tonton：豚豚
+Nawaki：绳树
+Katon Dan=加藤 断
+Yakumo:八云
+Murakumo：从云 
+Uroko：鳞
+Unkai：云海
+Chiriku：地陆
+Ranmaru：兰丸
+Urushi：乌鲁西
+Hinoko：火野子
 
 //平民
-Tsubaki：椿
 Gato：卡多
 Tezuna：达玆纳
+Inari：伊纳里
+Kaiza:凯沙
 Teuchi：手打
 Ichiraku ochan=一乐 大叔
 Ayame：菖蒲
+Tsunami：津波
+Natsuhi：夏日
+Gengo：源吾
 
 //音忍
 Orochimaru：大蛇丸
@@ -141,7 +166,7 @@ Yakushi Kabuto=药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
 Akadō Yoroi=赤铜 铠
-Tsurugi Misumi：剑 三隅
+Tsurugi Misumi=剑 三隅
 Kin Tsuchi=琴 槌
 Dosu Kinuta=托斯 砧
 Zaku Abumi=萨克 镫
@@ -150,7 +175,10 @@ Kidomaru：鬼童丸
 Sakon：左近
 Ukon：右近
 Tayuya：多由也
-Hoozuki Suigetsu：鬼灯 水月
+Yūkimaru：幽鬼丸
+Amachi‌:天知
+Kagero：影野
+Hoozuki Suigetsu=鬼灯 水月
 Hozuki Suigetsu=鬼灯 水月
 Hohzuki Suigetsu=鬼灯 水月
 Hōzuki Suigetsu=鬼灯 水月
@@ -167,6 +195,7 @@ Gaara：我爱罗
 Kankuro：勘九郎
 Temari：手鞠
 Baki：马基
+Pakura：泊良
 Karura：加琉罗
 Yashamaru：夜叉丸
 Rasa：罗砂
@@ -174,7 +203,14 @@ Chiyo：千代
 Ebizou：海老藏
 Karasu：鸦
 Kuroari：黑蚁
+Hiruko：绯流琥
 Daimaru：大丸
+Maki：卷
+Reto：烈斗
+Matsuri：祭
+Saya：沙夜
+Sana:沙奈
+Ameno:雨乃
 
 //雾忍
 Terumi Mei=照美 冥
@@ -182,8 +218,9 @@ Chojuro：长十郎
 Ao：青
 Momochi Zabuza=桃地 再不斩
 Haku：白
+Hōzuki Gengetsu=鬼灯 幻月
 Ringo Ameyuri=林檎 雨由利
-Karatachi Yagura：枸橘 矢仓
+Karatachi Yagura=枸橘 矢仓
 Kurosuki Raiga=黑锄 雷牙
 Karatachi Kagura=枸橘 神乐
 Kurosuki Buntan=黑锄 文淡
@@ -192,9 +229,12 @@ Munashi Jinpachi=无梨 甚八
 Biwa Jūzō=枇杷 十藏
 Biwa Juuzo=枇杷 十藏
 Biwa Jūzo=枇杷 十藏
-Suikazan Fuguki：西瓜山 河豚鬼
+Suikazan Fuguki=西瓜山 河豚鬼
 Kuriarare Kushimaru=栗霰 串丸
 Akebino Jinin=通草 野饵人
+Byakuren：白莲
+Yotsuki Kiyoi=夜月 清井
+Ruka：流加
 
 //岩忍
 Onoki：大野木
@@ -202,7 +242,10 @@ Ohnoki：大野木
 Kitsuchi：黄土
 Kurotsuchi：黑土
 Akatsuchi：赤土
-Ranton：岚遁
+Mū：无
+Ishikawa：石河
+Boulder：大石
+Gari：加里
 
 //雷忍
 Kinkaku：金角
@@ -212,6 +255,9 @@ Atsui：阿茨伊
 Darui：达鲁伊
 Mabui：麻布伊
 Omoi：奥摩伊
+Burubi：布瑠比
+Cee：希
+Dodai：土代
 
 //雨忍和晓组织相关
 Sanshuo Hanzo：山椒鱼 半藏
@@ -234,6 +280,13 @@ Deidara：迪达拉
 Sasori：蝎
 Hidan：飞段
 Kakuzu：角都
+Ajisai：紫阳花
+Fuyou：芙蓉
+Suiren：睡莲
+Oboro：胧
+Kagari：篝
+Kandachi：神达
+Hisame：冰雨
 
 //尾兽及人柱力
 Biju：尾兽
@@ -255,15 +308,17 @@ Roushi：老紫
 Kokuo：穆王
 Kokuō：穆王
 Gobi：五尾
+Han：汉
 Saiken：犀犬
 Rokubi：六尾
-Utakata：泡沫
+Utakata：羽高
 Hotaru：萤
 Shiranami：白浪
 Chomei：重明
 Chōmei：重明
 Choumei：重明
 Nanabi：七尾
+Fuu：芙
 Takigakure：泷忍
 Gyuki：牛鬼
 Gyūki：牛鬼
@@ -271,8 +326,8 @@ Hachibi：八尾
 Killer Bee：奇拉比
 Killer B：奇拉比
 Kurama：九喇嘛
-Kyubi Yoko：九尾 妖狐
-Kyuubi Yoko：九尾 妖狐
+Kyubi Yoko=九尾 妖狐
+Kyuubi Yoko=九尾 妖狐
 Kyubei：九尾
 Jubi：十尾
 Rikudo：六道
@@ -286,7 +341,7 @@ Akimichi Chōchō=秋道 蝶蝶
 Akimichi Chocho=秋道 蝶蝶
 Shinki：新希
 Mitsuki：巳月
-Nara Shikadai：奈良 鹿代
+Nara Shikadai=奈良 鹿代
 Jigen：慈弦
 Sanzu Amado=三途 阿玛多
 Delta：迪鲁达
@@ -296,10 +351,11 @@ Yuino Iwabee=结乃 岩部
 Raimon Denki=雷门 电气
 Izuno Wasabi=伊豆 野山葵
 Otsutsuki Kawaki=大筒木 川木
-Yamanaka Inojin：山中 井阵
+Yamanaka Inojin=山中 井阵
 Kazamatsuri Moegi=风祭 萌黄
 Ise Udon=伊势 乌冬
 Kakei Sumire=笕 堇
+Yurui：尤鲁伊
 Daikokuten：大黑天
 Otsutsuki Toneri=大筒木 舍人
 Otsutsuki Momoshiki=大筒木 桃式
@@ -342,7 +398,8 @@ Biske：弥助
 Akino：阿基诺
 Gurugo：古鲁克
 Uuhei：乌黑
-Urushi：乌鲁西
+Nekobaa：猫婆婆
+Chameleon：变色龙
 
 //一些称呼、外号
 Shodaime：初代目
@@ -389,6 +446,7 @@ Hyoton：冰遁
 Futton：沸遁
 Shakuton：灼遁
 Jinton：尘遁
+Ranton：岚遁
 Doton：土遁
 Yoton：熔遁
 Kekkei Genkai：血继 限界
@@ -441,13 +499,13 @@ Otonin：音忍
 Kusagakure：草忍村
 Kusa：草忍
 Amegakure：雨忍村
+Dazna：波之国
 Akatsuki：晓组织
 Tetsu：铁
 Tsuchi：土
 Mizu：水
 Kaze：风
 Kaminari：雷
-
 
 //瞳术、血继限界相关
 Mangekyo：万花筒
@@ -476,6 +534,7 @@ Hakkesho：八卦掌
 Hakke：八卦
 Hakkesho：回天
 Rinnegan：轮回眼
+Animal Path：畜生道
 Gakido：饿鬼道
 Tendo：天道
 Deva Path：天道
@@ -524,7 +583,6 @@ Ningu：忍具
 Kusanagi no Tsurugi：草薙剑
 Amenonuhoko：天沼矛
 Ame no nuhoko：天沼矛
-Hiruko：绯流琥
 
 //其他忍术体术封印术等
 Henge：变身
@@ -603,7 +661,6 @@ Doro Domu：土牢 堂无
 Endan：炎弹
 Suihachi：水铁炮
 
-
 //其他名词
 shinobi：忍者
 kunoichi：女忍
@@ -626,6 +683,9 @@ Jashin：邪神
 sensor：感知忍者
 iryo-nin：医疗忍者
 copy nin：拷贝忍者
+Fuuin：封印
+Juin：咒印
+Ketsu-in：结印
 botchan：三色团子
 teppanyaki：铁板烧
 Happuri：护额
@@ -641,7 +701,26 @@ Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
 
-
+//常见日语称呼
+Daimyō：大名
+Otōsama：父亲大人
+baka：笨蛋
+otōto：弟弟
+otouto：弟弟
+taichou：队长
+Haha-ue：母亲大人
+Chichi-ue：父亲大人
+sensei：老师
+nii-san：尼桑
+Anija：兄长
+Aniki：哥哥
+Aneue：姐姐
+shishou：师父
+taicho：队长
+taichou：队长
+Komon：顾问
+hime：公主
+sama：大人
 
 禁翻词条
 Alpha
