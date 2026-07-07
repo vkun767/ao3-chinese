@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-24
  
 词条
@@ -12,7 +12,6 @@ Aino：爱野
 Airi：爱丽
 Akako：朱子
 Arashi：岚
-Hitabi：赤鸣
 Akemi:阿美
 Aki：阿基
 Akio：秋生
@@ -29,7 +28,6 @@ Arata:新田
 Asahi：朝日
 Asahi：朝日
 Ashina：芦名
-Aoi：葵
 Aoki：青木
 Ayaka：绫华
 Baru：巴鲁
@@ -357,13 +355,11 @@ Toshihiro：俊宏
 Toshiko:敏子
 Toshiro：俊郎
 Toshizo：俊藏
-Tsubaki：椿
 Tsubisa：月火
 Tsukiko:月子
 Tsuki：月
 Tsukiyomi：月读
 Tsumi：津美
-Tsunami：海啸
 Tsuru：鹤
 Ukie：浮木
 Unarigoe ：宇那利
@@ -379,7 +375,6 @@ Yako：野狐
 Yami：夜见
 Yasuko：亚苏子
 Yasu：亚苏
-Yashiro：八代
 Yasutora：泰虎
 Yasuo：康夫
 Yoko：洋子
