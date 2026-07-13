@@ -1113,7 +1113,6 @@ Shrinking Key：缩身钥匙
 Two-way Mirror：双向镜
 Silver Shield：银盾
 Prophecy Record：预言球
-Trace：踪丝
 Crystal Bell Jar：钟形水晶玻璃罩
 A Roughly Cut Wooden Flute：做工粗糙的笛子
 Advanced Potion-Making of Half-Blood Prince：混血王子的魔药学教材
