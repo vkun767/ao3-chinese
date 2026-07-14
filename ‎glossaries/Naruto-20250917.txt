@@ -461,6 +461,7 @@ fūinjutsu：封印术
 Fuinjutsu：封印术
 Fuuinjutsu封印术
 iryo-jutsu：医疗忍术
+iryō-ninjutsu：医疗忍术
 Iryo Ninjutsu=医疗 忍术
 doujutsu：瞳术
 dojutsu：瞳术
