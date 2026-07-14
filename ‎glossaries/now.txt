@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-24
  
 词条
@@ -218,6 +218,7 @@ Moriko：森子
 Myo：美代
 Myōkō:妙高
 Myoko:妙高
+Naeki：奈木
 Nanami：七海
 Nanashi：无名
 Nami：奈美
@@ -290,6 +291,7 @@ Shona：翔南
 Shoma：肖马
 Sora：空
 Subaru：昴
+Sueko：末子
 Suiko：水子
 Suki：佑树
 Suma：苏玛
@@ -386,6 +388,7 @@ Yuki：雪
 Yukina：雪名
 Yume：梦
 Yumiko：由美
+Yūjima：由岛
 Yuko：优子
 Yuu：优
 Yuuji：优二
