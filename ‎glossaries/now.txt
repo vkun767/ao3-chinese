@@ -29,6 +29,7 @@ Arata:新田
 Asahi：朝日
 Asahi：朝日
 Ashina：芦名
+Atsugi：厚木
 Aoki：青木
 Ayaka：绫华
 Baru：巴鲁
@@ -50,6 +51,7 @@ Dachi：大地
 Daiki：大辉
 Daisuke：大助
 Dekai：德凯
+Doi：土井
 Eiichi：荣一
 Eijirō：英次郎
 Eiji:英二
@@ -104,6 +106,7 @@ Honoka：穗香
 Homura：焰
 Hotaka：穗高
 Hotaru：萤
+Hoshi：星
 Hoshika：星华
 Houju：候朱
 Ikanago：伊卡格那
@@ -136,7 +139,9 @@ Kagane：加金
 Kaito：海斗
 Kaisen：凯森
 Kako：加子
+Kagemori：影守
 Kameyo：龟代
+Kamijima：上岛
 Kaname：要势
 Kanon：卡农
 Kaneda：金田
@@ -173,6 +178,7 @@ Kishi：岸
 Kitsune：狐妖
 Kiyomi：清美
 Kodoma：儿玉
+Kōga：甲贺
 Koichi：浩一
 Kojika：治贺
 Kouga：甲贺
@@ -188,6 +194,7 @@ Kuro:黑郎
 Kurumi：久留美
 Kuzon：九藏
 Kyō:京
+Kyōmaru：京丸
 Kyouraku：京乐
 Madoka：圆香
 Maiya：真弥
@@ -195,11 +202,13 @@ Makiko：真纪子
 Makoto：诚
 Mariko：真理子
 Matsu:松
+Matsubokkuri：松鼠栗
 Matsuyo：松世
 Matsunaga:松永
 Masa：正雅
 Masako：雅子
 Masaru：胜人
+Masashi：正志
 Masayoshi：正义
 Masuyo：真代
 Masumi：真理
@@ -215,6 +224,7 @@ Misao:美佐叶
 Miori：美织
 Miu：美羽
 Mizuho：水穗
+Momoko：桃子
 Moriko：森子
 Myo：美代
 Myōkō:妙高
@@ -250,6 +260,7 @@ Onikuma：鬼熊
 Ono:小野
 Otoma：乙马
 otto：丈夫
+Ren：莲
 Renzu：莲组
 Riko：理子
 Riku：陆
@@ -262,6 +273,7 @@ Sadako：贞子
 Sahoma：沙穗间
 Sakuto：朔人
 Sango：珊瑚
+Sanuki：赞歧
 Samua：三亚
 Sarana:纱良
 Saru：猿
@@ -304,6 +316,7 @@ Suzume：雀
 Susano’o：须佐能乎
 Reki：雷基
 Ren：莲
+Renzo：莲藏
 Reto：濑斗
 Riku：理久
 Rikudo：六道
@@ -343,6 +356,7 @@ Tenchi：天地
 Tetsuo：哲雄
 Tetsuya：哲也
 Togakushi:户隐
+Tobira：扉
 Tokuren：德莲
 Tokuyoshi：德吉
 Tomatsu：保
@@ -382,12 +396,14 @@ Yasu：亚苏
 Yasutora：泰虎
 Yasuo：康夫
 Yoko：洋子
+Yorimasa：依正
 Yoshinori：吉野
 Yui：结衣
 Yukari：由香里
 Yuki：雪
 Yukina：雪名
 Yume：梦
+Yumei：玉梅
 Yumiko：由美
 Yūjima：由岛
 Yuko：优子
