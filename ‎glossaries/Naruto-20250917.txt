@@ -731,6 +731,8 @@ Aneue：姐姐
 “-ji”：叔
 “-ba”：伯母
 “-jutsu”：忍术
+“-kun”：君
+
 
 禁翻词条
 Alpha
