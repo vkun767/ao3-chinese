@@ -284,6 +284,7 @@ Seiryū：青龙
 Seiryu：青龙
 Seiryou：青龙
 Seto：濑户
+seiza：正坐
 Shamon：沙蒙
 Shibiki：志木
 Shiemi：诗惠美
