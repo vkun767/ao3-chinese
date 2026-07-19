@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.0
+版本号：1.1.1
 更新时间：2026-01-26
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -674,6 +674,8 @@ daimyo：大名
 Soke：宗家
 Bunke：分家
 Konoha：木叶
+ANBU：暗部
+Anbu：暗部
 Keimusho：警卫队
 Jinchuriki：人柱力
 Jinchuuriki：人柱力
@@ -708,20 +710,27 @@ Otōsama：父亲大人
 baka：笨蛋
 otōto：弟弟
 otouto：弟弟
-taichou：队长
+Komon：顾问
 Haha-ue：母亲大人
 Chichi-ue：父亲大人
-sensei：老师
 nii-san：尼桑
 Anija：兄长
 Aniki：哥哥
 Aneue：姐姐
-shishou：师父
-taicho：队长
-taichou：队长
-Komon：顾问
-hime：公主
-sama：大人
+“-shishou”：师父
+“-taicho”：队长
+“-taichou”：队长
+“-sensei”：老师
+“-hime”：公主
+“-sama”：大人
+"-chan": 酱
+“-san”：桑
+“-nee”：姐
+“-nii”：哥
+“-dono”：殿下
+“-ji”：叔
+“-ba”：伯母
+“-jutsu”：忍术
 
 禁翻词条
 Alpha
