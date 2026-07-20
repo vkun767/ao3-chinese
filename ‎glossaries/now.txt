@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-24
  
 词条
@@ -116,7 +116,6 @@ Hitomi：瞳
 Hitoshi：仁
 Hjouske：兵介
 Honoka：穗香
-Homura：焰
 Hotaka：穗高
 Hotaru：萤
 Hoshi：星
