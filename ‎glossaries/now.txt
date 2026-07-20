@@ -1,10 +1,9 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-24
  
 词条
 // 限制大小写
-Adoru：
 Ako：亚子
 Aiko：爱子
 Aina：爱奈
@@ -209,9 +208,9 @@ Kitsune：狐妖
 Kiyomi：清美
 Kodoma：儿玉
 Kōga：甲贺
-Kōsa：高砂
 Koichi：浩一
 Kojika：治贺
+Kōsa：高砂
 Kosen：古泉
 Kouga：甲贺
 Kowa：科亚
