@@ -38,8 +38,9 @@ Baru：巴鲁
 Byakuren：白莲
 Chiaka：千秋
 Chiasa：千朝
-Chikara：力
 Chiemi：千惠美
+Chikara：力
+Chihomi：千穗美
 Chinatsu：千夏
 Chiori：千织
 Chiyuku：千愈
@@ -155,6 +156,7 @@ Jitan：次丹
 Jōseki：常石
 Junko：顺子
 Junshin：俊信
+Junta：俊太 
 Juro：十郎
 Kaede：枫
 Kagane：加金
@@ -213,6 +215,7 @@ Kōsa：高砂
 Kosen：古泉
 Kouga：甲贺
 Kowa：科亚
+Kōya：光也
 Kukaku：空鹤
 Kuma：熊
 Kumano：熊野
@@ -427,6 +430,7 @@ Tetsuo：哲雄
 Tetsuya：哲也
 Togakushi：户隐
 Tobira：扉
+Tokinojin：时野人
 Tokuren：德莲
 Tokuyoshi：德吉
 Tomatsu：保
@@ -437,14 +441,14 @@ Tomo：友希
 Tomoe：勾玉
 Tomoko：知子
 Tomoya：知也
+Tomoyori：知纪
 Tooru：透
 Tori：鸟
-Turo：图罗
-Tokinojin：时野人
 Toshihiro：俊宏
 Toshiko：敏子
 Toshiro：俊郎
 Toshizo：俊藏
+Tōyu：冬佑
 Tsubisa：月火
 Tsugumi：次弓
 Tsukiko：月子
@@ -452,6 +456,7 @@ Tsuki：月
 Tsukiyomi：月读
 Tsumi：津美
 Tsuru：鹤
+Turo：图罗
 Ukie：浮木
 Unarigoe ：宇那利
 Ume：梅
@@ -471,6 +476,7 @@ Yasu：亚苏
 Yasutora：泰虎
 Yasuo：康夫
 Yoko：洋子
+Yori：由立
 Yorimasa：依正
 Yorito：依人
 Yoshinori：吉野
@@ -479,18 +485,18 @@ Yui：由衣
 Yukari：由香里
 Yuki：雪
 Yukina：雪名
+Yuko：优子
+Yūjima：由岛
 Yume：梦
 Yumei：由梅
 Yumiko：由美子
-Yūjima：由岛
-Yuko：优子
+Yūna：由奈
+Yūshin：勇信
+Yūta：裕太
 Yuu：优
 Yuuji：优二
 Yuuma：优真
 Yuuri：优里
-Yori：由立
-Yūna：由奈
-Yūshin：勇信
 Yuzuki：柚希
 
 
