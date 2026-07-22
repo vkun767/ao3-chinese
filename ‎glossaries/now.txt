@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.6
+版本号：1.0.1
 更新时间：2025-10-24
  
 词条
@@ -369,6 +369,7 @@ Shoma：肖马
 Shorin：小林
 Soji：宗次
 Sora：空
+Souma：宗马
 Subaru：昴
 Sueko：末子
 Suiko：水子
@@ -494,6 +495,7 @@ Yumiko：由美子
 Yūna：由奈
 Yūshin：勇信
 Yūta：裕太
+Yuto：裕人
 Yuu：优
 Yuuji：优二
 Yuuma：优真
