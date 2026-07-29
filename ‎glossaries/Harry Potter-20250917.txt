@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.0.5
+版本号：1.0.6
 更新时间：2025-10-07
 
 词条
@@ -1130,7 +1130,6 @@ Moly：黑根草
 Mistletoe Berry：槲寄生浆果
 Wiggentree：护法树
 Scurvy Grass：坏血草
-Ginger：姜
 Pepper Mint：椒薄荷
 Sopophorous Bean：瞌睡豆
 Horseradish：辣根
@@ -1256,7 +1255,6 @@ Basilisk Horn：蛇怪角
 Rougarou Hair：湿地狼人毛发
 Thestral Tail Hair：夜骐尾毛
 Horned Serpent Horn：长角水蛇角
-魔法药剂：第八章
 Love Potions：爱情魔药
 Love Potion Antidote：爱情魔药解药
 Sleeping Draught：安眠剂
@@ -1315,7 +1313,6 @@ Wiggenweld Potion：振奋药剂
 Calming Draught：镇定剂
 Cure for Boils：治疗疥疮的药水
 Swelling Solution：肿胀药水
-药剂定律
 Golpalott's Third Law：戈巴洛特第三定律
 Ordinary Wizarding Level（O.W.L.）：普通巫师等级考试
 Nastily Exhausting Wizarding Test（N.E.W.T.）：终极巫师考试
