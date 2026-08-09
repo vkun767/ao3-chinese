@@ -77,7 +77,7 @@ Aburame Shino=油女 志乃
 Aburame Shibi=油女 志微
 Yuhi Kurenai=夕日 红
 Yūhi Shinku=夕日 真红
-Lee Rock：李 洛克
+Lee Rock：李洛克
 Tenten：天天
 TenTen：天天
 Lee：李
@@ -110,7 +110,7 @@ Kamizuki Izumo=神月 出云
 Hagane Kotetsu=钢 子铁
 Tobitake Tonbo=飞竹 蜻蜓
 Dokuraku Mawashi=独乐 迥
-Nara Ensui=奈良盐水
+Nara Ensui=奈良 盐水
 Hyuga Tokuma=日向 德间
 Hyuuga Iroha=日向 伊吕波
 Hyuuga Hoheto=日向 火门
