@@ -57,6 +57,7 @@ Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
 Daisuke：大助
+Degai：德爱
 Dekai：德凯
 Doi：土井
 Eiichi：荣一
@@ -128,6 +129,7 @@ Ikuko：育子
 Inabi：稻火
 Inaka：稻中
 Inari：稻荷
+Inazuka：犬冢
 Inoki：井木
 Inoko：井子
 Inoru：井乐
@@ -199,6 +201,7 @@ Kikiro：菊郎
 Kikiyo：菊代
 Kiku：菊
 Kikunojin：菊之仁
+Kiraku：木乐
 Kitai：北斋
 Kiyo：清子
 Kiyomizu：清见
@@ -466,6 +469,7 @@ Umeko：梅子
 Umeo：梅尾
 Usami：宇佐美
 Ushi：牛
+Utatane：
 Wantanabe：渡边
 Wazuki：和月
 Yadashige：矢田茂
