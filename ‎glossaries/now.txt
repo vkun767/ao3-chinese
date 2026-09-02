@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-24
  
 词条
@@ -88,6 +88,7 @@ Hanata：花奏
 Hanjirou：半次郎
 Haruhi：春香
 Haruka：春
+Haruko：春子
 Haro：哈罗
 Haromaru：春间
 Haruki：春树
@@ -190,6 +191,7 @@ Kazumi：和美
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
+Kichi：吉吉
 Keita：圭太
 Keisuke：圭介
 Kenichi：贤一
