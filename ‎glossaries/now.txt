@@ -51,7 +51,8 @@ Chōbei：丁卫
 Choko：蝶子
 Chōjirō：丁次郎
 Chōnosuke：丁之助
-Chōsuke 丁助
+Chōsuke：丁助
+Choto：丁户
 Choudai：丁大
 Daruzo：达鲁藏
 Dachi：大地
@@ -124,6 +125,7 @@ Hotaru：萤
 Hoshi：星
 Hoshika：星华
 Houju：候朱
+Hukano：深野
 Igaku：伊角
 Ikanago：伊卡格那
 Ikuko：育子
@@ -235,6 +237,7 @@ Kuro：黑郎
 Kurumi：久留美
 Kuzon：九藏
 Kyō：京
+Kyofu：京风
 Kyōmaru：京丸
 Kyougi：恭仪
 Kyouraku：京乐
@@ -389,7 +392,7 @@ Shizuka：静香
 Shizuki：静月
 Shizuma：静间
 Sho：翔
-Shokari：肖卡里
+Shokari：小狩
 Shona：翔南
 Shoma：肖马
 Shorin：小林
