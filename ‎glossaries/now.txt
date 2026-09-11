@@ -225,6 +225,7 @@ Kosen：古泉
 Kouga：甲贺
 Kowa：科亚
 Kōya：光也
+Kohaku：琥珀
 Kukaku：空鹤
 Kuma：熊
 Kumano：熊野
@@ -314,6 +315,7 @@ Onikuma：鬼熊
 Ono：小野
 Ōri：大里
 Orime：织目
+Osamu：治
 Osuya：大泽
 Otoma：乙马
 otto：丈夫
