@@ -1,6 +1,6 @@
 维护者：weikun767@163.com
-版本号：1.1.4
-更新时间：2026-01-26
+版本号：1.1.5
+更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 
@@ -403,26 +403,6 @@ Uuhei：乌黑
 Nekobaa：猫婆婆
 Chameleon：变色龙
 
-//一些称呼、外号
-Shodaime：初代目
-Nidaime：二代目
-Yondaime：四代目
-Sandaime：三代目
-Godaimē：五代目
-Godaime：五代目
-Rokudaime：六代目
-Nanadaime：七代目
-ANBU：暗部
-Anbu：暗部
-Shinobigatana Shichininshu=忍刀 七人众
-Shisui no Shunshin：瞬身的止水
-Shunshin no Shisui：瞬身的止水
-White Demon：白色恶魔
-Suna no Sankyoudai：砂之三姐弟
-Aoi Kajitsu：苍蓝 猛兽
-Sannin：三忍
-bakakashi：笨卡卡
-bakashi：笨卡卡
 
 //地点
 Kannabi Bridge：神无毗桥
@@ -706,12 +686,30 @@ Gama：蛤蟆
 Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
+
+
+//常见日语称呼、一些称呼、外号
+Shodaime：初代目
+Nidaime：二代目
+Yondaime：四代目
+Sandaime：三代目
+Godaimē：五代目
+Godaime：五代目
+Rokudaime：六代目
+Nanadaime：七代目
+ANBU：暗部
+Anbu：暗部
+Shinobigatana Shichininshu=忍刀 七人众
+Shisui no Shunshin：瞬身止水
+Shunshin no Shisui：瞬身止水
+Suna no Sankyoudai：砂之三姐弟
+Aoi Kajitsu：苍蓝 猛兽
+Sannin：三忍
+bakakashi：笨卡卡
+bakashi：笨卡卡
 usuratonkachi：超级大笨蛋
-Bakashi：笨卡卡
 White Demon：白色恶魔
 White Devil：白色恶魔
-
-//常见日语称呼
 Daimyō：大名
 Otōsama：父亲大人
 baka：笨蛋
