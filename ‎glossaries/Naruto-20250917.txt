@@ -706,6 +706,10 @@ Gama：蛤蟆
 Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
+usuratonkachi：超级大笨蛋
+Bakashi：笨卡卡
+White Demon：白色恶魔
+White Devil：白色恶魔
 
 //常见日语称呼
 Daimyō：大名
