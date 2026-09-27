@@ -504,6 +504,7 @@ Kotoamatsukami：别天神
 Amaterasu：天照
 Tsukuyomi：月读
 Kagutsuchi：加具土命
+Kagustuchi：加具土命
 flame control：加具土命
 Izanagi：伊邪那岐
 Izanami：伊邪那美
