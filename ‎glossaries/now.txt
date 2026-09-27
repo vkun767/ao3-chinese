@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-24
  
 词条
@@ -48,6 +48,7 @@ Chiyuna：千柚
 Chiyuri：千百合
 Chizuru：千鹤
 Chōbei：丁卫
+Chōdai：丁代
 Choko：蝶子
 Chōjirō：丁次郎
 Chōnosuke：丁之助
@@ -135,6 +136,7 @@ Inari：稻荷
 Inazuka：犬冢
 Inoki：井木
 Inoko：井子
+Inomoto：井本
 Inoru：井乐
 Inoshin：井信
 Inosuke：井助
@@ -384,6 +386,7 @@ Shikako：鹿子
 Shikamura：鹿村
 Shikari：鹿切
 Shikata：鹿方
+Shikato：鹿人
 Shiki：拓海
 Shinji：慎二
 Shion：诗音
