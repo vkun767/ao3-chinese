@@ -574,6 +574,7 @@ Henge：变身
 Bushin：分身
 Bunshin：分身
 Kawarimi：替身
+shadow clone：影分身
 Kage Bunshin：影分身
 shadow clone：影分身
 Taju Kage Bunshin：多重影分身
@@ -644,6 +645,10 @@ Dorō Dōmu：土牢 堂无
 Doro Domu：土牢 堂无
 Endan：炎弹
 Suihachi：水铁炮
+Great Fire Annihilation：豪火灭却
+Great Fire Ball：豪火球
+Fire Style：火遁
+Water Style：水遁
 
 //其他名词
 shinobi：忍者
