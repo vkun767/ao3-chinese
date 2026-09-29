@@ -62,6 +62,7 @@ Sarutobi Biwako=猿飞 琵琶湖
 Sarutobi Mirai=猿飞 未来
 Sarutobi Konohamaru=猿飞 木叶丸
 Hyūga Hinata=日向 雏田
+Hyuuga Hinata=日向 雏田
 Hyuga Hinata=日向 雏田
 Hyuga Hanabi=日向 花火
 Hyuga Neji=日向 宁次
