@@ -336,6 +336,8 @@ Kurama：九喇嘛
 Kyubi Yoko=九尾 妖狐
 Kyuubi Yoko=九尾 妖狐
 Kyubei：九尾
+Kyūbi：九尾
+Kyūbei：九尾
 Jubi：十尾
 Rikudo：六道
 
@@ -423,12 +425,19 @@ Whirlpool：涡潮村
 
 //遁术名称、忍术类别、忍者等级、班级
 Onmyoton：阴阳遁
+Onmyotōn：阴阳遁
 Mokuton：木遁
+Mokutōn：木遁
 Enton：炎遁
+Entōn：炎遁
 Katon：火遁
+Katōn：火遁
 Suiton：水遁
+Suitōn：水遁
 Fuuton：风遁
+Fuutōn：风遁
 Raiton：雷遁
+Raitōn：雷遁
 Hyoton：冰遁
 Futton：沸遁
 Shakuton：灼遁
@@ -457,11 +466,14 @@ jōnin：上忍
 Jonin：上忍
 Jounin：上忍
 Tokubetsu：特别上忍
+tokujō：特上
 Chounin：中忍
 Chūnin：中忍
 Chunin：中忍
 Genin：下忍
 Nukenin：叛忍
+nuke-nin：叛忍
+missing-nin：叛忍
 Sanban：第三班
 Dananahan：第七班
 Dai-nana-han：第七班
