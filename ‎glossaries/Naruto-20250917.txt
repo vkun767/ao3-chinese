@@ -444,6 +444,7 @@ Shakuton：灼遁
 Jinton：尘遁
 Ranton：岚遁
 Doton：土遁
+Dotōn：土遁
 Yoton：熔遁
 Kekkei Genkai：血继 限界
 kekkai genkai：血继 限界
@@ -455,7 +456,7 @@ Genjutsu：幻术
 Juinjutsu：咒印术
 fūinjutsu：封印术
 Fuinjutsu：封印术
-Fuuinjutsu封印术
+Fuuinjutsu：封印术
 iryo-jutsu：医疗忍术
 iryō-ninjutsu：医疗忍术
 Iryo Ninjutsu=医疗 忍术
@@ -693,6 +694,7 @@ Jashin：邪神
 sensor：感知忍者
 iryo-nin：医疗忍者
 copy nin：拷贝忍者
+copy-nin：拷贝忍者
 Fuuin：封印
 Juin：咒印
 Ketsu-in：结印
