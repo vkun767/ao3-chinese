@@ -197,6 +197,7 @@ Hebi：蛇小队
 Sabaku：砂瀑
 Gaara：我爱罗
 Kankuro：勘九郎
+Kankurō：勘九郎
 Temari：手鞠
 Baki：马基
 Pakura：泊良
@@ -204,7 +205,9 @@ Karura：加琉罗
 Yashamaru：夜叉丸
 Rasa：罗砂
 Chiyo：千代
+Chiyō：千代
 Ebizou：海老藏
+Ebizō：海老藏
 Karasu：乌鸦
 Kuroari：黑蚁
 Hiruko：绯流琥
