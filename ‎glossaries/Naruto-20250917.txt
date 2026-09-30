@@ -339,6 +339,7 @@ Kyubei：九尾
 Kyūbi：九尾
 Kyūbei：九尾
 Jubi：十尾
+Jūbi：十尾
 Rikudo：六道
 
 //博人传
@@ -501,6 +502,8 @@ Otonin：音忍
 Kusagakure：草忍村
 Kusa：草忍
 Amegakure：雨忍村
+Takigakure：泷忍村
+Yugakure：汤隐村
 Dazna：波之国
 Akatsuki：晓组织
 Tetsu：铁
@@ -687,6 +690,7 @@ Anbu：暗部
 Keimusho：警卫队
 Jinchuriki：人柱力
 Jinchuuriki：人柱力
+jinchūriki：人柱力
 Biju：尾兽
 Bijuu：尾兽
 Bijū：尾兽
