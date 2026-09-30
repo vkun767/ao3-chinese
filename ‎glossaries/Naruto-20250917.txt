@@ -453,6 +453,7 @@ Iryo Ninjutsu=医疗 忍术
 doujutsu：瞳术
 dojutsu：瞳术
 Shido Jonin=指导 上忍
+jōnin：上忍
 Jonin：上忍
 Jounin：上忍
 Tokubetsu：特别上忍
