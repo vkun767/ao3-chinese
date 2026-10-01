@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-24
  
 词条
@@ -497,6 +497,7 @@ Yori：由立
 Yorimasa：依正
 Yorito：依人
 Yoshinori：吉野
+Yoshiro：义郎
 Yoshiyasu：义康
 Yui：由衣
 Yukari：由香里
