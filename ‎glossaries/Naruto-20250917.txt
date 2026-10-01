@@ -756,6 +756,11 @@ nii-san：尼桑
 Anija：兄长
 Aniki：哥哥
 Aneue：姐姐
+sensei：老师
+taichō：队长
+taichou：队长
+senpai：前辈
+
 
 禁翻词条
 Alpha
