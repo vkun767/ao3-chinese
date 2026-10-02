@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.7
+版本号：1.1.8
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -550,7 +550,7 @@ Shinra Tensei：神罗天征
 Sinatense：神罗天征
 Almighty push：神罗天征
 Chibaku Tensei：地爆天星
-Bansho Ten'in：万象天引
+“Bansho Ten'in”：万象天引
 universal pull：万象天引
 Rinne Tensei：轮回天生
 Limbo Hengoku：轮墓 边狱
@@ -630,7 +630,7 @@ Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
 Infuin：阴封印
 Tensai Fuin：转写封印
-Sabaku Fudo: Sosa：砂漠层大葬封印
+Sabaku Fudo Sosa：砂漠层大葬封印
 Kaenjin：火炎阵
 Shishījin：四赤阳阵
 Rikushījin：六赤阳阵
