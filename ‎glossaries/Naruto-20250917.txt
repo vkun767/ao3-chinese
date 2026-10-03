@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.8
+版本号：1.1.9
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -378,6 +378,7 @@ Ashura：阿修罗
 Indora：因陀罗
 Hagoromo：羽衣
 Otsutsuki Kaguya=大筒木 辉夜
+Ōtsutsuki Kaguya=大筒木 辉夜
 Hamura：羽村
 Fūma：风魔
 Fuma：风魔
