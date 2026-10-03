@@ -385,6 +385,7 @@ Fuma：风魔
 
 //通灵兽相关
 Myobokuzan：妙木山
+Myobuku：妙木山
 Gamamaru：蛤蟆丸
 Fukasaku：深作
 Shima：志麻
@@ -396,9 +397,13 @@ GamaHiro：蛤蟆广
 Gamaro：蛤蟆罗
 Enkouou Enma=猿猴王 猿魔
 Ryuchido：龙地洞
+Ryuchi：龙地洞
+Ryūchido：龙地洞
+Ryūchi：龙地洞
 Katsuyu：蛞蝓
 Shikkotsurin：湿骨林
 shikkotsu：湿骨林
+Shikkotsu：湿骨林
 Hakuja：白蛇
 Manda：万蛇
 Aoda：青蛇
