@@ -753,6 +753,7 @@ Komon：顾问
 Haha-ue：母亲大人
 Chichi-ue：父亲大人
 nii-san：尼桑
+niisan：尼桑
 Anija：兄长
 Aniki：哥哥
 Aneue：姐姐
