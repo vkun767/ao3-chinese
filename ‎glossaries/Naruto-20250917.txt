@@ -769,6 +769,7 @@ sensei：老师
 taichō：队长
 taichou：队长
 senpai：前辈
+Hashi：柱
 
 
 禁翻词条
