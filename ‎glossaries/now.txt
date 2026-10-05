@@ -95,6 +95,7 @@ Haruko：春子
 Haro：哈罗
 Haromaru：春间
 Haruki：春树
+Haruna：春菜
 Haruto：春人
 Hasu：莲
 Hayato：隼人
@@ -424,6 +425,7 @@ Susuma：寿真
 Suoma：芬兰
 Suzaku：朱雀
 Suzuka：铃香
+Suzuma：铃木马
 Suzume：雀
 Susano’o：须佐能乎
 Syungo：修吾
