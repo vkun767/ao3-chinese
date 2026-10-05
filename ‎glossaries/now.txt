@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.7
+版本号：1.0.1
 更新时间：2025-10-24
  
 词条
@@ -247,6 +247,7 @@ Kyōmaru：京丸
 Kyougi：恭仪
 Kyouraku：京乐
 Madoka：圆香
+Maho：马霍
 Maiya：真弥
 Makiko：真纪子
 Makoto：诚
