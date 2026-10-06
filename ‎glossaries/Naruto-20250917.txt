@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.14
+版本号：1.1.15
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -431,7 +431,7 @@ Chameleon：变色龙
 //不限制大小写
 
 //地点
-Kannabi Bridge：神无毗桥
+Kannabi Bridge=神无毗 桥
 Naka：南贺川
 Nakano：南河川
 Nankagawa：南贺川
@@ -451,6 +451,7 @@ Yugakure：汤隐村
 Dazna：波之国
 Uchiha compound：宇智波族地
 Senju compound：千手族地
+Mountains Graveyard：山岳墓场
 
 //遁术名称、忍术类别、忍者等级、班级
 Onmyoton：阴阳遁
@@ -784,6 +785,17 @@ senpai：前辈
 Ōmikami：大神
 shirei-kan：司令官
 shirei-kan-sama：司令官大人
+Oba-san：阿姨
+Obasan：阿姨
+Oba–chan：姨
+Obachan：姨
+Oba：阿姨
+Obaasan：奶奶
+Obaa-san：奶奶
+obaa：奶奶
+obaasama：婆婆大人
+baasama：伯母大人
+goshujin-sama：夫君大人
 kinomo：和服
 fundoshi：裈裤
 genkan：玄关
