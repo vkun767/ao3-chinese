@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-24
  
 词条
@@ -103,6 +103,7 @@ Hayato：隼人
 Hebisuke：赫助
 Hekima：壁间
 Hibiko：响子
+Hideaki：英明
 Hideki：英树
 Hidenori：秀则
 Hideyoshi：秀吉
