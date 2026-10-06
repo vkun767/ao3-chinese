@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.12
+版本号：1.1.13
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -14,6 +14,7 @@ Yamato：大和
 Tenzo：天藏
 Tenzō：天藏
 Tenzou：天藏
+Kinoe：甲
 Sai：佐井
 Uzumaki Naruto=漩涡 鸣人
 Uzumaki Naruko=漩涡 鸣子
