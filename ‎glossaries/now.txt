@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-24
  
 词条
@@ -203,6 +203,7 @@ Keita：圭太
 Keisuke：圭介
 Kenichi：贤一
 Kentarō：健太郎
+Kentarou：健太郎
 Kenta：健太
 Kento：健人
 Kenzo：健藏
@@ -401,6 +402,7 @@ Shiki：拓海
 Shinji：慎二
 Shion：诗音
 Shiori：诗织
+Shirabu：白部
 Shiyu：时悠
 Shizuko：静子
 Shizuka：静香
