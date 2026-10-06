@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-24
  
 词条
@@ -173,7 +173,8 @@ Juro：十郎
 Kaede：枫
 Kagane：加金
 Kaito：海斗
-Kaisen：凯森
+Kaisen：海森
+Kaiyo：海阳
 Kakuto：角人
 Kako：小鹿
 Kagemori：影守
