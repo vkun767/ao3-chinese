@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-24
  
 词条
@@ -60,6 +60,7 @@ Dachi：大地
 Daiki：大辉
 Daisuke：大助
 Daiya：戴雅
+Danuo：檀雄
 Degai：德爱
 Dekai：德凯
 Doi：土井
@@ -163,6 +164,7 @@ Jimei：地明
 Jiro：次郎
 Jitan：次丹
 Jōseki：常石
+Juko：寿子
 Junko：顺子
 Junshin：俊信
 Junta：俊太 
@@ -177,6 +179,7 @@ Kagemori：影守
 Kagetsuna：影纲
 Kameyo：龟代
 Kamijima：上岛
+Kamori：加守
 Kanae：加奈惠
 Kaname：要势
 Kanon：卡农
@@ -226,6 +229,7 @@ Kodoma：儿玉
 Kōga：甲贺
 Koichi：浩一
 Kojika：治贺
+Komoto：河本
 Kōsa：高砂
 Kosen：古泉
 Kouga：甲贺
@@ -253,6 +257,7 @@ Maho：马霍
 Maiya：真弥
 Makiko：真纪子
 Makoto：诚
+Mamochi：桃地
 Mariko：真理子
 Matsu：松
 Matsubokkuri：松鼠栗
@@ -311,6 +316,7 @@ Noboru：信则
 Nodoka：希
 Nojiriko：诺吉里
 Nōka：农稼
+Nomea：野明
 Nori：诺里
 Noriko：纪子
 Nozomi：希美
@@ -330,6 +336,7 @@ Osuya：大泽
 Otoma：乙马
 otto：丈夫
 Raichi：雷市
+Raikido：雷斗
 Raito：雷人
 Reki：雷基
 Ren：莲
@@ -487,6 +494,7 @@ Tsumi：津美
 Tsuru：鹤
 Turo：图罗
 Ukie：浮木
+Una：宇奈
 Unarigoe ：宇那利
 Ume：梅
 Umeko：梅子
