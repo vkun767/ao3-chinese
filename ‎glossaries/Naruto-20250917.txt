@@ -154,6 +154,7 @@ Chiriku：地陆
 Ranmaru：兰丸
 Urushi：乌鲁西
 Hinoko：火野子
+ROOT：根
 
 //平民
 Gato：卡多
