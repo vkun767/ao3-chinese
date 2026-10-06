@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.15
+版本号：1.1.16
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -276,8 +276,9 @@ Cee：希
 Dodai：土代
 
 //雨忍和晓组织相关
-Sanshuo Hanzo：山椒鱼 半藏
-Sanshōuo Hanzou:山椒鱼 半藏
+Sanshuo Hanzo=山椒鱼 半藏
+Sanshōuo Hanzou=山椒鱼 半藏
+Sanshōuo Hanzō=山椒鱼 半藏
 Nagato：长门
 Pein：佩恩
 Yahiko：弥彦
