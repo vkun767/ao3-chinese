@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.11
+版本号：1.1.12
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -102,6 +102,7 @@ Uzuki Yugao=卯月 夕颜
 Yamashiro Aoba=山城 青叶
 Namiashi Raidou=并足 雷同
 Namiashi Raidō=并足 雷同
+Namiashi Raido=并足 雷同
 Tatami Iwashi=叠 伊瓦希
 Mitarashi Anko=御手洗 红豆
 Mitrashi Anko=御手洗 红豆
