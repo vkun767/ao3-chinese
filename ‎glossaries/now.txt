@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-24
  
 词条
@@ -552,17 +552,6 @@ Yuzuki：柚希
 
 通用词条
 //不限制大小写
-Oba-san：阿姨
-Obasan：阿姨
-Oba–chan：姨
-Obachan：姨
-Oba：阿姨
-Obaasan：奶奶
-Obaa-san：奶奶
-obaa：奶奶
-obaasama：婆婆大人
-baasama：伯母大人
-goshujin-sama：夫君大人
 sekke kuge：摄政 公家
 Ishikori-dome-sama：石凝姥命大人
 Karuma no Kagami：空魔之镜
