@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.13
+版本号：1.1.14
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -165,6 +165,7 @@ Inari：伊纳里
 Kaiza:凯沙
 Teuchi：手打
 Ichiraku ochan=一乐 大叔
+Ichiraku Ochan=一乐 大叔
 Ayame：菖蒲
 Tsunami：津波
 Natsuhi：夏日
@@ -287,6 +288,8 @@ Tobi：阿飞
 Zetsu：绝
 Kuro Zetsu：黑绝
 Black Zetsy：黑绝
+white Zetsu：白绝
+black Zetsu：黑绝
 Shiro Zetsu：白绝
 White Zetsu：白绝
 Hoshigaki Kisame=干柿 鬼鲛
@@ -334,7 +337,6 @@ Chōmei：重明
 Choumei：重明
 Nanabi：七尾
 Fuu：芙
-Takigakure：泷忍
 Gyuki：牛鬼
 Gyūki：牛鬼
 Hachibi：八尾
@@ -425,6 +427,8 @@ Uuhei：乌黑
 Nekobaa：猫婆婆
 Chameleon：变色龙
 
+通用词条
+//不限制大小写
 
 //地点
 Kannabi Bridge：神无毗桥
@@ -433,10 +437,20 @@ Nakano：南河川
 Nankagawa：南贺川
 Naka River：南贺川
 Whirlpool：涡潮村
-
-
-通用词条
-//不限制大小写
+Kusagakure：草忍村
+Kumogakure：云忍村
+Kirigakure：雾忍村
+Konohagakure：木叶忍村
+Sunagakure：砂忍村
+Iwagakure：岩忍村
+Uzushio：涡之国
+Otogakure：音忍村
+Amegakure：雨忍村
+Takigakure：泷忍村
+Yugakure：汤隐村
+Dazna：波之国
+Uchiha compound：宇智波族地
+Senju compound：千手族地
 
 //遁术名称、忍术类别、忍者等级、班级
 Onmyoton：阴阳遁
@@ -507,26 +521,15 @@ Kumo：云忍
 Kiri：雾忍
 Suna：砂忍
 Iwa：岩忍
-Kumogakure：云忍村
-Kirigakure：雾忍村
-Konohagakure：木叶忍村
-Sunagakure：砂忍村
-Iwagakure：岩忍村
-Uzushio：涡之国
-Otogakure：音忍村
 Otonin：音忍
-Kusagakure：草忍村
 Kusa：草忍
-Amegakure：雨忍村
-Takigakure：泷忍村
-Yugakure：汤隐村
-Dazna：波之国
 Akatsuki：晓组织
 Tetsu：铁
 Tsuchi：土
 Mizu：水
 Kaze：风
 Kaminari：雷
+
 
 //瞳术、血继限界相关
 Mangekyo：万花筒
@@ -583,30 +586,6 @@ Goryuka：豪龙火
 Tenseigan：转生眼
 Ketsuryugan：血龙眼
 
-//武器
-Gumbai：军配团扇
-Gunbai：军配团扇
-Bakutō Shibuki=爆刀 飞沫
-Dontō Kabutowari=钝刀 兜割
-Hebiichigo：蛇莓
-Chōtō Nuibari=长刀 缝针
-Dantō Kubikiribōchō=断刀 斩首大刀
-haragake：忍具包
-Kunai：苦无
-Shuriken：手里剑
-Enjutsu：烟雾弹
-Flash Bomb：闪光弹
-Hitai-ate：护额
-Bakufu：起爆符
-Makimono：卷轴
-Senbon：千本
-Shimenawa：注连绳
-Hyorogan：兵粮丸
-Ningu：忍具
-Kusanagi no Tsurugi：草薙剑
-Amenonuhoko：天沼矛
-Ame no nuhoko：天沼矛
-
 //其他忍术体术封印术等
 Henge：变身
 Bushin：分身
@@ -627,6 +606,10 @@ Fang over Fang：牙通牙
 Kikaichu：寄坏虫
 Senpo Myojimon=仙法 明神门
 Jukai Kotan：树界降诞
+Jukai Kōtan=树界 降诞
+Jukai Kōrin=树界 降诞
+Jukai Koorin=树界 降诞
+Kajukai Koorin=花树界 降诞
 Shinsusenju：真数千手
 Chojo Kebutsu：顶上化佛
 Mokusa Ban：默杀缚
@@ -688,7 +671,31 @@ Great Fire Ball：豪火球
 Fire Style：火遁
 Water Style：水遁
 
-//其他名词
+//武器物品
+Gumbai：军配团扇
+Gunbai：军配团扇
+Bakutō Shibuki=爆刀 飞沫
+Dontō Kabutowari=钝刀 兜割
+Hebiichigo：蛇莓
+Chōtō Nuibari=长刀 缝针
+Dantō Kubikiribōchō=断刀 斩首大刀
+haragake：忍具包
+Kunai：苦无
+Shuriken：手里剑
+Enjutsu：烟雾弹
+Flash Bomb：闪光弹
+Hitai-ate：护额
+Bakufu：起爆符
+Makimono：卷轴
+Senbon：千本
+Shimenawa：注连绳
+Hyorogan：兵粮丸
+Ningu：忍具
+Kusanagi no Tsurugi：草薙剑
+Amenonuhoko：天沼矛
+Ame no nuhoko：天沼矛
+
+//其他专有称呼和名词
 shinobi：忍者
 kunoichi：女忍
 Charka：查克拉
@@ -696,8 +703,9 @@ Chakra：查克拉
 tenketsu：经脉
 Keirakukei：经络系统
 Sengoku：战国
-Ninkai Taisen：忍界大战
+Ninkai Taisen=忍界 大战
 daimyo：大名
+Daimyō：大名
 Soke：宗家
 Bunke：分家
 Konoha：木叶
@@ -721,9 +729,6 @@ Ketsu-in：结印
 botchan：三色团子
 teppanyaki：铁板烧
 Happuri：护额
-kinomo：和服
-fundoshi：裈裤
-genkan：玄关
 Kaama：楔
 Karma：楔
 Kāma：楔
@@ -732,12 +737,8 @@ Gama：蛤蟆
 Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
-white Zetsu：白绝
-black Zetsu：黑绝
 Icha Icha：亲热天堂
 Icha Icha Paradise：亲热天堂
-
-//常见日语称呼、一些称呼、外号
 Shodaime：初代目
 Nidaime：二代目
 Yondaime：四代目
@@ -746,8 +747,6 @@ Godaimē：五代目
 Godaime：五代目
 Rokudaime：六代目
 Nanadaime：七代目
-ANBU：暗部
-Anbu：暗部
 Shinobigatana Shichininshu=忍刀 七人众
 Shisui no Shunshin：瞬身止水
 Shunshin no Shisui：瞬身止水
@@ -759,14 +758,20 @@ bakashi：笨卡卡
 usuratonkachi：超级大笨蛋
 White Demon：白色恶魔
 White Devil：白色恶魔
-Daimyō：大名
+Hashi：柱
+Izu：泉
+
+//常见日语称呼、物品
 Otōsama：父亲大人
+Chichi-ue：父亲大人
+Chichiue：父亲大人
+Otou-sama：父亲大人
+Haha-ue：母亲大人
+Hahaue：母亲大人
 baka：笨蛋
 otōto：弟弟
 otouto：弟弟
 Komon：顾问
-Haha-ue：母亲大人
-Chichi-ue：父亲大人
 nii-san：尼桑
 niisan：尼桑
 Anija：兄长
@@ -776,8 +781,12 @@ sensei：老师
 taichō：队长
 taichou：队长
 senpai：前辈
-Hashi：柱
-
+Ōmikami：大神
+shirei-kan：司令官
+shirei-kan-sama：司令官大人
+kinomo：和服
+fundoshi：裈裤
+genkan：玄关
 
 禁翻词条
 Alpha
