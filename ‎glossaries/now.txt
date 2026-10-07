@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-24
  
 词条
@@ -42,6 +42,7 @@ Chiemi：千惠美
 Chikara：力
 Chihomi：千穗美
 Chinatsu：千夏
+Chine：千娜
 Chiori：千织
 Chiya：千雅
 Chiyuku：千愈
