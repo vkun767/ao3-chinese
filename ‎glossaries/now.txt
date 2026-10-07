@@ -11,7 +11,7 @@ Aikawa：相川
 Aino：爱野
 Airi：爱丽
 Akako：朱子
-Arashi：岚
+Akima：朱间
 Akemi：阿美
 Akehito：明仁
 Aki：阿基
@@ -26,6 +26,7 @@ Amaya：天谷
 Ami：亚美
 Anzu：安祖
 Anpam：安帕姆
+Arashi：岚
 Arata：新田
 Arugo：阿鲁戈
 Asahi：朝日
