@@ -800,6 +800,7 @@ goshujin-sama：夫君大人
 kinomo：和服
 fundoshi：裈裤
 genkan：玄关
+kata：型
 
 禁翻词条
 Alpha
