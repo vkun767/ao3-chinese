@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.16
+版本号：1.1.17
 更新时间：2026-01-27
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -40,6 +40,7 @@ Uchiha Yashiro‌=宇智波 八代
 Uchiha Tetsuka‌=宇智波 铁火
 Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
+Ukki：乌基
 Sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
 
