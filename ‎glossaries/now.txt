@@ -1,6 +1,6 @@
 维护者：临时用
 版本号：1.0.4
-更新时间：2025-10-24
+更新时间：2025-10-25
  
 词条
 // 限制大小写
@@ -58,6 +58,7 @@ Chōnosuke：丁之助
 Chōsuke：丁助
 Choto：丁户
 Choudai：丁大
+Chouka：丁华
 Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
@@ -187,6 +188,7 @@ Kakuto：角人
 Kako：小鹿
 Kagemori：影守
 Kagetsuna：影纲
+Kagi：影
 Kameyo：龟代
 Kamijima：上岛
 Kamori：加守
