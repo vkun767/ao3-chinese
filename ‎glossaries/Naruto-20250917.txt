@@ -844,6 +844,7 @@ kata：型
 clone：分身
 “san-san-kudo”：三三九度
 sansankudo：三三九度
+dogeza：土下座
 
 禁翻词条
 Alpha
