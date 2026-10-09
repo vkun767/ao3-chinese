@@ -851,6 +851,8 @@ nii-san：尼桑
 niisan：尼桑
 kinomo：和服
 fundoshi：裈裤
+shikibuton：垫被
+kakebuton：盖被
 genkan：玄关
 kata：型
 
