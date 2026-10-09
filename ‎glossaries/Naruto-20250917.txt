@@ -514,7 +514,7 @@ nuke-nin：叛忍
 missing-nin：叛忍
 Sanban：第三班
 Dananahan：第七班
-Dai-nana-han：第七班
+“Dai-nana-han”：第七班
 Hachihan：第八班
 Juppan：第十班
 Kage：影
