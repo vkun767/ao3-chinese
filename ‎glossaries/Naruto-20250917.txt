@@ -842,6 +842,7 @@ genkan：玄关
 kata：型
 clone：分身
 “san-san-kudo”：三三九度
+sansankudo：三三九度
 
 禁翻词条
 Alpha
