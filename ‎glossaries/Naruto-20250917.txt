@@ -43,6 +43,7 @@ Hatake Kakashi=旗木 卡卡西
 Ukki：乌基
 Sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
+Maa：嘛
 
 //木叶其他十二小强班级及直系
 Nara Shikamaru=奈良 鹿丸
