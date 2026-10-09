@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.5
+版本号：1.0.6
 更新时间：2025-10-25
  
 词条
@@ -565,7 +565,8 @@ Ishikori-dome-sama：石凝姥命大人
 Karuma no Kagami：空魔之镜
 Team Ro：第六队
 honeypot：色诱
-
+“brother-in-law”：姻亲兄弟
+“sister-in-law”：姻亲姐妹
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
