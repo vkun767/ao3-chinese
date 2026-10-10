@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.9
+版本号：1.0.10
 更新时间：2025-10-25
  
 词条
@@ -34,6 +34,8 @@ Arata：新田
 Arugo：阿鲁戈
 Asahi：朝日
 Ashina：芦名
+Ashino：芦野
+Asuka：明日香
 Atsugi：厚木
 Aoki：青木
 Aya：阿雅
