@@ -1,11 +1,12 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-25
  
 词条
 // 限制大小写
 Ako：亚子
 Aika：爱华
+Aiki：爱希
 Aiko：爱子
 Aina：爱奈
 Aikawa：相川
@@ -40,6 +41,7 @@ Asuka：明日香
 Atsugi：厚木
 Aoki：青木
 Aya：阿雅
+Ayako：绫子
 Ayaka：绫华
 Barako：芭乐子
 Baru：巴鲁
@@ -478,6 +480,7 @@ Suiko：水子
 Suki：佑树
 Sukuīzu：疾翅
 Suma：苏玛
+Sumi：澄美
 Suseri：苏绕
 Susuma：寿真
 Suoma：芬兰
