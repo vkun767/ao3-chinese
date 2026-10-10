@@ -349,6 +349,7 @@ Hachibi：八尾
 Killer Bee：奇拉比
 Killer B：奇拉比
 Kurama：九喇嘛
+Kyuubi no Kitsune：九尾妖狐
 Kyubi Yoko=九尾 妖狐
 Kyuubi Yoko=九尾 妖狐
 Kyubei：九尾
@@ -837,6 +838,7 @@ obaasama：婆婆大人
 baasama：伯母大人
 “goshujin-sama”：夫君大人
 “nii-san”：尼桑
+“nee-chan”：姐姐
 sama：大人
 kun：君
 hime：姬
