@@ -46,6 +46,7 @@ Baru：巴鲁
 Byakuren：白莲
 Chiaka：千秋
 Chiasa：千朝
+Chiba：千叶
 Chiemi：千惠美
 Chihiro：千宏
 Chihomi：千穗美
@@ -207,6 +208,7 @@ Kamijima：上岛
 Kamori：加守
 Kanae：加奈惠
 Kaname：要势
+Kanata：神田
 Kanon：卡农
 Kaneda：金田
 Kariho：狩穗
@@ -242,14 +244,15 @@ Kiku：菊
 Kikunojin：菊之仁
 Kiraku：木乐
 Kitai：北斋
-Kiyo：清子
-Kiyomizu：清见
-Kiyoshi：清志
-Kiyoshige：清重
+Kitatani：北谷
 Kiraku：木乐
 Kishi：岸
 Kitsune：狐妖
+Kiyo：清子
 Kiyomi：清美
+Kiyomizu：清见
+Kiyoshi：清志
+Kiyoshige：清重
 Kodoma：儿玉
 Kōga：甲贺
 Koichi：浩一
@@ -429,6 +432,7 @@ Senna：千奈
 Senri：千里
 Seto：濑户
 Shamon：沙蒙
+Shiba：志巴
 Shibiki：志木
 Shiemi：诗惠美
 Shiho：诗穗
@@ -524,6 +528,7 @@ Toshihiro：俊宏
 Toshiko：敏子
 Toshiro：俊郎
 Toshizo：俊藏
+Touzoku：盗贼
 Tōyu：冬佑
 Tsubisa：月火
 Tsugumi：次弓
