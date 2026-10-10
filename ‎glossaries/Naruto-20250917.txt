@@ -443,7 +443,6 @@ Naka：南贺川
 Nakano：南河川
 Nankagawa：南贺川
 Naka River：南贺川
-Whirlpool：涡潮村
 Kusagakure：草忍村
 Kumogakure：云忍村
 Kirigakure：雾忍村
@@ -451,6 +450,8 @@ Konohagakure：木叶忍村
 Sunagakure：砂忍村
 Iwagakure：岩忍村
 Uzushio：涡之国
+Uzushiogakure：涡隐村
+Whirlpool：涡潮村
 Otogakure：音忍村
 Amegakure：雨忍村
 Takigakure：泷忍村
