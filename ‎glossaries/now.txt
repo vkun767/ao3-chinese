@@ -68,7 +68,8 @@ Dachi：大地
 Daiki：大辉
 Daisuke：大助
 Daiya：戴雅
-Danuo：檀雄
+Danuo：断雄
+Dansei：断圣
 Degai：德爱
 Dekai：德凯
 Doi：土井
@@ -361,6 +362,7 @@ Raichi：雷市
 Raikido：雷斗
 Raito：雷人
 Reki：雷基
+Rei：雷伊
 Ren：莲
 Renzu：莲组
 Renzo：莲藏
@@ -559,6 +561,7 @@ Yūta：裕太
 Yuto：裕人
 Yuu：优
 Yuuji：优二
+Yuuka：优花
 Yuuma：优真
 Yuuri：优里
 Yuzuki：柚希
