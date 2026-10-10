@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.6
+版本号：1.0.7
 更新时间：2025-10-25
  
 词条
@@ -70,6 +70,7 @@ Chōsuke：丁助
 Choto：丁户
 Choudai：丁大
 Chouka：丁华
+Chouko：丁子
 Daruzo：达鲁藏
 Dachi：大地
 Daiki：大辉
@@ -140,6 +141,8 @@ Hiro：宏
 Hiroaki：广明
 Hiroki：广树
 Hiroshi：广志
+Hiru：日
+Hirzuen：日斩
 Hisato：久人
 Hishaku：飞针
 Hitabi：火足
@@ -161,6 +164,7 @@ Inabi：稻火
 Inaka：稻中
 Inari：稻荷
 Inazuka：犬冢
+Inohiko：井彦
 Inoki：井木
 Inoko：井子
 Inomoto：井本
