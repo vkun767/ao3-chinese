@@ -599,6 +599,7 @@ Tenseigan：转生眼
 Ketsuryugan：血龙眼
 
 //其他忍术体术封印术等
+no jutsu：之术
 Henge：变身
 Bushin：分身
 Bunshin：分身
