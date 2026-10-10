@@ -78,6 +78,7 @@ Doi：土井
 Eiichi：荣一
 Eijirō：英次郎
 Eiji：英二
+Enjin：炎神
 Eiko：荣子
 Eizan：英山
 Erika：绘里香
@@ -298,6 +299,7 @@ Masuyo：真代
 Masumi：真理
 Megumi：惠
 Meiko：明子
+Michiko：美智子
 Miho：美惠
 Miki：美纪
 Minako：美奈子
@@ -307,8 +309,8 @@ Misaki：美咲
 Misao：美佐叶
 Mitsuba：三叶
 Miori：美织
-Miu：美羽
 Mio：澪
+Miu：美羽
 Mizuho：水穗
 Mizuna：水奈
 Momiji：红叶
