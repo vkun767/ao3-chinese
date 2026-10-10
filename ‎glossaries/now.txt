@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-25
  
 词条
@@ -264,6 +264,7 @@ Kosen：高泉
 Kosuke：高助
 Kototaro：高太郎
 Kouga：甲贺
+Kouyou：红叶
 Kowa：科亚
 Kōya：光也
 Kohaku：琥珀
