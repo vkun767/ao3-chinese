@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.5
+版本号：1.0.6
 更新时间：2025-10-25
  
 词条
@@ -227,6 +227,7 @@ Kazane：风音
 Kazue：和惠
 Kazuka：和贺
 Kazuki：和树
+Kazuma：和马
 Kazumi：和美
 Kazushi：和寿
 Kazuto：和人
