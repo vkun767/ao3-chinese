@@ -47,8 +47,9 @@ Byakuren：白莲
 Chiaka：千秋
 Chiasa：千朝
 Chiemi：千惠美
-Chikara：力
+Chihiro：千宏
 Chihomi：千穗美
+Chikara：力
 Chinatsu：千夏
 Chine：千娜
 Chiori：千织
@@ -61,7 +62,7 @@ Chōbei：丁卫
 Chōdai：丁代
 Choko：蝶子
 Chōjirō：丁次郎
-Chōnosuke：丁之助
+Chōnosuke：丁助
 Chōsuke：丁助
 Choto：丁户
 Choudai：丁大
@@ -254,6 +255,7 @@ Kōga：甲贺
 Koichi：浩一
 Kojika：治贺
 Komoto：河本
+Konaru：河鸣
 Kōsa：高砂
 Kosen：高泉
 Kosuke：高助
@@ -496,6 +498,7 @@ Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
 Tamotsu：保
+Tatsuya：拓也
 Tenchi：天地
 Tetsuka：铁火
 Tetsuo：哲雄
