@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.13
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -305,6 +305,7 @@ Masuyo：真代
 Masumi：真理
 Megumi：惠
 Meiko：明子
+Michi：美智
 Michiko：美智子
 Miho：美惠
 Miki：美纪
@@ -315,6 +316,7 @@ Misaki：美咲
 Misao：美佐叶
 Miso：味增
 Mitsuba：三叶
+Mitsuru：美弦
 Miori：美织
 Mio：澪
 Miu：美羽
@@ -348,7 +350,9 @@ Neko：猫
 Nimori：仁森
 Niwa：丹羽
 Noa：诺亚
+Noba：诺巴
 Nobu：信
+Nobuki：信纪
 Noboru：信则
 Nodoka：希
 Nojiriko：诺吉里
