@@ -424,6 +424,7 @@ Shibiki：志木
 Shiemi：诗惠美
 Shiho：诗穗
 Shihona：诗穗奈
+Shijimi：汐见
 Shikabane：尸骨
 Shikaharu：鹿晴
 Shikaichi：鹿一
@@ -507,6 +508,7 @@ Tomoko：知子
 Tomoya：知也
 Tomoyori：知纪
 Tooru：透
+Tora：虎
 Tori：鸟
 Toshihiro：俊宏
 Toshiko：敏子
