@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.7
+版本号：1.0.8
 更新时间：2025-10-25
  
 词条
@@ -43,6 +43,7 @@ Aoki：青木
 Aya：阿雅
 Ayako：绫子
 Ayaka：绫华
+Ayumi：步美
 Barako：芭乐子
 Baru：巴鲁
 Byakuren：白莲
@@ -590,6 +591,7 @@ Yuki：雪
 Yukina：雪名
 Yukimi：雪见
 Yuko：优子
+Yua：结爱
 Yūjima：由岛
 Yume：梦
 Yumei：由梅
