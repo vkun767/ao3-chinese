@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.10
+版本号：1.0.11
 更新时间：2025-10-25
  
 词条
@@ -180,6 +180,7 @@ Izuya：伊豆弥
 Jigen：慈玄
 Jimei：地明
 Jiro：次郎
+Jirou：次郎
 Jitan：次丹
 Jōseki：常石
 Juko：寿子
@@ -540,6 +541,7 @@ Yakamaru：夜鸦丸
 Yako：野狐
 Yami：夜见
 Yamīchi：关一
+Yashiro：八代
 Yasuko：亚苏子
 Yasu：亚苏
 Yasutora：泰虎
