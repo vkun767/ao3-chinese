@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.8
+版本号：1.0.9
 更新时间：2025-10-25
  
 词条
@@ -321,6 +321,7 @@ Naeki：奈木
 Nanami：七海
 Nanashi：无名
 Nami：奈美
+Naohime：直姬
 Naoki：直树
 Naomi：直美
 Naori：直里
@@ -512,6 +513,7 @@ Toshizo：俊藏
 Tōyu：冬佑
 Tsubisa：月火
 Tsugumi：次弓
+Tsuguru：嗣
 Tsukiko：月子
 Tsuki：月
 Tsukiyomi：月读
