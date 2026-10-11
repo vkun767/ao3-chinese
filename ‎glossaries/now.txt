@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -51,6 +51,7 @@ Byakuren：白莲
 Chiaka：千秋
 Chiasa：千朝
 Chiba：千叶
+Chiem：千惠
 Chiemi：千惠美
 Chihiro：千宏
 Chihomi：千穗美
