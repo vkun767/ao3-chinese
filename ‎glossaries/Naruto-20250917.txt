@@ -846,8 +846,8 @@ sama：大人
 kun：君
 hime：姬
 chan：酱
-ji：叔
-ba：姨
+-ji：叔
+-ba：姨
 nii：哥
 nee：姐
 niisan：尼桑
