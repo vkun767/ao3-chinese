@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.8
+版本号：1.0.9
 更新时间：2025-10-25
  
 词条
@@ -46,6 +46,7 @@ Ayaka：绫华
 Ayumi：步美
 Barako：芭乐子
 Baru：巴鲁
+Botan：牡丹
 Byakuren：白莲
 Chiaka：千秋
 Chiasa：千朝
@@ -91,6 +92,7 @@ Eizan：英山
 Erika：绘里香
 Emigiku：惠菊
 Fubuki：吹雪
+Fūjin：风神
 Fukito：福人
 Fumiko：文子
 Fumio：文雄
@@ -112,8 +114,9 @@ Hanata：花奏
 Hanataro：花太郎
 Hanjirou：半次郎
 Hama：花麻
+Haru：春
 Haruhi：春香
-Haruka：春
+Haruka：春华
 Haruko：春子
 Haro：花罗
 Haromaru：春间
@@ -121,8 +124,10 @@ Haruki：春树
 Haruna：春菜
 Haruto：春人
 Hasu：莲
+Hayase：隼濑
 Hayato：隼人
 Hebisuke：赫助
+Hideji：秀次
 Hekima：壁间
 Hibiko：响子
 Hibiki：响明
@@ -157,6 +162,7 @@ Hotaka：穗高
 Hotaru：萤
 Hoshi：星
 Hoshika：星华
+Hosokawa：细川
 Houju：候朱
 Hukano：深野
 Igaku：伊角
@@ -178,6 +184,7 @@ Izumi：泉美
 Izuno：泉野
 Iroha：伊吕波
 Itsumi：伊美
+Itsuki：树
 Itsuko：伊津子
 Isamu：勇
 Isetsu：伊势津
@@ -214,6 +221,7 @@ Kagi：影
 Kameyo：龟代
 Kamijima：上岛
 Kamori：加守
+Kanade：奏
 Kanae：加奈惠
 Kaname：要势
 Kanata：神田
@@ -241,6 +249,7 @@ Kazuya：和也
 Kichi：吉吉
 Keita：圭太
 Keisuke：圭介
+Kenesuku：兼助
 Kenichi：贤一
 Kentarō：健太郎
 Kentarou：健太郎
@@ -308,7 +317,9 @@ Matsuyo：松世
 Matsunaga：松永
 Matsunari：松成
 Masa：正雅
+Masahiro：正宏
 Masako：雅子
+Masamura：正村
 Masanobu：正信
 Masaru：胜人
 Masashi：正志
@@ -339,7 +350,9 @@ Momoko：桃子
 Momoshi：桃矢
 Moriko：森子
 Moritaka：森高
+Mosu：莫苏
 Muruwa：室轮
+Mutsuo：六男
 Myo：美代
 Myoga：妙雅
 Myōkō：妙高
@@ -376,6 +389,7 @@ Noriko：纪子
 Nozomi：希美
 Numa：沼
 Ocha：茶茶
+Oda：织田
 Okimoto：奥本
 Okinao：兴直
 Okuninushi：奥国奴
@@ -417,6 +431,7 @@ Ryota：凉太
 Ryouta：凉太
 Ryuna：龙奈
 Ryujii：龙二
+Ryūji：龙二
 Ryukyu：琉球
 Ryunosuke：龙之介
 Ryuuichi：龙一
@@ -443,6 +458,7 @@ Seiko：圣子
 Seiryū：青龙
 Seiryu：青龙
 Seiryou：青龙
+Seishi：清志
 seiza：正坐
 Sen：千
 Senna：千奈
@@ -479,8 +495,10 @@ Shokari：小狩
 Shona：翔南
 Shoma：肖马
 Shorin：小林
+Shun：瞬
 Soji：宗次
 Sora：空
+Soramaru：空丸
 Souma：宗马
 Subaru：昴
 Sueko：末子
@@ -501,6 +519,8 @@ Syungo：修吾
 Syōma：将马
 Tadashi：忠
 Tadao：忠雄
+Tadaoki：忠兴
+Tagayasu：田谷
 Taigen：泰元
 Taihei：泰平
 Taka：鹰
@@ -556,6 +576,8 @@ Tsuki：月
 Tsukiyomi：月读
 Tsumi：津美
 Tsuru：鹤
+Tsuruhashi：鹤桥
+Tsutsui：筒井
 Turo：图罗
 Ukie：浮木
 Una：宇奈
@@ -571,6 +593,7 @@ Wazuki：和月
 Yadashige：矢田茂
 Yakamaru：夜鸦丸
 Yako：野狐
+Yamana：山名
 Yami：夜见
 Yamīchi：关一
 Yashiro：八代
@@ -605,8 +628,11 @@ Yuuji：优二
 Yuuka：优花
 Yuuma：优真
 Yuuri：优里
+Yuuto：优斗
 Yuzuki：柚希
+Zugara：祖罗
 
+Fire Lord：火之国大名
 
 通用词条
 //不限制大小写
