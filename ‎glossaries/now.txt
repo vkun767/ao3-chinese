@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -18,8 +18,9 @@ Akari：明里
 Akemi：阿美
 Akehito：明仁
 Aki：阿基
-Akio：秋生
 Akima：朱间
+Akio：秋生
+Akito：秋人
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
