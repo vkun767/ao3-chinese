@@ -104,6 +104,8 @@ Furuya：古谷
 Fushimi：伏见
 Fushito：伏人
 Fuyuharu：冬晴
+Genbu：玄武
+Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
@@ -121,11 +123,11 @@ Haru：春
 Haruhi：春香
 Haruka：春华
 Haruko：春子
-Haro：花罗
-Haromaru：春间
 Haruki：春树
 Haruna：春菜
 Haruto：春人
+Haro：花罗
+Haromaru：春间
 Hasu：莲
 Hayase：隼濑
 Hayato：隼人
