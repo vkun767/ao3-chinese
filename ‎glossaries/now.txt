@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -73,7 +73,6 @@ Choto：丁户
 Choudai：丁大
 Chouka：丁华
 Chouko：丁子
-
 Dachi：大地
 Daiki：大辉
 Dairoku：大六
@@ -109,6 +108,7 @@ Fushimi：伏见
 Fushito：伏人
 Fuyuharu：冬晴
 Genbu：玄武
+Genta：玄太
 Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
@@ -356,6 +356,7 @@ Mitsuru：美弦
 Miori：美织
 Mio：澪
 Miu：美羽
+Miyo：美悠
 Mizuho：水穗
 Mizuna：水奈
 Momiji：红叶
