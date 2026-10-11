@@ -804,6 +804,8 @@ otosan：父亲
 otōsame：父亲大人
 otōsan：父亲
 “otō–san”：父亲
+“kaa-san”：母亲
+kaa-san：母亲
 “Haha-ue”：母亲大人
 Hahaue：母亲大人
 okasame：母亲大人
