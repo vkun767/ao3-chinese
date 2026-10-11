@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -473,6 +473,7 @@ Sakiko：咲子
 Sakuto：朔人
 Sango：珊瑚
 Sanma：三瓦
+Santa：三太
 Sanuki：佐贯
 Samua：三亚
 Sarana：纱良
