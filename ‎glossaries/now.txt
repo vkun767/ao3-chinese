@@ -1,10 +1,9 @@
 维护者：临时用
-版本号：1.0.10
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
 // 限制大小写
-Ako：亚子
 Aika：爱华
 Aiki：爱希
 Aiko：爱子
@@ -16,16 +15,17 @@ Akahane：明羽
 Akako：明子
 Akane：茜
 Akari：明里
-Akima：朱间
 Akemi：阿美
 Akehito：明仁
 Aki：阿基
 Akio：秋生
+Akima：朱间
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
 Akitsuna：秋纲
 Akshaya：阿克沙亚
+Ako：亚子
 Amaha：天羽
 Amaya：天谷
 Ami：亚美
@@ -93,6 +93,7 @@ Emigiku：惠菊
 Emiyo：惠优
 Enjin：炎神
 Erika：绘里香
+Etsuku：悦久
 Fubuki：吹雪
 Fūjin：风神
 Fukito：福人
@@ -253,7 +254,6 @@ Kazumi：和美
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
-Kichi：吉吉
 Keita：圭太
 Keisuke：圭介
 Kenesuku：兼助
@@ -265,6 +265,7 @@ Kenta：健太
 Kento：健人
 Kenzo：健藏
 Keisuki：庆杉
+Kichi：吉吉
 Kikiro：菊郎
 Kikiyo：菊代
 Kiku：菊
@@ -284,6 +285,7 @@ Kodoma：儿玉
 Kōga：甲贺
 Koichi：浩一
 Kojika：治贺
+Komoko：小茂子
 Komoto：河本
 Konaru：河鸣
 Kōsa：高砂
@@ -390,6 +392,7 @@ Noba：诺巴
 Nobu：信
 Nobuki：信纪
 Noboru：信则
+Nobuyuki：信幸
 Nodoka：希
 Nojiriko：诺吉里
 Nōka：农稼
@@ -430,6 +433,7 @@ Rikudo：六道
 Riku：陆
 Rinha：玲羽
 Rinka：琳花
+Risako：理沙子
 Risato：里见
 Rou：罗
 Rowa：罗瓦
@@ -632,6 +636,7 @@ Yume：梦
 Yumei：由梅
 Yumiko：由美子
 Yūna：由奈
+Yuri：由里
 Yūshin：勇信
 Yūta：裕太
 Yuto：裕人
