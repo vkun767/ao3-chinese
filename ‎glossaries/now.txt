@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-25
  
 词条
@@ -93,6 +93,7 @@ Emigiku：惠菊
 Emiyo：惠优
 Enjin：炎神
 Erika：绘里香
+Etsuko：悦子
 Etsuku：悦久
 Fubuki：吹雪
 Fūjin：风神
