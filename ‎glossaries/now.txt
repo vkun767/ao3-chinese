@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-25
  
 词条
@@ -73,13 +73,15 @@ Choto：丁户
 Choudai：丁大
 Chouka：丁华
 Chouko：丁子
-Daruzo：达鲁藏
+
 Dachi：大地
 Daiki：大辉
+Dairoku：大六
 Daisuke：大助
 Daiya：戴雅
 Danuo：断雄
 Dansei：断圣
+Daruzo：达鲁藏
 Degai：德爱
 Dekai：德凯
 Doi：土井
@@ -112,7 +114,7 @@ Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
 Hachihide：蜂秀
-Hachiro：八郎
+Hachiro：郎
 Hagemaru：羽月丸
 Hajime：始司
 Hanako：花子
