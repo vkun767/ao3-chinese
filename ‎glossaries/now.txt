@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -96,7 +96,7 @@ Emon：右门
 Emigiku：惠菊
 Emiyo：惠优
 Enjin：炎神
-Ensui：炎水
+Ensui：盐水
 Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
