@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -101,6 +101,7 @@ Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
 Fubuki：吹雪
+Fuji：不二
 Fūjin：风神
 Fukito：福人
 Fumiko：文子
@@ -155,6 +156,7 @@ Hikari：光
 Hiko：彦
 Himari：日葵
 Himiko：卑弥呼
+Himitsu：秘密
 Hina：希娜
 Hinako：雏子
 Hinoda：日升
@@ -515,6 +517,7 @@ Shiori：诗织
 Shirabu：白部
 Shiro：白郎
 Shiyu：时悠
+Shizen：自然
 Shizuko：静子
 Shizuka：静香
 Shizuki：静月
