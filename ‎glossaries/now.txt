@@ -366,6 +366,7 @@ Naeki：奈木
 Nanami：七海
 Nanashi：无名
 Nami：奈美
+Namie：奈美枝
 Naohime：直姬
 Naoki：直树
 Naomi：直美
@@ -545,8 +546,9 @@ Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
 Tamotsu：保
-Tatsuya：拓也
 Tenchi：天地
+Tateiwa：立岩
+Tatsuya：拓也
 Tetsuka：铁火
 Tetsuo：哲雄
 Tetsuya：哲也
