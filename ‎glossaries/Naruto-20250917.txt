@@ -179,6 +179,8 @@ Gengo：源吾
 //音忍
 Orochimaru：大蛇丸
 Yakushi Nonou=药师 野乃宇
+Yakushi Nono=药师 野乃宇
+Yakushi Nonō=药师 野乃宇
 Yakushi Kabuto=药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
