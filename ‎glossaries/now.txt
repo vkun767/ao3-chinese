@@ -40,6 +40,7 @@ Ashina：芦名
 Ashino：芦野
 Asuka：明日香
 Atsugi：厚木
+Atsuko：敦子
 Aoki：青木
 Aya：阿雅
 Ayako：绫子
@@ -95,6 +96,7 @@ Emon：右门
 Emigiku：惠菊
 Emiyo：惠优
 Enjin：炎神
+Ensui：炎水
 Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
@@ -125,6 +127,7 @@ Hanataro：花太郎
 Hanjirou：半次郎
 Hama：花麻
 Hamiri：浜理
+Harada：原田
 Haru：春
 Haruhi：春香
 Haruka：春华
@@ -280,6 +283,7 @@ Kitai：北斋
 Kitatani：北谷
 Kiraku：木乐
 Kishi：岸
+Kishimoto：岸本
 Kitsune：狐妖
 Kiyo：清子
 Kiyomi：清美
@@ -411,6 +415,7 @@ Nozomi：希美
 Numa：沼
 Ocha：茶茶
 Oda：织田
+Okami：冈美
 Okimoto：奥本
 Okinao：兴直
 Okuninushi：奥国奴
@@ -629,7 +634,7 @@ Yoko：洋子
 Yori：由立
 Yorimasa：依正
 Yorito：依人
-Yoshinori：吉野
+Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
 Yui：由衣
@@ -640,7 +645,7 @@ Yukimi：雪见
 Yuko：优子
 Yua：结爱
 Yūjima：由岛
-Yume：梦
+Yume：由梦
 Yumei：由梅
 Yumiko：由美子
 Yūna：由奈
