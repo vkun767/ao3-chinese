@@ -255,6 +255,7 @@ Kurosuki Buntan=黑锄 文淡
 Hoshigaki Shizuma=干柿 尸澄真
 Munashi Jinpachi=无梨 甚八
 Biwa Jūzō=枇杷 十藏
+Biwa Juzo=枇杷 十藏
 Biwa Juuzo=枇杷 十藏
 Biwa Jūzo=枇杷 十藏
 Suikazan Fuguki=西瓜山 河豚鬼
@@ -402,6 +403,7 @@ Otsutsuki Shibai=大筒木 矢楳
 //上古时代
 Ashura：阿修罗
 Indora：因陀罗
+Indra：因陀罗
 Hagoromo：羽衣
 Otsutsuki Kaguya=大筒木 辉夜
 Ōtsutsuki Kaguya=大筒木 辉夜
