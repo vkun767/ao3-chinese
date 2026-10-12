@@ -853,6 +853,7 @@ Obachan：姨
 Oba：阿姨
 obaa：奶奶
 Obaasan：奶奶
+“baa-chan”：奶奶
 obaasama：婆婆大人
 baasama：伯母大人
 “goshujin-sama”：夫君大人
