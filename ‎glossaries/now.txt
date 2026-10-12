@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-25
  
 词条
@@ -12,6 +12,7 @@ Aikawa：相川
 Aino：爱野
 Airi：爱丽
 Akahane：明羽
+Akai：赤井
 Akako：明子
 Akane：茜
 Akari：明里
@@ -36,6 +37,7 @@ Arashi：岚
 Arata：新田
 Arugo：阿鲁戈
 Asahi：朝日
+Asama：浅间
 Ashina：芦名
 Ashino：芦野
 Asuka：明日香
@@ -48,6 +50,8 @@ Ayaka：绫华
 Ayumi：步美
 Barako：芭乐子
 Baru：巴鲁
+Benzaiten：弁财天
+Bishamon：毗沙门
 Botan：牡丹
 Byakuren：白莲
 Chiaka：千秋
@@ -87,11 +91,14 @@ Daruzo：达鲁藏
 Degai：德爱
 Dekai：德凯
 Doi：土井
+Doto：道人
 Eiichi：荣一
 Eijirō：英次郎
 Eiji：英二
+Eijiro：英次郎
 Eiko：荣子
 Eizan：英山
+Emiko：惠美子
 Emon：右门
 Emigiku：惠菊
 Emiyo：惠优
@@ -102,6 +109,7 @@ Etsuko：悦子
 Etsuku：悦久
 Fubuki：吹雪
 Fuji：不二
+Fujikaze：藤风
 Fūjin：风神
 Fukito：福人
 Fumiko：文子
@@ -152,7 +160,7 @@ Hidenori：秀则
 Hideyoshi：秀吉
 Higashi：东
 Higurashi：日渡
-Hikari：光
+Hikaru：光​
 Hiko：彦
 Himari：日葵
 Himiko：卑弥呼
@@ -182,6 +190,8 @@ Hoshika：星华
 Hosokawa：细川
 Houju：候朱
 Hukano：深野
+Ibara：伊原
+Ichika：一花
 Igaku：伊角
 Ikanago：伊卡格那
 Ikuko：育子
@@ -203,13 +213,13 @@ Iroha：伊吕波
 Itsumi：伊美
 Itsuki：树
 Itsuko：伊津子
+Ito：伊藤
 Isamu：勇
 Isetsu：伊势津
 Ishikori：石凝姥
 Ishikoridome：石居
 Ishikawa：石川
 Isshin：一心
-Itsuki：树
 Iwashi：瓦希
 Iyori：伊织
 Izō：伊藏
@@ -225,6 +235,7 @@ Junko：顺子
 Junshin：俊信
 Junta：俊太 
 Juro：十郎
+Junpei：顺平
 Kaede：枫
 Kagane：加金
 Kaito：海斗
@@ -254,6 +265,7 @@ Katashi：坚志
 Katsumi：克己
 Kaoru：薰
 Kayoko：佳代子
+Kazahana:风华
 Kazan：卡赞
 Kazane：风音
 Kazue：和惠
@@ -267,6 +279,7 @@ Kazuya：和也
 Keita：圭太
 Keisuke：圭介
 Kenesuku：兼助
+Kendou：拳藤
 Kenichi：贤一
 Kenji：健二
 Kentarō：健太郎
@@ -308,6 +321,7 @@ Kojou：古城
 Kouyou：红叶
 Kowa：科亚
 Kōya：光也
+Koyuki：小雪
 Kohaku：琥珀
 Kukaku：空鹤
 Kuma：熊
@@ -328,10 +342,13 @@ Kyougi：恭仪
 Kyouraku：京乐
 Madoka：圆香
 Maho：马霍
+Mai：迈
 Maiko：舞子
 Maiya：真弥
+Maka：真花
 Makiko：真纪子
 Makoto：诚
+Mako：真子
 Mamochi：桃地
 Mariko：真理子
 Matsu：松
@@ -397,7 +414,9 @@ Naru：鸣
 Naruko：鸣子
 Nashimi：梨美
 Natsu：夏
+Natsumi：夏美
 Natsuko：夏子
+Natsuo：夏生
 Nazoko：奈佐子
 Neko：猫
 Nimori：仁森
@@ -444,6 +463,7 @@ Ren：莲
 Renzu：莲组
 Renzo：莲藏
 Reto：濑斗
+Rihan：梨花​
 Riko：理子
 Riku：理久
 Rikudo：六道
@@ -461,6 +481,7 @@ Ryusaku：龙介
 Ryo：凉
 Ryota：凉太
 Ryouta：凉太
+Ryu：龙
 Ryuna：龙奈
 Ryujii：龙二
 Ryūji：龙二
@@ -475,7 +496,10 @@ Sadako：贞子
 Saho：沙穗
 Sahoma：沙穗间
 Sakiko：咲子
+Sako:佐子​
 Sakuto：朔人
+Sandayu：山太夫​
+Sandayuu：山太夫​
 Sango：珊瑚
 Sanma：三瓦
 Santa：三太
@@ -514,6 +538,7 @@ Shikari：鹿切
 Shikata：鹿方
 Shikato：鹿人
 Shiki：拓海
+Shinigami：死神
 Shinji：慎二
 Shion：诗音
 Shiori：诗织
@@ -530,6 +555,7 @@ Shokari：小狩
 Shona：翔南
 Shoma：肖马
 Shorin：小林
+Shiroe：城惠
 Shun：瞬
 Soji：宗次
 Sora：空
@@ -547,7 +573,9 @@ Susuma：寿真
 Suoma：芬兰
 Suzaku：朱雀
 Suzuka：铃香
-Suzuma：铃木马
+Suzuma：铃马
+Suzumara：铃村
+Suzumaru：铃丸
 Suzume：雀
 Susano’o：须佐能乎
 Syungo：修吾
@@ -566,6 +594,7 @@ Takao：高尾
 Takara：宝
 Takaya：贵也
 Takeda：武田
+Takane：武根
 Takeru：健
 Takeshi：武史
 Taketori：竹取
@@ -576,6 +605,7 @@ Takuya：拓也
 Takuwa：拓和
 Tamotsu：保
 Tenchi：天地
+Tenma：天马
 Tateiwa：立岩
 Tatsuya：拓也
 Tetsuka：铁火
@@ -623,7 +653,8 @@ Umeko：梅子
 Umeo：梅尾
 Usami：宇佐美
 Ushi：牛
-Utatane：
+Usagi：兔
+Utatane：卯田祢
 Wantanabe：渡边
 Wazuki：和月
 Yadashige：矢田茂
@@ -646,6 +677,7 @@ Yoshiro：义郎
 Yoshiyasu：义康
 Yui：由衣
 Yukari：由香里
+Yukie：雪绘
 Yuki：雪
 Yukina：雪名
 Yukimi：雪见
@@ -667,6 +699,7 @@ Yuuma：优真
 Yuuri：优里
 Yuuto：优斗
 Yuzuki：柚希
+Zasso：扎索
 Zugara：祖罗
 
 Fire Lord：火之国大名
