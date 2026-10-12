@@ -690,6 +690,7 @@ Ame no nuhoko：天沼矛
 Benihisago：红葫芦
 Kohaku no Jouhei：琥珀净瓶
 Kohaku Jouhei=琥珀 净瓶
+Katana：武士刀
 
 //忍者专有名词称呼和外号
 Shido Jonin=指导 上忍
