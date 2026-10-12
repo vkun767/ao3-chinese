@@ -291,6 +291,7 @@ Dodai：土代
 Sanshuo Hanzo=山椒鱼 半藏
 Sanshōuo Hanzou=山椒鱼 半藏
 Sanshōuo Hanzō=山椒鱼 半藏
+Salamander：山椒鱼
 Nagato：长门
 Pein：佩恩
 Yahiko：弥彦
@@ -448,7 +449,7 @@ Chameleon：变色龙
 通用词条
 //不限制大小写
 
-//地点
+//国家、地点
 Kannabi Bridge=神无毗 桥
 Naka：南贺川
 Nakano：南河川
@@ -472,7 +473,7 @@ Uchiha compound：宇智波族地
 Senju compound：千手族地
 Mountains Graveyard：山岳墓场
 
-//遁术名称、忍术类别、忍者等级、班级
+//遁术名称、忍术类别
 Onmyoton：阴阳遁
 Onmyotōn：阴阳遁
 Mokuton：木遁
@@ -514,45 +515,6 @@ Iryo ninjutsu=医疗 忍术
 Iryojutsu：医疗忍术
 doujutsu：瞳术
 dojutsu：瞳术
-Shido Jonin=指导 上忍
-jōnin：上忍
-Jonin：上忍
-Jounin：上忍
-Tokubetsu：特别上忍
-tokujō：特上
-tokujou：特上
-chuunin：中忍
-Chounin：中忍
-Chūnin：中忍
-Chunin：中忍
-Genin：下忍
-Nukenin：叛忍
-nuke-nin：叛忍
-missing-nin：叛忍
-Sanban：第三班
-Dananahan：第七班
-“Dai-nana-han”：第七班
-Hachihan：第八班
-Juppan：第十班
-Kage：影
-Hokage：火影
-Mizukage：水影
-Kazekage：风影
-Raikage：雷影
-Tsuchikage：土影
-Kumo：云忍
-Kiri：雾忍
-Suna：砂忍
-Iwa：岩忍
-Otonin：音忍
-Kusa：草忍
-Akatsuki：晓组织
-Tetsu：铁
-Tsuchi：土
-Mizu：水
-Kaze：风
-Kaminari：雷
-
 
 //瞳术、血继限界相关
 Mangekyo：万花筒
@@ -726,7 +688,45 @@ Benihisago：红葫芦
 Kohaku no Jouhei：琥珀净瓶
 Kohaku Jouhei=琥珀 净瓶
 
-//其他专有称呼和名词
+//忍者专有名词称呼和外号
+Shido Jonin=指导 上忍
+jōnin：上忍
+Jonin：上忍
+Jounin：上忍
+Tokubetsu：特别上忍
+tokujō：特上
+tokujou：特上
+chuunin：中忍
+Chounin：中忍
+Chūnin：中忍
+Chunin：中忍
+Genin：下忍
+Nukenin：叛忍
+nuke-nin：叛忍
+missing-nin：叛忍
+Sanban：第三班
+Dananahan：第七班
+“Dai-nana-han”：第七班
+Hachihan：第八班
+Juppan：第十班
+Kage：影
+Hokage：火影
+Mizukage：水影
+Kazekage：风影
+Raikage：雷影
+Tsuchikage：土影
+Kumo：云忍
+Kiri：雾忍
+Suna：砂忍
+Iwa：岩忍
+Otonin：音忍
+Kusa：草忍
+Akatsuki：晓组织
+Tetsu：铁
+Tsuchi：土
+Mizu：水
+Kaze：风
+Kaminari：雷
 ninja：忍者
 shinobi：忍者
 kunoichi：女忍
@@ -801,6 +801,7 @@ bakashi：笨卡卡
 usuratonkachi：超级大笨蛋
 White Demon：白色恶魔
 White Devil：白色恶魔
+Habanero：火红辣椒
 Hashi：柱
 Izu：泉
 
