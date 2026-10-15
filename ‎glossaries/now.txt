@@ -96,6 +96,7 @@ Eiichi：荣一
 Eijirō：英次郎
 Eiji：英二
 Eijiro：英次郎
+Ejji：英二
 Eiko：荣子
 Eizan：英山
 Emiko：惠美子
@@ -600,6 +601,7 @@ Takane：武根
 Takeru：健
 Takeshi：武史
 Taketori：竹取
+Taki：泷
 Takka：铁火
 Takuma：拓马
 Takumi：拓海
