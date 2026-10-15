@@ -58,6 +58,7 @@ Yamanaka Inoichi=山中 亥一
 Akimichi Choza=秋道 丁座
 Akimichi Chōza=秋道 丁座
 Akimichi Chouza=秋道 丁座
+InoShikaCho：猪鹿蝶
 Ino Shika Cho：猪鹿蝶
 Ino-Shika-Cho：猪鹿蝶
 Ino-Shika-Chō：猪鹿蝶
@@ -105,6 +106,7 @@ Mizuki：水木
 Tsubaki：椿
 Ebisu：惠比寿
 Shiranui Genma=不知火 玄间
+Gekito
 Gekkō Hayate=月光 疾风
 Gekkuo Hayate=月光 疾风
 Gekkou Hayate=月光 疾风
@@ -192,6 +194,8 @@ Yakushi Kabuto=药师 兜
 Kimimaro：君麻吕
 Jirobo：次郎坊
 Akadō Yoroi=赤铜 铠
+Akoda Yoroi=赤铜 铠
+Akado Yoroi=赤铜 铠
 Tsurugi Misumi=剑 三隅
 Kin Tsuchi=琴 槌
 Dosu Kinuta=托斯 砧
@@ -425,6 +429,7 @@ Gamamaru：蛤蟆丸
 Fukasaku：深作
 Shima：志麻
 Gamabunta：蛤蟆文太
+Gammabunta：蛤蟆文太
 Gamakichi：蛤蟆吉
 Gamatatsu：蛤蟆龙
 Gamaken：蛤蟆健
@@ -515,6 +520,7 @@ Ninjutsu：忍术
 Taijutsu：体术
 Genjutsu：幻术
 Juinjutsu：咒印术
+Fūjin：封印
 fūinjutsu：封印术
 Fuinjutsu：封印术
 Fuuinjutsu：封印术
@@ -600,6 +606,8 @@ Bijudama：尾兽玉
 Hachimon Tonko=八门 遁甲
 Fang over Fang：牙通牙
 Kikaichu：寄坏虫
+Kidaichū：寄坏虫
+Kikaichū：寄坏虫
 Senpo Myojimon=仙法 明神门
 Jukai Kotan：树界降诞
 Jukai Kōtan=树界 降诞
@@ -666,37 +674,6 @@ Great Fire Annihilation：豪火灭却
 Great Fire Ball：豪火球
 Fire Style：火遁
 Water Style：水遁
-
-//武器物品
-Gumbai：军配团扇
-Gunbai：军配团扇
-Bakutō Shibuki=爆刀 飞沫
-Dontō Kabutowari=钝刀 兜割
-Hebiichigo：蛇莓
-Chōtō Nuibari=长刀 缝针
-Dantō Kubikiribōchō=断刀 斩首大刀
-Kubikiribocho：斩首大刀
-Hiramekarei：双刃鲆
-haragake：忍具包
-Kunai：苦无
-Shuriken：手里剑
-Enjutsu：烟雾弹
-Flash Bomb：闪光弹
-Hitai-ate：护额
-Bakufu：起爆符
-Makimono：卷轴
-Senbon：千本
-Shimenawa：注连绳
-Hyorogan：兵粮丸
-Ningu：忍具
-Kusanagi no Tsurugi：草薙剑
-Kusanagi：草薙剑
-Amenonuhoko：天沼矛
-Ame no nuhoko：天沼矛
-Benihisago：红葫芦
-Kohaku no Jouhei：琥珀净瓶
-Kohaku Jouhei=琥珀 净瓶
-Katana：武士刀
 
 //忍者专有名词称呼和外号
 Shido Jonin=指导 上忍
@@ -777,6 +754,7 @@ Karma：楔
 Kāma：楔
 ninken：忍犬
 Gama：蛤蟆
+Gamma：蛤蟆
 Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
@@ -814,6 +792,38 @@ White Devil：白色恶魔
 Habanero：火红辣椒
 Hashi：柱
 Izu：泉
+
+//武器物品
+Gumbai：军配团扇
+Gunbai：军配团扇
+Bakutō Shibuki=爆刀 飞沫
+Dontō Kabutowari=钝刀 兜割
+Hebiichigo：蛇莓
+Chōtō Nuibari=长刀 缝针
+Dantō Kubikiribōchō=断刀 斩首大刀
+Kubikiribocho：斩首大刀
+Hiramekarei：双刃鲆
+haragake：忍具包
+Kunai：苦无
+Kagemane：影子
+Shuriken：手里剑
+Enjutsu：烟雾弹
+Flash Bomb：闪光弹
+Hitai-ate：护额
+Bakufu：起爆符
+Makimono：卷轴
+Senbon：千本
+Shimenawa：注连绳
+Hyorogan：兵粮丸
+Ningu：忍具
+Kusanagi no Tsurugi：草薙剑
+Kusanagi：草薙剑
+Amenonuhoko：天沼矛
+Ame no nuhoko：天沼矛
+Benihisago：红葫芦
+Kohaku no Jouhei：琥珀净瓶
+Kohaku Jouhei=琥珀 净瓶
+Katana：武士刀
 
 //常见日语称呼、物品
 Otōsama：父亲大人
