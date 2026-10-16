@@ -133,6 +133,7 @@ Hachihide：蜂秀
 Hachiro：郎
 Hagemaru：羽月丸
 Hajime：始司
+Hakusa：白砂
 Hanako：花子
 Hanata：花奏
 Hanataro：花太郎
@@ -361,6 +362,7 @@ Maka：真花
 Makiko：真纪子
 Makoto：诚
 Mako：真子
+Manaka：真中
 Mameko：豆子
 Mamochi：桃地
 Mariko：真理子
@@ -556,10 +558,12 @@ Shikato：鹿人
 Shiki：拓海
 Shinigami：死神
 Shinji：慎二
+Shio：盐
 Shion：诗音
 Shiori：诗织
 Shirabu：白部
 Shiro：白郎
+Shiroe：城惠
 Shisumi：志澄
 Shiyu：时悠
 Shizen：自然
@@ -572,7 +576,6 @@ Shokari：小狩
 Shona：翔南
 Shoma：肖马
 Shorin：小林
-Shiroe：城惠
 Shun：瞬
 Soji：宗次
 Sora：空
