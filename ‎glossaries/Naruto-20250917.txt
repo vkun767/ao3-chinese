@@ -655,6 +655,9 @@ Suiryudan：水龙弹
 Suiryūdan：水龙弹
 Suijinheki：水阵壁
 Hiraishin：飞雷神
+Hirashin：飞雷神
+Hiarihin
+Hiraishin Goshun Mawashi ：飞雷神互瞬回
 Tandem Paper Bomb：互乘起爆符
 Doryuheki：土流壁
 Sen Ju Shishisen：千年杀
