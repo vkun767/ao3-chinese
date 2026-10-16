@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.5
+版本号：1.0.4
 更新时间：2025-10-25
  
 词条
@@ -196,7 +196,8 @@ Hukano：深野
 Ibara：伊原
 Ichika：一花
 Igaku：伊角
-Ikanago：伊卡格那
+Ikanago：鱼仔
+Iketsu：池月
 Ikuko：育子
 Inabi：稻火
 Inaka：稻中
@@ -292,6 +293,7 @@ Kenta：健太
 Kento：健人
 Kenzo：健藏
 Keisuki：庆杉
+Ketoki：齐时
 Kichi：吉吉
 Kiha：辉羽
 Kikiro：菊郎
@@ -320,6 +322,7 @@ Kojou：古城
 Komoko：小茂子
 Komoto：河本
 Konaru：河鸣
+Korumi：小瑠美
 Kōsa：高砂
 Kosen：高泉
 Kosuke：高助
@@ -556,6 +559,7 @@ Shion：诗音
 Shiori：诗织
 Shirabu：白部
 Shiro：白郎
+Shisumi：志澄
 Shiyu：时悠
 Shizen：自然
 Shizuko：静子
