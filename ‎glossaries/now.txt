@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-25
  
 词条
@@ -313,8 +313,10 @@ Kiyoshige：清重
 Kodoma：儿玉
 Kō：弘
 Kōga：甲贺
+Kohaku：琥珀
 Koichi：浩一
 Kojika：治贺
+Kojou：古城
 Komoko：小茂子
 Komoto：河本
 Konaru：河鸣
@@ -322,14 +324,13 @@ Kōsa：高砂
 Kosen：高泉
 Kosuke：高助
 Kototaro：高太郎
-Kouga：甲贺
+Kouga：光贺
 Kouka：光华
-Kojou：古城
 Kouyou：红叶
-Kowa：科亚
+Kosuke：高助
+Kowa：高亚
 Kōya：光也
 Koyuki：小雪
-Kohaku：琥珀
 Kukaku：空鹤
 Kuma：熊
 Kumano：熊野
