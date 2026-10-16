@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-25
  
 词条
@@ -64,6 +64,7 @@ Chihomi：千穗美
 Chikara：力
 Chinatsu：千夏
 Chine：千娜
+Chio：千绪
 Chiori：千织
 Chiya：千雅
 Chiyuku：千愈
@@ -120,6 +121,7 @@ Fumihiro：文宏
 Furuya：古谷
 Fushimi：伏见
 Fushito：伏人
+Fuyuko：冬子
 Fuyuharu：冬晴
 Genbu：玄武
 Genta：玄太
@@ -291,6 +293,7 @@ Kento：健人
 Kenzo：健藏
 Keisuki：庆杉
 Kichi：吉吉
+Kiha：辉羽
 Kikiro：菊郎
 Kikiyo：菊代
 Kiku：菊
@@ -308,6 +311,7 @@ Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
 Kodoma：儿玉
+Kō：弘
 Kōga：甲贺
 Koichi：浩一
 Kojika：治贺
@@ -319,6 +323,7 @@ Kosen：高泉
 Kosuke：高助
 Kototaro：高太郎
 Kouga：甲贺
+Kouka：光华
 Kojou：古城
 Kouyou：红叶
 Kowa：科亚
@@ -351,6 +356,7 @@ Maka：真花
 Makiko：真纪子
 Makoto：诚
 Mako：真子
+Mameko：豆子
 Mamochi：桃地
 Mariko：真理子
 Matsu：松
@@ -385,6 +391,7 @@ Mitsuru：美弦
 Miori：美织
 Mio：澪
 Miu：美羽
+Miyazaki：宫崎
 Miyo：美悠
 Mizuho：水穗
 Mizuna：水奈
@@ -441,6 +448,7 @@ Numa：沼
 Ocha：茶茶
 Oda：织田
 Okami：冈美
+Ōkami：冈美
 Okimoto：奥本
 Okinao：兴直
 Okuninushi：奥国奴
