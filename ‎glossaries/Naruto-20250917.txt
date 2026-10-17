@@ -619,22 +619,24 @@ Jukai Koorin=树界 降诞
 Kajukai Koorin=花树界 降诞
 Shinsusenju：真数千手
 Chojo Kebutsu：顶上化佛
+Kakuan Nitten Suishu：廓庵入廛垂手
+Kakuan nyūten suishu：廓庵入廛垂手
 Mokusa Ban：默杀缚
 Koshijin no Jutsu：虎视眈弹
 Edo Tensei：秽土转生
 Edo Tensai：秽土转生
 Fushi Tensei：不尸转生
-Shiki Fujin：尸鬼 封印
+Shiki Fujin：尸鬼封印
 Genryu Kyu Fujin：幻龙九封尽
 Gogyo Fuin=五行 封印
 Fuja Hoin=封邪 法印
 Kaen Hoin=封火 法印
 Shisho：四象
-Kongo Fusa：金刚封锁
+Kongo Fusa=金刚 封锁
 Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
 Infuin：阴封印
-Tensai Fuin：转写封印
+Tensai Fuin=转邪 封印
 Sabaku Fudo Sosa：砂漠层大葬封印
 Kaenjin：火炎阵
 Shishījin：四赤阳阵
@@ -643,10 +645,10 @@ Shikokujin：四黑蛇阵
 Gudodama：求道玉
 Shikotsumyaku：尸骨脉
 Komatsu Hone：共杀灰骨
-Yomotsu Hirasaka：黄泉比良坂
+Yomotsu Hirasaka=黄泉 比良坂
 Takamimusubinokami：高皇产灵尊
 Kaiho no Jin：解尾法印
-Jikukan Ninjutsu：时空间忍术
+Jikukan Ninjutsu=时空间 忍术
 Oiroke：色诱
 Harem：色诱术
 Harem：后宫
