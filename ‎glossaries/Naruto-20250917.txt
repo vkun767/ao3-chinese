@@ -838,6 +838,7 @@ Katana：武士刀
 Otōsama：父亲大人
 “Chichi-ue”：父亲大人
 Chichiue：父亲大人
+chichi：父亲
 “tou-san”：父亲
 tousan：父亲
 “Otou-sama”：父亲大人
