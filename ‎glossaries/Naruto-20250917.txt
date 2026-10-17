@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.43
+版本号：1.1.44
 更新时间：2026-01-31
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -140,6 +140,7 @@ Senju Butsuma=千手 佛间
 Senju Itama=千手 板间
 Senju Kawarama=千手 瓦间
 Senju Touka=千手 桃华
+Senju Tōka=千手 桃华
 Senju Tōka=千手 桃华
 Senju Toka=千手 桃华
 Uzumaki Mito=漩涡 水户
