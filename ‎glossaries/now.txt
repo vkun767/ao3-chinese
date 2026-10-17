@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-25
  
 词条
@@ -196,6 +196,7 @@ Hosokawa：细川
 Houju：候朱
 Hukano：深野
 Ibara：伊原
+Ibushi：伊武志
 Ichika：一花
 Igaku：伊角
 Ikanago：鱼仔
@@ -542,6 +543,7 @@ Shamon：沙蒙
 Shiba：志巴
 Shibiki：志木
 Shiemi：诗惠美
+Shigeru：志茂
 Shiho：诗穗
 Shihona：诗穗奈
 Shijimi：汐见
@@ -564,6 +566,7 @@ Shiori：诗织
 Shirabu：白部
 Shiro：白郎
 Shiroe：城惠
+Shirogane：白银
 Shisumi：志澄
 Shiyu：时悠
 Shizen：自然
