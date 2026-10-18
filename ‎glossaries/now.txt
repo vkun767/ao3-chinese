@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-25
  
 词条
@@ -195,6 +195,7 @@ Hoshika：星华
 Hosokawa：细川
 Houju：候朱
 Hukano：深野
+Hyousuke：兵助
 Ibara：伊原
 Ibushi：伊武志
 Ichika：一花
@@ -222,6 +223,7 @@ Itsuki：树
 Itsuko：伊津子
 Ito：伊藤
 Isamu：勇
+Isao：勇藤
 Isetsu：伊势津
 Ishikori：石凝姥
 Ishikoridome：石居
@@ -271,6 +273,7 @@ Kashi：卡西
 Kashio：柏尾
 Katashi：坚志
 Katsumi：克己
+Katsuo：胜雄
 Kaoru：薰
 Kayoko：佳代子
 Kazahana:风华
@@ -397,6 +400,7 @@ Misaki：美咲
 Misao：美佐叶
 Miso：味增
 Mitsuba：三叶
+Mitsue：三江
 Mitsuru：美弦
 Miori：美织
 Mio：澪
@@ -531,6 +535,7 @@ Satomi：里美
 Satoshi：悟
 Sayaka：纱耶香
 Sebamaru：濑羽丸
+Seiichi：诚市
 Seiko：圣子
 Seiryū：青龙
 Seiryu：青龙
@@ -582,6 +587,7 @@ Shona：翔南
 Shoma：肖马
 Shorin：小林
 Shun：瞬
+Shusuke：修助
 Soji：宗次
 Sora：空
 Soramaru：空丸
@@ -607,6 +613,7 @@ Syungo：修吾
 Syōma：将马
 Tadashi：忠
 Tadao：忠雄
+Tadaaki：忠亮
 Tadaoki：忠兴
 Tagayasu：田谷
 Taigen：泰元
@@ -630,6 +637,7 @@ Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
 Tamotsu：保
+Tatsuo：辰夫
 Tenchi：天地
 Tenma：天马
 Tateiwa：立岩
@@ -698,6 +706,7 @@ Yoko：洋子
 Yori：由立
 Yorimasa：依正
 Yorito：依人
+Yoshihiro：吉弘
 Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
@@ -722,6 +731,7 @@ Yuu：优
 Yuuji：优二
 Yuujin：优神
 Yuuka：优花
+Yuuki：优树
 Yuuma：优真
 Yuuri：优里
 Yuuto：优斗
