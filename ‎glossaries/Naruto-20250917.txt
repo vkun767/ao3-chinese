@@ -397,6 +397,7 @@ Nara Shikadai=奈良 鹿代
 Jigen：慈弦
 Sanzu Amado=三途 阿玛多
 Delta：迪鲁达
+Deruta：迪鲁达
 Ada：艾达
 Daemon：迪蒙
 Yuino Iwabee=结乃 岩部
