@@ -539,6 +539,7 @@ Sarana：纱良
 Saru：猿
 Satomi：里美
 Satoshi：悟
+Satsuki：皋月
 Sayaka：纱耶香
 Sebamaru：濑羽丸
 Seiichi：诚市
@@ -625,6 +626,7 @@ Tagayasu：田谷
 Taigen：泰元
 Taihei：泰平
 Taka：鹰
+Takaba：鹰场
 Takahashi：高桥
 Takahiro：高宏
 Takamine：高峰
