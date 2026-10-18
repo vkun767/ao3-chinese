@@ -107,6 +107,7 @@ Emiko：惠美子
 Emon：右门
 Emigiku：惠菊
 Emiyo：惠优
+Ena：惠那
 Enjin：炎神
 Ensui：盐水
 Erika：绘里香
@@ -132,6 +133,7 @@ Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
+Gyo：行
 Hachihide：蜂秀
 Hachiro：郎
 Hagemaru：羽月丸
@@ -189,6 +191,7 @@ Hishaku：飞针
 Hitabi：火足
 Hitomi：瞳
 Hitoshi：仁
+Hiuchi：火打
 Hjouske：兵介
 Hokuto：北斗
 Honoka：穗香
@@ -265,6 +268,7 @@ Kamijima：上岛
 Kamori：加守
 Kanade：奏
 Kanae：加奈惠
+Kanaema：鼎间
 Kaname：要势
 Kanata：神田
 Kanon：卡农
@@ -276,6 +280,7 @@ Kasame：霞目
 Kashi：卡西
 Kashio：柏尾
 Katashi：坚志
+Katsuhito：胜仁
 Katsumi：克己
 Katsuo：胜雄
 Kaori：香织
@@ -469,6 +474,7 @@ Nomea：野明
 Nomu：浓
 Nori：诺里
 Noriko：纪子
+Noriyuki：仙幸
 Nozomi：希美
 Numa：沼
 Ocha：茶茶
@@ -655,6 +661,7 @@ Takuma：拓马
 Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
+Tamame：玉目
 Tamotsu：保
 Tatsuo：辰夫
 Tenchi：天地
@@ -694,6 +701,7 @@ Tsukiko：月子
 Tsuki：月
 Tsukiyomi：月读
 Tsumi：津美
+Tsuneo：津根
 Tsuru：鹤
 Tsuruhashi：鹤桥
 Tsutsui：筒井
