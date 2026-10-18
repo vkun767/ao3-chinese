@@ -100,6 +100,7 @@ Eijiro：英次郎
 Ejji：英二
 Eiko：荣子
 Eizan：英山
+Emi：惠美
 Emiko：惠美子
 Emon：右门
 Emigiku：惠菊
@@ -274,6 +275,7 @@ Kashio：柏尾
 Katashi：坚志
 Katsumi：克己
 Katsuo：胜雄
+Kaori：香织
 Kaoru：薰
 Kayoko：佳代子
 Kazahana:风华
@@ -433,6 +435,7 @@ Naohime：直姬
 Naoki：直树
 Naomi：直美
 Naori：直里
+Naraho：奈良穗
 Nari：鸣里
 Naru：鸣
 Naruko：鸣子
@@ -495,8 +498,10 @@ Rikudo：六道
 Riku：陆
 Rinha：玲羽
 Rinka：琳花
+Rina.：理夏
 Risako：理沙子
 Risato：里见
+Rokuro：六郎
 Rou：罗
 Rowa：罗瓦
 Ruby：露比
@@ -694,6 +699,7 @@ Wantanabe：渡边
 Wazuki：和月
 Yadashige：矢田茂
 Yakamaru：夜鸦丸
+Yakao：矢尾
 Yako：野狐
 Yamana：山名
 Yami：夜见
