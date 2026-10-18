@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-25
  
 词条
@@ -93,12 +93,14 @@ Degai：德爱
 Dekai：德凯
 Doi：土井
 Doto：道人
+Douzan：铜山
 Eiichi：荣一
 Eijirō：英次郎
 Eiji：英二
 Eijiro：英次郎
 Ejji：英二
 Eiko：荣子
+Eisen：英泉
 Eizan：英山
 Emi：惠美
 Emiko：惠美子
@@ -278,8 +280,10 @@ Katsumi：克己
 Katsuo：胜雄
 Kaori：香织
 Kaoru：薰
+Kayasa：草彩
 Kayoko：佳代子
 Kazahana:风华
+Kaza：风
 Kazan：卡赞
 Kazane：风音
 Kazama：风间
@@ -293,6 +297,7 @@ Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
 Keita：圭太
+Keisai：圭斋
 Keisuke：圭介
 Kenesuku：兼助
 Kendou：拳藤
@@ -374,6 +379,7 @@ Mako：真子
 Manaka：真中
 Mameko：豆子
 Mamochi：桃地
+Maou：麻黄
 Mariko：真理子
 Matsu：松
 Matsubokkuri：松鼠栗
@@ -414,6 +420,7 @@ Miyo：美悠
 Mizuho：水穗
 Mizuna：水奈
 Momiji：红叶
+Momohiko：桃彦
 Momoko：桃子
 Momoshi：桃矢
 Moriko：森子
@@ -481,6 +488,7 @@ Osamu：治
 Oshaberi：御喋
 Osuya：大泽
 Otoma：乙马
+Otsuno：小角
 otto：丈夫
 Raichi：雷市
 Raikido：雷斗
@@ -554,6 +562,7 @@ Sen：千
 Senna：千奈
 Senri：千里
 Seto：濑户
+Shachi：佐幸
 Shamon：沙蒙
 Shiba：志巴
 Shibiki：志木
@@ -631,11 +640,12 @@ Takaba：鹰场
 Takahashi：高桥
 Takahiro：高宏
 Takamine：高峰
+Takane：高根
 Takao：高尾
 Takara：宝
 Takaya：贵也
 Takeda：武田
-Takane：武根
+takemaru：竹丸
 Takeru：健
 Takeshi：武史
 Taketori：竹取
