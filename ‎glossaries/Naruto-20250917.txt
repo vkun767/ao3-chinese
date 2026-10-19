@@ -913,7 +913,8 @@ Jiji：爷爷
 -sama：大人
 sama：大人
 -kun：君
-Himisama：公主大人
+Himesama：公主大人
+Hime：公主
 -hime：公主
 -chan：酱
 -ji：叔
