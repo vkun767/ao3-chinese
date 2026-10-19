@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.6
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -9,6 +9,7 @@ Aiki：爱希
 Aiko：爱子
 Aina：爱奈
 Aikawa：相川
+Aimi：爱美
 Aino：爱野
 Airi：爱丽
 Akahane：明羽
@@ -29,6 +30,7 @@ Akitsuna：秋纲
 Akshaya：阿克沙亚
 Ako：亚子
 Amaha：天羽
+Amatsu：高天原
 Amaya：天谷
 Ami：亚美
 Anzu：安祖
@@ -50,6 +52,7 @@ Ayaka：绫华
 Ayumi：步美
 Barako：芭乐子
 Baru：巴鲁
+Buta：豚鼠
 Benzaiten：弁财天
 Bishamon：毗沙门
 Botan：牡丹
@@ -99,8 +102,9 @@ Eijirō：英次郎
 Eiji：英二
 Eijiro：英次郎
 Ejji：英二
-Eiko：荣子
+Eiko：英子
 Eisen：英泉
+Eitaro：英太郎
 Eizan：英山
 Emi：惠美
 Emiko：惠美子
@@ -135,6 +139,7 @@ Gouawae：高瓦埃
 Goro：五郎
 Gyo：行
 Hachihide：蜂秀
+Hachika：蜂花
 Hachiro：蜂郎
 Hae：海
 Hagemaru：羽月丸
@@ -154,9 +159,11 @@ Haruko：春子
 Haruki：春树
 Haruna：春菜
 Haruto：春人
+Hayawara：隼原
 Hayuya：悠冶
 Haro：花罗
 Haromaru：春间
+Hasegawa：长谷川
 Hasu：莲
 Hayao：隼夫
 Hayase：隼濑
@@ -187,6 +194,7 @@ Hiroki：广树
 Hiroshi：广志
 Hiru：日
 Hirzuen：日斩
+Hisa：久佐
 Hisato：久人
 Hishaku：飞针
 Hitabi：火足
@@ -211,6 +219,7 @@ Ibushi：伊武志
 Ichika：一花
 Igaku：伊角
 Ikanago：鱼仔
+Ikeda：池田
 Iketsu：池月
 Ikuko：育子
 Inabi：稻火
@@ -235,6 +244,7 @@ Ito：伊藤
 Isamu：勇
 Isao：勇藤
 Isetsu：伊势津
+Ishigawa：石川
 Ishikori：石凝姥
 Ishikoridome：石居
 Ishikawa：石川
@@ -248,6 +258,8 @@ Jimei：地明
 Jiro：次郎
 Jirou：次郎
 Jitan：次丹
+Jitu：极图
+Jōchō：上长
 Jōseki：常石
 Juko：寿子
 Junko：顺子
@@ -262,11 +274,16 @@ Kaisen：海森
 Kaiyo：海阳
 Kakuto：角人
 Kako：小鹿
+Hagane：钢
 Kagemori：影守
+Kagerō：阳炎
+Kagerou：阳炎
+Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
 Kamatari：镰太
 Kameyo：龟代
+Kami：神明
 Kamijima：上岛
 Kamori：加守
 Kanade：奏
@@ -280,6 +297,7 @@ Kanesuke：金助
 Kariho：狩穗
 Karuma：空魔
 Kasame：霞目
+Kasumi：霞
 Kashi：卡西
 Kashio：柏尾
 Katashi：坚志
@@ -323,13 +341,16 @@ Kiha：辉羽
 Kikiro：菊郎
 Kikiyo：菊代
 Kiku：菊
+Kikuchi：菊池
 Kikunojin：菊之仁
-Kiraku：木乐
-Kitai：北斋
-Kitatani：北谷
+Kinoya：八香
+Kira：基拉
 Kiraku：木乐
 Kishi：岸
 Kishimoto：岸本
+Kisshōten：吉祥天
+Kitai：北斋
+Kitatani：北谷
 Kitsune：狐妖
 Kiya：岸夜
 Kiyo：清子
@@ -339,7 +360,9 @@ Kiyoshi：清志
 Kiyoshige：清重
 Kodoma：儿玉
 Kō：弘
+Kou：弘
 Kōga：甲贺
+Kouga：甲贺
 Kohaku：琥珀
 Koichi：浩一
 Kojika：治贺
@@ -354,6 +377,7 @@ Kosuke：高助
 Kototaro：高太郎
 Kouga：光贺
 Kouka：光华
+Koumaru：光丸
 Kouyou：红叶
 Kosuke：高助
 Kowa：高亚
@@ -409,8 +433,10 @@ Megumi：惠
 Meiko：明子
 Michi：美智
 Michiko：美智子
+Midori：绿
 Miho：美惠
 Mika：美花
+Mikaboshi：灾星
 Miki：美纪
 Minako：美奈子
 Minasu：美那须
@@ -424,6 +450,7 @@ Mitsuru：美弦
 Miori：美织
 Mio：澪
 Miu：美羽
+Miyata：宫田
 Miyazaki：宫崎
 Miyo：美悠
 Mizuho：水穗
@@ -443,6 +470,8 @@ Myoga：妙雅
 Myōkō：妙高
 Myoko：妙高
 Naeki：奈木
+Nagamine：长峰
+Nakaba：仲间
 Nako：奈子
 Nanami：七海
 Nanashi：无名
@@ -463,6 +492,7 @@ Natsuko：夏子
 Natsuo：夏生
 Nazoko：奈佐子
 Neko：猫
+Nezumi：鼠
 Nimori：仁森
 Niwa：丹羽
 Noa：诺亚
@@ -499,6 +529,7 @@ Oshaberi：御喋
 Osuya：大泽
 Otoma：乙马
 Otsuno：小角
+Ottota：乙太
 otto：丈夫
 Raichi：雷市
 Raikido：雷斗
@@ -542,8 +573,10 @@ Saburō：三郎
 Sachi：佐知
 Sachiko：幸子
 Sadako：贞子
+Sadao：贞夫
 Saho：沙穗
 Sahoma：沙穗间
+Sakana：鱼
 Sakiko：咲子
 Sako:佐子​
 Sakuto：朔人
@@ -592,6 +625,7 @@ Shikari：鹿切
 Shikata：鹿方
 Shikato：鹿人
 Shiki：拓海
+Shimauma：斑马
 Shinigami：死神
 Shinji：慎二
 Shio：盐
@@ -644,6 +678,7 @@ Tadao：忠雄
 Tadaaki：忠亮
 Tadaoki：忠兴
 Tagayasu：田谷
+Tai：太
 Taigen：泰元
 Taihei：泰平
 Taka：鹰
@@ -668,7 +703,10 @@ Takuya：拓也
 Takuwa：拓和
 Tamame：玉目
 Tamotsu：保
+Tankyusha：探求者
+Tanaka：田中
 Tatsuo：辰夫
+Tatsuya：拓也
 Tenchi：天地
 Tenma：天马
 Tateiwa：立岩
@@ -695,6 +733,7 @@ Tora：虎
 Tori：鸟
 Toshihiro：俊宏
 Toshiko：敏子
+Toshio：俊夫
 Toshiro：俊郎
 Toshizo：俊藏
 Touzoku：盗贼
@@ -711,12 +750,14 @@ Tsuru：鹤
 Tsuruhashi：鹤桥
 Tsutsui：筒井
 Turo：图罗
+Uemura：植村
 Ukie：浮木
 Una：宇奈
 Unarigoe ：宇那利
 Ume：梅
 Umeko：梅子
 Umeo：梅尾
+Usagi：兔
 Usami：宇佐美
 Ushi：牛
 Usagi：兔
@@ -728,8 +769,10 @@ Yakamaru：夜鸦丸
 Yakao：矢尾
 Yako：野狐
 Yamana：山名
+Yamane：山根
 Yami：夜见
 Yamīchi：关一
+Yamori：蜥蜴
 Yashiro：八代
 Yasuko：亚苏子
 Yasu：亚苏
@@ -744,6 +787,7 @@ Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
 Yui：由衣
+Yuichi：裕一
 Yukari：由香里
 Yukie：雪绘
 Yuki：雪
