@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.48
+版本号：1.1.49
 更新时间：2026-01-31
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -39,6 +39,7 @@ Uchiha Shin=宇智波 信
 Uchiha Teyaki=宇智波 手烧
 Uchiha Yashiro‌=宇智波 八代
 Uchiha Tetsuka‌=宇智波 铁火
+Uchiha Tekka=宇智波 铁火
 Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
 Ukki：乌基
@@ -464,6 +465,7 @@ Biske：弥助
 Akino：阿基诺
 Gurugo：古鲁克
 Uuhei：乌黑
+ninneko：忍猫
 Nekobaa：猫婆婆
 Chameleon：变色龙
 
@@ -904,6 +906,7 @@ obaasama：婆婆大人
 baasama：伯母大人
 “goshujin-sama”：夫君大人
 “nii-san”：尼桑
+“Nii-chan”：尼酱
 “nee-chan”：姐姐
 Jiji：爷爷
 -sama：大人
@@ -916,6 +919,7 @@ Himisama：公主大人
 -ba：姨
 -nii：哥
 -nee：姐
+ojii：爷爷
 nii：哥
 nee：姐
 niisan：尼桑
