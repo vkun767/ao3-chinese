@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-25
  
 词条
@@ -651,6 +651,7 @@ Shona：翔南
 Shoma：肖马
 Shorin：小林
 Shun：瞬
+Shunsuke：瞬助
 Shusuke：修助
 Soji：宗次
 Sora：空
@@ -785,6 +786,7 @@ Yasuo：康夫
 Yoko：洋子
 Yori：由立
 Yorimasa：依正
+Yoritaka：依高
 Yorito：依人
 Yoshihiro：吉弘
 Yoshinori：吉德
