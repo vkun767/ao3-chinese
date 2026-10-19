@@ -306,6 +306,7 @@ Katsumi：克己
 Katsuo：胜雄
 Kaori：香织
 Kaoru：薰
+Kaya：香耶
 Kayasa：草彩
 Kayoko：佳代子
 Kazahana:风华
@@ -741,6 +742,7 @@ Tōyu：冬佑
 Tsubisa：月火
 Tsugumi：次弓
 Tsuguru：嗣
+Tsukauchi：塚内
 Tsukiko：月子
 Tsuki：月
 Tsukiyomi：月读
