@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.5
+版本号：1.0.6
 更新时间：2025-10-25
  
 词条
@@ -135,7 +135,8 @@ Gouawae：高瓦埃
 Goro：五郎
 Gyo：行
 Hachihide：蜂秀
-Hachiro：郎
+Hachiro：蜂郎
+Hae：海
 Hagemaru：羽月丸
 Hajime：始司
 Hakusa：白砂
@@ -193,7 +194,9 @@ Hitomi：瞳
 Hitoshi：仁
 Hiuchi：火打
 Hjouske：兵介
+Kobashi：小桥
 Hokuto：北斗
+Koji：浩二
 Honoka：穗香
 Hotaka：穗高
 Hotaru：萤
@@ -328,6 +331,7 @@ Kiraku：木乐
 Kishi：岸
 Kishimoto：岸本
 Kitsune：狐妖
+Kiya：岸夜
 Kiyo：清子
 Kiyomi：清美
 Kiyomizu：清见
@@ -634,6 +638,7 @@ Suzume：雀
 Susano’o：须佐能乎
 Syungo：修吾
 Syōma：将马
+Tachi：小鼬
 Tadashi：忠
 Tadao：忠雄
 Tadaaki：忠亮
