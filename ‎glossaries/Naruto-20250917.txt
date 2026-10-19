@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.47
+版本号：1.1.48
 更新时间：2026-01-31
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -872,6 +872,7 @@ okasame：母亲大人
 “okā-same”：母亲大人
 okāsan：母亲
 “okā–san”：母亲
+“Okaa-san”：妈妈
 baka：笨蛋
 otōto：弟弟
 otouto：弟弟
@@ -923,13 +924,16 @@ fundoshi：裈裤
 shikibuton：垫被
 kakebuton：盖被
 genkan：玄关
+Engawa：缘侧
 kata：型
 clone：分身
+Neko-ka：猫化
 “san-san-kudo”：三三九度
 sansankudo：三三九度
 dogeza：土下座
 “Sora-Ku”：空区
 Yakinku：烤肉
+
 
 
 禁翻词条
