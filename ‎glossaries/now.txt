@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -709,7 +709,8 @@ Tamame：玉目
 Tamotsu：保
 Tankyusha：探求者
 Tanaka：田中
-Tatsuo：辰夫
+Tatsu：龙
+Tatsuo：拓夫
 Tatsuya：拓也
 Tenchi：天地
 Tenma：天马
