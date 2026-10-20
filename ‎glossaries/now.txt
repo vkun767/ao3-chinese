@@ -13,6 +13,7 @@ Aimi：爱美
 Aino：爱野
 Airi：爱丽
 Akahane：明羽
+Akahana：赤花
 Akai：赤井
 Akako：明子
 Akane：茜
@@ -39,6 +40,7 @@ Arashi：岚
 Arata：新田
 Arugo：阿鲁戈
 Asahi：朝日
+Asakura：朝仓
 Asama：浅间
 Ashina：芦名
 Ashino：芦野
@@ -217,6 +219,7 @@ Hyousuke：兵助
 Ibara：伊原
 Ibushi：伊武志
 Ichika：一花
+Ichirai：一来
 Igaku：伊角
 Ikanago：鱼仔
 Ikeda：池田
@@ -234,8 +237,7 @@ Inoru：井乐
 Inoshin：井信
 Inosuke：井助
 Inu：犬
-Izumi：泉美
-Izuno：泉野
+Irimoya：入目屋
 Iroha：伊吕波
 Itsumi：伊美
 Itsuki：树
@@ -252,6 +254,9 @@ Isshin：一心
 Iwashi：瓦希
 Iyori：伊织
 Izō：伊藏
+Izou：伊藏
+Izumi：泉美
+Izuno：泉野
 Izuya：伊豆弥
 Jigen：慈玄
 Jimei：地明
@@ -347,6 +352,7 @@ Kikunojin：菊之仁
 Kinoya：八香
 Kira：基拉
 Kiraku：木乐
+Kirizuma：桐生
 Kishi：岸
 Kishimoto：岸本
 Kisshōten：吉祥天
@@ -376,6 +382,7 @@ Kōsa：高砂
 Kosen：高泉
 Kosuke：高助
 Kototaro：高太郎
+Kou：蔻
 Kouga：光贺
 Kouka：光华
 Koumaru：光丸
@@ -395,6 +402,7 @@ Kurokawa：黑川
 Kuroma：黑间
 Kurou：黑郎
 Kurumi：久留美
+Kusunoki：楠木
 Kuzon：九藏
 Kyō：京
 Kyofu：京风
@@ -564,6 +572,7 @@ Ryo：凉
 Ryoko：凉子
 Ryota：凉太
 Ryouta：凉太
+Ryougen：两玄
 Ryu：龙
 Ryuna：龙奈
 Ryujii：龙二
@@ -577,12 +586,14 @@ Sachi：佐知
 Sachiko：幸子
 Sadako：贞子
 Sadao：贞夫
+Sagami：相模
 Saho：沙穗
 Sahoma：沙穗间
 Sakana：鱼
 Sakiko：咲子
 Sako:佐子​
 Sakuto：朔人
+Sakuo：朔夫
 Sandayu：山太夫​
 Sandayuu：山太夫​
 Sango：珊瑚
@@ -717,7 +728,8 @@ Tenma：天马
 Tateiwa：立岩
 Tatsuya：拓也
 Tetsuka：铁火
-Tetsuo：哲雄
+Tetsuo：哲夫
+Tetsurou：哲郎
 Tetsuya：哲也
 Togakushi：户隐
 Tobira：扉
