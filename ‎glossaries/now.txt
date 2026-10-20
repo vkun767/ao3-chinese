@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -84,9 +84,11 @@ Chōnosuke：丁助
 Chōsuke：丁助
 Choto：丁户
 Choudai：丁大
+Choujiro：丁次郎
 Chouka：丁华
 Chouko：丁子
-Dachi：大地
+Dachi：太地
+Daichi：大地
 Daiki：大辉
 Dairoku：大六
 Daisuke：大助
@@ -296,9 +298,10 @@ Kanae：加奈惠
 Kanaema：鼎间
 Kaname：要势
 Kanata：神田
-Kanon：卡农
+Kane：神奈
 Kaneda：金田
 Kanesuke：金助
+Kanon：卡农
 Kariho：狩穗
 Karuma：空魔
 Kasame：霞目
@@ -335,11 +338,13 @@ Kenesuku：兼助
 Kendou：拳藤
 Kenichi：贤一
 Kenji：健二
+Kenshin：健信
 Kentarō：健太郎
 Kentarou：健太郎
 Kenta：健太
 Kento：健人
 Kenzo：健藏
+Keisha：佳纱
 Keisuki：庆杉
 Ketoki：齐时
 Kichi：吉吉
@@ -403,6 +408,7 @@ Kuroma：黑间
 Kurou：黑郎
 Kurumi：久留美
 Kusunoki：楠木
+Kozumi：小泉
 Kuzon：九藏
 Kyō：京
 Kyofu：京风
@@ -618,6 +624,7 @@ Seiryou：青龙
 Seishi：清志
 seiza：正坐
 Sen：千
+Senjuro：千寿郎
 Senna：千奈
 Senri：千里
 Seto：濑户
@@ -799,6 +806,7 @@ Yasu：亚苏
 Yasutora：泰虎
 Yasuo：康夫
 Yoko：洋子
+Yona：夜纳
 Yori：由立
 Yorimasa：依正
 Yoritaka：依高
