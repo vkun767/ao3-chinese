@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -406,6 +406,7 @@ Kusunoki：楠木
 Kuzon：九藏
 Kyō：京
 Kyofu：京风
+kyokuba-dan：马戏团
 Kyōmaru：京丸
 Kyougi：恭仪
 Kyouraku：京乐
@@ -590,6 +591,7 @@ Sagami：相模
 Saho：沙穗
 Sahoma：沙穗间
 Sakana：鱼
+Sakasu：坂须
 Sakiko：咲子
 Sako:佐子​
 Sakuto：朔人
