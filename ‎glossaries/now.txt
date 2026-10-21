@@ -54,11 +54,13 @@ Ayaka：绫华
 Ayumi：步美
 Barako：芭乐子
 Baru：巴鲁
-Buta：豚鼠
+Bear：熊
 Benzaiten：弁财天
 Bishamon：毗沙门
 Botan：牡丹
+Buta：豚鼠
 Byakuren：白莲
+Cat：猫
 Chiaka：千秋
 Chiasa：千朝
 Chiba：千叶
@@ -87,8 +89,9 @@ Choudai：丁大
 Choujiro：丁次郎
 Chouka：丁华
 Chouko：丁子
+Captain：队长
 Dachi：太地
-Daichi：大地
+aichi：大地
 Daiki：大辉
 Dairoku：大六
 Daisuke：大助
@@ -98,6 +101,7 @@ Dansei：断圣
 Daruzo：达鲁藏
 Degai：德爱
 Dekai：德凯
+Dog：狗
 Doi：土井
 Doto：道人
 Douzan：铜山
@@ -163,6 +167,7 @@ Haruko：春子
 Haruki：春树
 Haruna：春菜
 Haruto：春人
+Hawk：鹰
 Hayawara：隼原
 Hayuya：悠冶
 Haro：花罗
@@ -210,12 +215,14 @@ Kobashi：小桥
 Hokuto：北斗
 Koji：浩二
 Honoka：穗香
-Hotaka：穗高
-Hotaru：萤
+Horse：马
 Hoshi：星
 Hoshika：星华
 Hosokawa：细川
+Hotaka：穗高
+Hotaru：萤
 Houju：候朱
+Hound：猎犬
 Hukano：深野
 Hyousuke：兵助
 Ibara：伊原
@@ -260,6 +267,7 @@ Izou：伊藏
 Izumi：泉美
 Izuno：泉野
 Izuya：伊豆弥
+Jackal：豺
 Jigen：慈玄
 Jimei：地明
 Jiro：次郎
@@ -416,6 +424,7 @@ kyokuba-dan：马戏团
 Kyōmaru：京丸
 Kyougi：恭仪
 Kyouraku：京乐
+Lion：狮
 Madoka：圆香
 Maho：马霍
 Mai：迈
@@ -741,6 +750,7 @@ Tetsuka：铁火
 Tetsuo：哲夫
 Tetsurou：哲郎
 Tetsuya：哲也
+Tiger：虎
 Togakushi：户隐
 Tobira：扉
 Tokinojin：时野人
@@ -792,6 +802,7 @@ Usagi：兔
 Utatane：卯田祢
 Wantanabe：渡边
 Wazuki：和月
+Wolf：狼
 Yadashige：矢田茂
 Yakamaru：夜鸦丸
 Yakao：矢尾
@@ -858,6 +869,7 @@ Team Ro：第六队
 honeypot：色诱
 “brother-in-law”：姻亲兄弟
 “sister-in-law”：姻亲姐妹
+seal：封印
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
