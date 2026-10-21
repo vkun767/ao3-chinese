@@ -226,6 +226,7 @@ Hotaru：萤
 Houju：候朱
 Hound：猎犬
 Hukano：深野
+Hyena：鬣狗
 Hyousuke：兵助
 Ibara：伊原
 Ibushi：伊武志
@@ -562,6 +563,7 @@ Otoma：乙马
 Otsuno：小角
 Ottota：乙太
 otto：丈夫
+Rabbit：兔
 Raichi：雷市
 Raikido：雷斗
 Raito：雷人
