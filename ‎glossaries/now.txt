@@ -52,6 +52,7 @@ Aya：阿雅
 Ayako：绫子
 Ayaka：绫华
 Ayumi：步美
+Badger：獾
 Barako：芭乐子
 Baru：巴鲁
 Bear：熊
@@ -125,6 +126,7 @@ Ensui：盐水
 Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
+Falcon：隼
 Fubuki：吹雪
 Fuji：不二
 Fujikaze：藤风
@@ -424,6 +426,7 @@ kyokuba-dan：马戏团
 Kyōmaru：京丸
 Kyougi：恭仪
 Kyouraku：京乐
+Leopard：豹
 Lion：狮
 Madoka：圆香
 Maho：马霍
@@ -490,6 +493,7 @@ Moriko：森子
 Moritaka：森高
 Mosu：茂斯
 Mosuke：茂助
+Mouse：鼠
 Muruwa：室轮
 Mutsuo：六男
 Myo：美代
@@ -561,6 +565,7 @@ otto：丈夫
 Raichi：雷市
 Raikido：雷斗
 Raito：雷人
+Rat：耗
 Reki：雷基
 Rei：雷伊
 Reiko：雷子
@@ -704,6 +709,7 @@ Suzumara：铃村
 Suzumaru：铃丸
 Suzume：雀
 Susano’o：须佐能乎
+Swallow：燕
 Syungo：修吾
 Syōma：将马
 Tachi：小鼬
@@ -856,6 +862,7 @@ Yuuri：优里
 Yuuto：优斗
 Yuzuki：柚希
 Zasso：扎索
+Zebra：斑马
 Zugara：祖罗
 
 Fire Lord：火之国大名
