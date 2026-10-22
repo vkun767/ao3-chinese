@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -22,13 +22,15 @@ Akemi：阿美
 Akehito：明仁
 Aki：阿基
 Akima：朱间
+Akinobu：明信
 Akio：秋生
 Akito：秋人
 Akira：亮
 Akiyama：秋山
 Akihito：明仁
-Akitsuna：秋纲
+Akiro：秋吕
 Akshaya：阿克沙亚
+Akitsuna：秋纲
 Ako：亚子
 Amaha：天羽
 Amatsu：高天原
@@ -45,6 +47,7 @@ Asama：浅间
 Ashina：芦名
 Ashino：芦野
 Asuka：明日香
+Asuka：渚
 Atsugi：厚木
 Atsuko：敦子
 Aoki：青木
@@ -53,12 +56,15 @@ Ayako：绫子
 Ayaka：绫华
 Ayumi：步美
 Badger：獾
+Baken：贝肯
 Barako：芭乐子
 Baru：巴鲁
 Bear：熊
 Benzaiten：弁财天
 Bishamon：毗沙门
 Botan：牡丹
+Bukimi：异诡
+Bukuri：武来
 Buta：豚鼠
 Byakuren：白莲
 Cat：猫
@@ -70,10 +76,12 @@ Chiemi：千惠美
 Chihiro：千宏
 Chihomi：千穗美
 Chikara：力
+Chiko：千子
 Chinatsu：千夏
 Chine：千娜
 Chio：千绪
 Chiori：千织
+Chiroko：千吕子
 Chiya：千雅
 Chiyuku：千愈
 Chiyuna：千柚
@@ -86,13 +94,14 @@ Chōjirō：丁次郎
 Chōnosuke：丁助
 Chōsuke：丁助
 Choto：丁户
+Chou：蝶
 Choudai：丁大
 Choujiro：丁次郎
 Chouka：丁华
 Chouko：丁子
 Captain：队长
 Dachi：太地
-aichi：大地
+Daichi：大地
 Daiki：大辉
 Dairoku：大六
 Daisuke：大助
@@ -127,7 +136,9 @@ Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
 Falcon：隼
+Faruma：古间
 Fubuki：吹雪
+Fudo：不动
 Fuji：不二
 Fujikaze：藤风
 Fūjin：风神
@@ -161,14 +172,17 @@ Hanataro：花太郎
 Hanjirou：半次郎
 Hama：花麻
 Hamiri：浜理
+Hanko：判子
 Harada：原田
 Haru：春
 Haruhi：春香
 Haruka：春华
 Haruko：春子
 Haruki：春树
+Harumi：春美
 Haruna：春菜
 Haruto：春人
+Hashino：桥野
 Hawk：鹰
 Hayawara：隼原
 Hayuya：悠冶
@@ -180,10 +194,11 @@ Hayao：隼夫
 Hayase：隼濑
 Hayato：隼人
 Hebisuke：赫助
-Hideji：秀次
 Hekima：壁间
+Hemiko：碧美子
 Hibiko：响子
 Hibiki：响明
+Hideji：秀次
 Hideaki：英明
 Hideki：英树
 Hidenori：秀则
@@ -195,10 +210,12 @@ Hiko：彦
 Himari：日葵
 Himiko：卑弥呼
 Himitsu：秘密
+Himuro：冰室
 Hina：希娜
 Hinako：雏子
 Hinoda：日升
 Hinoto：日野户
+Hiraku：平久
 Hiro：宏
 Hiroaki：广明
 Hiroki：广树
@@ -213,8 +230,9 @@ Hitomi：瞳
 Hitoshi：仁
 Hiuchi：火打
 Hjouske：兵介
-Kobashi：小桥
+Hoitsu：丰津
 Hokuto：北斗
+Kobashi：小桥
 Koji：浩二
 Honoka：穗香
 Horse：马
@@ -258,6 +276,7 @@ Ito：伊藤
 Isamu：勇
 Isao：勇藤
 Isetsu：伊势津
+Ishi：石
 Ishigawa：石川
 Ishikori：石凝姥
 Ishikoridome：石居
@@ -309,9 +328,12 @@ Kanae：加奈惠
 Kanaema：鼎间
 Kaname：要势
 Kanata：神田
+Kanaye：金荣
 Kane：神奈
 Kaneda：金田
 Kanesuke：金助
+Kakuchi：角地
+Kanjin：堪人
 Kanon：卡农
 Kariho：狩穗
 Karuma：空魔
@@ -342,6 +364,7 @@ Kazumi：和美
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
+Keiki：圭树
 Keita：圭太
 Keisai：圭斋
 Keisuke：圭介
@@ -381,6 +404,7 @@ Kiyomi：清美
 Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
+Kizashi：兆志
 Kodoma：儿玉
 Kō：弘
 Kou：弘
@@ -393,6 +417,7 @@ Kojou：古城
 Komoko：小茂子
 Komoto：河本
 Konaru：河鸣
+Kokoro：心
 Korumi：小瑠美
 Kōsa：高砂
 Kosen：高泉
@@ -418,6 +443,7 @@ Kurokawa：黑川
 Kuroma：黑间
 Kurou：黑郎
 Kurumi：久留美
+Kurosawa：黑泽
 Kusunoki：楠木
 Kozumi：小泉
 Kuzon：九藏
@@ -458,6 +484,8 @@ Masashi：正志
 Masayoshi：正义
 Masuyo：真代
 Masumi：真理
+Mayu：真由
+Mayra：梅拉
 Megumi：惠
 Meiko：明子
 Michi：美智
@@ -486,6 +514,7 @@ Miyo：美悠
 Mizuho：水穗
 Mizuna：水奈
 Momiji：红叶
+Momo：桃
 Momohiko：桃彦
 Momoko：桃子
 Momoshi：桃矢
@@ -503,12 +532,17 @@ Myōkō：妙高
 Myoko：妙高
 Naeki：奈木
 Nagamine：长峰
+Nagasi：渚
+Nagisa：飞鸟
+Naho：奈穗
 Nakaba：仲间
 Nako：奈子
+Nanako：奈奈子
 Nanami：七海
 Nanashi：无名
 Nami：奈美
 Namie：奈美枝
+Nomaka：野磨
 Naohime：直姬
 Naoki：直树
 Naomi：直美
@@ -597,6 +631,7 @@ Ryoko：凉子
 Ryota：凉太
 Ryouta：凉太
 Ryougen：两玄
+Ryozo：凉藏
 Ryu：龙
 Ryuna：龙奈
 Ryujii：龙二
@@ -628,6 +663,7 @@ Sanuki：佐贯
 Samua：三亚
 Sarana：纱良
 Saru：猿
+Sas：小佐
 Satomi：里美
 Satoshi：悟
 Satsuki：皋月
@@ -686,6 +722,7 @@ Sho：翔
 Shokari：小狩
 Shona：翔南
 Shoma：肖马
+Shouta：翔太
 Shorin：小林
 Shun：瞬
 Shunsuke：瞬助
@@ -693,6 +730,7 @@ Shusuke：修助
 Soji：宗次
 Sora：空
 Soramaru：空丸
+Sota：壮太
 Souma：宗马
 Subaru：昴
 Sueko：末子
@@ -714,6 +752,7 @@ Susano’o：须佐能乎
 Swallow：燕
 Syungo：修吾
 Syōma：将马
+Tabaki：田泊
 Tachi：小鼬
 Tadashi：忠
 Tadao：忠雄
@@ -723,6 +762,7 @@ Tagayasu：田谷
 Tai：太
 Taigen：泰元
 Taihei：泰平
+Taiyo：太阳
 Taka：鹰
 Takaba：鹰场
 Takahashi：高桥
@@ -774,6 +814,7 @@ Tomoko：知子
 Tomoya：知也
 Tomoyori：知纪
 Tooru：透
+Toru：透
 Tora：虎
 Tori：鸟
 Toshihiro：俊宏
@@ -812,9 +853,12 @@ Wantanabe：渡边
 Wazuki：和月
 Wolf：狼
 Yadashige：矢田茂
+Yae：八重
 Yakamaru：夜鸦丸
 Yakao：矢尾
 Yako：野狐
+Yakuma：役真
+Yamaka：山香
 Yamana：山名
 Yamane：山根
 Yami：夜见
@@ -825,6 +869,8 @@ Yasuko：亚苏子
 Yasu：亚苏
 Yasutora：泰虎
 Yasuo：康夫
+Yato：山人
+Yohako：洋羽子
 Yoko：洋子
 Yona：夜纳
 Yori：由立
