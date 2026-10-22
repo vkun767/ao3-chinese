@@ -494,7 +494,7 @@ Moriko：森子
 Moritaka：森高
 Mosu：茂斯
 Mosuke：茂助
-Mouse：鼠
+Mouse：耗
 Muruwa：室轮
 Mutsuo：六男
 Myo：美代
@@ -567,7 +567,7 @@ Rabbit：兔
 Raichi：雷市
 Raikido：雷斗
 Raito：雷人
-Rat：耗
+Rat：鼠
 Reki：雷基
 Rei：雷伊
 Reiko：雷子
