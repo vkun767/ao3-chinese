@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -827,11 +827,12 @@ Tooru：透
 Toru：透
 Tora：虎
 Tori：鸟
-Toshihiro：俊宏
+Toshi：敏
+Toshihiro：敏宏
 Toshiko：敏子
-Toshio：俊夫
-Toshiro：俊郎
-Toshizo：俊藏
+Toshio：敏夫
+Toshiro：敏郎
+Toshizo：敏藏
 Touzoku：盗贼
 Tōyu：冬佑
 Tsubisa：月火
