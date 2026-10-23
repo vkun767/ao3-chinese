@@ -297,6 +297,7 @@ Ay：艾
 Samui：萨姆依
 Atsui：阿茨伊
 Darui：达鲁伊
+Karui：卡鲁伊
 Mabui：麻布伊
 Omoi：奥摩伊
 Burubi：布瑠比
