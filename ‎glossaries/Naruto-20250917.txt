@@ -885,6 +885,7 @@ okasame：母亲大人
 okāsan：母亲
 “okā–san”：母亲
 “Okaa-san”：妈妈
+“Kaa-Chan”：妈妈
 baka：笨蛋
 otōto：弟弟
 otouto：弟弟
