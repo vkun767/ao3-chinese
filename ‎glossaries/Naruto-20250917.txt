@@ -887,6 +887,7 @@ Aniki：哥哥
 Aneue：姐姐
 Imouto：妹妹
 sensei：老师
+shishou：师傅
 taichou：队长
 taichō：队长
 taicho：队长
