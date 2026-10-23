@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.53
+版本号：1.1.54
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -806,6 +806,10 @@ Sannin：三忍
 Sanin：三忍
 Ero Sennin：好色仙人
 “Ero-Sennin”：好色仙人
+Konoha no Kiiroi Senkō：木叶的金色闪光
+Kiiroi Senkō=金色 闪光
+Kiiroi Senko=金色 闪光
+Kiiroi Senkou=金色 闪光
 Rookie Nine：新人九人组
 Rookie 9：新人九人组
 bakakashi：笨卡卡
