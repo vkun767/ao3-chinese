@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-25
  
 词条
@@ -38,6 +38,7 @@ Amaya：天谷
 Ami：亚美
 Anzu：安祖
 Anpam：安帕姆
+Aoru：青瑠
 Arashi：岚
 Arata：新田
 Arugo：阿鲁戈
@@ -480,6 +481,7 @@ Matsuyo：松世
 Matsunaga：松永
 Matsunari：松成
 Masa：正雅
+Masago：真砂
 Masahiro：正宏
 Masako：雅子
 Masamura：正村
@@ -499,6 +501,7 @@ Midori：绿
 Miho：美惠
 Mika：美花
 Mikaboshi：灾星
+Mikan：蜜柑
 Miki：美纪
 Miko：美子
 Minako：美奈子
@@ -740,6 +743,7 @@ Sota：壮太
 Souma：宗马
 Subaru：昴
 Sueko：末子
+Suehiro：末广
 Suiko：水子
 Suki：佑树
 Sukuīzu：疾翅
