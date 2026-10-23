@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -60,6 +60,7 @@ Baken：贝肯
 Barako：芭乐子
 Baru：巴鲁
 Bear：熊
+Beni：红梨
 Benzaiten：弁财天
 Bishamon：毗沙门
 Botan：牡丹
@@ -74,7 +75,7 @@ Chiba：千叶
 Chie：千惠
 Chiemi：千惠美
 Chihiro：千宏
-Chihomi：千穗美
+Chihomi：千穗
 Chikara：力
 Chiko：千子
 Chinatsu：千夏
@@ -292,6 +293,7 @@ Izuya：伊豆弥
 Jackal：豺
 Jigen：慈玄
 Jimei：地明
+Jin：仁
 Jiro：次郎
 Jirou：次郎
 Jitan：次丹
@@ -306,6 +308,7 @@ Juro：十郎
 Junpei：顺平
 Kaede：枫
 Kagane：加金
+Kahen：花片
 Kaito：海斗
 Kaisen：海森
 Kaiyo：海阳
@@ -382,6 +385,7 @@ Keisha：佳纱
 Keisuki：庆杉
 Ketoki：齐时
 Kichi：吉吉
+Kigane：黄金
 Kiha：辉羽
 Kikiro：菊郎
 Kikiyo：菊代
@@ -530,6 +534,7 @@ Myo：美代
 Myoga：妙雅
 Myōkō：妙高
 Myoko：妙高
+Nadeshiko：抚子
 Naeki：奈木
 Nagamine：长峰
 Nagasi：渚
