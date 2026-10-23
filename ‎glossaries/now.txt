@@ -154,6 +154,7 @@ Fushimi：伏见
 Fushito：伏人
 Fuyuko：冬子
 Fuyuharu：冬晴
+Gen：玄
 Genbu：玄武
 Genta：玄太
 Goken：豪健
@@ -608,6 +609,7 @@ Otsuno：小角
 Ottota：乙太
 otto：丈夫
 Rabbit：兔
+Rai：雷
 Raichi：雷市
 Raikido：雷斗
 Raito：雷人
