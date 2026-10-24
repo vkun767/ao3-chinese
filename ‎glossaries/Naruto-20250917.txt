@@ -751,6 +751,7 @@ Ninkai Taisen=忍界 大战
 Allied Shinobi Forces：忍界联军
 daimyo：大名
 Daimyō：大名
+Daimyo：大名
 Soke：宗家
 Bunke：分家
 Konoha：木叶
