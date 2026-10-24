@@ -17,6 +17,7 @@ Akahana：赤花
 Akai：赤井
 Akako：明子
 Akane：茜
+Akanishi：赤西
 Akari：明里
 Akemi：阿美
 Akehito：明仁
@@ -29,10 +30,12 @@ Akira：亮
 Akiyama：秋山
 Akihito：明仁
 Akiro：秋吕
-Akshaya：阿克沙亚
 Akitsuna：秋纲
+Akshaya：阿克沙亚
 Ako：亚子
+Akurra：空良
 Amaha：天羽
+Amane：天音
 Amatsu：高天原
 Amaya：天谷
 Ami：亚美
@@ -55,10 +58,10 @@ Aoki：青木
 Aya：阿雅
 Ayako：绫子
 Ayaka：绫华
+Ayashi：绫诗
 Ayumi：步美
 Badger：獾
 Baken：贝肯
-
 Bakū：爆
 Barako：芭乐子
 Baru：巴鲁
@@ -77,6 +80,7 @@ Chiasa：千朝
 Chiba：千叶
 Chie：千惠
 Chiemi：千惠美
+Chiharu：千春
 Chihiro：千宏
 Chihomi：千穗
 Chikara：力
@@ -87,6 +91,7 @@ Chio：千绪
 Chiori：千织
 Chiroko：千吕子
 Chiya：千雅
+Chiyori：千依
 Chiyuku：千愈
 Chiyuna：千柚
 Chiyuri：千百合
@@ -176,6 +181,7 @@ Hanata：花奏
 Hanataro：花太郎
 Hanjirou：半次郎
 Hama：花麻
+Hamamoto：滨本
 Hamiri：浜理
 Hanko：判子
 Harada：原田
@@ -239,12 +245,15 @@ Hjouske：兵介
 Hoitsu：丰津
 Hokuto：北斗
 Kobashi：小桥
+Kobe：神户
+Kobayash：小林
 Koji：浩二
 Honoka：穗香
 Horse：马
 Hoshi：星
 Hoshika：星华
 Hosokawa：细川
+Hosoo：细井
 Hotaka：穗高
 Hotaru：萤
 Houju：候朱
@@ -257,6 +266,7 @@ Ibushi：伊武志
 Ichika：一花
 Ichirai：一来
 Igaku：伊角
+Ikari：碇
 Ikanago：鱼仔
 Ikeda：池田
 Iketsu：池月
@@ -300,12 +310,14 @@ Jackal：豺
 Jigen：慈玄
 Jimei：地明
 Jin：仁
+Jinnouchi：阵内
 Jiro：次郎
 Jirou：次郎
 Jitan：次丹
 Jitu：极图
 Jōchō：上长
 Jōseki：常石
+Joruri：净瑠璃
 Juko：寿子
 Junko：顺子
 Junshin：俊信
@@ -375,6 +387,7 @@ Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
 Keiki：圭树
+Keiko：圭子
 Keita：圭太
 Keisai：圭斋
 Keisuke：圭介
@@ -399,6 +412,8 @@ Kikiyo：菊代
 Kiku：菊
 Kikuchi：菊池
 Kikunojin：菊之仁
+Kimio：纪尾
+Kino:木野
 Kinoya：八香
 Kira：基拉
 Kiraku：木乐
@@ -410,7 +425,8 @@ Kitai：北斋
 Kitatani：北谷
 Kitsune：狐妖
 Kiya：岸夜
-Kiyo：清子
+Kiyo：清
+Kiyoko：清子
 Kiyomi：清美
 Kiyomizu：清见
 Kiyoshi：清志
@@ -419,6 +435,7 @@ Kizashi：兆志
 Kodoma：儿玉
 Kō：弘
 Kou：弘
+Koushi：弘士
 Kōga：甲贺
 Kouga：甲贺
 Kohaku：琥珀
@@ -442,10 +459,13 @@ Kouyou：红叶
 Kosuke：高助
 Kowa：高亚
 Kōya：光也
+Koyanagi：小柳
 Koyuki：小雪
 Kukaku：空鹤
 Kuma：熊
 Kumano：熊野
+Kumiko：久美子
+Kuni：国
 Kurma：来马
 Kuro：黑郎
 Kuroha：黑羽
@@ -478,6 +498,7 @@ Mako：真子
 Manaka：真中
 Maneki：万木
 Mameko：豆子
+Manami：爱美
 Mamochi：桃地
 Maou：麻黄
 Mariko：真理子
@@ -537,6 +558,7 @@ Moriko：森子
 Moritaka：森高
 Mosu：茂斯
 Mosuke：茂助
+Moto：本多
 Mouse：耗
 Muruwa：室轮
 Mutsuo：六男
@@ -568,6 +590,7 @@ Naru：鸣
 Naruko：鸣子
 Nashimi：梨美
 Natsu：夏
+Natsume：夏目
 Natsumi：夏美
 Natsuko：夏子
 Natsuo：夏生
@@ -600,6 +623,7 @@ Okami：冈美
 Okimoto：奥本
 Okinao：兴直
 Okuninushi：奥国奴
+Omezo：重藏
 Onamuji：小沼
 Onikiri：鬼切
 Onikuma：鬼熊
@@ -609,6 +633,7 @@ Orime：织目
 Osamu：治
 Oshaberi：御喋
 Osuya：大泽
+Otake：大竹
 Otoma：乙马
 Otsuno：小角
 Ottota：乙太
@@ -653,6 +678,7 @@ Ryu：龙
 Ryuna：龙奈
 Ryujii：龙二
 Ryūji：龙二
+Ryujin：龙神
 Ryukyu：琉球
 Ryunosuke：龙之介
 Ryuuichi：龙一
@@ -681,10 +707,12 @@ Samua：三亚
 Sarana：纱良
 Saru：猿
 Sas：小佐
+Sataku：佐久
 Satomi：里美
 Satoshi：悟
 Satsuki：皋月
 Sayaka：纱耶香
+Sayo：沙世
 Sebamaru：濑羽丸
 Seiichi：诚市
 Seiko：圣子
@@ -717,11 +745,13 @@ Shikamura：鹿村
 Shikari：鹿切
 Shikata：鹿方
 Shikato：鹿人
+Shikhako：式箱
 Shiki：拓海
 Shimauma：斑马
 Shinigami：死神
 Shinsei：新星
 Shinji：慎二
+Shinzo：慎藏
 Shio：盐
 Shion：诗音
 Shiori：诗织
@@ -773,10 +803,11 @@ Syungo：修吾
 Syōma：将马
 Tabaki：田泊
 Tachi：小鼬
-Tadashi：忠
-Tadao：忠雄
 Tadaaki：忠亮
+Tadako：忠子
+Tadao：忠雄
 Tadaoki：忠兴
+Tadashi：忠
 Tagayasu：田谷
 Tai：太
 Taigen：泰元
@@ -803,6 +834,7 @@ Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
 Tamame：玉目
+Tamanaha：玉间
 Tamotsu：保
 Tankyusha：探求者
 Tanaka：田中
@@ -818,8 +850,9 @@ Tetsuo：哲夫
 Tetsurou：哲郎
 Tetsuya：哲也
 Tiger：虎
-Togakushi：户隐
 Tobira：扉
+Togakushi：户隐
+Toichi：卯一
 Tokinojin：时野人
 Tokuren：德莲
 Tokuyoshi：德吉
@@ -841,6 +874,7 @@ Toshihiro：敏宏
 Toshiko：敏子
 Toshio：敏夫
 Toshiro：敏郎
+Toshitsugu：敏次
 Toshizo：敏藏
 Touzoku：盗贼
 Tōyu：冬佑
@@ -872,6 +906,7 @@ Utatane：卯田祢
 Wantanabe：渡边
 Wazuki：和月
 Wolf：狼
+Yachiru：八千流
 Yadashige：矢田茂
 Yae：八重
 Yakamaru：夜鸦丸
@@ -885,6 +920,7 @@ Yami：夜见
 Yamīchi：关一
 Yamori：蜥蜴
 Yashiro：八代
+Yashagoro：八重楼
 Yasuko：亚苏子
 Yasu：亚苏
 Yasutora：泰虎
@@ -913,6 +949,7 @@ Yua：结爱
 Yūjima：由岛
 Yume：由梦
 Yumei：由梅
+Yumekawa：梦川
 Yumiko：由美子
 Yūna：由奈
 Yuna：由奈
