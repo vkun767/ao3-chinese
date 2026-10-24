@@ -58,6 +58,8 @@ Ayaka：绫华
 Ayumi：步美
 Badger：獾
 Baken：贝肯
+
+Bakū：爆
 Barako：芭乐子
 Baru：巴鲁
 Bear：熊
@@ -90,7 +92,7 @@ Chiyuna：千柚
 Chiyuri：千百合
 Chizuru：千鹤
 Chōbei：丁卫
-Chōdai：丁代
+Chōda：丁代
 Choko：蝶子
 Chōjirō：丁次郎
 Chōnosuke：丁助
@@ -199,6 +201,7 @@ Hayato：隼人
 Hebisuke：赫助
 Hekima：壁间
 Hemiko：碧美子
+Heiwa：平和
 Hibiko：响子
 Hibiki：响明
 Hideji：秀次
