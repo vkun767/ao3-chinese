@@ -307,8 +307,9 @@ Juko：寿子
 Junko：顺子
 Junshin：俊信
 Junta：俊太 
-Juro：十郎
 Junpei：顺平
+Juro：十郎
+Jiyū：自由
 Kaede：枫
 Kagane：加金
 Kahen：花片
@@ -570,6 +571,7 @@ Natsuo：夏生
 Nazoko：奈佐子
 Neko：猫
 Nezumi：鼠
+Nikkō：日光
 Nimori：仁森
 Niwa：丹羽
 Noa：诺亚
@@ -715,6 +717,7 @@ Shikato：鹿人
 Shiki：拓海
 Shimauma：斑马
 Shinigami：死神
+Shinsei：新星
 Shinji：慎二
 Shio：盐
 Shion：诗音
