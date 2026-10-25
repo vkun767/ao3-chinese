@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -38,6 +38,7 @@ Amaha：天羽
 Amane：天音
 Amatsu：高天原
 Amaya：天谷
+Amehana：雨花
 Ami：亚美
 Anzu：安祖
 Anpam：安帕姆
@@ -52,6 +53,7 @@ Ashina：芦名
 Ashino：芦野
 Asuka：明日香
 Asuka：渚
+Asuna：明日奈
 Atsugi：厚木
 Atsuko：敦子
 Aoki：青木
@@ -65,6 +67,7 @@ Baken：贝肯
 Bakū：爆
 Barako：芭乐子
 Baru：巴鲁
+Bat：蝙蝠
 Bear：熊
 Beni：红梨
 Benzaiten：弁财天
@@ -108,10 +111,11 @@ Choudai：丁大
 Choujiro：丁次郎
 Chouka：丁华
 Chouko：丁子
-Captain：队长
+Crow：乌鸦
 Dachi：太地
 Daichi：大地
 Daiki：大辉
+Daikoku：大国
 Dairoku：大六
 Daisuke：大助
 Daiya：戴雅
@@ -141,7 +145,7 @@ Emiyo：惠优
 Ena：惠那
 Encho：炎朝
 Enjin：炎神
-Ensui：盐水
+Ensho：炎匠
 Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
@@ -165,6 +169,7 @@ Fuyuharu：冬晴
 Gen：玄
 Genbu：玄武
 Genta：玄太
+Ginkaze：银风
 Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
@@ -346,6 +351,7 @@ Kameyo：龟代
 Kami：神明
 Kamijima：上岛
 Kamori：加守
+Kana：卡娜
 Kanade：奏
 Kanae：加奈惠
 Kanaema：鼎间
@@ -451,6 +457,7 @@ Korumi：小瑠美
 Kōsa：高砂
 Kosen：高泉
 Kosuke：高助
+Kotone：小音
 Kototaro：高太郎
 Kou：蔻
 Kouga：光贺
@@ -549,6 +556,7 @@ Miyazaki：宫崎
 Miyo：美悠
 Mizuho：水穗
 Mizuna：水奈
+Mongoose：猫鼬
 Momiji：红叶
 Momo：桃
 Momohiko：桃彦
@@ -620,7 +628,8 @@ Numa：沼
 Ocha：茶茶
 Oda：织田
 Okami：冈美
-Ōkami：冈美
+Ōkami：狼
+Okami：狼
 Okimoto：奥本
 Okinao：兴直
 Okuninushi：奥国奴
@@ -631,6 +640,7 @@ Onikuma：鬼熊
 Ono：小野
 Ōri：大里
 Orime：织目
+Oro：大蛇
 Osamu：治
 Oshaberi：御喋
 Osuya：大泽
@@ -662,6 +672,7 @@ Rinka：琳花
 Rina.：理夏
 Risako：理沙子
 Risato：里见
+Risu：理寿
 Rokuro：六郎
 Rou：罗
 Rowa：罗瓦
@@ -676,12 +687,14 @@ Ryouta：凉太
 Ryougen：两玄
 Ryozo：凉藏
 Ryu：龙
+Ryū：龙
 Ryuna：龙奈
 Ryujii：龙二
 Ryūji：龙二
 Ryujin：龙神
 Ryukyu：琉球
 Ryunosuke：龙之介
+Ryūnosuke：龙之介
 Ryuuichi：龙一
 Ryuuji：龙二
 Saburō：三郎
@@ -708,6 +721,7 @@ Samua：三亚
 Sarana：纱良
 Saru：猿
 Sas：小佐
+Sasu：佐
 Sataku：佐久
 Satomi：里美
 Satoshi：悟
@@ -940,6 +954,7 @@ Yoshiro：义郎
 Yoshiyasu：义康
 Yui：由衣
 Yuichi：裕一
+Yuji：裕二
 Yukari：由香里
 Yukie：雪绘
 Yuki：雪
@@ -947,6 +962,7 @@ Yukina：雪名
 Yukimi：雪见
 Yuko：优子
 Yua：结爱
+Yū：悠
 Yūjima：由岛
 Yume：由梦
 Yumei：由梅
@@ -978,7 +994,8 @@ Fire Lord：火之国大名
 通用词条
 //不限制大小写
 sekke kuge：摄政 公家
-Ishikori-dome-sama：石凝姥命大人
+“Ishikori-dome-sama”：石凝姥命大人
+“Kisshōten-okami-sama”：吉祥天神大人
 Karuma no Kagami：空魔之镜
 Team Ro：第六队
 honeypot：色诱
