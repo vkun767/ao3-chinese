@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-25
  
 词条
@@ -627,6 +627,7 @@ Nozomi：希美
 Numa：沼
 Ocha：茶茶
 Oda：织田
+Oka：樱花
 Okami：冈美
 Ōkami：狼
 Okami：狼
@@ -654,6 +655,7 @@ Rai：雷
 Raichi：雷市
 Raikido：雷斗
 Raito：雷人
+Ran：兰花
 Rat：鼠
 Reki：雷基
 Rei：雷伊
@@ -910,7 +912,7 @@ Uemura：植村
 Ukie：浮木
 Una：宇奈
 Unarigoe ：宇那利
-Ume：梅
+Ume：梅花
 Umeko：梅子
 Umeo：梅尾
 Usagi：兔
@@ -1002,6 +1004,8 @@ honeypot：色诱
 “brother-in-law”：姻亲兄弟
 “sister-in-law”：姻亲姐妹
 seal：封印
+dobe：笨蛋
+teme：混蛋
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
