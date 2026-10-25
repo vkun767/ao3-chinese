@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-25
  
 词条
@@ -166,6 +166,7 @@ Fushimi：伏见
 Fushito：伏人
 Fuyuko：冬子
 Fuyuharu：冬晴
+Gecko：壁虎
 Gen：玄
 Genbu：玄武
 Genta：玄太
