@@ -373,6 +373,8 @@ Chōmei：重明
 Choumei：重明
 Nanabi：七尾
 Fuu：芙
+Fu：芙
+Fū：芙
 Gyuki：牛鬼
 Gyūki：牛鬼
 Hachibi：八尾
@@ -726,6 +728,7 @@ Mizukage：水影
 Kazekage：风影
 Raikage：雷影
 Tsuchikage：土影
+Otokage：音影
 Kumo：云忍
 Kiri：雾忍
 Suna：砂忍
