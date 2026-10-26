@@ -1,6 +1,6 @@
 维护者：临时用
 版本号：1.0.0
-更新时间：2025-10-25
+更新时间：2025-10-26
  
 词条
 // 限制大小写
@@ -634,7 +634,7 @@ Okami：冈美
 Okami：狼
 Okimoto：奥本
 Okinao：兴直
-Okuninushi：奥国奴
+Okuninushi：大国
 Omezo：重藏
 Onamuji：小沼
 Onikiri：鬼切
