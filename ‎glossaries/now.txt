@@ -355,6 +355,7 @@ Junko：顺子
 Junshin：顺信
 Junta：顺太 
 Junpei：顺平
+Junzo：顺藏
 Juro：十郎
 Jiyū：自由
 Kaede：枫
@@ -720,6 +721,7 @@ Riku：陆
 Rinha：玲羽
 Rinka：琳花
 Rina.：理夏
+Ririko：理理子
 Risako：理沙子
 Risato：里见
 Risu：理寿
