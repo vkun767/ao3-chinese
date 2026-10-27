@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -298,6 +298,7 @@ Ikari：碇
 Ikanago：鱼仔
 Ikeda：池田
 Iketsu：池月
+Ikki：一辉
 Ikuko：育子
 Inabi：稻火
 Inaka：稻中
@@ -589,6 +590,7 @@ Mitsue：三江
 Mitsuru：美弦
 Miori：美织
 Mio：澪
+Mioka：美夜香
 Miu：美羽
 Miyata：宫田
 Miyazaki：宫崎
@@ -646,6 +648,7 @@ Natsuko：夏子
 Natsuo：夏生
 Nazoko：奈佐子
 Neko：猫
+Nene：宁宁
 Nezumi：鼠
 Nikkō：日光
 Nimori：仁森
@@ -687,6 +690,7 @@ Orochimama：大蛇妈妈
 Orochitama：大蛇玉
 Osamu：治
 Oshaberi：御喋
+Osuke：大助
 Osuya：大泽
 Otake：大竹
 Otoma：乙马
@@ -844,6 +848,7 @@ Sho：翔
 Shokari：小狩
 Shona：翔南
 Shoma：肖马
+Shoujiro：正次郎
 Shouta：翔太
 Shorin：小林
 Shōkyo：消去
