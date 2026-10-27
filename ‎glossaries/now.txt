@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -253,6 +253,7 @@ Hinako：雏子
 Hinoda：日升
 Hinokimaru：桧柏
 Hinoto：日野户
+Hiori：火葵
 Hiraku：平久
 Hiro：宏
 Hiroaki：广明
@@ -377,6 +378,7 @@ Kagerou：阳炎
 Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
+Kakuchi：角地
 Kamatari：镰太
 Kameko：龟子
 Kameyo：龟代
@@ -394,9 +396,9 @@ Kane：神奈
 Kaneda：金田
 Kaneko：冈野
 Kanesuke：金助
-Kakuchi：角地
 Kanjin：堪人
 Kanon：卡农
+Kao：花央
 Kariho：狩穗
 Karuma：空魔
 Kasame：霞目
