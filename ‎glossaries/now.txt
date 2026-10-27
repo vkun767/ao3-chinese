@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -303,6 +303,7 @@ Inaka：稻中
 Inari：稻荷
 Inazuka：犬冢
 Inochi：井知
+Inochin：井野千
 Inohiko：井彦
 Inoki：井木
 Inoko：井子
@@ -690,6 +691,7 @@ Otoma：乙马
 Otsuno：小角
 Ottota：乙太
 otto：丈夫
+Owl：猫头鹰
 Popo：波波
 Puma：山狮
 Rabbit：兔
