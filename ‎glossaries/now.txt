@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -78,6 +78,7 @@ Bishamon：毗沙门
 Botan：牡丹
 Bukimi：异诡
 Bukuri：武来
+Bull：布鲁
 Buta：豚鼠
 Byakuren：白莲
 Cat：猫
@@ -112,13 +113,17 @@ Chōnosuke：丁助
 Chōsuke：丁助
 Choto：丁户
 Chou：蝶
+Chouei：丁英
 Choudai：丁大
 Choujiro：丁次郎
 Chouka：丁华
 Chouko：丁子
+Chousaki：丁崎
+Coyote：郊狼
 Crow：乌鸦
 Dachi：太地
 Daichi：大地
+Daiju：戴树
 Daiki：大辉
 Daikoku：大国
 Dairoku：大六
@@ -235,6 +240,7 @@ Higashi：东
 Higurashi：日渡
 Hikaru：光​
 Hiko：彦
+hiko：公子
 Himari：日葵
 Himiko：卑弥呼
 Himitsu：秘密
@@ -295,6 +301,7 @@ Inabi：稻火
 Inaka：稻中
 Inari：稻荷
 Inazuka：犬冢
+Inochi：井知
 Inohiko：井彦
 Inoki：井木
 Inoko：井子
@@ -562,6 +569,7 @@ Mika：美花
 Mikaboshi：灾星
 Mikan：蜜柑
 Miki：美纪
+Mikita：三北
 Miko：美子
 Mina：美奈
 Minako：美奈子
@@ -754,6 +762,7 @@ Sango：珊瑚
 Sanma：三瓦
 Sano：佐野
 Santa：三太
+Sami：纱美
 Sanuki：佐贯
 Samua：三亚
 Sarana：纱良
@@ -956,6 +965,7 @@ Tsuruhashi：鹤桥
 Tsutsui：筒井
 Turo：图罗
 Uemura：植村
+Ueno：上野
 Ukie：浮木
 Una：宇奈
 Unarigoe ：宇那利
@@ -1068,6 +1078,12 @@ Kakure-Oni：捉迷藏
 Enoshima Engi：江之岛
 Gozuryū：五头龙
 Shuten dōji=守天 童子
+ryo：两
+ryō：两
+Kabuki：歌舞伎
+seishitsu：正妻
+
+
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
