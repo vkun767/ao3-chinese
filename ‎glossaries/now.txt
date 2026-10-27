@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-26
  
 词条
@@ -318,6 +318,7 @@ Ishikori：石凝姥
 Ishikoridome：石居
 Ishikawa：石川
 Isshin：一心
+Isshiki：一色
 Iwashi：瓦希
 Iyori：伊织
 Izō：伊藏
@@ -910,6 +911,7 @@ Tetsurou：哲郎
 Tetsuya：哲也
 Tiger：虎
 Tobira：扉
+Tobitsuki：扉月
 Togakushi：户隐
 Toichi：卯一
 Tokinojin：时野人
