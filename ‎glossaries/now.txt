@@ -68,6 +68,7 @@ Ayashi：绫诗
 Ayumi：步美
 Badger：獾
 Baken：贝肯
+Bakin：马琴
 Bakū：爆
 Barako：芭乐子
 Baru：巴鲁
@@ -138,6 +139,7 @@ Degai：德爱
 Dekai：德凯
 Dog：狗
 Doi：土井
+Doppo：道步
 Doto：道人
 Douzan：铜山
 Eiichi：荣一
@@ -272,14 +274,9 @@ Hiuchi：火打
 Hjouske：兵介
 Hoitsu：丰津
 Hokuto：北斗
-Kobashi：小桥
-Kobe：神户
-Kobayash：小林
-Koji：浩二
-Kokkai：国海
 Honoka：穗香
 Honōka：穗香
-Horse：马
+Horse：马i
 Hoshi：星
 Hoshika：星华
 Hosokawa：细川
@@ -328,6 +325,7 @@ Isako：伊佐子
 Isamu：勇
 Isao：勇藤
 Isetsu：伊势津
+Isha：伊舎
 Ishi：石
 Ishigawa：石川
 Ishikori：石凝姥
@@ -478,21 +476,26 @@ Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
 Kizashi：兆志
-Kodo：幸道
-Kodoma：幸玉
 Kō：弘
 Kou：弘
-Koushi：弘士
+Kobashi：小桥
+Kobe：神户
+Kobayashi：小林
+Kodo：幸道
+Kodoma：幸玉
 Kōga：甲贺
 Kouga：甲贺
 Kohaku：琥珀
 Koichi：浩一
+Koji：浩二
 Kojika：治贺
 Kojou：古城
+Kokkai：国海
+Kokoro：心
 Komoko：小茂子
 Komoto：河本
+Kon：绀
 Konaru：河鸣
-Kokoro：心
 Korumi：小瑠美
 Kōsa：高砂
 Kosen：高泉
@@ -503,8 +506,8 @@ Kou：蔻
 Kouga：光贺
 Kouka：光华
 Koumaru：光丸
+Koushi：弘士
 Kouyou：红叶
-Kosuke：高助
 Kowa：高亚
 Kōya：光也
 Koyanagi：小柳
@@ -538,6 +541,7 @@ Leopard：豹
 Lion：狮
 Lynx：猞猁
 Madoka：圆香
+Magohachi：孙八
 Maho：马霍
 Mai：迈
 Maiko：舞子
@@ -647,6 +651,7 @@ Naomi：直美
 Naori：直里
 Naraho：奈良穗
 Nari：鸣里
+Nariaki：鸣明
 Naru：鸣
 Naruko：鸣子
 Nashimi：梨美
@@ -664,9 +669,11 @@ Nimori：仁森
 Niwa：丹羽
 Noa：诺亚
 Noba：诺巴
-Nobu：信
-Nobuki：信纪
 Noboru：信则
+Nobu：信
+Nobuhito：信人
+Nobuki：信纪
+Nobuyoshi：信义
 Nobuyuki：信幸
 Nodoka：希
 Nojiriko：诺吉里
@@ -693,6 +700,7 @@ Onikiri：鬼切
 Onikuma：鬼熊
 Ono：小野
 Ōri：大里
+Oriana：织杏
 Orime：织目
 Oro：大蛇
 Orochimama：大蛇妈妈
@@ -718,6 +726,7 @@ Raikou：雷光
 Raito：雷人
 Ran：兰花
 Rat：鼠
+Rea：玲
 Reki：雷基
 Rei：雷伊
 Reiko：雷子
@@ -865,11 +874,13 @@ Shun：瞬
 Shunsuke：瞬助
 Shusuke：修助
 Soji：宗次
+Soma：宗马
 Sora：空
 Soramaru：空丸
 Sota：壮太
 Souma：宗马
 Subaru：昴
+Suda：顺田
 Sueko：末子
 Suehiro：末广
 Sugawara：菅原
@@ -895,6 +906,7 @@ Tabaki：田泊
 Tachi：小鼬
 Tachibana：橘
 Tadaaki：忠亮
+Tadahisa：忠久
 Tadako：忠子
 Tadao：忠雄
 Tadaoki：忠兴
@@ -929,6 +941,7 @@ Tamame：玉目
 Tamanaha：玉间
 Tamayori：玉依
 Tamotsu：保
+Taniuchi：谷内
 Tankyusha：探求者
 Tanaka：田中
 Tatsu：龙
@@ -975,12 +988,14 @@ Toshizo：敏藏
 Touzoku：盗贼
 Tōyu：冬佑
 Tsubisa：月火
+Tsuchida：土田
 Tsugumi：次弓
 Tsuguru：嗣
 Tsukauchi：塚内
 Tsukiko：月子
 Tsuki：月
 Tsukiyomi：月读
+Tsuma：津真
 Tsumi：津美
 Tsunemori：常守
 Tsuneo：津根
@@ -990,6 +1005,7 @@ Tsutsui：筒井
 Turo：图罗
 Uemura：植村
 Ueno：上野
+Uki：宇希
 Ukie：浮木
 Una：宇奈
 Unarigoe ：宇那利
@@ -1016,6 +1032,7 @@ Yako：野狐
 Yakuma：役真
 Yama：山
 Yamaka：山香
+Yamakawa：山川
 Yamana：山名
 Yamanka：山中
 Yamane：山根
@@ -1028,6 +1045,7 @@ Yasuko：亚苏子
 Yasu：亚苏
 Yasutora：泰虎
 Yasuo：康夫
+Yataro：矢太郎
 Yato：山人
 Yohako：洋羽子
 Yoko：洋子
