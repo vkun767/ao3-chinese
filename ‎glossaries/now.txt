@@ -163,6 +163,7 @@ Ensho：炎匠
 Erika：绘里香
 Etsuko：悦子
 Etsuku：悦久
+Faia：法亚
 Falcon：隼
 Faruma：古间
 Fox：狐狸
@@ -220,14 +221,14 @@ Haruki：春树
 Harumi：春美
 Haruna：春菜
 Haruto：春人
-Hashino：桥野
-Hawk：鹰
-Hayawara：隼原
-Hayuya：悠冶
 Haro：花罗
 Haromaru：春间
 Hasegawa：长谷川
+Hashino：桥野
 Hasu：莲
+Hawk：鹰
+Hayawara：隼原
+Hayuya：悠冶
 Hayao：隼夫
 Hayase：隼濑
 Hayato：隼人
@@ -400,6 +401,7 @@ Kanon：卡农
 Kao：花央
 Kariho：狩穗
 Karuma：空魔
+Kasai：风祭
 Kasame：霞目
 Kasumi：霞
 Kashi：卡西
@@ -419,6 +421,7 @@ Kaza：风
 Kazan：卡赞
 Kazane：风音
 Kazama：风间
+Kazan：风山
 Kazuko：和子
 Kazue：和惠
 Kazuka：和贺
@@ -1028,6 +1031,7 @@ Yae：八重
 Yakamaru：夜鸦丸
 Yakao：矢尾
 Yakeru：夜暮
+Yaketsuku：烧付
 Yako：野狐
 Yakuma：役真
 Yama：山
