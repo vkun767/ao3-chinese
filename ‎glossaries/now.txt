@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -408,6 +408,7 @@ Katsumi：克己
 Katsuo：胜雄
 Kaori：香织
 Kaoru：薰
+Kawa：瓦
 Kaya：香耶
 Kayasa：草彩
 Kayoko：佳代子
@@ -510,6 +511,7 @@ Kumano：熊野
 Kumiko：久美子
 Kuni：国
 Kunitsukami：国上
+Kura：仓本
 Kurma：来马
 Kuro：黑郎
 Kuroha：黑羽
