@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.0
+版本号：1.1.1
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -44,6 +44,7 @@ Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
 Ukki：元气
 Sukea：斯坎儿
+sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
 Maa：嘛
 
@@ -98,6 +99,8 @@ Rock Lee：李洛克
 Lee Rock：李洛克
 Maito Gai=迈特 凯
 Maito Dai=迈特 戴
+Might Duy：迈特戴
+Duy：戴
 Might Guy：迈特凯
 Might Gai：迈特凯
 Maito Guy：迈特凯
@@ -178,6 +181,7 @@ NE：根
 //平民
 Gato：卡多
 Tezuna：达玆纳
+Tazuna：达兹纳
 Inari：伊纳里
 Kaiza:凯沙
 Teuchi：手打
@@ -464,8 +468,10 @@ Shikkotsurin：湿骨林
 shikkotsu：湿骨林
 Shikkotsu：湿骨林
 Hakuja：白蛇
+Shirohebi：白蛇
 Manda：万蛇
 Aoda：青蛇
+Aodaishō：青蛇
 Pakun：帕克
 Pakkun：帕克
 Buru：布鲁
@@ -475,6 +481,7 @@ Bisuke：弥助
 Akino：阿基诺
 Gurugo：古鲁克
 Guruku：古鲁克
+Uhei：乌黑
 Uuhei：乌黑
 ninneko：忍猫
 Nekobaa：猫婆婆
@@ -522,6 +529,7 @@ Suiton：水遁
 Suitōn：水遁
 Fuuton：风遁
 Fuutōn：风遁
+Fūton：风遁
 Raiton：雷遁
 Raitōn：雷遁
 Hyoton：冰遁
@@ -556,6 +564,8 @@ Mangekyo：万花筒
 Mangekyō：万花筒
 sharingan：写轮眼
 tomoe：勾玉
+Futatsudomoe：双勾玉
+Mitsudomoe：三勾玉
 Raikiri：雷切
 Raiden Chuan：雷传
 Kamui：神威
@@ -640,7 +650,7 @@ Kakuan Nitten Suishu：廓庵入廛垂手
 Kakuan nyūten suishu：廓庵入廛垂手
 Mokusa Ban：默杀缚
 Koshijin no Jutsu：虎视眈弹
-Edo Tensei：秽土转生
+Edo Tensei=秽土 转生
 Edo Tensai：秽土转生
 Fushi Tensei：不尸转生
 Shiki Fujin：尸鬼封印
@@ -708,6 +718,7 @@ Jonin：上忍
 Jounin：上忍
 Tokubetsu：特别上忍
 tokujō：特上
+tokujo：特上
 tokujou：特上
 chuunin：中忍
 Chounin：中忍
@@ -819,6 +830,7 @@ Kiiroi Senko=金色 闪光
 Kiiroi Senkou=金色 闪光
 Rookie Nine：新人九人组
 Rookie 9：新人九人组
+Kagome：笼中鸟
 bakakashi：笨卡卡
 bakashi：笨卡卡
 usuratonkachi：超级大笨蛋
@@ -946,6 +958,8 @@ ojii：爷爷
 nii：哥
 nee：姐
 niisan：尼桑
+teme：混蛋
+dobe：笨蛋
 kinomo：和服
 fundoshi：裈裤
 shikibuton：垫被
@@ -953,14 +967,17 @@ kakebuton：盖被
 genkan：玄关
 Engawa：缘侧
 kata：型
+dantian：丹田
 clone：分身
 Neko-ka：猫化
+yōkai：妖怪
+yokai：妖怪
 “san-san-kudo”：三三九度
 sansankudo：三三九度
 dogeza：土下座
 “Sora-Ku”：空区
 Yakinku：烤肉
-
+Sushi：寿司
 
 
 禁翻词条
