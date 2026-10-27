@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -282,6 +282,7 @@ Hyena：鬣狗
 Hyousuke：兵助
 Ibara：伊原
 Ibushi：伊武志
+Ichigo：一护
 Ichika：一花
 Ichirai：一来
 Igaku：伊角
