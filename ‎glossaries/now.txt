@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -36,7 +36,9 @@ Ako：亚子
 Akurra：空良
 Amaha：天羽
 Amane：天音
+Amano：天野
 Amatsu：高天原
+Amatsuki：天槻
 Amaya：天谷
 Amehana：雨花
 Ami：亚美
@@ -49,6 +51,7 @@ Arugo：阿鲁戈
 Asahi：朝日
 Asakura：朝仓
 Asama：浅间
+Ashihara：芦原
 Ashina：芦名
 Ashino：芦野
 Asuka：明日香
@@ -86,6 +89,7 @@ Chiemi：千惠美
 Chiharu：千春
 Chihiro：千宏
 Chihomi：千穗
+Chikako：千佳子
 Chikara：力
 Chiko：千子
 Chinatsu：千夏
@@ -99,6 +103,7 @@ Chiyuku：千愈
 Chiyuna：千柚
 Chiyuri：千百合
 Chizuru：千鹤
+Cho：丁
 Chōbei：丁卫
 Chōda：丁代
 Choko：蝶子
@@ -118,6 +123,7 @@ Daiki：大辉
 Daikoku：大国
 Dairoku：大六
 Daisuke：大助
+Daitenja：大天寺
 Daiya：戴雅
 Danuo：断雄
 Dansei：断圣
@@ -151,6 +157,7 @@ Etsuko：悦子
 Etsuku：悦久
 Falcon：隼
 Faruma：古间
+Fox：狐狸
 Fubuki：吹雪
 Fudo：不动
 Fuji：不二
@@ -165,7 +172,9 @@ Furuya：古谷
 Fushimi：伏见
 Fushito：伏人
 Fuyuko：冬子
+Fuyumi：冬美
 Fuyuharu：冬晴
+Gaku：岳
 Gecko：壁虎
 Gen：玄
 Genbu：玄武
@@ -233,6 +242,7 @@ Himuro：冰室
 Hina：希娜
 Hinako：雏子
 Hinoda：日升
+Hinokimaru：桧柏
 Hinoto：日野户
 Hiraku：平久
 Hiro：宏
@@ -255,7 +265,9 @@ Kobashi：小桥
 Kobe：神户
 Kobayash：小林
 Koji：浩二
+Kokkai：国海
 Honoka：穗香
+Honōka：穗香
 Horse：马
 Hoshi：星
 Hoshika：星华
@@ -324,11 +336,13 @@ Jitan：次丹
 Jitu：极图
 Jōchō：上长
 Jōseki：常石
+Jorō：游郎
 Joruri：净瑠璃
 Juko：寿子
+Jūn：顺
 Junko：顺子
-Junshin：俊信
-Junta：俊太 
+Junshin：顺信
+Junta：顺太 
 Junpei：顺平
 Juro：十郎
 Jiyū：自由
@@ -361,6 +375,7 @@ Kanata：神田
 Kanaye：金荣
 Kane：神奈
 Kaneda：金田
+Kaneko：冈野
 Kanesuke：金助
 Kakuchi：角地
 Kanjin：堪人
@@ -420,8 +435,10 @@ Kikiyo：菊代
 Kiku：菊
 Kikuchi：菊池
 Kikunojin：菊之仁
+Kikyo：菊乃
 Kimio：纪尾
 Kino:木野
+Kinoko：木之子
 Kinoya：八香
 Kira：基拉
 Kiraku：木乐
@@ -440,7 +457,8 @@ Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
 Kizashi：兆志
-Kodoma：儿玉
+Kodo：幸道
+Kodoma：幸玉
 Kō：弘
 Kou：弘
 Koushi：弘士
@@ -475,6 +493,7 @@ Kuma：熊
 Kumano：熊野
 Kumiko：久美子
 Kuni：国
+Kunitsukami：国上
 Kurma：来马
 Kuro：黑郎
 Kuroha：黑羽
@@ -500,8 +519,10 @@ Maho：马霍
 Mai：迈
 Maiko：舞子
 Maiya：真弥
+Majime：真纪
 Maka：真花
 Makiko：真纪子
+Makishima：慎岛
 Makoto：诚
 Mako：真子
 Manaka：真中
@@ -540,12 +561,14 @@ Mikaboshi：灾星
 Mikan：蜜柑
 Miki：美纪
 Miko：美子
+Mina：美奈
 Minako：美奈子
 Minasu：美那须
 Minoru：稔
 Misaki：美咲
 Misao：美佐叶
 Miso：味增
+Misuri：美铃
 Mitsuba：三叶
 Mitsue：三江
 Mitsuru：美弦
@@ -555,8 +578,10 @@ Miu：美羽
 Miyata：宫田
 Miyazaki：宫崎
 Miyo：美悠
+Miyu：美羽
 Mizuho：水穗
 Mizuna：水奈
+Mizumi：水见
 Mongoose：猫鼬
 Momiji：红叶
 Momo：桃
@@ -643,6 +668,8 @@ Ono：小野
 Ōri：大里
 Orime：织目
 Oro：大蛇
+Orochimama：大蛇妈妈
+Orochitama：大蛇玉
 Osamu：治
 Oshaberi：御喋
 Osuya：大泽
@@ -651,10 +678,13 @@ Otoma：乙马
 Otsuno：小角
 Ottota：乙太
 otto：丈夫
+Popo：波波
 Rabbit：兔
 Rai：雷
 Raichi：雷市
 Raikido：雷斗
+Raikō：雷光
+Raikou：雷光
 Raito：雷人
 Ran：兰花
 Rat：鼠
@@ -665,6 +695,7 @@ Ren：莲
 Renzu：莲组
 Renzo：莲藏
 Reto：濑斗
+Rice：日司
 Rihan：梨花​
 Riko：理子
 Riku：理久
@@ -708,6 +739,7 @@ Sadao：贞夫
 Sagami：相模
 Saho：沙穗
 Sahoma：沙穗间
+Saito：斋藤
 Sakana：鱼
 Sakasu：坂须
 Sakiko：咲子
@@ -718,6 +750,7 @@ Sandayu：山太夫​
 Sandayuu：山太夫​
 Sango：珊瑚
 Sanma：三瓦
+Sano：佐野
 Santa：三太
 Sanuki：佐贯
 Samua：三亚
@@ -765,6 +798,8 @@ Shikata：鹿方
 Shikato：鹿人
 Shikhako：式箱
 Shiki：拓海
+Shikō：四皇
+Shiko：四皇
 Shimauma：斑马
 Shinigami：死神
 Shinsei：新星
@@ -790,6 +825,7 @@ Shona：翔南
 Shoma：肖马
 Shouta：翔太
 Shorin：小林
+Shōkyo：消去
 Shun：瞬
 Shunsuke：瞬助
 Shusuke：修助
@@ -801,6 +837,7 @@ Souma：宗马
 Subaru：昴
 Sueko：末子
 Suehiro：末广
+Sugawara：菅原
 Suiko：水子
 Suki：佑树
 Sukuīzu：疾翅
@@ -821,6 +858,7 @@ Syungo：修吾
 Syōma：将马
 Tabaki：田泊
 Tachi：小鼬
+Tachibana：橘
 Tadaaki：忠亮
 Tadako：忠子
 Tadao：忠雄
@@ -851,8 +889,10 @@ Takuma：拓马
 Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
+Tama：玉
 Tamame：玉目
 Tamanaha：玉间
+Tamayori：玉依
 Tamotsu：保
 Tankyusha：探求者
 Tanaka：田中
@@ -862,6 +902,7 @@ Tatsuya：拓也
 Tenchi：天地
 Tenma：天马
 Tateiwa：立岩
+Tatewaki：带刀
 Tatsuya：拓也
 Tetsuka：铁火
 Tetsuo：哲夫
@@ -872,6 +913,7 @@ Tobira：扉
 Togakushi：户隐
 Toichi：卯一
 Tokinojin：时野人
+Tokimi：时君
 Tokuren：德莲
 Tokuyoshi：德吉
 Tomatsu：保
@@ -904,6 +946,7 @@ Tsukiko：月子
 Tsuki：月
 Tsukiyomi：月读
 Tsumi：津美
+Tsunemori：常守
 Tsuneo：津根
 Tsuru：鹤
 Tsuruhashi：鹤桥
@@ -921,6 +964,7 @@ Usami：宇佐美
 Ushi：牛
 Usagi：兔
 Utatane：卯田祢
+Uzume：宇津
 Wantanabe：渡边
 Wazuki：和月
 Wolf：狼
@@ -931,6 +975,7 @@ Yakamaru：夜鸦丸
 Yakao：矢尾
 Yako：野狐
 Yakuma：役真
+Yama：山
 Yamaka：山香
 Yamana：山名
 Yamane：山根
@@ -949,12 +994,14 @@ Yoko：洋子
 Yona：夜纳
 Yori：由立
 Yorimasa：依正
+Yorimitsu：赖光
 Yoritaka：依高
 Yorito：依人
 Yoshihiro：吉弘
 Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
+Yu：悠
 Yui：由衣
 Yuichi：裕一
 Yuji：裕二
@@ -993,6 +1040,7 @@ Zenko：善光
 Zugara：祖罗
 
 Fire Lord：火之国大名
+Tōkatsuchi no Jutsu：透过土之术
 
 通用词条
 //不限制大小写
@@ -1005,9 +1053,18 @@ honeypot：色诱
 “brother-in-law”：姻亲兄弟
 “sister-in-law”：姻亲姐妹
 seal：封印
-dobe：笨蛋
-teme：混蛋
-Edo：秽土
+Koi-Koi：花札
+hanetsuki：板羽球
+Uta-garuta：歌牌
+kannushi：神官
+mikogami：巫神
+miko：巫女
+Shinryūgan：真龙眼
+Onigokko：捉鬼
+Kakure-Oni：捉迷藏
+Enoshima Engi：江之岛
+Gozuryū：五头龙
+Shuten dōji=守天 童子
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
