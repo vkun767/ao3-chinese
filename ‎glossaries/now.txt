@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.2
 更新时间：2025-10-26
  
 词条
@@ -173,6 +173,7 @@ Fukito：福人
 Fumiko：文子
 Fumio：文雄
 Fumi：芙美
+Fumiko：文子
 Fumihiro：文宏
 Furuya：古谷
 Fushimi：伏见
@@ -376,6 +377,7 @@ Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
 Kamatari：镰太
+Kameko：龟子
 Kameyo：龟代
 Kami：神明
 Kamijima：上岛
@@ -567,6 +569,7 @@ Mayu：真由
 Mayra：梅拉
 Megumi：惠
 Meiko：明子
+Mer：美人鱼
 Michi：美智
 Michiko：美智子
 Midori：绿
@@ -1002,6 +1005,7 @@ Yadashige：矢田茂
 Yae：八重
 Yakamaru：夜鸦丸
 Yakao：矢尾
+Yakeru：夜暮
 Yako：野狐
 Yakuma：役真
 Yama：山
