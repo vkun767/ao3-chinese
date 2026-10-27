@@ -524,6 +524,7 @@ Kyougi：恭仪
 Kyouraku：京乐
 Leopard：豹
 Lion：狮
+Lynx：猞猁
 Madoka：圆香
 Maho：马霍
 Mai：迈
@@ -690,6 +691,7 @@ Otsuno：小角
 Ottota：乙太
 otto：丈夫
 Popo：波波
+Puma：山狮
 Rabbit：兔
 Rai：雷
 Raichi：雷市
@@ -706,6 +708,7 @@ Ren：莲
 Renzu：莲组
 Renzo：莲藏
 Reto：濑斗
+Rhino：犀牛
 Rice：日司
 Rihan：梨花​
 Riko：理子
@@ -777,6 +780,7 @@ Satsuki：皋月
 Sayaka：纱耶香
 Sayo：沙世
 Sebamaru：濑羽丸
+Scorpion：蝎子
 Seiichi：诚市
 Seiko：圣子
 Seiryū：青龙
@@ -981,6 +985,7 @@ Utatane：卯田祢
 Uzume：宇津
 Wantanabe：渡边
 Wazuki：和月
+Weasel：黄鼠狼
 Wolf：狼
 Yachiru：八千流
 Yadashige：矢田茂
