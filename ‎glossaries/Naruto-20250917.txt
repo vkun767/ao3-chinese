@@ -800,6 +800,7 @@ Kugutsushi：傀儡师
 Kai：解
 ichaicha：亲热天堂
 Icha Icha：亲热天堂
+“Icha-icha”：亲热天堂
 Icha Icha Paradise：亲热天堂
 Shodai：初代
 Shodaime：初代目
