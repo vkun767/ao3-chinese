@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -311,6 +311,7 @@ Inohiko：井彦
 Inoki：井木
 Inoko：井子
 Inomoto：井本
+Inomaru：井丸
 Inoru：井乐
 Inoshin：井信
 Inosuke：井助
@@ -1013,6 +1014,7 @@ Yakuma：役真
 Yama：山
 Yamaka：山香
 Yamana：山名
+Yamanka：山中
 Yamane：山根
 Yami：夜见
 Yamīchi：关一
