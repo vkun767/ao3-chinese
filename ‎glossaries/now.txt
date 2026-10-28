@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -600,6 +600,7 @@ Minako：美奈子
 Minasu：美那须
 Minoru：稔
 Misaki：美咲
+Misako：美咲子
 Misao：美佐叶
 Miso：味增
 Misuri：美铃
