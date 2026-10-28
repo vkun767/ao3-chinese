@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -186,6 +186,7 @@ Fuyuko：冬子
 Fuyumi：冬美
 Fuyuharu：冬晴
 Gaku：岳
+Gazeru：雅蝉
 Gecko：壁虎
 Gen：玄
 Genbu：玄武
@@ -265,6 +266,7 @@ Hiroki：广树
 Hiroshi：广志
 Hiru：日
 Hirzuen：日斩
+Hisako：久子
 Hisa：久佐
 Hisato：久人
 Hishaku：飞针
@@ -911,6 +913,7 @@ Tachibana：橘
 Tadaaki：忠亮
 Tadahisa：忠久
 Tadako：忠子
+Tadomi：忠臣
 Tadao：忠雄
 Tadaoki：忠兴
 Tadashi：忠
