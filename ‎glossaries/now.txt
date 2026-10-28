@@ -152,6 +152,7 @@ Eisen：英泉
 Eitaro：英太郎
 Eizan：英山
 Emi：惠美
+Emika：惠美香
 Emiko：惠美子
 Emon：右门
 Emigiku：惠菊
@@ -368,6 +369,7 @@ Junzo：顺藏
 Juro：十郎
 Jiyū：自由
 Kaede：枫
+Kaen：封火
 Kagane：加金
 Kahen：花片
 Kaito：海斗
@@ -597,6 +599,7 @@ Mikan：蜜柑
 Miki：美纪
 Mikita：三北
 Miko：美子
+Miku：美久
 Mina：美奈
 Minako：美奈子
 Minasu：美那须
@@ -617,6 +620,7 @@ Miyata：宫田
 Miyazaki：宫崎
 Miyo：美悠
 Miyu：美羽
+Mizushima：水岛
 Mizuho：水穗
 Mizuna：水奈
 Mizumi：水见
@@ -662,6 +666,7 @@ Nari：鸣里
 Nariaki：鸣明
 Naru：鸣
 Naruko：鸣子
+Narumi：鸣海
 Nashimi：梨美
 Natsu：夏
 Natsume：夏目
@@ -692,6 +697,7 @@ Nori：诺里
 Noriko：纪子
 Noriyuki：仙幸
 Nozomi：希美
+Nozumi：望美
 Numa：沼
 Ocha：茶茶
 Oda：织田
@@ -886,6 +892,7 @@ Soma：宗马
 Sora：空
 Soramaru：空丸
 Sota：壮太
+Suoh：周防
 Souma：宗马
 Subaru：昴
 Suda：顺田
@@ -950,6 +957,7 @@ Tamame：玉目
 Tamanaha：玉间
 Tamayori：玉依
 Tamotsu：保
+Tanami：玉美
 Taniuchi：谷内
 Tankyusha：探求者
 Tanaka：田中
