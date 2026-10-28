@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -237,6 +237,7 @@ Hayato：隼人
 Hebisuke：赫助
 Hekima：壁间
 Hemiko：碧美子
+Heisuke：平助
 Heiwa：平和
 Hibiko：响子
 Hibiki：响明
@@ -377,6 +378,7 @@ Kaisen：海森
 Kaiyo：海阳
 Kakuto：角人
 Kako：小鹿
+Katsu：胜
 Hagane：钢
 Kagemori：影守
 Kagerō：阳炎
@@ -686,6 +688,7 @@ Noboru：信则
 Nobu：信
 Nobuhito：信人
 Nobuki：信纪
+Noburu：信留
 Nobuyoshi：信义
 Nobuyuki：信幸
 Nodoka：希
@@ -1030,6 +1033,7 @@ Unarigoe ：宇那利
 Ume：梅花
 Umeko：梅子
 Umeo：梅尾
+Umi：宇美
 Usagi：兔
 Usami：宇佐美
 Ushi：牛
@@ -1097,6 +1101,7 @@ Yumekawa：梦川
 Yumiko：由美子
 Yūna：由奈
 Yuna：由奈
+Yundai：云台
 Yuri：由里
 Yusami：由纱美
 Yūshin：勇信
