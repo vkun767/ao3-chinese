@@ -47,6 +47,7 @@ Sukea：斯坎儿
 sukea：斯坎儿
 Hatake Sakumo=旗木 朔茂
 Maa：嘛
+maa：嘛
 
 //木叶其他十二小强班级及直系
 Nara Shikamaru=奈良 鹿丸
