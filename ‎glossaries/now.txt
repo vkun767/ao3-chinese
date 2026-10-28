@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-26
  
 词条
@@ -387,6 +387,7 @@ Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
 Kakuchi：角地
+Kaji：梶
 Kamatari：镰太
 Kameko：龟子
 Kameyo：龟代
