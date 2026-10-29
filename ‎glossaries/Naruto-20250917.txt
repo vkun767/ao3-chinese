@@ -610,6 +610,7 @@ Tsuki no Me：月之眼
 Amenotejikara：天手力
 Gokakyu：豪火球
 Goukakyuu：豪火球
+Gyokyaku：豪火球
 Hosenka：凤仙火
 Hōsenka：凤仙火
 Housenka：凤仙火
