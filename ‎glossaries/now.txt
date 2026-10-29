@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -833,9 +833,9 @@ Seiko：圣子
 Seiryū：青龙
 Seiryu：青龙
 Seiryou：青龙
-Seishi：清志
-Seishirō：星史郎
-Seishiro：星史郎
+Seishi：清史
+Seishirō：清史郎
+Seishiro：清史郎
 seiza：正坐
 Sen：千
 Senjuro：千寿郎
