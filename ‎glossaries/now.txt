@@ -46,6 +46,7 @@ Ami：亚美
 Anzu：安祖
 Anpam：安帕姆
 Aoru：青瑠
+Aoyama：青山
 Arashi：岚
 Arata：新田
 Arugo：阿鲁戈
@@ -189,8 +190,9 @@ Fuyuharu：冬晴
 Gaku：岳
 Gazeru：雅蝉
 Gecko：壁虎
+Gendou：外道
 Gen：玄
-Genbu：玄武
+Genbu：玄信
 Genta：玄太
 Ginkaze：银风
 Gibbon：长臂猿
@@ -314,6 +316,7 @@ Inazuka：犬冢
 Inochi：井知
 Inochin：井野千
 Inohiko：井彦
+Inoka：井香
 Inoki：井木
 Inoko：井子
 Inomoto：井本
@@ -590,6 +593,7 @@ Masashika：正鹿
 Masuyo：真代
 Masumi：真理
 Mayu：真由
+Mayuri：真由里
 Mayra：梅拉
 Megumi：惠
 Meiko：明子
@@ -1027,6 +1031,7 @@ Tsunemori：常守
 Tsuneo：津根
 Tsuru：鹤
 Tsuruhashi：鹤桥
+Tsutomu：勤
 Tsutsui：筒井
 Turo：图罗
 Uemura：植村
@@ -1107,6 +1112,7 @@ Yumiko：由美子
 Yūna：由奈
 Yuna：由奈
 Yundai：云台
+Yura：由良
 Yuri：由里
 Yusami：由纱美
 Yūshin：勇信
