@@ -56,9 +56,10 @@ Asama：浅间
 Ashihara：芦原
 Ashina：芦名
 Ashino：芦野
-Asuka：明日香
+Asuhi：芦飞
+Asuka：芦香
 Asuka：渚
-Asuna：明日奈
+Asuna：芦奈
 Atsugi：厚木
 Atsuko：敦子
 Aoki：青木
@@ -194,6 +195,7 @@ Gendou：外道
 Gen：玄
 Genbu：玄信
 Genta：玄太
+Gin：银
 Ginkaze：银风
 Gibbon：长臂猿
 Goken：豪健
@@ -850,6 +852,7 @@ Seto：濑户
 Shachi：佐幸
 Shamon：沙蒙
 Shiba：志巴
+Shibi：志比
 Shibiki：志木
 Shiemi：诗惠美
 Shigeru：志茂
