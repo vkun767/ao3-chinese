@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -43,6 +43,7 @@ Amatsuki：天槻
 Amaya：天谷
 Amehana：雨花
 Ami：亚美
+Anami：穴目
 Anzu：安祖
 Anpam：安帕姆
 Aoru：青瑠
@@ -233,6 +234,7 @@ Hasegawa：长谷川
 Hashino：桥野
 Hasu：莲
 Hawk：鹰
+Hayami：速水
 Hayawara：隼原
 Hayuya：悠冶
 Hayao：隼夫
@@ -268,6 +270,7 @@ Hiori：火葵
 Hiraku：平久
 Hiro：宏
 Hiroaki：广明
+Hiroko：广子
 Hiroki：广树
 Hiroshi：广志
 Hiru：日
@@ -661,6 +664,7 @@ Nagamine：长峰
 Nagasi：渚
 Nagisa：飞鸟
 Naho：奈穗
+Naiade：奈雅德
 Nakaba：仲间
 Nako：奈子
 Nanako：奈奈子
@@ -690,6 +694,7 @@ Neko：猫
 Nene：宁宁
 Nezumi：鼠
 Nikkō：日光
+Niko：日子
 Nimori：仁森
 Niwa：丹羽
 Noa：诺亚
