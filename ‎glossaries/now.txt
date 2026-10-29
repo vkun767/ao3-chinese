@@ -284,7 +284,7 @@ Hōki：凤辉
 Hokuto：北斗
 Honoka：穗香
 Honōka：穗香
-Horse：马i
+Horse：马
 Hoshi：星
 Hoshika：星华
 Hosokawa：细川
@@ -315,6 +315,7 @@ Inari：稻荷
 Inazuka：犬冢
 Inochi：井知
 Inochin：井野千
+Inoharu：井春
 Inohiko：井彦
 Inoka：井香
 Inoki：井木
@@ -863,6 +864,7 @@ Shikaido：鹿道
 Shikako：鹿子
 Shikamura：鹿村
 Shikari：鹿切
+Shikaro：鹿郎
 Shikata：鹿方
 Shikato：鹿人
 Shikhako：式箱
@@ -954,6 +956,7 @@ Takao：高尾
 Takara：宝
 Takaya：贵也
 Takeda：武田
+Takeharu：武彦
 takemaru：竹丸
 Takeru：健
 Takeshi：武史
@@ -1014,6 +1017,7 @@ Toshio：敏夫
 Toshiro：敏郎
 Toshitsugu：敏次
 Toshizo：敏藏
+Touma：冬马
 Touzoku：盗贼
 Tōyu：冬佑
 Tsubame：燕
