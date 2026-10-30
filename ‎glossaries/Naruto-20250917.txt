@@ -823,6 +823,7 @@ Shinobigatana Shichininshu=忍刀 七人众
 Shisui no Shunshin：瞬身止水
 Shunshin no Shisui：瞬身止水
 Shunshin Shisui：瞬身止水
+Body Flicker：瞬身
 Suna no Sankyoudai：砂之三姐弟
 Aoi Kajitsu：苍蓝 猛兽
 Kajitsu：猛兽
