@@ -609,6 +609,9 @@ Jubi no Hitsugi：十尾柩印
 Tsuki no Me Keikaku：月之眼
 Tsuki no Me：月之眼
 Amenotejikara：天手力
+Great Fire Annihilation：豪火灭却
+Great Fire Ball：豪火球
+Gōkakyū：豪火球
 Gokakyu：豪火球
 Goukakyuu：豪火球
 Gyokyaku：豪火球
@@ -709,8 +712,6 @@ Dorō Dōmu：土牢 堂无
 Doro Domu：土牢 堂无
 Endan：炎弹
 Suihachi：水铁炮
-Great Fire Annihilation：豪火灭却
-Great Fire Ball：豪火球
 Fire Style：火遁
 Water Style：水遁
 
