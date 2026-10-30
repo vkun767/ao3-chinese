@@ -901,6 +901,7 @@ otosan：父亲
 otōsame：父亲大人
 otōsan：父亲
 otō–san：父亲
+"tou-chan"：爸爸
 kaa-san：母亲
 kaasan：母亲
 “Haha-ue”：母亲大人
@@ -925,7 +926,8 @@ Aniki：哥哥
 Aneue：姐姐
 Imouto：妹妹
 sensei：老师
-shishou：师傅
+shishou：师父
+shishō：师父
 taichou：队长
 taichō：队长
 taicho：队长
