@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -287,6 +287,7 @@ Hjouske：兵介
 Hoitsu：丰津
 Hōki：凤辉
 Hokuto：北斗
+Homomuri：穗村里
 Honoka：穗香
 Honōka：穗香
 Horse：马
@@ -397,6 +398,7 @@ Kagetsuna：影纲
 Kagi：影
 Kakuchi：角地
 Kaji：梶
+Kaju：卡朱
 Kamatari：镰太
 Kameko：龟子
 Kameyo：龟代
@@ -449,6 +451,7 @@ Kazumi：和美
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
+Kei：圭
 Keiki：圭树
 Keiko：圭子
 Keita：圭太
@@ -758,6 +761,7 @@ Raikō：雷光
 Raikou：雷光
 Raito：雷人
 Ran：兰花
+Raven：雷文
 Rat：鼠
 Rea：玲
 Reki：雷基
@@ -985,6 +989,7 @@ Tanami：玉美
 Taniuchi：谷内
 Tankyusha：探求者
 Tanaka：田中
+Tanake：田圭
 Tatsu：龙
 Tatsuo：拓夫
 Tatsuya：拓也
@@ -1059,6 +1064,7 @@ Umeo：梅尾
 Umi：宇美
 Usagi：兔
 Usami：宇佐美
+Usamo：宇佐茂
 Ushi：牛
 Usagi：兔
 Utatane：卯田祢
