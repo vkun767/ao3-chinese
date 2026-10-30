@@ -141,6 +141,7 @@ Dansei：断圣
 Daruzo：达鲁藏
 Degai：德爱
 Dekai：德凯
+Diablo：迪亚波罗
 Dog：狗
 Doi：土井
 Doppo：道步
@@ -567,6 +568,7 @@ Leopard：豹
 Lion：狮
 Iizuna：饭津
 Lynx：猞猁
+Lysithea：莉西缇娅
 Madoka：圆香
 Magohachi：孙八
 Maho：马霍
