@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.1
+版本号：1.1.2
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -500,18 +500,19 @@ Naka：南贺川
 Nakano：南河川
 Nankagawa：南贺川
 Naka River：南贺川
-Kusagakure：草忍村
-Kumogakure：云忍村
-Kirigakure：雾忍村
-Konohagakure：木叶忍村
-Sunagakure：砂忍村
-Iwagakure：岩忍村
+Kusagakure：草隐村
+Kumogakure：云隐村
+Kirigakure：雾隐村
+Konohagakure：木叶隐村
+Hidden Leaf：木叶隐村
+Sunagakure：砂隐村
+Iwagakure：岩隐村
 Uzushio：涡之国
 Uzushiogakure：涡隐村
 Whirlpool：涡潮村
-Otogakure：音忍村
-Amegakure：雨忍村
-Takigakure：泷忍村
+Otogakure：音隐村
+Amegakure：雨隐村
+Takigakure：泷隐村
 Yugakure：汤隐村
 Dazna：波之国
 Uchiha compound：宇智波族地
