@@ -483,6 +483,7 @@ Kikuchi：菊池
 Kikunojin：菊之仁
 Kikyo：菊乃
 Kimio：纪尾
+Kimura：木村
 Kino:木野
 Kinoko：木之子
 Kinoya：八香
@@ -502,7 +503,6 @@ Kiyomi：清美
 Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
-Kizashi：兆志
 Kō：弘
 Kou：弘
 Kobashi：小桥
@@ -587,6 +587,7 @@ Mameko：豆子
 Manami：爱美
 Mamochi：桃地
 Maou：麻黄
+Mari：真理
 Mariko：真理子
 Matsu：松
 Matsubokkuri：松鼠栗
@@ -640,6 +641,7 @@ Miori：美织
 Mio：澪
 Mioka：美夜香
 Miu：美羽
+Miyako:宫子
 Miyata：宫田
 Miyazaki：宫崎
 Miyo：美悠
@@ -773,6 +775,7 @@ Rea：玲
 Reki：雷基
 Rei：雷伊
 Reiko：雷子
+Reina：玲奈
 Ren：莲
 Renzu：莲组
 Renzo：莲藏
@@ -966,6 +969,7 @@ Tagayasu：田谷
 Tai：太
 Taigen：泰元
 Taihei：泰平
+Taiki：拓树
 Taishi：太志
 Taiyo：太阳
 Taka：鹰
@@ -1134,6 +1138,7 @@ Yuko：优子
 Yua：结爱
 Yū：悠
 Yūjima：由岛
+Yūma：由真
 Yume：由梦
 Yumei：由梅
 Yumekawa：梦川
