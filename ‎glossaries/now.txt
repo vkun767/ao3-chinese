@@ -45,8 +45,9 @@ Amehana：雨花
 Ami：亚美
 Amphisbaena：蛇怪
 Aname：穴目
-Anzu：安祖
 Anpam：安帕姆
+Anzai：安西
+Anzu：安祖
 Aoru：青瑠
 Aoyama：青山
 Arashi：岚
@@ -65,7 +66,7 @@ Asuna：芦奈
 Atsugi：厚木
 Atsuko：敦子
 Aoki：青木
-Aya：阿雅
+Aya：绫
 Ayako：绫子
 Ayaka：绫华
 Ayashi：绫诗
@@ -276,6 +277,7 @@ Hiroaki：广明
 Hiroko：广子
 Hiroki：广树
 Hiroshi：广志
+Hiroto：广人
 Hiru：日
 Hirzuen：日斩
 Hisako：久子
@@ -915,6 +917,7 @@ Shizuka：静香
 Shizuki：静月
 Shizuma：静间
 Sho：翔
+Shō：翔
 Shokari：小狩
 Shona：翔南
 Shoma：肖马
