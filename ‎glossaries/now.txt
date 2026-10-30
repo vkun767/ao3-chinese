@@ -319,6 +319,7 @@ Inabi：稻火
 Inaka：稻中
 Inari：稻荷
 Inazuka：犬冢
+Indamo：印茂
 Inochi：井知
 Inochin：井野千
 Inoharu：井春
@@ -725,6 +726,7 @@ Numa：沼
 Ocha：茶茶
 Oda：织田
 Oka：樱花
+Okaano：山野
 Okami：冈美
 Ōkami：狼
 Okami：狼
