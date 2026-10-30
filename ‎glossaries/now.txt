@@ -43,6 +43,7 @@ Amatsuki：天槻
 Amaya：天谷
 Amehana：雨花
 Ami：亚美
+Amphisbaena：蛇怪
 Aname：穴目
 Anzu：安祖
 Anpam：安帕姆
@@ -827,6 +828,7 @@ Sakiko：咲子
 Sako:佐子​
 Sakuto：朔人
 Sakuo：朔夫
+San：三
 Sandayu：山太夫​
 Sandayuu：山太夫​
 Sango：珊瑚
@@ -934,6 +936,7 @@ Suki：佑树
 Sukuīzu：疾翅
 Suma：苏玛
 Sumi：澄美
+Surime：墨目
 Suseri：苏绕
 Susuma：寿真
 Suoma：芬兰
@@ -1120,10 +1123,11 @@ Yui：由衣
 Yuichi：裕一
 Yuji：裕二
 Yukari：由香里
-Yukie：雪绘
 Yuki：雪
+Yukie：雪绘
 Yukina：雪名
 Yukimi：雪见
+Yukio：由纪
 Yuko：优子
 Yua：结爱
 Yū：悠
