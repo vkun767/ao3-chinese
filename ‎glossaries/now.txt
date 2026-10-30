@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-26
  
 词条
@@ -213,6 +213,7 @@ Hachiro：蜂郎
 Hae：海
 Hagemaru：羽月丸
 Hajime：始司
+Hakuhyo：白水
 Hakusa：白砂
 Hanako：花子
 Hanata：花奏
@@ -402,6 +403,7 @@ Kagerou：阳炎
 Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
+Kahyo：花水
 Kakuchi：角地
 Kaji：梶
 Kaju：卡朱
