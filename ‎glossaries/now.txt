@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-26
  
 词条
@@ -526,6 +526,7 @@ Kokkai：国海
 Kokoro：心
 Komoko：小茂子
 Komoto：河本
+Kokuban：黑板
 Kon：绀
 Konaru：河鸣
 Korumi：小瑠美
@@ -618,6 +619,7 @@ Mayra：梅拉
 Megumi：惠
 Meiko：明子
 Mer：美人鱼
+Mezo：梅佐
 Michi：美智
 Michiko：美智子
 Midori：绿
@@ -1082,6 +1084,7 @@ Ume：梅花
 Umeko：梅子
 Umeo：梅尾
 Umi：宇美
+Uruchi：丽千
 Usagi：兔
 Usami：宇佐美
 Usamo：宇佐茂
