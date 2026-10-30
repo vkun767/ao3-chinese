@@ -167,7 +167,8 @@ Tsunade：纲手
 Shizune：静音
 Tonton：豚豚
 Nawaki：绳树
-Katon Dan=加藤 断
+Katon Dan：加藤 断
+Dan：断
 Yakumo:八云
 Murakumo：从云 
 Uroko：鳞
