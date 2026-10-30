@@ -154,6 +154,7 @@ Uzumaki Mito=漩涡 水户
 Uzumuki Ashina=漩涡 芦名
 Mitokado Homura=水户门 炎
 Utatane Koharu=转寝 小春
+Utanane Koharu=转寝 小春
 Akimichi Torifu=秋道 取风
 Shimura Danzo=志村 团藏
 Shimura Danzou=志村 团藏
