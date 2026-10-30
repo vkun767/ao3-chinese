@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.3
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -207,6 +207,7 @@ Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
+Gouzen：合禅
 Gyo：行
 Hachihide：蜂秀
 Hachika：蜂花
@@ -260,6 +261,7 @@ Hidenori：秀则
 Hideyoshi：秀吉
 Higashi：东
 Higurashi：日渡
+Hikan：日冠
 Hikaru：光​
 Hiko：彦
 hiko：公子
@@ -1136,6 +1138,8 @@ Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
 Yu：悠
+Yū：悠
+Yua：结爱
 Yui：由衣
 Yuichi：裕一
 Yuji：裕二
@@ -1146,8 +1150,6 @@ Yukina：雪名
 Yukimi：雪见
 Yukio：由纪
 Yuko：优子
-Yua：结爱
-Yū：悠
 Yūjima：由岛
 Yūma：由真
 Yume：由梦
@@ -1172,6 +1174,7 @@ Yuuma：优真
 Yuuna：优奈
 Yuuri：优里
 Yuuto：优斗
+Yuwaku：优惑
 Yuzuki：柚希
 Zasso：扎索
 Zebra：斑马
