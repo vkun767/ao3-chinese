@@ -10,7 +10,7 @@
 //第七班直系、宇智波一族
 Haruno Sakura=春野 樱
 Haruno Mebuki=春野 芽吹
-Haruno Kizashi=春野 兆志
+Haruno Kizashi=春野 兆
 Yamato：大和
 Tenzo：天藏
 Tenzō：天藏
