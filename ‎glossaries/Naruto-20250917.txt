@@ -560,6 +560,8 @@ Iryo ninjutsu=医疗 忍术
 Iryojutsu：医疗忍术
 doujutsu：瞳术
 dojutsu：瞳术
+“Shin Gi Tai”：心技身
+“Shin-Gi-Tai”：心技身
 
 //瞳术、血继限界相关
 Mangekyo：万花筒
