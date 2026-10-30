@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.4
 更新时间：2025-10-26
  
 词条
@@ -259,6 +259,7 @@ Hideaki：英明
 Hideki：英树
 Hidenori：秀则
 Hideyoshi：秀吉
+Hifumi：日富美
 Higashi：东
 Higurashi：日渡
 Hikan：日冠
