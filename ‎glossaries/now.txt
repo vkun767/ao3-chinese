@@ -4,11 +4,6 @@
  
 词条
 // 限制大小写
-Takju：塔库
-Nindaime：二代目
-Ko：弘
-Gizu：吉兹
-Eito：英人
 Aika：爱华
 Aiki：爱希
 Aiko：爱子
@@ -162,6 +157,7 @@ Ejji：英二
 Eiko：英子
 Eisen：英泉
 Eitaro：英太郎
+Eito：英人
 Eizan：英山
 Emi：惠美
 Emika：惠美香
@@ -208,9 +204,10 @@ Gendou：外道
 Gen：玄
 Genbu：玄信
 Genta：玄太
+Gibbon：长臂猿
 Gin：银
 Ginkaze：银风
-Gibbon：长臂猿
+Gizu：吉兹
 Goken：豪健
 Gōken：豪健
 Gouawae：高瓦埃
@@ -527,6 +524,7 @@ Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
 Kō：弘
+Ko：弘
 Kou：弘
 Kobashi：小桥
 Kobe：神户
@@ -1022,6 +1020,7 @@ Takeru：健
 Takeshi：武史
 Taketori：竹取
 Taki：泷
+Takju：塔库
 Takka：铁火
 Takuma：拓马
 Takumi：拓海
