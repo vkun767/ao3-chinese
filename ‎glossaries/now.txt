@@ -313,6 +313,7 @@ Hosokawa：细川
 Hosoo：细井
 Hotaka：穗高
 Hotaru：萤
+Hotuki：穗月
 Houju：候朱
 Houki：凤辉
 Hound：猎犬
@@ -1143,6 +1144,9 @@ Yataro：矢太郎
 Yato：山人
 Yohako：洋羽子
 Yoko：洋子
+Yōko：洋子
+Yoji：洋二
+Yōji：洋二
 Yona：夜纳
 Yori：由立
 Yorimasa：依正
@@ -1234,6 +1238,7 @@ Sa：小樱
 Saka：小佐
 tachi：小鼬
 Ita：小鼬
+Tama：玉
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
