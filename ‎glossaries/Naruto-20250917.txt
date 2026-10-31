@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.2
+版本号：1.1.3
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -959,22 +959,22 @@ nii san：哥哥
 “Nii-chan”：尼酱
 “nee-chan”：姐姐
 Jiji：爷爷
+ojii：爷爷
 -sama：大人
 sama：大人
 -kun：君
 Himesama：公主大人
 Hime：公主
 -hime：公主
--chan：酱
 -oji：叔
 -ji：叔
 -ba：姨
 -nii：哥
 -nee：姐
-ojii：爷爷
 nii：哥
 nee：姐
 niisan：尼桑
+-chan：酱
 teme：混蛋
 dobe：笨蛋
 kinomo：和服
