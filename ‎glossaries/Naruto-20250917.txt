@@ -967,6 +967,7 @@ sama：大人
 Himesama：公主大人
 Hime：公主
 -hime：公主
+-dono：殿下
 -oji：叔
 -ji：叔
 -ba：姨
