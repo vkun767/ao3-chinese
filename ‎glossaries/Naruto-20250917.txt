@@ -816,6 +816,7 @@ Shodaime：初代目
 Nidai：二代
 Nidaime：二代目
 Niidaime：二代目
+Nindaime：二代目
 Yondaime：四代目
 Sandaime：三代目
 Godaimē：五代目
