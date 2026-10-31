@@ -939,17 +939,20 @@ kohai：后辈
 Omikami：大神
 “shirei-kan-sama”：司令官大人
 “shirei-kan”：司令官
+“baa-san”：奶奶
 “Obaa-san”：奶奶
+“baa-chan”：奶奶
+baa：奶奶
+obaa：奶奶
+Obaasan：奶奶
+obaasama：婆婆大人
+baasama：婆婆大人
 “Oba-san”：阿姨
 “Oba–chan”：姨
 Obasan：阿姨
 Obachan：姨
+basama：伯母大人
 Oba：阿姨
-obaa：奶奶
-Obaasan：奶奶
-“baa-chan”：奶奶
-obaasama：婆婆大人
-baasama：伯母大人
 “goshujin-sama”：夫君大人
 nii san：哥哥
 “nii-san”：尼桑
@@ -963,6 +966,7 @@ Himesama：公主大人
 Hime：公主
 -hime：公主
 -chan：酱
+-oji：叔
 -ji：叔
 -ba：姨
 -nii：哥
