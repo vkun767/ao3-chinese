@@ -1245,9 +1245,9 @@ Shinryūgan：真龙眼
 Onigokko：捉鬼
 Kakure-Oni：捉迷藏
 kanzashi：簪子
-fusuma：隔扇门
+fusuma：隔扇
 ranma：栏间
-Shoji door：障子门
+Shoji：障子
 bon festival：盂兰盆节
 Tanabata：七夕
 Enoshima Engi：江之岛
