@@ -285,6 +285,7 @@ Hinoto：日野户
 Hiori：火葵
 Hiragi：日暮
 Hiraku：平久
+Hirate：平手
 Hiro：宏
 Hiroaki：广明
 Hiroko：广子
@@ -399,6 +400,7 @@ Junpei：顺平
 Junzo：顺藏
 Juro：十郎
 Jiyū：自由
+Kabasawa：桦泽
 Kaede：枫
 Kaen：封火
 Kagane：加金
@@ -726,6 +728,7 @@ Natsumi：夏美
 Natsuko：夏子
 Natsuo：夏生
 Nazoko：奈佐子
+Neishin：内信
 Neko：猫
 Nene：宁宁
 Nezumi：鼠
@@ -964,6 +967,7 @@ Souya：宗也
 Subaru：昴
 Saburo：三郎
 Suda：顺田
+Sudou：顺堂
 Sueko：末子
 Suehiro：末广
 Sugaru：优
