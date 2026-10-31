@@ -1226,10 +1226,10 @@ kochū：毒虫
 kochu：毒虫
 seishitsu：正妻
 Compound：族地
-“Sa-chan”：小樱酱
-“Saka-chan”：小佐酱
-"tachi-chan”：小鼬酱
-
+Sa：小樱
+Saka：小佐
+tachi：小鼬
+Ita：小鼬
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
