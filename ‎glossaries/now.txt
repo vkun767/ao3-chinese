@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -180,6 +180,7 @@ Fudo：不动
 Fuji：不二
 Fujikaze：藤风
 Fūjin：风神
+Fujio：藤夫
 Fukito：福人
 Fumiko：文子
 Fumio：文雄
@@ -196,6 +197,8 @@ Fuyuharu：冬晴
 Gaku：岳
 Gazeru：雅蝉
 Gecko：壁虎
+Gamachu：蛤蟆崽
+Gamachū：蛤蟆崽
 Gendou：外道
 Gen：玄
 Genbu：玄信
@@ -208,6 +211,7 @@ Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
 Gouzen：合禅
+Gozu：牛头
 Gyo：行
 Hachihide：蜂秀
 Hachika：蜂花
@@ -402,6 +406,7 @@ Kako：小鹿
 Katsu：胜
 Hagane：钢
 Kagemori：影守
+Kagen：景严
 Kagerō：阳炎
 Kagerou：阳炎
 Kagero：阳炎
@@ -624,6 +629,7 @@ Megumi：惠
 Meiko：明子
 Mer：美人鱼
 Mezo：梅佐
+Mezu：马头
 Michi：美智
 Michiko：美智子
 Midori：绿
@@ -843,6 +849,7 @@ Sakana：鱼
 Sakasu：坂须
 Sakiko：咲子
 Sako:佐子​
+Saku：小樱
 Sakuto：朔人
 Sakuo：朔夫
 San：三
@@ -918,6 +925,7 @@ Shirabu：白部
 Shiro：白郎
 Shiroe：城惠
 Shirogane：白银
+Shiruku：白久
 Shisumi：志澄
 Shiyu：时悠
 Shizen：自然
@@ -949,6 +957,7 @@ Saburo：三郎
 Suda：顺田
 Sueko：末子
 Suehiro：末广
+Sugaru：优
 Sugawara：菅原
 Suiko：水子
 Suki：佑树
@@ -1123,6 +1132,7 @@ Yashiro：八代
 Yashagoro：八重楼
 Yasuko：亚苏子
 Yasu：亚苏
+Yasuo：康夫
 Yasutora：泰虎
 Yasuo：康夫
 Yataro：矢太郎
@@ -1212,8 +1222,13 @@ Shuten dōji=守天 童子
 ryo：两
 ryō：两
 Kabuki：歌舞伎
+kochū：毒虫
+kochu：毒虫
 seishitsu：正妻
 Compound：族地
+“Sa-chan”：小樱酱
+“Saka-chan”：小佐酱
+"tachi-chan”：小鼬酱
 
 
 禁翻词条
