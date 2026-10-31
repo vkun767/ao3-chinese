@@ -1233,6 +1233,11 @@ miko：巫女
 Shinryūgan：真龙眼
 Onigokko：捉鬼
 Kakure-Oni：捉迷藏
+kanzashi：簪子
+fusuma：隔扇门
+ranma：栏间
+bon festival：盂兰盆节
+Tanabata：七夕
 Enoshima Engi：江之岛
 Gozuryū：五头龙
 Shuten dōji=守天 童子
