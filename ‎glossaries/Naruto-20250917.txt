@@ -995,8 +995,10 @@ dogeza：土下座
 “Sora-Ku”：空区
 Yakinku：烤肉
 Sushi：寿司
+anban：红豆面包
 shannaro：烦死了
 shannarō：烦死了
+
 
 禁翻词条
 Alpha
