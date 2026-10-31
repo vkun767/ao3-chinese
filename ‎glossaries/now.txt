@@ -480,6 +480,7 @@ Kazurō：和郎
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
+Keihatsu：敬发
 Kei：圭
 Keiki：圭树
 Keiko：圭子
@@ -1157,6 +1158,7 @@ Yasu：亚苏
 Yasuo：康夫
 Yasutora：泰虎
 Yasuo：康夫
+Yatagarasu：八咫乌
 Yataro：矢太郎
 Yato：山人
 Yohako：洋羽子
