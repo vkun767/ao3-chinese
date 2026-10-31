@@ -159,6 +159,7 @@ Eisen：英泉
 Eitaro：英太郎
 Eito：英人
 Eizan：英山
+Ema：惠麻
 Emi：惠美
 Emika：惠美香
 Emiko：惠美子
@@ -403,6 +404,7 @@ Jiyū：自由
 Kabasawa：桦泽
 Kaede：枫
 Kaen：封火
+Kaeru：蛙
 Kagane：加金
 Kahen：花片
 Kaito：海斗
@@ -473,6 +475,8 @@ Kazuka：和贺
 Kazuki：和树
 Kazuma：和马
 Kazumi：和美
+Kazurō：和郎
+Kazurō：和郎
 Kazushi：和寿
 Kazuto：和人
 Kazuya：和也
@@ -689,6 +693,7 @@ Moritaka：森高
 Mosu：茂斯
 Mosuke：茂助
 Moto：本多
+Motoki：元木
 Mouse：耗
 Muruwa：室轮
 Mutsuo：六男
@@ -718,6 +723,7 @@ Naori：直里
 Naraho：奈良穗
 Nari：鸣里
 Nariaki：鸣明
+Nariko：成子
 Naru：鸣
 Naruko：鸣子
 Narumi：鸣海
@@ -1002,6 +1008,7 @@ Tadao：忠雄
 Tadaoki：忠兴
 Tadashi：忠
 Tagayasu：田谷
+Tahara：田原
 Tai：太
 Taigen：泰元
 Taihei：泰平
@@ -1191,6 +1198,9 @@ Yundai：云台
 Yura：由良
 Yuri：由里
 Yusami：由纱美
+Yūsei：由星
+Yusei：由星
+Yuusei：由星
 Yūshin：勇信
 Yūta：裕太
 Yuto：裕人
