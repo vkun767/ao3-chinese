@@ -93,6 +93,7 @@ Cat：猫
 Chiaka：千秋
 Chiasa：千朝
 Chiba：千叶
+Chibi：千稚
 Chie：千惠
 Chiemi：千惠美
 Chiharu：千春
@@ -548,7 +549,8 @@ Koji：浩二
 Kojika：治贺
 Kojou：古城
 Kokkai：国海
-Kokoro：心
+Koko：心子
+Kokoro：心郎
 Komoko：小茂子
 Komoto：河本
 Kokuban：黑板
@@ -933,6 +935,7 @@ Shikhako：式箱
 Shiki：拓海
 Shikō：四皇
 Shiko：四皇
+Shikuro：志黑
 Shimauma：斑马
 Shinigami：死神
 Shinsei：新星
