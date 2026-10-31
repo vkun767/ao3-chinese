@@ -4,6 +4,11 @@
  
 词条
 // 限制大小写
+Takju：塔库
+Nindaime：二代目
+Ko：弘
+Gizu：吉兹
+Eito：英人
 Aika：爱华
 Aiki：爱希
 Aiko：爱子
@@ -838,6 +843,7 @@ Ryujin：龙神
 Ryukyu：琉球
 Ryunosuke：龙之介
 Ryūnosuke：龙之介
+Ryūta：龙太
 Ryuuichi：龙一
 Ryuuji：龙二
 Saburō：三郎
