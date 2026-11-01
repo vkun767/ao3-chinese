@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.3
+版本号：1.1.4
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -184,6 +184,7 @@ NE：根
 
 //平民
 Gato：卡多
+Gatō：卡多
 Tezuna：达玆纳
 Tazuna：达兹纳
 Inari：伊纳里
@@ -235,6 +236,8 @@ Hebi：蛇
 //砂忍
 Sabaku：砂瀑
 Subaku：砂瀑
+Suna no Sankyoudai：砂之三姐弟
+Sand Siblings：砂之三姐弟
 Gaara：我爱罗
 Kankuro：勘九郎
 Kankurō：勘九郎
@@ -484,6 +487,7 @@ Biske：弥助
 Bisuke：弥助
 Akino：阿基诺
 Gurugo：古鲁克
+Guruko：古鲁克
 Guruku：古鲁克
 Uhei：乌黑
 Uuhei：乌黑
@@ -505,6 +509,7 @@ Kusagakure：草隐村
 Kumogakure：云隐村
 Kirigakure：雾隐村
 Konohagakure：木叶隐村
+Konohan：木叶
 Hidden Leaf：木叶隐村
 Sunagakure：砂隐村
 Iwagakure：岩隐村
@@ -646,6 +651,7 @@ Odama Rasengan：超大玉螺旋丸
 odama Rasengan Tairen Rendan：超大玉螺旋多连丸
 Rasenshuriken：螺旋手里剑
 Bijudama：尾兽玉
+Shintenshin：心转身
 Hachimon Tonko=八门 遁甲
 Fang over Fang：牙通牙
 Kikaichu：寄坏虫
@@ -661,6 +667,7 @@ Shinsusenju：真数千手
 Chojo Kebutsu：顶上化佛
 Kakuan Nitten Suishu：廓庵入廛垂手
 Kakuan nyūten suishu：廓庵入廛垂手
+“Foo Dog Heads Techniquethe”：狛犬头之术
 Mokusa Ban：默杀缚
 Koshijin no Jutsu：虎视眈弹
 Edo Tensei=秽土 转生
@@ -885,6 +892,10 @@ Benihisago：红葫芦
 Kohaku no Jouhei：琥珀净瓶
 Kohaku Jouhei=琥珀 净瓶
 Katana：武士刀
+tantō：太刀
+tanto：太刀
+tantou：太刀
+bokken：木刀
 
 //常见日语称呼、物品
 Otōsama：父亲大人
@@ -904,11 +915,11 @@ otosan：父亲
 “Otō-sama”：父亲大人
 otōsame：父亲大人
 otōsan：父亲
-otō–san：父亲
+"otō–san"：父亲
 "tou-chan"：爸爸
 kaa-san：母亲
 kaasan：母亲
-“Haha-ue”：母亲大人
+"Haha-ue"：母亲大人
 Hahaue：母亲大人
 okasame：母亲大人
 “oka-same”：母亲大人
@@ -981,6 +992,11 @@ niisan：尼桑
 -chan：酱
 teme：混蛋
 dobe：笨蛋
+canyon：僧侣
+shugenja：修验者
+yōkai：妖怪
+yokai：妖怪
+neko-ka：猫化
 kinomo：和服
 fundoshi：裈裤
 shikibuton：垫被
@@ -990,18 +1006,24 @@ Engawa：缘侧
 kata：型
 dantian：丹田
 clone：分身
-Neko-ka：猫化
-yōkai：妖怪
-yokai：妖怪
+jinja：神社
 “san-san-kudo”：三三九度
 sansankudo：三三九度
 dogeza：土下座
+seiza：正坐
 “Sora-Ku”：空区
 Yakinku：烤肉
 Sushi：寿司
 anban：红豆面包
+dango：团子
+mugicha：麦茶
 shannaro：烦死了
 shannarō：烦死了
+ryo：两
+ryō：两
+bon festival：盂兰盆节
+Obon：盂兰盆节
+Urabon：盂兰盆节
 
 禁翻词条
 Alpha
