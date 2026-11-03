@@ -1363,7 +1363,33 @@ seal：封印
 sekke kuge：摄政 公家
 “Ishikori-dome-sama”：石凝姥命大人
 “Kisshōten-okami-sama”：吉祥天神大人
-Karuma no Kagami：来魔之镜
+“Shirei-kan”：司令官
+Kimono：和服
+Kosode：小袖
+Furisode：振袖
+kofurisode：小振袖
+ōfurisode：大振袖
+Obi musubi：带结
+Obi：带
+Obijime：带绳
+Obidome：带扣
+Obiage：带扬
+obimakura：腰枕
+Himo：系带
+Haneri：可卸领
+Hadajuban：肌襦袢
+Nagajuban：长襦袢
+Sasuyoke：襦袢
+Iromuji：色无地
+montsuki：纹付
+tomesode：留袖
+Kurotomesode：黑留袖
+seijinshiki：成人礼
+Genpuku shiki：元服礼
+Marudai：丸台
+Jibata：地机
+Takabata：织机
+kumihimo：组纽
 Team Ro：第六队
 honeypot：色诱
 “brother-in-law”：姻亲兄弟
