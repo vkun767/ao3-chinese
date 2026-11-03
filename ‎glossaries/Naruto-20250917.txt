@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.4
+版本号：1.1.5
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -653,6 +653,8 @@ Odama Rasengan：超大玉螺旋丸
 odama Rasengan Tairen Rendan：超大玉螺旋多连丸
 Rasenshuriken：螺旋手里剑
 Bijudama：尾兽玉
+Byakugo：百豪
+Byakugō：百豪
 Shintenshin：心转身
 Hachimon Tonko=八门 遁甲
 Fang over Fang：牙通牙
