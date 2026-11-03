@@ -435,6 +435,7 @@ Otsutsuki Toneri=大筒木 舍人
 Otsutsuki Momoshiki=大筒木 桃式
 Otsutsuki Urashiki=大筒木 浦式
 Otsutsuki Shibai=大筒木 矢楳
+Otsutsuki Isshiki=大筒木 一式
 
 //上古时代
 Ashura：阿修罗
