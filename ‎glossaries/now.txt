@@ -1363,7 +1363,7 @@ seal：封印
 sekke kuge：摄政 公家
 “Ishikori-dome-sama”：石凝姥命大人
 “Kisshōten-okami-sama”：吉祥天神大人
-Karuma no Kagami：空魔之镜
+Karuma no Kagami：来魔之镜
 Team Ro：第六队
 honeypot：色诱
 “brother-in-law”：姻亲兄弟
