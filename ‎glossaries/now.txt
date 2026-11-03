@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -501,7 +501,6 @@ Kanzō：勘藏
 Kanzo：勘藏
 Kao：花央
 Kariho：狩穗
-Karuma：空魔
 Kasai：风祭
 Kasame：霞目
 Kasasagi：笠木
