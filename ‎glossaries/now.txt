@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -79,6 +79,7 @@ Ayako：绫子
 Ayaka：绫华
 Ayashi：绫诗
 Ayumi：步美
+Azaki：安崎
 Badger：獾
 Baken：贝肯
 Bakin：马琴
@@ -161,8 +162,6 @@ Diablo：迪亚波罗
 Doi：土井
 Doppo：道步
 Doto：道人
-Dōton：道顿
-Doton：道顿
 Douzan：铜山
 Echo：艾可
 Eiichi：荣一
@@ -188,10 +187,12 @@ Enjin：炎神
 Ensho：炎匠
 Eri：绘里
 Erika：绘里香
+Esai：惠斋
 Etsuko：悦子
 Etsuku：悦久
 Faia：法亚
 Falcon：隼
+Fazan：富山
 Faruma：古间
 Fox：狐狸
 Fubuki：吹雪
@@ -302,6 +303,7 @@ Hikan：日冠
 Hikaru：光​
 Hikiko：绯子
 Hiko：彦
+Hikori：夸里
 hiko：公子
 Himari：日葵
 Himiko：卑弥呼
@@ -326,7 +328,6 @@ Hiroto：广人
 Hirotol：广人
 Hiru：日
 Hirzuen：日斩
-
 Hisa：久佐
 Hisako：久子
 Hisao：久雄
@@ -443,6 +444,7 @@ Junshin：顺信
 Junta：顺太 
 Junpei：顺平
 Junzo：顺藏
+Juri：朱里
 Juro：十郎
 Jiyū：自由
 Kabasawa：桦泽
@@ -511,11 +513,14 @@ Kashio：柏尾
 Katashi：坚志
 Katsuhito：胜仁
 Katsumi：克己
+Katsuro：胜郎
+Katsurō：胜郎
 Katsuo：胜雄
 Kaori：香织
 Kaoru：薰
 Kawa：瓦
 Kawasemi：川蝉
+Kawata：川田
 Kaya：香耶
 Kayasa：草彩
 Kayoko：佳代子
@@ -532,6 +537,7 @@ Kazuka：和贺
 Kazuki：和树
 Kazuma：和马
 Kazumi：和美
+Kazuo：和男
 Kazurō：和郎
 Kazurō：和郎
 Kazushi：和寿
@@ -875,6 +881,7 @@ Oshaberi：御喋
 Osuke：大助
 Osuya：大泽
 Otake：大竹
+Otazu：小田津
 Otoma：乙马
 Otsuno：小角
 Ottota：乙太
@@ -987,6 +994,7 @@ Satomi：里美
 Satoshi：智
 Satoru：悟
 Satsuki：皋月
+Satsuko：节子
 Sayaka：纱耶香
 Sayo：沙世
 Sayuri：佐百合
@@ -1155,6 +1163,7 @@ Takumi：拓海
 Takuya：拓也
 Takuwa：拓和
 Tama：玉
+Tamaki：玉城
 Tamame：玉目
 Tamanaha：玉间
 Tamayori：玉依
@@ -1323,6 +1332,7 @@ Yūma：由真
 Yume：由梦
 Yumei：由梅
 Yumekawa：梦川
+Yumi：由美
 Yumiko：由美子
 Yūna：由奈
 Yuna：由奈
@@ -1431,6 +1441,7 @@ katsura：连香树
 hokku：俳句
 pinkaloo：粉红红
 menko：面子
+Akasen：红灯区
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
