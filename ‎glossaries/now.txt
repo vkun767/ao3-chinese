@@ -1449,6 +1449,18 @@ hokku：俳句
 pinkaloo：粉红红
 menko：面子
 Akasen：红灯区
+kokyū：胡弓
+Kanri：管理
+zori：草履
+tabi：足袋
+kara-kusa swirls：唐草纹
+munahimo：胸纽
+tateya musubi：立矢结
+koshihimo：腰纽
+musubi：结
+Kyūshū：吸收
+Hansha：反射
+Fǎng：仿
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
