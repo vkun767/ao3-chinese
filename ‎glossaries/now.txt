@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.0
 更新时间：2025-10-26
  
 词条
@@ -1267,6 +1267,7 @@ Usagi：兔
 Utatane：卯田祢
 Uzume：宇津
 Wantanabe：渡边
+Wareme：雷梅
 Wazuki：和月
 Weasel：黄鼠狼
 Wolf：狼
@@ -1373,6 +1374,10 @@ Tōkatsuchi no Jutsu：透过土之术
 //不限制大小写
 seal：封印
 sekke kuge：摄政 公家
+Tōji：冬至
+Inari：稻荷
+Takeminakata：建御名方
+“Ishikori-dome no Mikoto”：石凝姥
 “Ishikori-dome-sama”：石凝姥命大人
 “Kisshōten-okami-sama”：吉祥天神大人
 “Shirei-kan”：司令官
