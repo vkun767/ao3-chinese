@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -142,6 +142,7 @@ Coyote：郊狼
 Crow：乌鸦
 Dachi：太地
 Daichi：大地
+Daigo：大吾
 Daiju：戴树
 Daiki：大辉
 Daikoku：大国
@@ -549,6 +550,7 @@ Keiko：圭子
 Keita：圭太
 Keisai：圭斋
 Keisuke：圭介
+Ken：肯
 Kenesuku：兼助
 Kendou：拳藤
 Kenichi：贤一
