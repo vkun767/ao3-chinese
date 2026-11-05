@@ -396,8 +396,8 @@ Killer B：奇拉比
 Kurama：九喇嘛
 Kyuubi no Youko：九尾妖狐
 Kyuubi no Kitsune：九尾妖狐
-Kyubi Yoko：九尾 妖狐
-Kyuubi Yoko：九尾 妖狐
+Kyubi Yoko=九尾 妖狐
+Kyuubi Yoko=九尾 妖狐
 Kyubei：九尾
 Kyūbi：九尾
 Kyūbei：九尾
