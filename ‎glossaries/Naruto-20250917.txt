@@ -404,7 +404,10 @@ Jubi：十尾
 Jūbi：十尾
 Juubi：十尾
 Gedou Mazo：外道魔像
+Gedō Mazō=外道 魔像
+Gedo Mazō=外道 魔像
 Rikudo：六道
+
 
 //博人传
 Uzumaki Boruto=漩涡 博人
@@ -510,11 +513,14 @@ Nankagawa：南贺川
 Kusagakure：草隐村
 Kumogakure：云隐村
 Kirigakure：雾隐村
+Hidden Leaf：木叶隐村
+Konohagakure no Sato：木叶隐村
 Konohagakure：木叶隐村
 Konohan：木叶
-Hidden Leaf：木叶隐村
+Konoha：木叶
 Sunagakure：砂隐村
 Iwagakure：岩隐村
+Iwakagure：岩隐村
 Uzushio：涡之国
 Uzushiogakure：涡隐村
 Whirlpool：涡潮村
@@ -526,6 +532,7 @@ Dazna：波之国
 Uchiha compound：宇智波族地
 Senju compound：千手族地
 Mountains Graveyard：山岳墓场
+“MOUNTAINS’ GRAVEYARD”：山岳墓场
 
 //遁术名称、忍术类别
 Onmyoton：阴阳遁
@@ -581,6 +588,7 @@ dojutsu：瞳术
 //瞳术、血继限界相关
 Mangekyo：万花筒
 Mangekyō：万花筒
+Mangekyou：万花筒
 sharingan：写轮眼
 tomoe：勾玉
 Futatsudomoe：双勾玉
@@ -592,6 +600,9 @@ Bakufu Ranbu：爆风乱舞
 Sashiki：扦插之术
 Kotoamatsukami：别天神
 Amaterasu：天照
+Mugen Tsukuyomi：无限月读
+Infinite Tsukuyomi：无限月读
+Project Tsuki no Mei：月之眼计划
 Tsukuyomi：月读
 Kagutsuchi：加具土命
 Kagustuchi：加具土命
@@ -621,7 +632,6 @@ Chibaku Tensei：地爆天星
 universal pull：万象天引
 Rinne Tensei：轮回天生
 Limbo Hengoku：轮墓 边狱
-Mugen Tsukuyomi：无限月读
 Jubi no Hitsugi：十尾柩印
 Tsuki no Me Keikaku：月之眼
 Tsuki no Me：月之眼
@@ -793,7 +803,7 @@ Daimyō：大名
 Daimyo：大名
 Soke：宗家
 Bunke：分家
-Konoha：木叶
+
 ANBU：暗部
 Anbu：暗部
 Keimusho：警卫队
@@ -827,6 +837,13 @@ ichaicha：亲热天堂
 Icha Icha：亲热天堂
 “Icha-icha”：亲热天堂
 Icha Icha Paradise：亲热天堂
+Lord First：初代目大人
+Lord Second：二代目大人
+Lord Third：三代目大人
+Lord Fourth：四代目大人
+Lord Fifth：五代目大人
+Lord Sixth：六代目大人
+Lord Seven：七代目大人
 Shodai：初代
 Shodaime：初代目
 Nidai：二代
@@ -856,6 +873,7 @@ Konoha no Kiiroi Senkō：木叶的金色闪光
 Kiiroi Senkō=金色 闪光
 Kiiroi Senko=金色 闪光
 Kiiroi Senkou=金色 闪光
+Yellow Flash：黄色闪光
 Rookie Nine：新人九人组
 Rookie 9：新人九人组
 Kagome：笼中鸟
