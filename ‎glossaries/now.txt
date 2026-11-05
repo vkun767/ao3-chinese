@@ -12,7 +12,9 @@ Aikawa：相川
 Aimi：爱美
 Aino：爱野
 Airi：爱丽
+Akaashi：赤苇
 Akaeri：赤襟
+Akagi：赤城
 Akahane：明羽
 Akahana：赤花
 Akai：赤井
@@ -31,13 +33,16 @@ Akio：秋生
 Akito：秋人
 Akira：亮
 Akiyama：秋山
+Akihiko：昭彦
 Akihito：明仁
 Akiro：秋吕
 Akitsuna：秋纲
 Akshaya：阿克沙亚
 Ako：亚子
+Aku：恶
 Akurra：空良
 Amaha：天羽
+Amahiko：天彦
 Amane：天音
 Amano：天野
 Amanotoge：天之棘
@@ -92,6 +97,7 @@ Bear：熊
 Beni：红梨
 Benzaiten：弁财天
 Bishamon：毗沙门
+Bito：土
 Botan：牡丹
 Bukimi：异诡
 Bukuri：武来
@@ -100,6 +106,7 @@ Buta：豚鼠
 Byakuren：白莲
 Cat：猫
 Chiaka：千秋
+Chiaki：千咲
 Chiasa：千朝
 Chiba：千叶
 Chibi：千稚
@@ -111,6 +118,7 @@ Chihomi：千穗
 Chikako：千佳子
 Chikara：力
 Chiko：千子
+Chinami：千波
 Chinatsu：千夏
 Chine：千娜
 Chio：千绪
@@ -126,6 +134,7 @@ Cho：丁
 Chōbei：丁卫
 Chōda：丁代
 Choko：蝶子
+Chōko：蝶子
 Chōjirō：丁次郎
 Chōnosuke：丁助
 Chōsuke：丁助
@@ -179,9 +188,10 @@ Ema：惠麻
 Emi：惠美
 Emika：惠美香
 Emiko：惠美子
-Emon：右门
 Emigiku：惠菊
+Emiya：惠宫
 Emiyo：惠优
+Emon：右门
 Ena：惠那
 Encho：炎朝
 Enjin：炎神
@@ -202,6 +212,7 @@ Fuji：不二
 Fujikaze：藤风
 Fūjin：风神
 Fujio：藤夫
+Fujita：藤田
 Fuki：吹树
 Fukito：福人
 Fukushima：福岛 
@@ -243,6 +254,7 @@ Gyo：行
 Gyosei：晓星
 Hachihide：蜂秀
 Hachika：蜂花
+Hachimitsu：蜂蜜
 Hachiro：蜂郎
 Hae：海
 Hagemaru：羽月丸
@@ -277,10 +289,11 @@ Hato：羽人
 Hawk：鹰
 Hayami：速水
 Hayawara：隼原
-Hayuya：悠冶
 Hayao：隼夫
 Hayase：隼濑
+Hayashi：早志
 Hayato：隼人
+Hayuya：悠冶
 Hazuki：叶月
 Hebisuke：赫助
 Hekima：壁间
@@ -344,6 +357,7 @@ Hoitsu：丰津
 Hōki：凤辉
 Hokori：穗里
 Hokuto：北斗
+Homaru：帆丸
 Homomuri：穗村里
 Honoka：穗香
 Honōka：穗香
@@ -374,6 +388,7 @@ Ikeda：池田
 Ikehara：池原
 Iketsu：池月
 Ikero：池路
+Ikigai：生存
 Ikki：一辉
 Ikuko：育子
 Ikumi：郁美
@@ -394,6 +409,7 @@ Inomaru：井丸
 Inoru：井乐
 Inoshin：井信
 Inosuke：井助
+Inoto：井人
 Inu：犬
 Irimoya：入目屋
 Iroha：伊吕波
@@ -402,7 +418,9 @@ Itsuki：树
 Itsuko：伊津子
 Itsuji：逸二
 Ito：伊藤
+Itoe：丝惠
 Itoh：伊藤
+Isagi：伊佐木
 Isago：砂
 Isako：伊佐子
 Isamu：勇
@@ -496,15 +514,19 @@ Kaneda：金田
 Kaneko：冈野
 Kanemoto：金本
 Kanesuke：金助
+Kangai：勘概
 Kanjin：堪人
 Kanon：卡农
 Kanzō：勘藏
 Kanzo：勘藏
 Kao：花央
+Karashina：辛菜
 Kariho：狩穗
-Kasai：风祭
+Kasai：笠井
+Kasaiyama：火碎山
 Kasame：霞目
 Kasasagi：笠木
+Kaseya：风夜
 Kasumi：霞
 Kasumoto：霞本
 Kasui：歌水
@@ -545,6 +567,7 @@ Kazuto：和人
 Kazuya：和也
 Keihatsu：敬发
 Kei：圭
+Keika：圭火
 Keiki：圭树
 Keiko：圭子
 Keita：圭太
@@ -552,7 +575,7 @@ Keisai：圭斋
 Keisuke：圭介
 Ken：健
 Kenesuku：兼助
-Kendou：拳藤
+Kendou：剑道
 Kenichi：贤一
 Kenji：健二
 Kenshin：健信
@@ -616,6 +639,8 @@ Kokage：木隐
 Kokkai：国海
 Koko：心子
 Kokoro：心郎
+Koma：驹
+Komatsuna：小松菜
 Komoko：小茂子
 Komoto：河本
 Kokuban：黑板
@@ -627,6 +652,7 @@ Kosen：高泉
 Kosuke：高助
 Kōta：康太
 Kota：康太
+Koto：琴
 Kotone：小音
 Kototaro：高太郎
 Kou：蔻
@@ -647,6 +673,8 @@ Kuni：国
 Kunio：国男
 Kunitsukami：国上
 Kura：仓本
+Kurei：暮影
+Kuren：红莲
 Kurma：来马
 Kuro：黑郎
 Kuroha：黑羽
@@ -676,7 +704,7 @@ Lysithea：莉西缇娅
 Mabo：真保
 Madoka：圆香
 Magohachi：孙八
-Maho：马霍
+Maho：真帆
 Mai：迈
 Maiko：舞子
 Maiya：真弥
@@ -737,6 +765,7 @@ Miki：美纪
 Mikita：三北
 Miko：美子
 Miku：美久
+Mikuri：三雾
 Mina：美奈
 Minako：美奈子
 Minami：南美
@@ -748,6 +777,7 @@ Misako：美咲子
 Misao：美佐叶
 Miso：味增
 Misuri：美铃
+Mitokoda：水户田
 Mitsuba：三叶
 Mitsue：三江
 Mitsuru：美弦
@@ -765,6 +795,7 @@ Mizushima：水岛
 Mizuho：水穗
 Mizuna：水奈
 Mizumi：水见
+Mizuru：水鹤
 Mongoose：猫鼬
 Monkichi：门吉
 Momiji：红叶
@@ -788,8 +819,10 @@ Myoga：妙雅
 Myōkō：妙高
 Myoko：妙高
 Nadeshiko：抚子
+Nae：苗
 Naeki：奈木
 Nagamine：长峰
+Nagahide：长秀
 Nagasi：渚
 Nagisa：飞鸟
 Naho：奈穗
@@ -870,6 +903,7 @@ Onamuji：小沼
 Onikiri：鬼切
 Onikuma：鬼熊
 Ono：小野
+Ouju：王树
 Ōri：大里
 Oriana：织杏
 Orime：织目
@@ -915,6 +949,7 @@ Rice：日司
 Rie：理惠
 Rihan：梨花​
 Riharu：理春
+Rihito：理人
 Riko：理子
 Riku：理久
 Rikudo：六道
@@ -922,6 +957,7 @@ Riku：陆
 Rinha：玲羽
 Rinka：琳花
 Rina.：理夏
+Rirei：理玲
 Ririko：理理子
 Risako：理沙子
 Risato：里见
@@ -968,7 +1004,9 @@ Sajō：佐城
 Sakaguchi：坂口
 Sakana：鱼
 Sakasu：坂须
+Saki：咲
 Sakiko：咲子
+Sakino：咲乃
 Sako:佐子​
 Sak：小樱
 Saku：小樱
@@ -1020,6 +1058,7 @@ Seto：濑户
 Shachi：佐幸
 Shamon：沙蒙
 Shiba：志巴
+Shibata：柴田
 Shibi：志比
 Shibiki：志木
 Shiemi：诗惠美
@@ -1053,6 +1092,7 @@ Shinobu：信乃
 Shinzo：慎藏
 Shio：盐
 Shion：诗音
+Shionoya：盐谷
 Shiori：诗织
 Shirabu：白部
 Shiro：白郎
@@ -1139,12 +1179,14 @@ Tai：太
 Taigen：泰元
 Taihei：泰平
 Taiki：拓树
+Taira：平
 Taishi：太志
 Taiyo：太阳
 Taka：鹰
 Takaba：鹰场
 Takahashi：高桥
 Takahiro：高宏
+Takahito：高人
 Takamine：高峰
 Takane：高根
 Takao：高尾
@@ -1153,7 +1195,7 @@ Takashi：高志
 Takaya：贵也
 Takeda：武田
 Takeharu：武彦
-takemaru：竹丸
+Takemaru：竹丸
 Takeru：健
 Takeshi：武史
 Taketori：竹取
@@ -1179,13 +1221,14 @@ Tanake：田圭
 Tatsu：龙
 Tatsuo：拓夫
 Tatsuya：拓也
+Tateiwa：立岩
+Tatewaki：带刀
+Tatsuya：拓也
+Tazuna：手纲
 Tenchi：天地
 Tenma：天马
 Tenshi：天志
 Tenzen：天全
-Tateiwa：立岩
-Tatewaki：带刀
-Tatsuya：拓也
 Tetsuka：铁火
 Tetsuo：哲夫
 Tetsurou：哲郎
@@ -1223,8 +1266,10 @@ Toshio：敏夫
 Toshiro：敏郎
 Toshitsugu：敏次
 Toshizo：敏藏
+Totsu：突
 Touma：冬马
 Touzoku：盗贼
+Towa：永远
 Tōyu：冬佑
 Tsubame：燕
 Tsubisa：月火
@@ -1233,8 +1278,10 @@ Tsuguma：津熊
 Tsugumi：津弓
 Tsuguru：嗣
 Tsukauchi：塚内
-Tsukiko：月子
 Tsuki：月
+Tsukihi：月姬
+Tsukiko：月子
+Tsukiyama：月山
 Tsukiyomi：月读
 Tsuma：津真
 Tsumi：津美
@@ -1268,6 +1315,7 @@ Utatane：卯田祢
 Uzume：宇津
 Wantanabe：渡边
 Wareme：雷梅
+Watanuki：锦贯
 Wazuki：和月
 Weasel：黄鼠狼
 Wolf：狼
@@ -1317,6 +1365,7 @@ Yoshihiro：吉弘
 Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
+Youko：洋子
 Yu：悠
 Yū：悠
 Yua：结爱
@@ -1365,6 +1414,7 @@ Yuzuki：柚希
 Zasso：扎索
 Zebra：斑马
 Zenko：善光
+Zeph：泽夫
 Zugara：祖罗
 
 Fire Lord：火之国大名
