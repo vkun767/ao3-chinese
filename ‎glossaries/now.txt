@@ -73,7 +73,6 @@ Ashihara：芦原
 Ashina：芦名
 Ashino：芦野
 Asuhi：芦飞
-Asuka：芦香
 Asuka：渚
 Asuna：芦奈
 Atsugi：厚木
@@ -385,6 +384,7 @@ Ichirai：一来
 Ichiran：一览
 Ide：井手
 Igaku：伊角
+Igarashi：五十岚
 Ikari：碇
 Ikanago：鱼仔
 Ikeda：池田
@@ -1378,6 +1378,7 @@ Youko：洋子
 Yu：悠
 Yū：悠
 Yua：结爱
+Yue:弓恵
 Yui：由衣
 Yuichi：裕一
 Yuji：裕二
@@ -1414,6 +1415,7 @@ Yuuji：优二
 Yuujin：优神
 Yuuka：优花
 Yuuki：优树
+Yuuko：优子
 Yuuma：优真
 Yuuna：优奈
 Yuuri：优里
