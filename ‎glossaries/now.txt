@@ -229,6 +229,7 @@ Fuugetsu：风月
 Fuyuko：冬子
 Fuyumi：冬美
 Fuyuharu：冬晴
+Fuyuto：冬人
 Gaku：岳
 Gazeru：雅蝉
 Gecko：壁虎
@@ -368,6 +369,7 @@ Hosokawa：细川
 Hosoo：细井
 Hotaka：穗高
 Hotaru：萤
+Hotose：丰穗
 Hotuki：穗月
 Houju：候朱
 Houki：凤辉
@@ -380,6 +382,7 @@ Ibushi：伊武志
 Ichigo：一护
 Ichika：一花
 Ichirai：一来
+Ichiran：一览
 Ide：井手
 Igaku：伊角
 Ikari：碇
@@ -576,6 +579,7 @@ Keisuke：圭介
 Ken：健
 Kenesuku：兼助
 Kendou：剑道
+Kengo：健吾
 Kenichi：贤一
 Kenji：健二
 Kenshin：健信
@@ -703,6 +707,7 @@ Lynx：猞猁
 Lysithea：莉西缇娅
 Mabo：真保
 Madoka：圆香
+Maehar：前原
 Magohachi：孙八
 Maho：真帆
 Mai：迈
@@ -715,6 +720,7 @@ Makiko：真纪子
 Makishima：慎岛
 Makoto：诚
 Mako：真子
+Makuro：真黑
 Manaka：真中
 Maneki：万木
 Mameko：豆子
@@ -855,6 +861,7 @@ Natsume：夏目
 Natsumi：夏美
 Natsuko：夏子
 Natsuo：夏生
+Natsuya：夏也
 Nazoko：奈佐子
 Neishin：内信
 Neko：猫
@@ -957,7 +964,7 @@ Riku：陆
 Rinha：玲羽
 Rinka：琳花
 Rina.：理夏
-Rirei：理玲
+Rirei：理惠
 Ririko：理理子
 Risako：理沙子
 Risato：里见
@@ -1071,6 +1078,7 @@ Shikabane：尸骨
 Shikaharu：鹿晴
 Shikaichi：鹿一
 Shikaido：鹿道
+Shikaji：鹿路
 Shikako：鹿子
 Shikamura：鹿村
 Shikari：鹿切
@@ -1262,6 +1270,7 @@ Tori：鸟
 Toshi：敏
 Toshihiro：敏宏
 Toshiko：敏子
+Toshimi：敏美
 Toshio：敏夫
 Toshiro：敏郎
 Toshitsugu：敏次
