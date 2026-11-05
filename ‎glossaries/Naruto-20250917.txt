@@ -817,6 +817,7 @@ Bijuu：尾兽
 Bijū：尾兽
 Jashin：邪神
 sensor：感知忍者
+medic-nin：医疗忍者
 iryo-nin：医疗忍者
 copy nin：拷贝忍者
 copy-nin：拷贝忍者
