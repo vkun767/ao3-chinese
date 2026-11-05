@@ -379,6 +379,7 @@ Saiken：犀犬
 Rokubi：六尾
 Utakata：羽高
 Hotaru：萤
+Hotarubi：萤日
 Shiranami：白浪
 Chomei：重明
 Chōmei：重明
@@ -533,6 +534,7 @@ Uchiha compound：宇智波族地
 Senju compound：千手族地
 Mountains Graveyard：山岳墓场
 “MOUNTAINS’ GRAVEYARD”：山岳墓场
+Five Kage Summit：五影峰会
 
 //遁术名称、忍术类别
 Onmyoton：阴阳遁
