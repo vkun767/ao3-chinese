@@ -337,6 +337,7 @@ Hikan：日冠
 Hikaru：光​
 Hikiko：绯子
 Hiko：彦
+Hikoboshi：牛郎
 Hikori：夸里
 Himari：日葵
 Himiko：卑弥呼
@@ -489,6 +490,7 @@ Joruri：净瑠璃
 Jotaro：丈太郎
 Jounen：净念
 Jōnen：净念
+Jonen：净念
 Jubokko：咒木
 Juko：寿子
 Jūn：顺
@@ -991,6 +993,7 @@ Ouju：王树
 Ouka：央花
 Ōri：大里
 Oriana：织杏
+Orihimi：织女
 Orime：织目
 Orino：折野
 Oro：大蛇
