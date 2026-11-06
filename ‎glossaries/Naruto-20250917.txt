@@ -417,7 +417,6 @@ Gedō Mazō=外道 魔像
 Gedo Mazō=外道 魔像
 Rikudo：六道
 
-
 //博人传
 Uzumaki Boruto=漩涡 博人
 Uzumaki Himawari=漩涡 向日葵
@@ -462,6 +461,23 @@ Hamura：羽村
 Fūma：风魔
 Fuma：风魔
 Fuuma：风魔
+
+//剧场版相关
+Kazahana Doto=风花 怒涛
+Kazahana Dotou=风花 怒涛
+Kazahana Dotō=风花 怒涛
+Kazahana Sōsetsu=风花 早雪
+Kazahana Sosetsu=风花 早雪
+Kazahana Koyuki=风花 小雪
+Fujikaze Yukie=富士风 雪绘
+Temujin：铁木真
+Haido：海德
+Kamira：卡米拉
+Ranke：兰克
+Fugai：风外
+Kahiko：卡希科
+Nerugui：寝食
+Gelel：格雷尔
 
 //通灵兽相关
 Myobokuzan：妙木山
