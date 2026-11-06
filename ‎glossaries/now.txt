@@ -1522,6 +1522,8 @@ Tanabata：七夕
 Kabuki：歌舞伎
 kochū：毒虫
 kochu：毒虫
+Youkai：妖怪
+Obake：幽灵
 seishitsu：正妻
 Saka：小佐
 tachi：小鼬
