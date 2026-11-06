@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -171,7 +171,6 @@ Dekai：德凯
 Diablo：迪亚波罗
 Doi：土井
 Doppo：道步
-Doto：道人
 Douzan：铜山
 Echo：艾可
 Eiichi：荣一
@@ -210,7 +209,6 @@ Fox：狐狸
 Fubuki：吹雪
 Fudo：不动
 Fuji：不二
-Fujikaze：藤风
 Fūjin：风神
 Fujio：藤夫
 Fujita：藤田
@@ -560,7 +558,6 @@ Kawata：川田
 Kaya：香耶
 Kayasa：草彩
 Kayoko：佳代子
-Kazahana:风华
 Kaza：风
 Kazan：卡赞
 Kazane：风音
@@ -683,7 +680,6 @@ Kouyou：红叶
 Kowa：高亚
 Kōya：光也
 Koyanagi：小柳
-Koyuki：小雪
 Kukaku：空鹤
 Kuma：熊
 Kumano：熊野
@@ -1421,7 +1417,6 @@ Yuichi：裕一
 Yuji：裕二
 Yukari：由香里
 Yuki：雪
-Yukie：雪绘
 Yukina：雪名
 Yukimi：雪见
 Yukio：由纪
