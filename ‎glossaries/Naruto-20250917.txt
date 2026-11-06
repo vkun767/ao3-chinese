@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.1.5
+版本号：1.1.
 更新时间：2026-02-01
 
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
@@ -165,11 +165,13 @@ Yamanaka Fū=山中 风
 Jiraiya：自来也
 Jirayai：自来也
 Jiraya：自来也
+Jiriaya：自来也
 Tsunade：纲手
+Tsuande：纲手
 Shizune：静音
 Tonton：豚豚
 Nawaki：绳树
-Katon Dan：加藤 断
+Kato Dan=加藤 断
 Dan：断
 Yakumo:八云
 Murakumo：从云 
@@ -199,6 +201,12 @@ Gengo：源吾
 
 //音忍
 Orochimaru：大蛇丸
+Orcochimaru：大蛇丸
+Orochiamru：大蛇丸
+Orocimaru：大蛇丸
+Orochimru：大蛇丸
+Orochomaru：大蛇丸
+Orochimaur：大蛇丸
 Yakushi Nonou=药师 野乃宇
 Yakushi Nono=药师 野乃宇
 Yakushi Nonō=药师 野乃宇
@@ -522,6 +530,7 @@ Konoha：木叶
 Sunagakure：砂隐村
 Iwagakure：岩隐村
 Iwakagure：岩隐村
+Uzu：涡之国
 Uzushio：涡之国
 Uzushiogakure：涡隐村
 Whirlpool：涡潮村
@@ -662,6 +671,7 @@ Henge：变身
 Bushin：分身
 Bunshin：分身
 Kawarimi：替身
+Kawamiri：替身
 shadow clone：影分身
 Kage Bunshin：影分身
 shadow clone：影分身
@@ -706,6 +716,9 @@ Kongo Fusa=金刚 封锁
 Totsuka no Tsurugi：十拳剑
 Shishi Huyo：四肢重封印
 Infuin：阴封印
+Yin Seal：阴封印
+Yangfuin：阳封印
+Yang Seal：阳封印
 Tensai Fuin=转邪 封印
 Sabaku Fudo Sosa：砂漠层大葬封印
 Kaenjin：火炎阵
