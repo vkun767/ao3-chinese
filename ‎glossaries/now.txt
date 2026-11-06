@@ -194,6 +194,7 @@ Emon：右门
 Ena：惠那
 Encho：炎朝
 Enjin：炎神
+Enshin：炎信
 Ensho：炎匠
 Eri：绘里
 Erika：绘里香
@@ -327,6 +328,7 @@ Hina：希娜
 Hinako：雏子
 Hinoda：日升
 Hinoiri：日入
+Hinoka：阳香
 Hinokimaru：桧柏
 Hinoto：日野户
 Hiori：火葵
@@ -474,6 +476,7 @@ Kaede：枫
 Kaen：封火
 Kaeru：蛙
 Kagane：加金
+Kagayaki：辉
 Kahen：花片
 Kaito：海斗
 Kaisa：凯撒
@@ -570,6 +573,7 @@ Kazuto：和人
 Kazuya：和也
 Keihatsu：敬发
 Kei：圭
+Keiichi：圭一
 Keika：圭火
 Keiki：圭树
 Keiko：圭子
@@ -594,6 +598,7 @@ Keisuki：庆杉
 Ketoki：齐时
 Kichi：吉吉
 Kichiro：吉郎
+Kido：木户
 Kigane：黄金
 Kiha：辉羽
 Kikiro：菊郎
@@ -625,10 +630,12 @@ Kiyoshi：清志
 Kiyoshige：清重
 Kō：弘
 Ko：弘
+Koen：光炎
 Kou：弘
 Kobashi：小桥
 Kobe：神户
 Kobayashi：小林
+Kodama：儿玉
 Kodo：幸道
 Kodoma：幸玉
 Kōga：甲贺
@@ -697,6 +704,7 @@ Kyofu：京风
 Kyōgo：京吾
 Kyogo：京吾
 Kyōmaru：京丸
+Kyou：京
 Kyougi：恭仪
 Kyouraku：京乐
 Kyūsei：九星
@@ -746,6 +754,7 @@ Masanobu：正信
 Masanori：正则
 Masaru：胜人
 Masashi：正志
+Masato：正人
 Masayoshi：正义
 Masashika：正鹿
 Masuyo：真代
@@ -776,6 +785,7 @@ Mina：美奈
 Minako：美奈子
 Minami：南美
 Minasu：美那须
+Minori：实里
 Minoru：稔
 Miriam：美利暗
 Misaki：美咲
@@ -889,6 +899,7 @@ Nomea：野明
 Nomu：浓
 Nori：诺里
 Noriko：纪子
+Norio：则夫
 Noriyuki：仙幸
 Nozomi：希美
 Nozumi：望美
@@ -943,8 +954,9 @@ Ran：兰花
 Raven：雷文
 Rat：鼠
 Rea：玲
-Reki：雷基
 Rei：雷伊
+Reki：雷基
+Rekka：烈火
 Reiko：雷子
 Reina：玲奈
 Ren：莲
@@ -1121,6 +1133,7 @@ Shokari：小狩
 Shōkyo：消去
 Shona：翔南
 Shoma：肖马
+Shou：寿
 Shoujiro：正次郎
 Shouta：翔太
 Shorin：小林
@@ -1277,9 +1290,11 @@ Toshitsugu：敏次
 Toshizo：敏藏
 Totsu：突
 Touma：冬马
+Touya：冬谷
 Touzoku：盗贼
 Towa：永远
 Tōyu：冬佑
+Toyua：冬远
 Tsubame：燕
 Tsubisa：月火
 Tsuchida：土田
@@ -1294,6 +1309,8 @@ Tsukiyama：月山
 Tsukiyomi：月读
 Tsuma：津真
 Tsumi：津美
+Tsuna：纲
+Tsunde：纲
 Tsunemori：常守
 Tsuneo：津根
 Tsuru：鹤
