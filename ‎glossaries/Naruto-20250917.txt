@@ -1039,6 +1039,8 @@ niisan：尼桑
 nii：哥
 “nee-chan”：姐姐
 “nee-san”：姐姐
+neechan：姐姐
+neesan：姐姐
 -nee：姐
 nee：姐
 Jiji：爷爷
