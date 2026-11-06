@@ -535,6 +535,10 @@ Senju compound：千手族地
 Mountains Graveyard：山岳墓场
 “MOUNTAINS’ GRAVEYARD”：山岳墓场
 Five Kage Summit：五影峰会
+Shushu-ya：酒酒屋
+Shu-shu-ya：酒酒屋
+Shushuya：酒酒屋
+Sake Sake Store：酒酒屋
 
 //遁术名称、忍术类别
 Onmyoton：阴阳遁
