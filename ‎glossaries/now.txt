@@ -5,10 +5,11 @@
 词条
 // 限制大小写
 Aika：爱华
+Aikawa：相川
 Aiki：爱希
 Aiko：爱子
+Aikosa：相笠
 Aina：爱奈
-Aikawa：相川
 Aimi：爱美
 Aino：爱野
 Airi：爱丽
@@ -69,7 +70,7 @@ Aruna：阿鲁诺
 Asa：朝
 Asahi：朝日
 Asakura：朝仓
-Asama：浅间
+Asami：朝美
 Asane：朝音
 Ashihara：芦原
 Ashina：芦名
@@ -107,6 +108,7 @@ Bito：土
 Botan：牡丹
 Bukimi：异诡
 Bukuri：武来
+Bunraku:文乐
 Bull：布鲁
 Buta：豚鼠
 Byakuren：白莲
@@ -173,6 +175,7 @@ Daitenja：大天寺
 Daiya：戴雅
 Danuo：断雄
 Dansei：断圣
+Dansen:断线
 Daruzo：达鲁藏
 Degai：德爱
 Deiton：泥遁
@@ -218,7 +221,6 @@ Falcon：隼
 Fazan：富山
 Faruma：古间
 Fox：狐狸
-Fubuki：吹雪
 Fudo：不动
 Fuji：不二
 Fūjin：风神
@@ -264,7 +266,6 @@ Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
 Gouzen：合禅
-Gozu：牛头
 Gyo：行
 Gyosei：晓星
 Hachihide：蜂秀
@@ -274,7 +275,7 @@ Hachiro：蜂郎
 Hae：海
 Hagemaru：羽月丸
 Hajime：始司
-HHajitomi：始冨美
+Hajitomi：始冨美
 Hakue：白惠
 Hakuhyo：白水
 Hakusa：白砂
@@ -336,6 +337,7 @@ Hijiri：阳圣
 Hikan：日冠
 Hikaru：光​
 Hikiko：绯子
+Hikite:彦手
 Hiko：彦
 Hikoboshi：牛郎
 Hikori：夸里
@@ -364,6 +366,7 @@ Hirotol：广人
 Hiru：日
 Hirzuen：日斩
 Hisa：久佐
+Hisaie:久荣
 Hisako：久子
 Hisao：久雄
 Hisato：久人
@@ -425,6 +428,7 @@ Inao：稻尾
 Inari：稻荷
 Inazuka：犬冢
 Indamo：印茂
+Inigo:井吾
 Inochi：井知
 Inochin：井野千
 Inoharu：井春
@@ -473,8 +477,9 @@ Izumi：泉美
 Izuno：泉野
 Izuya：伊豆弥
 Jackal：豺
-Jakuchi：蛇口
+Jakuchi:若知
 Jatayu：贾塔尤
+Jicho：慈朝
 Jigen：慈玄
 Jimei：地明
 Jin：仁
@@ -521,6 +526,7 @@ Kaka：卡卡
 Kakuto：角人
 Kako：小鹿
 Katsu：胜
+Katsukane：胜金
 Katsurō：胜郎
 Katsuro：胜郎
 Katsuya：胜也
@@ -592,8 +598,8 @@ Kawata：川田
 Kaya：香耶
 Kayasa：草彩
 Kayoko：佳代子
+Kayome:佳夜女
 Kaza：风
-Kazan：卡赞
 Kazane：风音
 Kazama：风间
 Kazami：风美
@@ -662,9 +668,11 @@ Kiso：​木曾
 Kisshōten：吉祥天
 Kita：北
 Kitai：北斋
+Kitami：北见
 Kitatani：北谷
 Kitsune：狐妖
 Kiya：岸夜
+Kiyami：清美
 Kiyo：清
 Kiyoko：清子
 Kiyomi：清美
@@ -757,6 +765,7 @@ Kyōmaru：京丸
 Kyōnari：京成
 Kyou：京
 Kyougi：恭仪
+Kyounari:京成
 Kyouraku：京乐
 Kyūsei：九星
 Leopard：豹
@@ -776,7 +785,6 @@ Majime：真实
 Maka：真花
 Makiko：真纪子
 Makishima：慎岛
-Makoto：诚
 Mako：真子
 Makuro：真黑
 Manaka：真中
@@ -816,6 +824,7 @@ Mayuri：真由里
 Mayra：梅拉
 Mebu：芽
 Megumi：惠
+Meiki：明希
 Meiko：明子
 Mer：美人鱼
 Mezo：梅佐
@@ -876,7 +885,7 @@ Momo：桃
 Momohiko：桃彦
 Momoko：桃子
 Momoshi：桃矢
-Moreya：曳尺
+Moreya:茂谷
 Mori：森
 Moriko：森子
 Moritaka：森高
@@ -916,6 +925,7 @@ Namie：奈美枝
 Naohime：直姬
 Naoki：直树
 Naomi：直美
+Naonaka:直中
 Naori：直里
 Naraho：奈良穗
 Nari：鸣里
@@ -925,6 +935,7 @@ Naru：鸣
 Naruko：鸣子
 Narumi：鸣海
 Nashimi：梨美
+Nasu:那须
 Natori：名取
 Natsu：夏
 Natsume：夏目
@@ -1044,6 +1055,7 @@ Rie：理惠
 Rihan：梨花​
 Riharu：理春
 Rihito：理人
+Rika:梨花
 Riko：理子
 Riku：理久
 Rikudo：六道
@@ -1061,6 +1073,7 @@ Rokuro：六郎
 Rou：罗
 Rowa：罗瓦
 Ruby：露比
+Ruchishi:鲁智
 Rukia：瑠香
 Rume：瑠芽
 Rumine：留美奈
@@ -1115,13 +1128,13 @@ Samaki：佐卷
 Sami：纱美
 Samua：三亚
 San：三
-Sandayu：山太夫​
-Sandayuu：山太夫​
+Saburo：三郎
 Sango：珊瑚
 Sanma：三瓦
 Sannati：萨那提
 Sannosawa：山野尺
 Sano：佐野
+Sanshuu:三秋
 Santa：三太
 Sanuki：佐贯
 Sarana：纱良
@@ -1131,6 +1144,7 @@ Sas：小佐
 Sasu：佐
 Sataku：佐久
 Satetsu：佐铁
+Sato:里
 Satomi：里美
 Satoshi：智
 Satoru：悟
@@ -1202,7 +1216,6 @@ Shinsei：新星
 Shinobu：信乃
 Shinzo：慎藏
 Shio：盐
-Shion：诗音
 Shionoya：盐谷
 Shiori：诗织
 Shirabu：白部
@@ -1251,11 +1264,11 @@ Sota：宗太
 Sōta：宗太
 Sota：宗太
 Souka：宗花
+Soukka：宗花
 Souma：宗马
 Souta：宗太
 Souya：宗也
 Subaru：昴
-Saburo：三郎
 Suda：顺田
 Sudou：顺堂
 Sueko：末子
@@ -1269,6 +1282,7 @@ Sukuīzu：疾翅
 Suma：苏玛
 Sumi：澄美
 Sumiye：澄江
+Sunami:砂波
 Surime：墨目
 Suseri：苏绕
 Susuma：寿真
@@ -1308,6 +1322,7 @@ Takaba：鹰场
 Takahashi：高桥
 Takahiro：高宏
 Takahito：高人
+Takame：高目
 Takamine：高峰
 Takane：高根
 Takao：高尾
@@ -1342,6 +1357,7 @@ Tanake：田圭
 Taramae：樽前
 Tarumae：樽前
 Tatsu：龙
+Tatsue:立枝
 Tatsuo：拓夫
 Tatsuya：拓也
 Tateiwa：立岩
@@ -1355,6 +1371,9 @@ Tenchi：天地
 Tenma：天马
 Tenshi：天志
 Tenzen：天全
+Teru:照
+Terumii:照美
+Terumi:照美
 Tetsuka：铁火
 Tetsuo：哲夫
 Tetsurou：哲郎
@@ -1368,6 +1387,7 @@ Tokage：蜥蜴
 Tokinojin：时野人
 Tokimi：时君
 Tokonoma：床间
+Tokyoma:常世间
 Tokuga：德贺
 Tokuren：德莲
 Tokuyoshi：德吉
@@ -1409,9 +1429,9 @@ Tsuchida：土田
 Tsuguma：津熊
 Tsugumi：津弓
 Tsuguru：嗣
+Tsukasa:司
 Tsukauchi：塚内
 Tsukeo：助夫
-Tsuki：月
 Tsukihi：月姬
 Tsukiko：月子
 Tsukimi：月见
@@ -1454,6 +1474,7 @@ Usamo：宇佐茂
 Ushi：牛
 Usagi：兔
 Utatane：卯田祢
+Utau:歌
 Uzume：宇津
 Uzumoto：涡本
 Vinata：毗那多
@@ -1482,6 +1503,7 @@ Yamanka：山中
 Yamane：山根
 Yami：夜见
 Yamīchi：关一
+Yamizo:山藏
 Yamori：蜥蜴
 Yasakatone：八尺铎
 Yashiro：八代
@@ -1650,6 +1672,7 @@ Pinkie：小粉崽
 Pinky：小粉毛
 Juzu：数珠
 chūhai：中杯
+Oyakodon:亲子丼
 shiraae：白和
 Ōmisoka：除夕
 katsura：连香树
@@ -1658,6 +1681,8 @@ pinkaloo：粉红红
 menko：面子
 Akasen：红灯区
 kokyū：胡弓
+Kannin：宽仁
+Kanran:寒兰
 Kanri：管理
 zori：草履
 tabi：足袋
