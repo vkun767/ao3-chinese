@@ -721,6 +721,7 @@ Hiramekarei：双刃鲆
 haragake：忍具包
 Kunai：苦无
 Kagemane：影子
+fuuma shuriken：风魔手里剑
 Shuriken：手里剑
 Enjutsu：烟雾弹
 Flash Bomb：闪光弹
@@ -992,6 +993,7 @@ okāsan：母亲
 “okā–san”：母亲
 “Okaa-san”：妈妈
 “Kaa-Chan”：妈妈
+kaachan：妈妈
 otōto：弟弟
 otouto：弟弟
 Komon：顾问
