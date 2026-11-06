@@ -549,6 +549,185 @@ Shu-shu-ya：酒酒屋
 Shushuya：酒酒屋
 Sake Sake Store：酒酒屋
 
+//忍者专有名词称呼和外号
+Shido Jonin=指导 上忍
+jōnin：上忍
+Jonin：上忍
+Jounin：上忍
+Tokubetsu：特别上忍
+tokujō：特上
+tokujo：特上
+tokujou：特上
+chuunin：中忍
+Chounin：中忍
+Chūnin：中忍
+Chunin：中忍
+Genin：下忍
+Nukenin：叛忍
+nuke-nin：叛忍
+missing-nin：叛忍
+Sanban：第三班
+Dananahan：第七班
+“Dai-nana-han”：第七班
+Hachihan：第八班
+Juppan：第十班
+Kage：影
+Hokage：火影
+Mizukage：水影
+Kazekage：风影
+Raikage：雷影
+Tsuchikage：土影
+Otokage：音影
+Uzukage：涡影
+Kumo：云忍
+Kiri：雾忍
+Suna：砂忍
+Iwa：岩忍
+Otonin：音忍
+Kusa：草忍
+Akatsuki：晓组织
+Tetsu：铁
+Tsuchi：土
+Mizu：水
+Kaze：风
+Kaminari：雷
+nin：忍者
+ninja：忍者
+shinobi：忍者
+kunoichi：女忍
+Charka：查克拉
+Chakra：查克拉
+tenketsu：经脉
+Keirakukei：经络系统
+Sengoku：战国
+Ninkai Taisen=忍界 大战
+Allied Shinobi Forces：忍界联军
+Fire daimyo：火之国大名
+daimyo：大名
+Daimyō：大名
+Daimyo：大名
+Soke：宗家
+Bunke：分家
+ANBU：暗部
+Anbu：暗部
+Keimusho：警卫队
+Jinchuriki：人柱力
+Jinchuuriki：人柱力
+jinchūriki：人柱力
+Biju：尾兽
+Bijuu：尾兽
+Bijū：尾兽
+Jashin：邪神
+sensor：感知忍者
+medic-nin：医疗忍者
+iryo-nin：医疗忍者
+copy nin：拷贝忍者
+copy-nin：拷贝忍者
+Fuuin：封印
+Juin：咒印
+Ketsu-in：结印
+botchan：三色团子
+teppanyaki：铁板烧
+Happuri：护额
+hitae-ate：护额
+Kaama：楔
+Karma：楔
+Kāma：楔
+ninken：忍犬
+Gama：蛤蟆
+Gamma：蛤蟆
+Sennin：仙人
+Kugutsushi：傀儡师
+Kai：解
+ichaicha：亲热天堂
+Icha Icha：亲热天堂
+“Icha-icha”：亲热天堂
+Icha Icha Paradise：亲热天堂
+Lord First：初代目大人
+Lord Second：二代目大人
+Lord Third：三代目大人
+Lord Fourth：四代目大人
+Lord Fifth：五代目大人
+Lord Sixth：六代目大人
+Lord Seven：七代目大人
+Shodai：初代
+Shodaime：初代目
+Nidai：二代
+Nidaime：二代目
+Niidaime：二代目
+Nindaime：二代目
+Yondaime：四代目
+Sandaime：三代目
+Godaimē：五代目
+Godaime：五代目
+Rokudaime：六代目
+Nanadaime：七代目
+Shinobigatana Shichininshu=忍刀 七人众
+Shisui no Shunshin：瞬身止水
+Shunshin no Shisui：瞬身止水
+Shunshin Shisui：瞬身止水
+Body Flicker：瞬身
+Suna no Sankyoudai：砂之三姐弟
+Aoi Kajitsu：苍蓝 猛兽
+Kajitsu：猛兽
+Senpu：旋风
+Sannin：三忍
+Sanin：三忍
+Ero Sennin：好色仙人
+“Ero-Sennin”：好色仙人
+Konoha no Kiiroi Senkō：木叶的金色闪光
+Kiiroi Senkō=金色 闪光
+Kiiroi Senko=金色 闪光
+Kiiroi Senkou=金色 闪光
+Yellow Flash：黄色闪光
+Rookie Nine：新人九人组
+Rookie 9：新人九人组
+Kagome：笼中鸟
+bakakashi：笨卡卡
+bakashi：笨卡卡
+usuratonkachi：超级大笨蛋
+White Demon：白色恶魔
+White Devil：白色恶魔
+Habanero：火红辣椒
+Hashi：柱
+Izu：泉
+
+//武器物品
+Gumbai：军配团扇
+Gunbai：军配团扇
+Bakutō Shibuki=爆刀 飞沫
+Dontō Kabutowari=钝刀 兜割
+Hebiichigo：蛇莓
+Chōtō Nuibari=长刀 缝针
+Dantō Kubikiribōchō=断刀 斩首大刀
+Kubikiribocho：斩首大刀
+Hiramekarei：双刃鲆
+haragake：忍具包
+Kunai：苦无
+Kagemane：影子
+Shuriken：手里剑
+Enjutsu：烟雾弹
+Flash Bomb：闪光弹
+Hitai-ate：护额
+Bakufu：起爆符
+Makimono：卷轴
+Senbon：千本
+Shimenawa：注连绳
+Hyorogan：兵粮丸
+Ningu：忍具
+Kusanagi no Tsurugi：草薙剑
+Kusanagi：草薙剑
+Amenonuhoko：天沼矛
+Ame no nuhoko：天沼矛
+Benihisago：红葫芦
+Kohaku no Jouhei：琥珀净瓶
+Kohaku Jouhei=琥珀 净瓶
+Katana：武士刀
+tantō：短刀
+tanto：短刀
+tantou：太刀
+bokken：木刀
+
 //遁术名称、忍术类别
 Onmyoton：阴阳遁
 Onmyotōn：阴阳遁
@@ -765,182 +944,6 @@ Suihachi：水铁炮
 Fire Style：火遁
 Water Style：水遁
 
-//忍者专有名词称呼和外号
-Shido Jonin=指导 上忍
-jōnin：上忍
-Jonin：上忍
-Jounin：上忍
-Tokubetsu：特别上忍
-tokujō：特上
-tokujo：特上
-tokujou：特上
-chuunin：中忍
-Chounin：中忍
-Chūnin：中忍
-Chunin：中忍
-Genin：下忍
-Nukenin：叛忍
-nuke-nin：叛忍
-missing-nin：叛忍
-Sanban：第三班
-Dananahan：第七班
-“Dai-nana-han”：第七班
-Hachihan：第八班
-Juppan：第十班
-Kage：影
-Hokage：火影
-Mizukage：水影
-Kazekage：风影
-Raikage：雷影
-Tsuchikage：土影
-Otokage：音影
-Kumo：云忍
-Kiri：雾忍
-Suna：砂忍
-Iwa：岩忍
-Otonin：音忍
-Kusa：草忍
-Akatsuki：晓组织
-Tetsu：铁
-Tsuchi：土
-Mizu：水
-Kaze：风
-Kaminari：雷
-nin：忍者
-ninja：忍者
-shinobi：忍者
-kunoichi：女忍
-Charka：查克拉
-Chakra：查克拉
-tenketsu：经脉
-Keirakukei：经络系统
-Sengoku：战国
-Ninkai Taisen=忍界 大战
-Allied Shinobi Forces：忍界联军
-daimyo：大名
-Daimyō：大名
-Daimyo：大名
-Soke：宗家
-Bunke：分家
-
-ANBU：暗部
-Anbu：暗部
-Keimusho：警卫队
-Jinchuriki：人柱力
-Jinchuuriki：人柱力
-jinchūriki：人柱力
-Biju：尾兽
-Bijuu：尾兽
-Bijū：尾兽
-Jashin：邪神
-sensor：感知忍者
-medic-nin：医疗忍者
-iryo-nin：医疗忍者
-copy nin：拷贝忍者
-copy-nin：拷贝忍者
-Fuuin：封印
-Juin：咒印
-Ketsu-in：结印
-botchan：三色团子
-teppanyaki：铁板烧
-Happuri：护额
-Kaama：楔
-Karma：楔
-Kāma：楔
-ninken：忍犬
-Gama：蛤蟆
-Gamma：蛤蟆
-Sennin：仙人
-Kugutsushi：傀儡师
-Kai：解
-ichaicha：亲热天堂
-Icha Icha：亲热天堂
-“Icha-icha”：亲热天堂
-Icha Icha Paradise：亲热天堂
-Lord First：初代目大人
-Lord Second：二代目大人
-Lord Third：三代目大人
-Lord Fourth：四代目大人
-Lord Fifth：五代目大人
-Lord Sixth：六代目大人
-Lord Seven：七代目大人
-Shodai：初代
-Shodaime：初代目
-Nidai：二代
-Nidaime：二代目
-Niidaime：二代目
-Nindaime：二代目
-Yondaime：四代目
-Sandaime：三代目
-Godaimē：五代目
-Godaime：五代目
-Rokudaime：六代目
-Nanadaime：七代目
-Shinobigatana Shichininshu=忍刀 七人众
-Shisui no Shunshin：瞬身止水
-Shunshin no Shisui：瞬身止水
-Shunshin Shisui：瞬身止水
-Body Flicker：瞬身
-Suna no Sankyoudai：砂之三姐弟
-Aoi Kajitsu：苍蓝 猛兽
-Kajitsu：猛兽
-Senpu：旋风
-Sannin：三忍
-Sanin：三忍
-Ero Sennin：好色仙人
-“Ero-Sennin”：好色仙人
-Konoha no Kiiroi Senkō：木叶的金色闪光
-Kiiroi Senkō=金色 闪光
-Kiiroi Senko=金色 闪光
-Kiiroi Senkou=金色 闪光
-Yellow Flash：黄色闪光
-Rookie Nine：新人九人组
-Rookie 9：新人九人组
-Kagome：笼中鸟
-bakakashi：笨卡卡
-bakashi：笨卡卡
-usuratonkachi：超级大笨蛋
-White Demon：白色恶魔
-White Devil：白色恶魔
-Habanero：火红辣椒
-Hashi：柱
-Izu：泉
-
-//武器物品
-Gumbai：军配团扇
-Gunbai：军配团扇
-Bakutō Shibuki=爆刀 飞沫
-Dontō Kabutowari=钝刀 兜割
-Hebiichigo：蛇莓
-Chōtō Nuibari=长刀 缝针
-Dantō Kubikiribōchō=断刀 斩首大刀
-Kubikiribocho：斩首大刀
-Hiramekarei：双刃鲆
-haragake：忍具包
-Kunai：苦无
-Kagemane：影子
-Shuriken：手里剑
-Enjutsu：烟雾弹
-Flash Bomb：闪光弹
-Hitai-ate：护额
-Bakufu：起爆符
-Makimono：卷轴
-Senbon：千本
-Shimenawa：注连绳
-Hyorogan：兵粮丸
-Ningu：忍具
-Kusanagi no Tsurugi：草薙剑
-Kusanagi：草薙剑
-Amenonuhoko：天沼矛
-Ame no nuhoko：天沼矛
-Benihisago：红葫芦
-Kohaku no Jouhei：琥珀净瓶
-Kohaku Jouhei=琥珀 净瓶
-Katana：武士刀
-tantō：短刀
-tanto：短刀
-tantou：太刀
-bokken：木刀
 
 //常见日语称呼、物品
 Otōsama：父亲大人
