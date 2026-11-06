@@ -93,6 +93,7 @@ Baru：巴鲁
 Basho：芭蕉
 Bat：蝙蝠
 Bear：熊
+Bekko：别甲
 Beni：红梨
 Benzaiten：弁财天
 Bishamon：毗沙门
@@ -216,16 +217,17 @@ Fujita：藤田
 Fuki：吹树
 Fukito：福人
 Fukushima：福岛 
-Fumiko：文子
-Fumio：文雄
 Fumi：芙美
 Fumiko：文子
 Fumihiro：文宏
+Fumito：文人
+Fumio：文雄
 Furuchi：古渕
 Furuya：古谷
 Fushimi：伏见
 Fushito：伏人
 Fuugetsu：风月
+Fuyuki：冬树
 Fuyuko：冬子
 Fuyumi：冬美
 Fuyuharu：冬晴
@@ -314,6 +316,7 @@ Higa：比嘉
 Higashi：东
 Higurashi：日渡
 Hiiragi：日暮
+Hijiri：阳圣
 Hikan：日冠
 Hikaru：光​
 Hikiko：绯子
@@ -384,6 +387,7 @@ Ichigo：一护
 Ichika：一花
 Ichirai：一来
 Ichiran：一览
+Ichiro：一郎
 Ide：井手
 Igaku：伊角
 Igarashi：五十岚
@@ -460,6 +464,7 @@ Jōchō：上长
 Jōseki：常石
 Jorō：游郎
 Joruri：净瑠璃
+Jotaro：丈太郎
 Juko：寿子
 Jūn：顺
 Jun：顺
@@ -478,6 +483,7 @@ Kaeru：蛙
 Kagane：加金
 Kagayaki：辉
 Kahen：花片
+Kaho：花穗
 Kaito：海斗
 Kaisa：凯撒
 Kaisen：海森
@@ -502,6 +508,7 @@ Kaju：卡朱
 Kamatari：镰太
 Kame：龟
 Kameko：龟子
+Kameo：龟夫
 Kameyo：龟代
 Kami：神明
 Kamijima：上岛
@@ -802,10 +809,12 @@ Mio：澪
 Mioka：美夜香
 Miu：美羽
 Miwari：美割
+Miyagi：宫城
 Miyako:宫子
 Miyata：宫田
 Miyazaki：宫崎
 Miyo：美悠
+Miyori：美依
 Miyu：美羽
 Mizushima：水岛
 Mizuho：水穗
@@ -906,12 +915,15 @@ Nozumi：望美
 Numa：沼
 Ocha：茶茶
 Oda：织田
+Odawara：小田原
+Ogino：荻野
 Oka：樱花
 Okaano：山野
 Okami：冈美
 Ōkami：狼
 Okami：狼
 Okano:冈野
+Okazaki：冈崎
 Okimoto：奥本
 Okinao：兴直
 Okita：冲田
@@ -934,6 +946,7 @@ Osamu：治
 Oshaberi：御喋
 Osuke：大助
 Osuya：大泽
+Ota：太田
 Otake：大竹
 Otazu：小田津
 Otoma：乙马
@@ -962,6 +975,7 @@ Reina：玲奈
 Ren：莲
 Renzu：莲组
 Renzo：莲藏
+Reo：铃央
 Reto：濑斗
 Rhino：犀牛
 Rice：日司
@@ -1055,6 +1069,7 @@ Satoru：悟
 Satsuki：皋月
 Satsuko：节子
 Sayaka：纱耶香
+Sayako：纱耶子
 Sayo：沙世
 Sayuri：佐百合
 Scorpion：蝎子
@@ -1104,7 +1119,10 @@ Shikō：四皇
 Shiko：四皇
 Shikuro：志黑
 Shimauma：斑马
+Shimon：志门
+Shindo：近藤
 Shingo：慎吾
+Shinichi：慎一
 Shinigami：死神
 Shinji：慎二
 Shinsei：新星
@@ -1116,6 +1134,7 @@ Shionoya：盐谷
 Shiori：诗织
 Shirabu：白部
 Shiro：白郎
+Shirobara：白原
 Shiroe：城惠
 Shirogane：白银
 Shiruku：白久
@@ -1339,6 +1358,7 @@ Ushi：牛
 Usagi：兔
 Utatane：卯田祢
 Uzume：宇津
+Uzumoto：涡本
 Wantanabe：渡边
 Wareme：雷梅
 Watanuki：锦贯
