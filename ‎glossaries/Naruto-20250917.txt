@@ -228,6 +228,7 @@ Tayuya：多由也
 Yūkimaru：幽鬼丸
 Amachi‌:天知
 Kagero：影野
+Fuuma Kotohime=风魔 琴姬
 Hoozuki Suigetsu=鬼灯 水月
 Houzuki Suigetsu=鬼灯 水月
 Hozuki Suigetsu=鬼灯 水月
@@ -272,6 +273,7 @@ Matsuri：祭
 Saya：沙夜
 Sana:沙奈
 Ameno:雨乃
+Pakura：叶仓
 
 //雾忍
 Terumi Mei=照美 冥
@@ -298,6 +300,8 @@ Akebino Jinin=通草 野饵人
 Byakuren：白莲
 Yotsuki Kiyoi=夜月 清井
 Ruka：流加
+Meizu：冥头
+Gozu：业头
 
 //岩忍
 Onoki：大野木
@@ -321,6 +325,7 @@ Karui：卡鲁伊
 Mabui：麻布伊
 Omoi：奥摩伊
 Burubi：布瑠比
+Toroi：特洛伊
 Cee：希
 Dodai：土代
 Kinkaku：金角
@@ -470,14 +475,57 @@ Kazahana Sōsetsu=风花 早雪
 Kazahana Sosetsu=风花 早雪
 Kazahana Koyuki=风花 小雪
 Fujikaze Yukie=富士风 雪绘
+Asama Sandayū=浅间 三太夫
+Asama Sandayu=浅间 三太夫
+Asama Sandayuu=浅间 三太夫
+Rōga Nadare=狼牙 雪崩
+Roga Nadare=狼牙 雪崩
+Rouga Nadare=狼牙 雪崩
+Kakuyoku Fubuki=鹤翼 吹雪
+Fuyukuma Mizore=冬熊 冰雨
+Fūn：风魔
+Makino：牧野
+Shishimaru：狮子丸
+Temujin：特姆迅
 Temujin：铁木真
 Haido：海德
 Kamira：卡米拉
 Ranke：兰克
 Fugai：风外
 Kahiko：卡希科
+Emina：惠美奈
 Nerugui：寝食
 Gelel：格雷尔
+Tsukimitsu：月满
+Tsuki Michiru=月 满
+Tsuki Kakeru=月 翔
+Tsuki Makoto=月 真
+Ishidate：石力达
+Karenbana：可莲娜
+Maya：玛耶
+Kongō：金刚
+Shion：紫苑
+Yomi：黄泉
+Sokuho：足穗
+Miroku：弥勒
+Kusuna：库苏纳
+Shizuku：雫
+Gitai:义泰
+Shinno：神农
+Shinnō：神农
+Shinnou：神农
+Hiruko：卑留呼
+Anrokuzan：安禄山
+Mukade：百足
+Mui：无为
+Ryūzetsu：龙舌
+Ryuzetsu：龙舌
+Ryuuzetsu：龙舌
+Muku：无垢
+Kazan：火严
+Maroi：麻吕伊
+Satori：寒
+Chūkichi：中吉
 
 //通灵兽相关
 Myobokuzan：妙木山
