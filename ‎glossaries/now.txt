@@ -73,7 +73,6 @@ Asakura：朝仓
 Asami：朝美
 Asane：朝音
 Ashihara：芦原
-Ashina：芦名
 Ashino：芦野
 Aso：阿苏
 Asuhi：芦飞
@@ -94,7 +93,6 @@ Baken：贝肯
 Bakin：马琴
 Bakū：爆
 Barako：芭乐子
-Baru：巴鲁
 Basho：芭蕉
 Bat：蝙蝠
 Bear：熊
@@ -913,7 +911,6 @@ Naohime：直姬
 Naoki：直树
 Naomi：直美
 Naonaka:直中
-Naori：直里
 Naraho：奈良穗
 Nari：鸣里
 Nariaki：鸣明
@@ -1014,7 +1011,6 @@ Ozawa ：小泽
 Popo：波波
 Puma：山狮
 Rabbit：兔
-Rai：雷
 Raichi：雷市
 Raikido：雷斗
 Raikō：雷光
@@ -1479,7 +1475,6 @@ Yakeru：夜暮
 Yaketsuku：烧付
 Yako：野狐
 Yakuma：役真
-Yakumi：药味
 Yakumo：八云
 Yama：山
 Yamaka：山香
