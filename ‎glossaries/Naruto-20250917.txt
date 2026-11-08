@@ -1,8 +1,8 @@
 维护者：weikun767@163.com
 版本号：1.2.0
 更新时间：2026-02-01
-
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
+//有的可能有误，有正确翻译的请反馈我
 
 词条
 // 限制大小写
@@ -306,8 +306,8 @@ Akebino Jinin=通草 野饵人
 Byakuren：白莲
 Yotsuki Kiyoi=夜月 清井
 Ruka：流加
-Meizu：冥头
-Gozu：业头
+Mezu：马头
+Gozu：牛头
 
 //岩忍
 Onoki：大野木
@@ -423,7 +423,7 @@ Kyūbei：九尾
 Jubi：十尾
 Jūbi：十尾
 Juubi：十尾
-Gedou Mazo：外道魔像
+Gedou Mazo=外道 魔像
 Gedō Mazō=外道 魔像
 Gedo Mazō=外道 魔像
 Rikudo：六道
@@ -473,7 +473,7 @@ Fūma：风魔
 Fuma：风魔
 Fuuma：风魔
 
-//剧场版相关
+//小说剧场版相关
 Kazahana Doto=风花 怒涛
 Kazahana Dotou=风花 怒涛
 Kazahana Dotō=风花 怒涛
@@ -532,6 +532,72 @@ Kazan：火严
 Maroi：麻吕伊
 Satori：寒
 Chūkichi：中吉
+Kahyo：华冰
+Kahyō：华冰
+Rahyō：罗冰
+Rahyo：罗冰
+Garyō：我龙
+Garyo：我龙
+Hakuhyo：白冰
+Hakuhyō：白冰
+Hinoko:火野子
+Soku：镞
+Minoichi：巳之一
+Tsumiki Kido=积木 稀档
+Hakuto：白兔
+Shijima：静寂
+Shigezane：重实
+Shigezane：重实
+Kajūra：祸住罗
+Amagi：天城
+Tōjūrō：藤十郎
+Tojūro：藤十郎
+Ikanago：玉筋鱼
+Konjiki：金色
+Kodaka：小高
+Kiiro：黄色
+Ameyuki：饴雪
+Hohozuki：步步月
+Kanyū：汉入
+Kanyuu：汉入
+Ōmitsu：大光
+Omitsu：大光
+Komitsu：小光
+Gōshō：豪烧
+Gosho：豪烧
+Goushou：豪烧
+Mashō：摩烧
+Masho：摩烧
+Mashou：摩烧
+Izumo Tenma=出云 天麻
+Inari Shinko=稻荷 新子
+Minazuki Yūki=水无月 结城	
+Uchiha Kagen=宇智波 景严 
+Uchiha Hazuki=宇智波 叶月
+Chino：千乃
+Nowaki：野风
+Fūshin ：分心
+Karyū：加龙
+Karyu：加龙
+Oyashiro En=御屋城 炎
+Amino：网野
+Tatsumi：巽
+Ryūki：龙奇
+Ryuki：龙奇
+Ryuuki：龙奇
+Akemaru：朱丸
+Dōtonbori：道顿堀
+Himeno：姬野
+Danjō：弹正
+Danjo：弹正
+Redaku：红土
+Menō：玛瑙
+Meno：玛瑙
+Kodon Kina=虎吞 贵奈
+Kodon Reishi=虎吞 怜司
+Sendō：仙道
+Sendo：仙道
+Hōki：伯奢
 
 //通灵兽相关
 Myobokuzan：妙木山
