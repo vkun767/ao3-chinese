@@ -680,6 +680,11 @@ Soke：宗家
 Bunke：分家
 ANBU：暗部
 Anbu：暗部
+hunter nin：追忍
+hunter-nin：追忍
+undertaker squad：收尸队
+hannya：般若众
+Prajñā：般若众
 Keimusho：警卫队
 Jinchuriki：人柱力
 Jinchuuriki：人柱力
