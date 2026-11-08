@@ -153,13 +153,20 @@ Tobitake Tonbo=飞竹 蜻蜓
 Dokuraku Mawashi=独乐 迥
 Nara Ensui=奈良 盐水
 Nara Suzaku=奈良 朱雀
+Nara Kasuga=奈良 春日
 Nara Hien=奈良 桧圆
 Akimichi Makaro=秋道 马卡罗
+Akimichi Shito=秋道 司东
+Akimichi Maruten=秋道 丸天
 Yamanaka Santa=山中 三天
 Hyuga Tokuma=日向 德间
 Hyuuga Iroha=日向 伊吕波
 Hyuuga Hoheto=日向 火门
 Hyuga Natsu=日向 夏
+Hyuga Ko=日向 孝
+Hyūga Kō=日向 孝
+Hyuuga Kou=日向 孝
+Hyūga Tetsu=日向 铁
 Senju Hashirama=千手 柱间
 Senju Tobirama=千手 扉间
 Senju Butsuma=千手 佛间
@@ -192,9 +199,6 @@ Tonton：豚豚
 Nawaki：绳树
 Kato Dan=加藤 断
 Team Ro=吕队
-Kou：弘
-Kō：弘
-Ko：弘
 Yakumo:八云
 Murakumo：从云 
 Uroko：鳞
@@ -493,9 +497,11 @@ Otsutsuki Shibai=大筒木 芝居
 Otsutsuki Isshiki=大筒木 一式
 Ōtsutsuki Kinshiki=大筒木 金式
 Otsutsuki Kawaki=大筒木 川木
-Fūma：风魔
-Fuma：风魔
-Fuuma：风魔
+Fūma Kagerō=风魔 影野
+Fuuma Kagerou=风魔 影野
+Fuma Kagero=风魔 影野
+Fuma Sasami=风魔 笹目
+Fuma Arashi=风魔 岚
 
 //小说剧场版相关
 Kazahana Doto=风花 怒涛
@@ -622,6 +628,9 @@ Kodon Reishi=虎吞 怜司
 Sendō：仙道
 Sendo：仙道
 Hōki：伯奢
+Kamizuru Kurobachi=上水流 黑蜂
+Kamizuru Suzumibachi=上水流 雀蜂
+Kamizuru Jibachi=上水流 地蜂
 
 //通灵兽相关
 Myobokuzan：妙木山
