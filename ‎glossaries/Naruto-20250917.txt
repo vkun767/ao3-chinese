@@ -85,6 +85,7 @@ Hyuga Hanabi=日向 花火
 Hyuga Neji=日向 宁次
 Hyuga Hiashi=日向 日足
 Hyuga Hizashi=日向 日差
+Hyuga Hoheto=日向 火门
 Inuzuka Kiba=犬冢 牙
 Akamaru：赤丸
 Inuzuka Tsume=犬冢 爪
@@ -92,7 +93,10 @@ Kuromaru：黑丸
 Inuzuka Hana=犬冢 花
 Inuzuka Akita=犬冢 秋田
 Aburame Shino=油女 志乃
+Aburame Shikuro=油女 志黑
 Aburame Shibi=油女 志微
+Aburame Ryūma=油女 龙马
+Aburame Ryuma=油女 龙马
 Yūhi Kurenai=夕日 红
 Yuhi Kurenai=夕日 红
 Yuuhi Kurenai=夕日 红
@@ -463,22 +467,25 @@ Ise Udon=伊势 乌冬
 Kakei Sumire=笕 堇
 Yurui：尤鲁伊
 Daikokuten：大黑天
+
+
+
+//上古时代、大筒木
+Ashura：阿修罗
+Asura：阿修罗
+Indora：因陀罗
+Indra：因陀罗
+Ootutuki Hagoromo=大筒木 羽衣
+Otsutsuki Kaguya=大筒木 辉夜
+Ōtsutsuki Kaguya=大筒木 辉夜
+Ōtsutsuki Hamura=大筒木 羽村
 Otsutsuki Toneri=大筒木 舍人
 Otsutsuki Momoshiki=大筒木 桃式
 Otsutsuki Urashiki=大筒木 浦式
 Otsutsuki Shibai=大筒木 芝居
 Otsutsuki Isshiki=大筒木 一式
-
-
-//上古时代
-Ashura：阿修罗
-Asura：阿修罗
-Indora：因陀罗
-Indra：因陀罗
-Hagoromo：羽衣
-Otsutsuki Kaguya=大筒木 辉夜
-Ōtsutsuki Kaguya=大筒木 辉夜
-Hamura：羽村
+Ōtsutsuki Kinshiki=大筒木 金式
+Otsutsuki Kawaki=大筒木 川木
 Fūma：风魔
 Fuma：风魔
 Fuuma：风魔
