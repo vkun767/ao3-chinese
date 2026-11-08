@@ -250,7 +250,6 @@ Gamachū：蛤蟆崽
 Garuda：迦楼罗
 Gazeru：雅蝉
 Gecko：壁虎
-Gendou：外道
 Gen：玄
 Genbu：玄信
 Genbai：玄梅
@@ -277,7 +276,6 @@ Hagemaru：羽月丸
 Hajime：始司
 Hajitomi：始冨美
 Hakue：白惠
-Hakuhyo：白水
 Hakusa：白砂
 Hakusai：​白菜
 Hanafubuki：花吹雪
@@ -313,7 +311,6 @@ Hayase：隼濑
 Hayashi：早志
 Hayato：隼人
 Hayuya：悠冶
-Hazuki：叶月
 Hebisuke：赫助
 Hekima：壁间
 Hemiko：碧美子
@@ -378,7 +375,7 @@ Hiuchi：火打
 Hiyori：日和
 Hjouske：兵介
 Hoitsu：丰津
-Hōki：凤辉
+Hōki：伯奢
 Hokori：穗里
 Hokuto：北斗
 Homaru：帆丸
@@ -412,7 +409,6 @@ Iekatsu：家胜
 Igaku：伊角
 Igarashi：五十岚
 Ikari：碇
-Ikanago：鱼仔
 Ikeda：池田
 Ikehara：池原
 Iketsu：池月
@@ -473,7 +469,6 @@ Iwate：岩手
 Iyori：伊织
 Izō：伊藏
 Izou：伊藏
-Izumi：泉美
 Izuno：泉野
 Izuya：伊豆弥
 Jackal：豺
@@ -531,13 +526,11 @@ Katsurō：胜郎
 Katsuro：胜郎
 Katsuya：胜也
 Kagemori：影守
-Kagen：景严
 Kagerō：阳炎
 Kagerou：阳炎
 Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
-Kahyo：花水
 Kakuchi：角地
 Kaji：梶
 Kaju：卡朱
@@ -643,7 +636,6 @@ Keisuki：庆杉
 Ketoki：齐时
 Kichi：吉吉
 Kichiro：吉郎
-Kido：木户
 Kigane：黄金
 Kiha：辉羽
 Kikiro：菊郎
@@ -824,7 +816,6 @@ Meiki：明希
 Meiko：明子
 Mer：美人鱼
 Mezo：梅佐
-Mezu：马头
 Michi：美智
 Michiko：美智子
 Midori：绿
@@ -1066,7 +1057,7 @@ Risako：理沙子
 Risato：里见
 Risu：理寿
 Rokuro：六郎
-Rou：罗
+Rou：胧
 Rowa：罗瓦
 Ruby：露比
 Ruchishi:鲁智
@@ -1364,7 +1355,6 @@ Tatsuya：拓也
 Tazuna：手纲
 Tekari：手刈
 Tenchi：天地
-Tenma：天马
 Tenshi：天志
 Tenzen：天全
 Teru:照
@@ -1593,7 +1583,6 @@ Outguard：外部守卫
 seal：封印
 sekke kuge：摄政 公家
 Tōji：冬至
-Inari：稻荷
 Takeminakata：建御名方
 “Ishikori-dome no Mikoto”：石凝姥
 “Ishikori-dome-sama”：石凝姥命大人
