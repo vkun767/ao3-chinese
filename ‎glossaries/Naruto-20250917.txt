@@ -22,6 +22,7 @@ Uzumaki Naruko=漩涡 鸣子
 Namikaze Minato=波风 水门
 Uzumaki Kushina=漩涡 玖辛奈
 Uzumaki Menma=漩涡 面麻
+Uzumaki Ashina=漩涡 芦名
 Uchiha Sasuke=宇智波 佐助
 Uchiha Obito=宇智波 带土
 Uchiha Shisui=宇智波 止水
@@ -30,6 +31,7 @@ Uchiha Mikoto=宇智波 美琴
 Uchiha Itachi=宇智波 鼬
 Uchiha Izumi=宇智波 泉
 Uchiha Hikari=宇智波 光
+Uchiha Naori=宇智波 治里
 Uchiha Tajima=宇智波 田岛
 Uchiha Madara=宇智波 斑
 Uchiha Izuna=宇智波 泉奈
@@ -40,7 +42,10 @@ Uchiha Shin=宇智波 信
 Uchiha Teyaki=宇智波 手烧
 Uchiha Yashiro‌=宇智波 八代
 Uchiha Tetsuka‌=宇智波 铁火
-Uchiha Tekka=宇智波 铁火
+Uchiha Tekka=宇智波 稻火
+Uchiha Rai=宇智波 雷
+Uchiha Yakumi=宇智波 药味
+Uchiha  Baru=宇智波 巴鲁
 Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
 Ukki：元气
@@ -342,7 +347,11 @@ Sanshuo Hanzo=山椒鱼 半藏
 Sanshōuo Hanzou=山椒鱼 半藏
 Sanshōuo Hanzō=山椒鱼 半藏
 Salamander：山椒鱼
-Nagato：长门
+Uzumaki Nagato=漩涡 长门
+Fusō：扶桑
+Fuso：扶桑
+Fusou：扶桑
+Ise：伊势
 Pein：佩恩
 Yahiko：弥彦
 Konan：小南
@@ -457,8 +466,9 @@ Daikokuten：大黑天
 Otsutsuki Toneri=大筒木 舍人
 Otsutsuki Momoshiki=大筒木 桃式
 Otsutsuki Urashiki=大筒木 浦式
-Otsutsuki Shibai=大筒木 矢楳
+Otsutsuki Shibai=大筒木 芝居
 Otsutsuki Isshiki=大筒木 一式
+
 
 //上古时代
 Ashura：阿修罗
