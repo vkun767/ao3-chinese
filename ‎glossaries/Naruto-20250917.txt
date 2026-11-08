@@ -129,6 +129,7 @@ Mitarashi Anko=御手洗 红豆
 Mitrashi Anko=御手洗 红豆
 Ranka：岚华
 Aburame Muta=油女 牟田
+Aburame Yōji=油女 耀司
 Morino Ibishi=森乃 伊比喜
 Morino Ibiki=森乃 伊比喜
 Morino Idate=森乃 伊达
@@ -172,7 +173,10 @@ Shizune：静音
 Tonton：豚豚
 Nawaki：绳树
 Kato Dan=加藤 断
-Dan：断
+Team Ro=吕队
+Kou：弘
+Kō：弘
+Ko：弘
 Yakumo:八云
 Murakumo：从云 
 Uroko：鳞
