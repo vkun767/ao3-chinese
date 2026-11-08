@@ -62,7 +62,6 @@ Anzai：安西
 Anzu：安祖
 Aoru：青瑠
 Aoyama：青山
-Arashi：岚
 Arata：新田
 Arima:：有马 
 Arugo：阿鲁戈
@@ -242,7 +241,6 @@ Fuyuko：冬子
 Fuyumi：冬美
 Fuyuharu：冬晴
 Fuyuto：冬人
-Gaku：岳
 Gamachu：蛤蟆崽
 Gamachū：蛤蟆崽
 Garuda：迦楼罗
@@ -438,7 +436,6 @@ Inosuke：井助
 Inoto：井人
 Inu：犬
 Irimoya：入目屋
-Iroha：伊吕波
 Itsumi：伊美
 Itsuki：树
 Itsuko：伊津子
@@ -524,9 +521,6 @@ Katsurō：胜郎
 Katsuro：胜郎
 Katsuya：胜也
 Kagemori：影守
-Kagerō：阳炎
-Kagerou：阳炎
-Kagero：阳炎
 Kagetsuna：影纲
 Kagi：影
 Kakuchi：角地
@@ -921,7 +915,6 @@ Narumi：鸣海
 Nashimi：梨美
 Nasu:那须
 Natori：名取
-Natsu：夏
 Natsume：夏目
 Natsumi：夏美
 Natsuko：夏子
@@ -1071,8 +1064,6 @@ Ryougen：两玄
 Ryozo：凉藏
 Ryu：龙
 Ryū：龙
-Ryūma：龙马
-Ryuma：龙马
 Ryuna：龙奈
 Ryujii：龙二
 Ryūji：龙二
@@ -1118,7 +1109,6 @@ Sannati：萨那提
 Sannosawa：山野尺
 Sano：佐野
 Sanshuu:三秋
-Santa：三太
 Sanuki：佐贯
 Sarana：纱良
 Saru：猿
@@ -1160,7 +1150,6 @@ Shachi：佐幸
 Shamon：沙蒙
 Shiba：志巴
 Shibata：柴田
-Shibi：志比
 Shibiki：志木
 Shiemi：诗惠美
 Shigeru：志茂
@@ -1186,7 +1175,6 @@ Shiki：拓海
 Shikō：四皇
 Shiko：四皇
 Shiku：鹿
-Shikuro：志黑
 Shimauma：斑马
 Shimon：志门
 Shina：志奈
@@ -1271,7 +1259,6 @@ Suseri：苏绕
 Susuma：寿真
 Suoh：周防
 Suoma：芬兰
-Suzaku：朱雀
 Suzuka：铃香
 Suzuma：铃马
 Suzumara：铃村
