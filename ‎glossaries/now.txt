@@ -569,7 +569,6 @@ Kanjin：堪人
 Kanon：卡农
 Kanzō：勘藏
 Kanzo：勘藏
-
 Karashina：辛菜
 Kariho：狩穗
 Kasai：笠井
@@ -679,11 +678,8 @@ Kiyomi：清美
 Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
-Kō：弘
-Ko：弘
 Koen：光炎
 Koenma：光麿
-Kou：弘
 Kouki：光辉
 Kobashi：小桥
 Kobe：神户
@@ -1520,8 +1516,6 @@ Yazaki：矢崎
 Yohako：洋羽子
 Yoichi：洋一
 Yōko：洋子
-Yoji：洋二
-Yōji：洋二
 Yona：夜纳
 Yori：由立
 Yorimasa：依正
