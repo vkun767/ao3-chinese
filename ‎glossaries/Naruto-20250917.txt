@@ -85,7 +85,6 @@ Hyuga Hanabi=日向 花火
 Hyuga Neji=日向 宁次
 Hyuga Hiashi=日向 日足
 Hyuga Hizashi=日向 日差
-Hyuga Hoheto=日向 火门
 Inuzuka Kiba=犬冢 牙
 Akamaru：赤丸
 Inuzuka Tsume=犬冢 爪
@@ -138,6 +137,9 @@ Mitarashi Anko=御手洗 红豆
 Mitrashi Anko=御手洗 红豆
 Ranka：岚华
 Aburame Muta=油女 牟田
+Aburame Ryuma=油女 龙马
+Aburame Ryūma=油女 龙马
+Aburame Ryuuma=油女 龙马
 Aburame Yōji=油女 耀司
 Aburame Yoji=油女 耀司
 Aburame Youji=油女 耀司
@@ -157,6 +159,7 @@ Yamanaka Santa=山中 三天
 Hyuga Tokuma=日向 德间
 Hyuuga Iroha=日向 伊吕波
 Hyuuga Hoheto=日向 火门
+Hyuga Natsu=日向 夏
 Senju Hashirama=千手 柱间
 Senju Tobirama=千手 扉间
 Senju Butsuma=千手 佛间
