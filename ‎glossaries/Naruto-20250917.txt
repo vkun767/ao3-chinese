@@ -393,7 +393,6 @@ Suiren：睡莲
 Oboro：胧
 Kagari：篝
 Kandachi：神达
-Hisame：冰雨
 
 //尾兽及人柱力
 Biju：尾兽
@@ -563,6 +562,11 @@ Kazan：火严
 Maroi：麻吕伊
 Satori：寒
 Chūkichi：中吉
+Suien：水烟
+Murasame：村雨
+Hisame：冰雨
+Kirisame：雾雨
+Kukobo Renga=国防 炼瓦
 Kahyo：华冰
 Kahyō：华冰
 Rahyō：罗冰
