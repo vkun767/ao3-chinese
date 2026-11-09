@@ -1068,12 +1068,19 @@ Rasenshuriken：螺旋手里剑
 Bijudama：尾兽玉
 Byakugo：百豪
 Byakugō：百豪
+Byakugou：百豪
 Shintenshin：心转身
 Hachimon Tonko=八门 遁甲
 Fang over Fang：牙通牙
 Kikaichu：寄坏虫
-Kidaichū：寄坏虫
+Kikaichuu：寄坏虫
 Kikaichū：寄坏虫
+Kidaichū：寄坏虫
+Kidaichu：寄坏虫
+Kidaichuu：寄坏虫
+kochū：蛊虫
+kochu：蛊虫
+kochuu：蛊虫
 Senpo Myojimon=仙法 明神门
 Jukai Kotan：树界降诞
 Jukai Kōtan=树界 降诞
