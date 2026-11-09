@@ -580,6 +580,7 @@ Shijima：静寂
 Shigezane：重实
 Shigezane：重实
 Kajūra：祸住罗
+Kajura：祸住罗
 Amagi：天城
 Tōjūrō：藤十郎
 Tojūro：藤十郎
@@ -654,6 +655,7 @@ Hōki：伯奢
 Kamizuru Kurobachi=上水流 黑蜂
 Kamizuru Suzumibachi=上水流 雀蜂
 Kamizuru Jibachi=上水流 地蜂
+
 
 //通灵兽相关
 Myobokuzan：妙木山
