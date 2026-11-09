@@ -1580,6 +1580,8 @@ Zugara：祖罗
 Tōkatsuchi no Jutsu：透过土之术
 Homeguard：族地守卫
 Outguard：外部守卫
+Pinkie：小粉崽
+Pinky：小粉毛
 
 通用词条
 //不限制大小写
@@ -1654,8 +1656,6 @@ Yūjō no Tamamono：友情玉藻
 Tamamono：玉藻
 kyokuba-dan：马戏团
 kudan：件
-Pinkie：小粉崽
-Pinky：小粉毛
 Juzu：数珠
 chūhai：中杯
 Oyakodon:亲子丼
