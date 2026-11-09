@@ -45,7 +45,7 @@ Uchiha Tetsuka‌=宇智波 铁火
 Uchiha Tekka=宇智波 稻火
 Uchiha Rai=宇智波 雷
 Uchiha Yakumi=宇智波 药味
-Uchiha  Baru=宇智波 巴鲁
+Uchiha Baru=宇智波 巴鲁
 Nohara Rin=野原 琳
 Hatake Kakashi=旗木 卡卡西
 Ukki：元气
@@ -155,6 +155,7 @@ Nara Ensui=奈良 盐水
 Nara Suzaku=奈良 朱雀
 Nara Kasuga=奈良 春日
 Nara Hien=奈良 桧圆
+Akimichi Torifu=秋道 取风
 Akimichi Makaro=秋道 马卡罗
 Akimichi Shito=秋道 司东
 Akimichi Maruten=秋道 丸天
@@ -174,20 +175,18 @@ Senju Itama=千手 板间
 Senju Kawarama=千手 瓦间
 Senju Touka=千手 桃华
 Senju Tōka=千手 桃华
-Senju Tōka=千手 桃华
 Senju Toka=千手 桃华
 Uzumaki Mito=漩涡 水户
 Uzumuki Ashina=漩涡 芦名
 Mitokado Homura=水户门 炎
 Utatane Koharu=转寝 小春
 Utanane Koharu=转寝 小春
-Akimichi Torifu=秋道 取风
 Shimura Danzo=志村 团藏
 Shimura Danzou=志村 团藏
 Shimura Danzō=志村 团藏
 Aburame Torune=油女 取根
 Aburame Tashima‌=油女 龙马
-Yamanaka Fū=山中 风
+Yamanaka Fū：山中风
 Jiraiya：自来也
 Jirayai：自来也
 Jiraya：自来也
