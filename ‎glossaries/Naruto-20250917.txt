@@ -40,6 +40,7 @@ Uchiha Kagami=宇智波 镜
 Uchiha Setsuna=宇智波 刹那
 Uchiha Shin=宇智波 信
 Uchiha Teyaki=宇智波 手烧
+Uchiha Uruchi=宇智波 粳
 Uchiha Yashiro‌=宇智波 八代
 Uchiha Tetsuka‌=宇智波 铁火
 Uchiha Tekka=宇智波 稻火
