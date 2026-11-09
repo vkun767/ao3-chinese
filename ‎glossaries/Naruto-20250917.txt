@@ -142,8 +142,9 @@ Aburame Ryuma=油女 龙马
 Aburame Ryūma=油女 龙马
 Aburame Ryuuma=油女 龙马
 Aburame Yōji=油女 耀司
-Aburame Yoji=油女 耀司
-Aburame Youji=油女 耀司
+Aburame Yoji=油女 杨枝
+Aburame Youji=油女 杨枝
+Sugaru：蜾蠃
 Morino Ibishi=森乃 伊比喜
 Morino Ibiki=森乃 伊比喜
 Morino Idate=森乃 伊达
@@ -583,7 +584,8 @@ Amagi：天城
 Tōjūrō：藤十郎
 Tojūro：藤十郎
 Ikanago：玉筋鱼
-Konjiki：金色
+Konjiki Metoro=金色 梅特罗
+Konjiki Etoro=金色 爱特罗
 Kodaka：小高
 Kiiro：黄色
 Ameyuki：饴雪
@@ -602,8 +604,22 @@ Mashou：摩烧
 Izumo Tenma=出云 天麻
 Inari Shinko=稻荷 新子
 Minazuki Yūki=水无月 结城	
-Uchiha Kagen=宇智波 景严 
+Uchiha Kagen=宇智波 下弦 
 Uchiha Hazuki=宇智波 叶月
+Kohinata Mukai=小日向 无界
+Tadaichi:忠市
+Amuda：阿亩达
+Zansūru：赞斯鲁
+Menō：玛瑙
+Meno：玛瑙
+Ganno：甘诺
+Margo：玛葛
+Fundaru：芬达鲁
+Nanara：纳纳拉
+Shojoji：证城寺
+Amano Chihare=雨野 千晴
+Kanhen Furie=寒刃 傅立叶
+Nemui：眠
 Chino：千乃
 Nowaki：野风
 Fūshin ：分心
@@ -611,18 +627,25 @@ Karyū：加龙
 Karyu：加龙
 Oyashiro En=御屋城 炎
 Amino：网野
-Tatsumi：巽
+Tatsumi：辰美
 Ryūki：龙奇
 Ryuki：龙奇
 Ryuuki：龙奇
 Akemaru：朱丸
-Dōtonbori：道顿堀
-Himeno：姬野
+Dōtonbori Kūi=道顿堀 库伊
+Dotonbori Kui=道顿堀 库伊
+Himeno Lily=姬野 莉莉
+Madoka Ikkyū=圆 一休
+Madoka Ikkyu=圆 一休
+Madoka Ikkyuu=圆 一休
+Madoka Tentō=圆 天斗
+Madoka Tento=圆 天斗
+Madoka Tentou=圆 天斗
+Tekkan：铁干
+Misuno：桶杆
 Danjō：弹正
 Danjo：弹正
 Redaku：红土
-Menō：玛瑙
-Meno：玛瑙
 Kodon Kina=虎吞 贵奈
 Kodon Reishi=虎吞 怜司
 Sendō：仙道
