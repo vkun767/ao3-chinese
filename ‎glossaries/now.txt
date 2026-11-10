@@ -580,7 +580,9 @@ Kanjin：堪人
 Kanon：卡农
 Kanzō：勘藏
 Kanzo：勘藏
-Kao：高野
+Kao：花央
+Kaori：香织
+Kaoru：薰
 Karashina：辛菜
 Kariho：狩穗
 Kasai：笠井
@@ -603,9 +605,6 @@ Katsuro：胜郎
 Katsurō：胜郎
 Katsuo：胜雄
 Katsuya：胜也
-Kao：花央
-Kaori：香织
-Kaoru：薰
 Kawa：瓦
 Kawasemi：川蝉
 Kawata：川田
