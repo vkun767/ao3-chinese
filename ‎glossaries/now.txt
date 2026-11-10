@@ -273,6 +273,7 @@ Hagemaru：羽月丸
 Hajime：始司
 Hajitomi：始冨美
 Hakue：白惠
+Hakui：白衣
 Hakusa：白砂
 Hakusai：​白菜
 Hanafubuki：花吹雪
@@ -451,6 +452,7 @@ Isago：砂
 Isako：伊佐子
 Isamu：勇
 Isao：勇藤
+Iseto：伊势户
 Isetsu：伊势津
 Isha：伊舎
 Ishi：石
@@ -464,6 +466,7 @@ Isshiki：一色
 Iwao：岩雄
 Iwashi：瓦希
 Iwate：岩手
+Iyashi：无黑
 Iyori：伊织
 Izō：伊藏
 Izou：伊藏
@@ -781,6 +784,7 @@ Mari：真理
 Mariko：真理子
 Maru：丸
 Marumi：丸美
+Maruna：丸奈
 Matora：间虎
 Matsu：松
 Matsubokkuri：松鼠栗
@@ -825,6 +829,7 @@ Mikita：三北
 Miko：美子
 Miku：美久
 Mikuri：三雾
+Mimaru：三丸
 Mina：美奈
 Minako：美奈子
 Minami：南美
@@ -1092,6 +1097,7 @@ Sachiya：幸也
 Sadako：贞子
 Sadao：贞夫
 Sagami：相模
+Sagan：左岸
 Saho：沙穗
 Sahoma：沙穗间
 Saito：斋藤
@@ -1115,6 +1121,7 @@ Samua：三亚
 San：三
 Saburo：三郎
 Sango：珊瑚
+Sangosho：珊瑚庄
 Sanma：三瓦
 Sannati：萨那提
 Sannosawa：山野尺
@@ -1336,6 +1343,7 @@ Taniuchi：谷内
 Tankyusha：探求者
 Tanaka：田中
 Tanake：田圭
+Tango：丹吾
 Tansu：丹州
 Tano：田野
 Taramae：樽前
@@ -1439,6 +1447,7 @@ Tsuzumi：鼓美
 Turo：图罗
 Uemura：植村
 Ueno：上野
+Ugai：宇贺井
 Ukemochi：保食
 Uki：宇希
 Ukie：浮木
