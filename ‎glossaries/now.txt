@@ -4,6 +4,7 @@
  
 词条
 // 限制大小写
+Adatara：
 Aika：爱华
 Aikawa：相川
 Aiki：爱希
@@ -29,6 +30,7 @@ Akemi：阿美
 Akehito：明仁
 Aki：阿基
 Akima：朱间
+Akimoto：秋元
 Akinobu：明信
 Akio：秋生
 Akito：秋人
@@ -40,6 +42,7 @@ Akiro：秋吕
 Akitsuna：秋纲
 Akshaya：阿克沙亚
 Ako：亚子
+Akou：阿库
 Aku：恶
 Akurra：空良
 Amaha：天羽
@@ -57,6 +60,7 @@ Ami：亚美
 Amphisbaena：蛇怪
 Aname：穴目
 Ando：安藤
+Anaguma：穴熊
 Anpam：安帕姆
 Anzai：安斋
 Anzu：安祖
@@ -134,6 +138,7 @@ Chiroko：千吕子
 Chisaki：千咲
 Chiya：千雅
 Chiyako：千代子
+Chiyome：千姬
 Chiyori：千依
 Chiyuku：千愈
 Chiyuna：千柚
@@ -168,6 +173,7 @@ Dainojō：大之丞
 Dainojo：大之丞
 Dairo：大郎
 Dairoku：大六
+Daisen：大千
 Daisuke：大助
 Daitenja：大天寺
 Daiya：戴雅
@@ -220,6 +226,7 @@ Fazan：富山
 Faruma：古间
 Fox：狐狸
 Fudo：不动
+Fugen：普玄
 Fuji：不二
 Fūjin：风神
 Fujio：藤夫
@@ -232,6 +239,7 @@ Fumiko：文子
 Fumihiro：文宏
 Fumito：文人
 Fumio：文雄
+Furu：芙古
 Furuchi：古渕
 Furuya：古谷
 Fushimi：伏见
@@ -266,6 +274,7 @@ Gyo：行
 Gyosei：晓星
 Hachihide：蜂秀
 Hachika：蜂花
+Hachimantai：蜂平
 Hachimitsu：蜂蜜
 Hachiro：蜂郎
 Hae：海
@@ -278,8 +287,11 @@ Hakusa：白砂
 Hakusai：​白菜
 Hanafubuki：花吹雪
 Hanako：花子
+Haname：花名
 Hanata：花奏
 Hanataro：花太郎
+Hanao：花绪
+Hanazura：花仓
 Hanjirou：半次郎
 Hama：花麻
 Hamamoto：滨本
@@ -350,6 +362,7 @@ Hinokimaru：桧柏
 Hinoto：日野户
 Hiori：火葵
 Hiragi：日暮
+Hirako：平子
 Hiraku：平久
 Hirate：平手
 Hiro：宏
@@ -374,6 +387,8 @@ Hiuchi：火打
 Hiyori：日和
 Hjouske：兵介
 Hoderi：火照
+Hōgen：法玄
+Hogen：法玄
 Hoitsu：丰津
 Hōki：伯奢
 Hokori：穗里
@@ -387,6 +402,7 @@ Hoshi：星
 Hoshika：星华
 Hosokawa：细川
 Hosoo：细井
+Hosoya：细谷
 Hotaka：穗高
 Hotaru：萤
 Hotose：丰穗
@@ -417,6 +433,7 @@ Ikigai：生存
 Ikki：一辉
 Ikoma：生间
 Ikuko：育子
+Ikume：郁目
 Ikumi：郁美
 Inabi：稻火
 Inaka：稻中
@@ -439,6 +456,7 @@ Inoshin：井信
 Inosuke：井助
 Inoto：井人
 Inu：犬
+Iōtori：
 Irimoya：入目屋
 Itsumi：伊美
 Itsuki：树
@@ -512,6 +530,9 @@ Kaeru：蛙
 Kagane：加金
 Kagayaki：辉
 Kagatsuchi：迦具土
+Kagemori：影守
+Kagetsuna：影纲
+Kagi：影
 Kahen：花片
 Kaho：花穗
 Kaika：海花
@@ -523,14 +544,6 @@ Kaiyo：海阳
 Kaka：卡卡
 Kakuto：角人
 Kako：小鹿
-Katsu：胜
-Katsukane：胜金
-Katsurō：胜郎
-Katsuro：胜郎
-Katsuya：胜也
-Kagemori：影守
-Kagetsuna：影纲
-Kagi：影
 Kakuchi：角地
 Kaji：梶
 Kaju：卡朱
@@ -548,6 +561,7 @@ Kanade：奏
 Kanae：加奈惠
 Kanaema：鼎间
 Kaname：要势
+Kanako：加奈子
 Kanata：神田
 Kanaye：金荣
 Kanazawa：金泽
@@ -562,6 +576,7 @@ Kanjin：堪人
 Kanon：卡农
 Kanzō：勘藏
 Kanzo：勘藏
+Kao：高野
 Karashina：辛菜
 Kariho：狩穗
 Kasai：笠井
@@ -576,11 +591,14 @@ Kashi：卡西
 Kashio：柏尾
 Katami：且见
 Katashi：坚志
+Katsu：胜
 Katsuhito：胜仁
+Katsukane：胜金
 Katsumi：克己
 Katsuro：胜郎
 Katsurō：胜郎
 Katsuo：胜雄
+Katsuya：胜也
 Kao：花央
 Kaori：香织
 Kaoru：薰
@@ -652,6 +670,7 @@ Kinoko：木之子
 Kinoya：八香
 Kinu：绢
 Kira：基拉
+Kirigamine：雾峰
 Kiraku：木乐
 Kirizuma：桐生
 Kishi：岸
@@ -714,13 +733,18 @@ Kou：蔻
 Kouga：光贺
 Kouka：光华
 Koumaru：光丸
+Koumei：寇明
 Koushi：弘士
 Kouyou：红叶
 Kowa：高亚
 Kōya：光也
 Koyanagi：小柳
 Kozumi：小泉
+Kuchino：久野
 Kukaku：空鹤
+Kūkai：空海
+Kukai：空海
+Kuukai：空海
 Kukie：九家
 Kuma：熊
 Kumano：熊野
@@ -821,6 +845,8 @@ Michi：美智
 Michiko：美智子
 Midori：绿
 Mifuyu：美冬
+Mihi：美希
+Mihiro：美弘
 Miho：美惠
 Mika：美花
 Mikaboshi：灾星
@@ -831,6 +857,7 @@ Miko：美子
 Miku：美久
 Mikuri：三雾
 Mimaru：三丸
+Mimaki：三卷
 Mina：美奈
 Minako：美奈子
 Minami：南美
@@ -845,6 +872,7 @@ Miso：味增
 Misuri：美铃
 Mitama：御魂
 Mitokoda：水户田
+Mitsu：三
 Mitsuba：三叶
 Mitsue：三江
 Mitsuru：美弦
@@ -866,6 +894,7 @@ Mizuna：水奈
 Mizumi：水见
 Mizuru：水鹤
 Moku：默
+Mokomichi：知床
 Mokoshi：木越
 Mongoose：猫鼬
 Monkichi：门吉
@@ -874,6 +903,7 @@ Momo：桃
 Momohiko：桃彦
 Momoko：桃子
 Momoshi：桃矢
+Monju：文殊
 Moreya:茂谷
 Mori：森
 Moriko：森子
@@ -882,6 +912,7 @@ Mosu：茂斯
 Mosuke：茂助
 Moto：本多
 Motoki：元木
+Motomine：本峰
 Mouse：耗
 Mozuku：水云
 Muruwa：室轮
@@ -894,6 +925,7 @@ Nadeshiko：抚子
 Nae：苗
 Naeba：苗场
 Naeki：奈木
+Naeto：奈人
 Nagamine：长峰
 Nagahide：长秀
 Nagasi：渚
@@ -915,6 +947,7 @@ Naohime：直姬
 Naoki：直树
 Naomi：直美
 Naonaka:直中
+Naoto：直人
 Naoya：直哉
 Naraho：奈良穗
 Nari：鸣里
@@ -935,6 +968,7 @@ Nazoko：奈佐子
 Nei：宁
 Neishin：内信
 Neko：猫
+Nendosaki：念多崎
 Nene：宁宁
 Nezumi：鼠
 Nikkō：日光
@@ -962,6 +996,7 @@ Nomea：野明
 Nomu：浓
 Nori：诺里
 Noriko：纪子
+Norikura：纪仓
 Norio：则夫
 Noriyuki：仙幸
 Nozomi：希美
@@ -976,6 +1011,7 @@ Odori：舞
 Oizuru：老鹤
 Ogino：荻野
 Ohabari：尾张
+Ohatsu：大发
 Oka：樱花
 Okaano：山野
 Okama：小滨
@@ -1009,6 +1045,8 @@ Oshino：忍野
 Osuke：大助
 Osuya：大泽
 Ota：太田
+Ōtan：大檀
+Otan：大檀
 Otake：大竹
 Otazu：小田津
 Otoma：乙马
@@ -1021,6 +1059,7 @@ Puma：山狮
 Rabbit：兔
 Raichi：雷市
 Raiden：雷电
+Raiha：雷波
 Raikido：雷斗
 Raikō：雷光
 Raikou：雷光
@@ -1061,6 +1100,7 @@ Ririko：理理子
 Risako：理沙子
 Risato：里见
 Risu：栗鼠
+Ritsu：律
 Rokuro：六郎
 Rou：胧
 Rowa：罗瓦
@@ -1279,6 +1319,7 @@ Suseri：苏绕
 Susuma：寿真
 Suoh：周防
 Suoma：芬兰
+Suwanose：诹访部
 Suzuka：铃香
 Suzuma：铃马
 Suzumara：铃村
@@ -1347,6 +1388,7 @@ Tanake：田圭
 Tango：丹吾
 Tansu：丹州
 Tano：田野
+Tappei：达平
 Taramae：樽前
 Tarumae：樽前
 Tatsu：龙
@@ -1415,10 +1457,12 @@ Towa：永远
 Tōnari：远成
 Tōyu：冬佑
 Toyua：冬远
+Toyotomi：丰臣
 Tsubame：燕
 Tsubisa：月火
 Tsubo：壶
 Tsuchida：土田
+Tsuguko：津子
 Tsuguma：津熊
 Tsugumi：津弓
 Tsuguru：嗣
@@ -1483,6 +1527,7 @@ Yachiru：八千流
 Yadashige：矢田茂
 Yae：八重
 Yakamaru：夜鸦丸
+Yanagi：柳
 Yakao：矢尾
 Yakeru：夜暮
 Yaketsuku：烧付
@@ -1522,6 +1567,7 @@ Yorimasa：依正
 Yorimitsu：赖光
 Yoritaka：依高
 Yorito：依人
+Yoritomo：赖朝
 Yoro：余郎
 Yoru：夜
 Yoshihiro：吉弘
@@ -1539,6 +1585,7 @@ Yuichi：裕一
 Yuji：裕二
 Yukari：由香里
 Yuki：雪
+Yukiha：雪叶
 Yukina：雪名
 Yukimi：雪见
 Yukio：由纪
@@ -1576,6 +1623,7 @@ Yuuna：优奈
 Yuuri：优里
 Yuuto：优斗
 Yuwaku：优惑
+Yuwako：优和子
 Yuzuki：柚希
 Zaō：藏王
 Zaou：藏王
