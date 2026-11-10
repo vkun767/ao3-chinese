@@ -186,6 +186,7 @@ Degai：德爱
 Deiton：泥遁
 Dekai：德凯
 Denka：电火
+denka：殿下
 Diablo：迪亚波罗
 Doi：土井
 Doppo：道步
@@ -441,6 +442,7 @@ Ikume：郁目
 Ikumi：郁美
 Inabi：稻火
 Inaka：稻中
+Iname：稻目
 Inao：稻尾
 Inari：稻荷
 Inazuka：犬冢
