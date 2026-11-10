@@ -278,6 +278,7 @@ Hachika：蜂花
 Hachimantai：蜂平
 Hachimitsu：蜂蜜
 Hachiro：蜂郎
+Hachirō：蜂郎
 Hae：海
 Hagemaru：羽月丸
 Hajime：始司
@@ -382,6 +383,7 @@ Hisao：久雄
 Hisato：久人
 Hishaku：飞针
 Hitabi：火足
+Hitoka：仁香
 Hitomi：瞳
 Hitoshi：仁
 Hiuchi：火打
@@ -899,7 +901,7 @@ Mizuna：水奈
 Mizumi：水见
 Mizuru：水鹤
 Moku：默
-Mokomichi：知床
+Mokomichi：桃己道
 Mokoshi：木越
 Mongoose：猫鼬
 Monkichi：门吉
@@ -1167,7 +1169,8 @@ Sakuo：朔夫
 Samaki：佐卷
 Sami：纱美
 Samua：三亚
-Sabi：锈
+Sabigata：荆棘
+Sabi：荆
 Saburo：三郎
 San：三
 Sango：珊瑚
@@ -1216,6 +1219,7 @@ Senjuro：千寿郎
 Senna：千奈
 Senri：千里
 Seto：濑户
+Setsuko：节子
 Shachi：佐幸
 Shamon：沙蒙
 Shiba：志巴
@@ -1260,6 +1264,7 @@ Shio：盐
 Shionoya：盐谷
 Shiori：诗织
 Shirabu：白部
+Shiretoko：知床
 Shiro：白郎
 Shirobara：白原
 Shiroe：城惠
@@ -1527,6 +1532,7 @@ Utau:歌
 Uzume：宇津
 Uzumoto：涡本
 Vinata：毗那多
+Wakae：若江
 Wakizaka：胁坂
 Wantanabe：渡边
 Wareme：雷梅
@@ -1574,8 +1580,10 @@ Yoichi：洋一
 Yōko：洋子
 Yona：夜纳
 Yori：由立
+Yoriko：赖子
 Yorimasa：依正
 Yorimitsu：赖光
+Yorimoto：赖源
 Yoritaka：依高
 Yorito：依人
 Yoritomo：赖朝
