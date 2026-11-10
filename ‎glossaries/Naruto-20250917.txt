@@ -384,6 +384,7 @@ White Zetsu：白绝
 Hoshigaki Kisame=干柿 鬼鲛
 Samehada：鲛肌
 Deidara：迪达拉
+Sasori of the Red Sand
 Sasori：蝎
 Hidan：飞段
 Kakuzu：角都
@@ -824,6 +825,8 @@ Jashin：邪神
 sensor：感知忍者
 medic-nin：医疗忍者
 iryo-nin：医疗忍者
+Copy ninja：拷贝忍者
+Copy-ninja：拷贝忍者
 copy nin：拷贝忍者
 copy-nin：拷贝忍者
 Fuuin：封印
@@ -1066,6 +1069,8 @@ Odama Rasengan：超大玉螺旋丸
 odama Rasengan Tairen Rendan：超大玉螺旋多连丸
 Rasenshuriken：螺旋手里剑
 Bijudama：尾兽玉
+Sakuranohanabira：樱花吹雪
+Hanafubuki：花吹雪
 Byakugo：百豪
 Byakugō：百豪
 Byakugou：百豪
@@ -1139,6 +1144,7 @@ Hiarishin：飞雷神
 Hireishin：飞雷神
 Goshun Mawashi：互瞬回
 Tandem Paper Bomb：互乘起爆符
+Heavenly Weeping：天泣
 Doryuheki：土流壁
 Sen Ju Shishisen：千年杀
 Chidori：千鸟
