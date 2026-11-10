@@ -4,7 +4,7 @@
  
 词条
 // 限制大小写
-Adatara：
+Adatara：安太良
 Aika：爱华
 Aikawa：相川
 Aiki：爱希
@@ -111,6 +111,7 @@ Bukimi：异诡
 Bukuri：武来
 Bunraku:文乐
 Bull：布鲁
+Buraki：武良木
 Buta：豚鼠
 Byakuren：白莲
 Cat：猫
@@ -385,6 +386,7 @@ Hitomi：瞳
 Hitoshi：仁
 Hiuchi：火打
 Hiyori：日和
+Hizuru：日鹤
 Hjouske：兵介
 Hoderi：火照
 Hōgen：法玄
@@ -456,7 +458,7 @@ Inoshin：井信
 Inosuke：井助
 Inoto：井人
 Inu：犬
-Iōtori：
+Iōtori：伊王鸟
 Irimoya：入目屋
 Itsumi：伊美
 Itsuki：树
@@ -663,6 +665,8 @@ Kiku：菊
 Kikuchi：菊池
 Kikunojin：菊之仁
 Kikyo：菊乃
+Kiji：雉
+Kijitora：雉虎
 Kimio：纪尾
 Kimura：木村
 Kino:木野
@@ -839,6 +843,7 @@ Mebu：芽
 Megumi：惠
 Meiki：明希
 Meiko：明子
+Meoi：目追
 Mer：美人鱼
 Mezo：梅佐
 Michi：美智
@@ -915,6 +920,7 @@ Motoki：元木
 Motomine：本峰
 Mouse：耗
 Mozuku：水云
+Muneharu：宗晴
 Muruwa：室轮
 Mutsuo：六男
 Myo：美代
@@ -1159,8 +1165,9 @@ Sakuo：朔夫
 Samaki：佐卷
 Sami：纱美
 Samua：三亚
-San：三
+Sabi：锈
 Saburo：三郎
+San：三
 Sango：珊瑚
 Sangosho：珊瑚庄
 Sanma：三瓦
@@ -1390,12 +1397,14 @@ Tansu：丹州
 Tano：田野
 Tappei：达平
 Taramae：樽前
+Tarashi：樽志
 Tarumae：樽前
 Tatsu：龙
 Tatsue:立枝
 Tatsuo：拓夫
 Tatsuya：拓也
 Tateiwa：立岩
+Tateshina：楯科
 Tatema：立间
 Tateshina：立科
 Tatewaki：带刀
@@ -1584,6 +1593,7 @@ Yui：由衣
 Yuichi：裕一
 Yuji：裕二
 Yukari：由香里
+Yukatomu：由香富
 Yuki：雪
 Yukiha：雪叶
 Yukina：雪名
