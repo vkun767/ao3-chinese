@@ -879,6 +879,7 @@ Kajitsu：猛兽
 Senpu：旋风
 Sannin：三忍
 Sanin：三忍
+Pervy Sage：好色仙人
 Ero Sennin：好色仙人
 “Ero-Sennin”：好色仙人
 Konoha no Kiiroi Senkō：木叶的金色闪光
@@ -966,6 +967,12 @@ Dōtōn：土遁
 Yoton：熔遁
 Kekkei Genkai：血继 限界
 kekkai genkai：血继 限界
+Medical ninjutsu：医疗忍术
+iryo-jutsu：医疗忍术
+iryō-ninjutsu：医疗忍术
+iryō ninjutsu=医疗忍术
+Iryo ninjutsu=医疗 忍术
+Iryojutsu：医疗忍术
 Senjutsu：仙术
 sage art：仙术
 Ninjutsu：忍术
@@ -977,11 +984,6 @@ fūinjutsu：封印术
 Fuinjutsu：封印术
 Fuuinjutsu：封印术
 kenjutsu：剑术
-iryo-jutsu：医疗忍术
-iryō-ninjutsu：医疗忍术
-iryō ninjutsu=医疗忍术
-Iryo ninjutsu=医疗 忍术
-Iryojutsu：医疗忍术
 doujutsu：瞳术
 dojutsu：瞳术
 “Shin Gi Tai”：心技身
