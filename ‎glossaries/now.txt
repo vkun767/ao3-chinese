@@ -1765,7 +1765,7 @@ Fǎng：仿
 “-Heika”：陛下
 Heika：陛下
 hiko：公子
-
+littermate：同窝兄弟
 禁翻词条
 // 此区域区分大小写，用于保持原文
 Mada
