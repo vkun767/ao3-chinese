@@ -713,7 +713,8 @@ Chameleon：变色龙
 //不限制大小写
 
 //国家、地点
-Kannabi Bridge=神无毗 桥
+Kannabi Bridge：神无毗桥
+Kannabi：神无毗
 Naka River：南贺川
 Naka：南贺川
 Nakano：南贺川
