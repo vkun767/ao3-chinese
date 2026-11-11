@@ -841,9 +841,6 @@ Kaama：楔
 Karma：楔
 Kāma：楔
 ninken：忍犬
-Gama：蛤蟆
-Gamma：蛤蟆
-Sennin：仙人
 Kugutsushi：傀儡师
 Kai：解
 ichaicha：亲热天堂
@@ -878,11 +875,18 @@ Suna no Sankyoudai：砂之三姐弟
 Aoi Kajitsu：苍蓝 猛兽
 Kajitsu：猛兽
 Senpu：旋风
-Sannin：三忍
-Sanin：三忍
 Pervy Sage：好色仙人
 Ero Sennin：好色仙人
 “Ero-Sennin”：好色仙人
+Toad Sage：蛤蟆仙人
+Toad Sennin：蛤蟆仙人
+Toad Sannin：蛤蟆三忍
+Slug Sannin：蛞蝓三忍
+Gama：蛤蟆
+Gamma：蛤蟆
+Sennin：仙人
+Sannin：三忍
+Sanin：三忍
 Konoha no Kiiroi Senkō：木叶的金色闪光
 Kiiroi Senkō=金色 闪光
 Kiiroi Senko=金色 闪光
@@ -1150,6 +1154,7 @@ Tandem Paper Bomb：互乘起爆符
 Heavenly Weeping：天泣
 Doryuheki：土流壁
 Sen Ju Shishisen：千年杀
+Vacuum Sphere：真空玉
 Chidori：千鸟
 Shiden：紫电
 Eiso：刃
