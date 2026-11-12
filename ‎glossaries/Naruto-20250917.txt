@@ -1266,7 +1266,6 @@ Hime：公主
 teme：混蛋
 dobe：笨蛋
 baka：笨蛋
-canyon：僧侣
 shugenja：修验者
 yōkai：妖怪
 yokai：妖怪
