@@ -35,6 +35,7 @@ Uchiha Naori=宇智波 治里
 Uchiha Tajima=宇智波 田岛
 Uchiha Madara=宇智波 斑
 Uchiha Izuna=宇智波 泉奈
+Izu：泉
 Uchiha Hikaku=宇智波 火核
 Uchiha Kagami=宇智波 镜
 Uchiha Setsuna=宇智波 刹那
@@ -171,6 +172,7 @@ Hyūga Kō=日向 孝
 Hyuuga Kou=日向 孝
 Hyūga Tetsu=日向 铁
 Senju Hashirama=千手 柱间
+Hashi：柱
 Senju Tobirama=千手 扉间
 Senju Butsuma=千手 佛间
 Senju Itama=千手 板间
@@ -842,6 +844,8 @@ Kaama：楔
 Karma：楔
 Kāma：楔
 ninken：忍犬
+nintori：忍鸟
+ninkame：忍龟
 Kugutsushi：傀儡师
 Kai：解
 ichaicha：亲热天堂
@@ -902,8 +906,6 @@ usuratonkachi：超级大笨蛋
 White Demon：白色恶魔
 White Devil：白色恶魔
 Habanero：火红辣椒
-Hashi：柱
-Izu：泉
 
 //武器物品
 Gumbai：军配团扇
@@ -923,6 +925,7 @@ Shuriken：手里剑
 Enjutsu：烟雾弹
 Flash Bomb：闪光弹
 Hitai-ate：护额
+paper bombs：起爆符
 Bakufu：起爆符
 Makimono：卷轴
 Senbon：千本
@@ -1077,6 +1080,10 @@ Odama Rasengan：超大玉螺旋丸
 odama Rasengan Tairen Rendan：超大玉螺旋多连丸
 Rasenshuriken：螺旋手里剑
 Bijudama：尾兽玉
+Shinjū Zanshu no Jutsu：心中斩首之术
+Shinjū Zanshu：心中斩首
+Shinju Zanshu：心中斩首
+Shinjuu Zanshu：心中斩首
 Sakuranohanabira：樱花吹雪
 Hanafubuki：花吹雪
 Byakugo：百豪
@@ -1094,6 +1101,7 @@ Kidaichuu：寄坏虫
 kochū：蛊虫
 kochu：蛊虫
 kochuu：蛊虫
+Great Forest：大树林
 Senpo Myojimon=仙法 明神门
 Jukai Kotan：树界降诞
 Jukai Kōtan=树界 降诞
