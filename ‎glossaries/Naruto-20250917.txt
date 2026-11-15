@@ -1,5 +1,5 @@
 维护者：weikun767@163.com
-版本号：1.2.0
+版本号：1.2.1
 更新时间：2026-02-01
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 //有的可能有误，有正确翻译的请反馈我
@@ -789,6 +789,7 @@ Iwa：岩忍
 Otonin：音忍
 Kusa：草忍
 Akatsuki：晓组织
+Akatasuki：晓组织
 Tetsu：铁
 Tsuchi：土
 Mizu：水
@@ -806,6 +807,7 @@ Sengoku：战国
 Ninkai Taisen=忍界 大战
 Allied Shinobi Forces：忍界联军
 Fire daimyo：火之国大名
+Fire daimyō：火之国大名
 daimyo：大名
 Daimyō：大名
 Daimyo：大名
