@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2025-10-26
  
 词条
@@ -381,6 +381,7 @@ Hirzuen：日斩
 Hisa：久佐
 Hisaie:久荣
 Hisako：久子
+Hisani：久仁
 Hisao：久雄
 Hisato：久人
 Hishaku：飞针
@@ -886,6 +887,7 @@ Miso：味增
 Misuri：美铃
 Mitama：御魂
 Mitokoda：水户田
+Mitshiro：三城
 Mitsu：三
 Mitsuba：三叶
 Mitsue：三江
