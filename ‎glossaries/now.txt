@@ -15,6 +15,7 @@ Aimi：爱美
 Aino：爱野
 Airi：爱丽
 Akaashi：赤苇
+Akachi：赤地
 Akaeri：赤襟
 Akagi：赤城
 Akahane：明羽
@@ -464,6 +465,7 @@ Inoto：井人
 Inu：犬
 Iōtori：伊王鸟
 Irimoya：入目屋
+Itasi：板司
 Itsumi：伊美
 Itsuki：树
 Itsuko：伊津子
