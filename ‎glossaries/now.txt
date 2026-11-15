@@ -465,6 +465,7 @@ Inoto：井人
 Inu：犬
 Iōtori：伊王鸟
 Irimoya：入目屋
+Itaru：格志
 Itasi：板司
 Itsumi：伊美
 Itsuki：树
@@ -813,6 +814,7 @@ Makuro：真黑
 Manaka：真中
 Maneki：万木
 Mameko：豆子
+Mamoru：守
 Manami：爱美
 Mamochi：桃地
 Maou：麻黄
@@ -1233,6 +1235,7 @@ Shibiki：志木
 Shiemi：诗惠美
 Shigeru：志茂
 Shige：茂
+Shigeo：茂雄
 Shiho：诗穗
 Shihona：诗穗奈
 Shijimi：汐见
@@ -1396,6 +1399,7 @@ Tama：玉
 Tamaki：玉城
 Tamame：玉目
 Tamanaha：玉间
+Tamayo：玉代
 Tamayori：玉依
 Tamotsu：保
 Tanami：玉美
