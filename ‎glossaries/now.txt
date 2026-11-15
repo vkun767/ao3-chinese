@@ -746,6 +746,7 @@ Kouga：光贺
 Kouka：光华
 Koumaru：光丸
 Koumei：寇明
+Koumori：蝙蝠
 Koushi：弘士
 Kouyou：红叶
 Kowa：高亚
@@ -1288,6 +1289,7 @@ Shirushi：印
 Shisumi：志澄
 Shiyu：时悠
 Shizen：自然
+Shizu：静
 Shizuko：静子
 Shizuka：静香
 Shizuki：静月
