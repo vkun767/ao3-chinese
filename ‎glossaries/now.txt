@@ -1068,9 +1068,11 @@ Otake：大竹
 Otazu：小田津
 Otoma：乙马
 Otsuno：小角
+Otter：水獭
 Ottota：乙太
 Owl：猫头鹰
 Ozawa ：小泽
+Panda：熊猫
 Popo：波波
 Puma：山狮
 Rabbit：兔
@@ -1310,6 +1312,7 @@ Shunsuke：瞬助
 Shurou：守郎
 Shusuke：修助
 Shuu：修
+Sigma：西格玛
 Sita：悉多
 Sohara：曾原
 Soji：宗次
