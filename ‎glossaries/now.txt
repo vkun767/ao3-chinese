@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-10-26
  
 词条
@@ -61,8 +61,9 @@ Amehana：雨花
 Ami：亚美
 Amphisbaena：蛇怪
 Aname：穴目
-Ando：安藤
 Anaguma：穴熊
+Ando：安藤
+Anmitsu：安蜜糖
 Anpam：安帕姆
 Anzai：安斋
 Anzu：安祖
@@ -74,6 +75,7 @@ Arugo：阿鲁戈
 Aruna：阿鲁诺
 Asa：朝
 Asahi：朝日
+Asai：浅井
 Asakura：朝仓
 Asami：朝美
 Asane：朝音
@@ -85,11 +87,14 @@ Asuka：渚
 Asuna：芦奈
 Atsugi：厚木
 Atsuko：敦子
+Atsushi：敦志
 Atsutsune：敦常
 Aoki：青木
 Aya：绫
 Ayako：绫子
 Ayaka：绫华
+Ayami：绢美
+Ayano：绫乃
 Ayashi：绫诗
 Ayumi：步美
 Azaki：安崎
@@ -128,6 +133,7 @@ Chigi：千木
 Chiharu：千春
 Chihiro：千宏
 Chihomi：千穗
+Chika：千佳
 Chikako：千佳子
 Chikara：力
 Chiko：千子
@@ -235,6 +241,7 @@ Fuji：不二
 Fūjin：风神
 Fujio：藤夫
 Fujita：藤田
+Fuka：风花
 Fuki：吹树
 Fukito：福人
 Fukushima：福岛 
@@ -257,8 +264,10 @@ Fuyuto：冬人
 Gamachu：蛤蟆崽
 Gamachū：蛤蟆崽
 Garuda：迦楼罗
+Garo：加路
 Gazeru：雅蝉
 Gecko：壁虎
+Geikotsu：鲸骨
 Gen：玄
 Genbu：玄信
 Genbai：玄梅
@@ -274,6 +283,7 @@ Gōken：豪健
 Gouawae：高瓦埃
 Goro：五郎
 Gouzen：合禅
+Goyo：五洋
 Gyo：行
 Gyosei：晓星
 Habakiri：破刃
@@ -491,6 +501,7 @@ Ishigawa：石川
 Ishikori：石凝姥
 Ishikoridome：石居
 Ishikawa：石川
+Ishima：石间
 Isomi：矶美
 Isshin：一心
 Isshiki：一色
@@ -548,6 +559,7 @@ Kagetsuna：影纲
 Kagi：影
 Kahen：花片
 Kaho：花穗
+Kaigen：海玄
 Kaika：海花
 Kaiko：海光
 Kaito：海斗
@@ -678,8 +690,11 @@ Kikunojin：菊之仁
 Kikyo：菊乃
 Kiji：雉
 Kijitora：雉虎
+Kimichi：规道
+Kimiko：贵美子
 Kimio：纪尾
 Kimura：木村
+Kinjo：金城
 Kino:木野
 Kinoko：木之子
 Kinoya：八香
@@ -705,6 +720,7 @@ Kiyomi：清美
 Kiyomizu：清见
 Kiyoshi：清志
 Kiyoshige：清重
+Kizuo：木绘
 Koen：光炎
 Koenma：光麿
 Kouki：光辉
@@ -878,6 +894,7 @@ Miku：美久
 Mikuri：三雾
 Mimaru：三丸
 Mimaki：三卷
+Mimi：美美
 Mina：美奈
 Minako：美奈子
 Minami：南美
@@ -896,6 +913,7 @@ Mitshiro：三城
 Mitsu：三
 Mitsuba：三叶
 Mitsue：三江
+Mitsuo：光雄
 Mitsuru：美弦
 Miori：美织
 Mio：澪
@@ -909,6 +927,7 @@ Miyazaki：宫崎
 Miyo：美悠
 Miyori：美依
 Miyu：美羽
+Miyuu：美羽
 Mizushima：水岛
 Mizuho：水穗
 Mizuna：水奈
@@ -921,6 +940,7 @@ Mongoose：猫鼬
 Monkichi：门吉
 Momiji：红叶
 Momo：桃
+Momoe：百惠
 Momohiko：桃彦
 Momoko：桃子
 Momoshi：桃矢
@@ -1238,6 +1258,7 @@ Seto：濑户
 Setsuko：节子
 Shachi：佐幸
 Shamon：沙蒙
+Shepard：首领
 Shiba：志巴
 Shibata：柴田
 Shibiki：志木
@@ -1274,6 +1295,7 @@ Shingo：慎吾
 Shinichi：慎一
 Shinigami：死神
 Shinji：慎二
+Shinju：真珠
 Shinsei：新星
 Shinobu：信乃
 Shinzo：慎藏
@@ -1320,6 +1342,7 @@ Shusuke：修助
 Shuu：修
 Sigma：西格玛
 Sita：悉多
+Soga：苏我
 Sohara：曾原
 Soji：宗次
 Soma：宗马
@@ -1345,8 +1368,10 @@ Suki：佑树
 Sukuīzu：疾翅
 Suma：苏玛
 Sumi：澄美
+Sumiko：纯子
 Sumiye：澄江
 Sunami:砂波
+Suri：琉璃
 Surime：墨目
 Suseri：苏绕
 Susuma：寿真
@@ -1375,6 +1400,7 @@ Tadashi：忠
 Tagayasu：田谷
 Tahara：田原
 Tai：太
+Taiga：大河
 Taigen：泰元
 Taihei：泰平
 Taiki：拓树
@@ -1422,6 +1448,7 @@ Tanake：田圭
 Tango：丹吾
 Tansu：丹州
 Tano：田野
+Tanzunaka：田中
 Tappei：达平
 Taramae：樽前
 Tarashi：樽志
@@ -1440,6 +1467,7 @@ Tazuna：手纲
 Tekari：手刈
 Tenchi：天地
 Tenshi：天志
+Tenshin：天信
 Tenzen：天全
 Teru:照
 Terumii:照美
@@ -1478,6 +1506,7 @@ Tora：虎
 Toran：虎南
 Tori：鸟
 Toshi：敏
+Toshiaki：敏明
 Toshihiro：敏宏
 Toshiko：敏子
 Toshimi：敏美
@@ -1587,9 +1616,10 @@ Yamori：蜥蜴
 Yasakatone：八尺铎
 Yashiro：八代
 Yashagoro：八重楼
-Yasuko：亚苏子
 Yasu：亚苏
+Yasuko：亚苏子
 Yasuo：康夫
+Yasushi：康志
 Yasutora：泰虎
 Yasuo：康夫
 Yatagarasu：八咫乌
@@ -1623,6 +1653,7 @@ Yue:弓恵
 Yui：由衣
 Yuichi：裕一
 Yuji：裕二
+Yūka：由香
 Yukari：由香里
 Yukatomu：由香富
 Yuki：雪
@@ -1684,6 +1715,11 @@ Pinky：小粉毛
 
 通用词条
 //不限制大小写
+Karuma no Kagami：来魔之镜
+Karuma no：来魔之
+“Kagi no ban”：钥之守护
+“Ōhirume no Muchi no Kami ”：大日孁神
+“Kuro-montsuki”：黑纹付
 seal：封印
 sekke kuge：摄政 公家
 Tōji：冬至
@@ -1730,6 +1766,7 @@ Uta-garuta：歌牌
 kannushi：神官
 mikogami：巫神
 miko：巫女
+chiniku：骨肉
 Shinryūgan：真龙眼
 Onigokko：捉鬼
 Kakure-Oni：捉迷藏
@@ -1745,6 +1782,19 @@ kochū：毒虫
 kochu：毒虫
 Youkai：妖怪
 Obake：幽灵
+osuberakashi：平安垂髻
+saksaul：梭梭树
+foukkusu：狐狸
+yūrei：幽灵
+shiryō：死灵
+Shinshoku：神职
+itoko：表亲
+ōyashiro：大神社
+jūkei：堂亲
+jūshi：堂姐
+ōmagatoki：逢魔时刻
+nakōdo：媒人
+bōrei：亡灵
 seishitsu：正妻
 Saka：小佐
 tachi：小鼬
