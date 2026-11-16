@@ -282,6 +282,7 @@ Kankuro：勘九郎
 Kankurō：勘九郎
 Kankurou：勘九郎
 Temari：手鞠
+Termari：手鞠
 Baki：马基
 Pakura：泊良
 Karura：加琉罗
@@ -490,6 +491,7 @@ Asura：阿修罗
 Indora：因陀罗
 Indra：因陀罗
 Ootutuki Hagoromo=大筒木 羽衣
+Ootutuki Hogoromo=大筒木 羽衣
 Otsutsuki Kaguya=大筒木 辉夜
 Ōtsutsuki Kaguya=大筒木 辉夜
 Ōtsutsuki Hamura=大筒木 羽村
