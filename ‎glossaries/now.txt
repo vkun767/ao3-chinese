@@ -250,6 +250,7 @@ Fumiko：文子
 Fumihiro：文宏
 Fumito：文人
 Fumio：文雄
+Funie：风仁惠
 Furu：芙古
 Furuchi：古渕
 Furuya：古谷
@@ -571,6 +572,7 @@ Kakuto：角人
 Kako：小鹿
 Kakuchi：角地
 Kaji：梶
+Kajima：梶间
 Kaju：卡朱
 Kamatari：镰太
 Kame：龟
@@ -846,6 +848,7 @@ Mariko：真理子
 Maru：丸
 Marumi：丸美
 Maruna：丸奈
+Maryuda：真龙田
 Matora：间虎
 Matsu：松
 Matsubokkuri：松鼠栗
@@ -1037,6 +1040,7 @@ Nōka：农稼
 Nomaka：野磨
 Nomea：野明
 Nomu：浓
+Nora：野良
 Nori：诺里
 Noriko：纪子
 Norikura：纪仓
@@ -1469,6 +1473,7 @@ Tekari：手刈
 Tenchi：天地
 Tenshi：天志
 Tenshin：天信
+Tenu：哲沼
 Tenzen：天全
 Teru:照
 Terumii:照美
@@ -1652,6 +1657,8 @@ Yu：悠
 Yū：悠
 Yua：结爱
 Yue:弓恵
+Yugira：由木良
+Yuhei：由平
 Yui：由衣
 Yuichi：裕一
 Yuji：裕二
