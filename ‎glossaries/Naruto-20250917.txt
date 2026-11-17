@@ -3,6 +3,7 @@
 更新时间：2026-02-01
 //本词条里包括了很多同义词条，原因是日语罗马音拼写有变体，以及洋太太们有时会出现拼写错误，于是会有一词多注或者错误词，比如Juken、jyuken、jyuuken都标注了柔拳，以提升翻译效果
 //有的可能有误，有正确翻译的请反馈我
+//另外友情推荐这个日语人名术语表 https://raw.githubusercontent.com/vkun767/ao3-chinese/refs/heads/main/%E2%80%8Eglossaries/now.txt
 
 词条
 // 限制大小写
