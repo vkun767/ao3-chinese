@@ -1423,6 +1423,7 @@ Takane：高根
 Takao：高尾
 Takara：宝
 Takashi：高志
+Takanshi：高志
 Takaya：贵也
 Takeda：武田
 Takeharu：武彦
@@ -1572,6 +1573,7 @@ Ukie：浮木
 Una：宇奈
 Unagi：宇奈木
 Unarigoe ：宇那利
+Unizuka：海塚
 Ume：梅花
 Umei：雨名
 Umeko：梅子
