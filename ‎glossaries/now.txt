@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-26
  
 词条
@@ -1733,7 +1733,6 @@ Karuma no：来魔之
 “Kagi no ban”：钥之守护
 “Ōhirume no Muchi no Kami ”：大日孁神
 “Kuro-montsuki”：黑纹付
-seal：封印
 sekke kuge：摄政 公家
 Tōji：冬至
 Takeminakata：建御名方
@@ -1765,7 +1764,7 @@ tasuki：襻
 seijinshiki：成人礼
 Genpuku shiki：元服礼
 mofuku：丧服
-3月udai：丸台
+Marudai：丸台
 Jibata：地机
 Takabata：织机
 kumihimo：组纽
