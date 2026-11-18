@@ -551,7 +551,8 @@ Jiyū：自由
 Kabasawa：桦泽
 Kabayuki：桦雪
 Kaede：枫
-Kaen：封火
+Kaen：火炎
+Kaendan：火炎弹
 Kaeru：蛙
 Kagane：加金
 Kagayaki：辉
