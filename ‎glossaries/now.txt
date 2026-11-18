@@ -531,6 +531,7 @@ Jitu：极图
 Jōchō：上长
 Jōseki：常石
 Jorō：游郎
+Joro：游郎
 Joruri：净瑠璃
 Jotaro：丈太郎
 Jounen：净念
@@ -1430,6 +1431,7 @@ Takaya：贵也
 Takeda：武田
 Takeharu：武彦
 Takemaru：竹丸
+Takenshi：高志
 Takeru：健
 Takeshi：武史
 Taketori：竹取
