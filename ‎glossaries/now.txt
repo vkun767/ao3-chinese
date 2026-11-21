@@ -242,6 +242,7 @@ Fuji：不二
 Fūjin：风神
 Fujio：藤夫
 Fujita：藤田
+Fujitora：藤虎
 Fuka：风花
 Fuki：吹树
 Fukito：福人
@@ -724,6 +725,7 @@ Kiyo：清
 Kiyoko：清子
 Kiyomi：清美
 Kiyomizu：清见
+Kiyone：清音
 Kiyoshi：清志
 Kiyoshige：清重
 Kizuo：木绘
@@ -786,6 +788,7 @@ Kukai：空海
 Kuukai：空海
 Kukie：九家
 Kuma：熊
+Kumade：熊手
 Kumano：熊野
 Kumiko：久美子
 Kuni：国
@@ -1029,6 +1032,7 @@ Nishioka：西岗
 Niwa：丹羽
 Noa：诺亚
 Noba：诺巴
+Nobara:诺原
 Noboru：信则
 Nobu：信
 Nobuhito：信人
@@ -1631,6 +1635,7 @@ Yashiro：八代
 Yashagoro：八重楼
 Yasu：亚苏
 Yasuko：亚苏子
+Yasumaru：安丸
 Yasuo：康夫
 Yasushi：康志
 Yasutora：泰虎
@@ -1854,3 +1859,4 @@ littermate：同窝兄弟
 禁翻词条
 // 此区域区分大小写，用于保持原文
 Mada
+Dara
