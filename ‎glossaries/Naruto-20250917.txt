@@ -776,6 +776,7 @@ Genin：下忍
 Nukenin：叛忍
 nuke-nin：叛忍
 missing-nin：叛忍
+rogue nin：流浪忍者
 Sanban：第三班
 Dananahan：第七班
 “Dai-nana-han”：第七班
@@ -994,6 +995,8 @@ Iryojutsu：医疗忍术
 Senjutsu：仙术
 sage art：仙术
 Ninjutsu：忍术
+Ninpō：忍法
+Ninpo：忍法
 Taijutsu：体术
 Genjutsu：幻术
 Juinjutsu：咒印术
@@ -1068,6 +1071,8 @@ Hosenka：凤仙火
 Hōsenka：凤仙火
 Housenka：凤仙火
 Ryuka：龙火
+Ryūka：龙火
+Ryuuka：龙火
 Goryuka：豪龙火
 Tenseigan：转生眼
 Ketsuryugan：血龙眼
@@ -1095,6 +1100,8 @@ Shinju Zanshu：心中斩首
 Shinjuu Zanshu：心中斩首
 Sakuranohanabira：樱花吹雪
 Hanafubuki：花吹雪
+Sōzō Saisei=创造 再生
+Sozo Saisei=创造 再生
 Byakugo：百豪
 Byakugō：百豪
 Byakugou：百豪
