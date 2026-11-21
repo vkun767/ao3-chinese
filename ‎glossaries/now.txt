@@ -5,6 +5,7 @@
 词条
 // 限制大小写
 Adatara：安太良
+Ahiru：阿鹤
 Aika：爱华
 Aikawa：相川
 Aiki：爱希
