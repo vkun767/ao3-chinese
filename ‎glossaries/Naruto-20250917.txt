@@ -718,6 +718,36 @@ ninneko：忍猫
 Nekobaa：猫婆婆
 Chameleon：变色龙
 
+//错拼，容错用
+Uchih：宇智波
+Madra：斑
+Izuan：泉奈
+HIkaku,：火核
+Hiakaku：火核
+Kagamir：镜
+Tobriama：扉间
+Tobiama：扉间
+Tobrama：扉间
+Tobirma：扉间
+Tobiirama：扉间
+Tobiramam：扉间
+Tobiram：扉间
+Tobirama：扉间
+Hashriama：柱间
+Hahsirama：柱间
+Hashrama：柱间
+Hashiramam：柱间
+MIto：水户
+Mitio：水户
+Batsuma：佛间
+Kawaram：瓦间
+Hyugga：日向
+Hyuug：日向
+Inzuka：犬冢
+Inukuza：犬冢
+Inumuzuk：犬冢
+Konohagakura：木叶
+
 通用词条
 //不限制大小写
 
