@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-26
  
 词条
@@ -691,6 +691,7 @@ Kigane：黄金
 Kiha：辉羽
 Kikiro：菊郎
 Kikiyo：菊代
+Kiko：希子
 Kiku：菊
 Kikuchi：菊池
 Kikunojin：菊之仁
@@ -919,6 +920,7 @@ Misao：美佐叶
 Miso：味增
 Misuri：美铃
 Mitama：御魂
+Mitari：三垂
 Mitokoda：水户田
 Mitshiro：三城
 Mitsu：三
@@ -969,6 +971,7 @@ Mouse：耗
 Mozuku：水云
 Muneharu：宗晴
 Muruwa：室轮
+Mutsuhito：睦仁
 Mutsuo：六男
 Myo：美代
 Myoga：妙雅
@@ -1024,6 +1027,7 @@ Neko：猫
 Nendosaki：念多崎
 Nene：宁宁
 Nezumi：鼠
+Niita：新田
 Nikkō：日光
 Niko：日子
 Nimori：仁森
@@ -1079,6 +1083,7 @@ Okinao：兴直
 Okita：冲田
 Okuninushi：大国
 Omezo：重藏
+Omura：大村
 Onamuji：小沼
 Onikiri：鬼切
 Onikuma：鬼熊
@@ -1157,7 +1162,9 @@ Risako：理沙子
 Risato：里见
 Risu：栗鼠
 Ritsu：律叶
+Ro：吕
 Rokuro：六郎
+Roma：吕间
 Rou：胧
 Rowa：罗瓦
 Ruby：露比
@@ -1471,6 +1478,7 @@ Tarumae：樽前
 Tatsu：龙
 Tatsue:立枝
 Tatsuo：拓夫
+Tatsura：拓良
 Tatsuya：拓也
 Tateiwa：立岩
 Tateshina：楯科
@@ -1663,6 +1671,7 @@ Yoshihiro：吉弘
 Yoshinori：吉德
 Yoshiro：义郎
 Yoshiyasu：义康
+Yotsuki：四木
 Youko：洋子
 Ysuyoshi：康良
 Yu：悠
