@@ -470,6 +470,7 @@ Shinki：新希
 Mitsuki：巳月
 Rugo：巳杯
 Log：巳杯
+Lee Metal=李 梅塔尔
 Nara Shikadai=奈良 鹿代
 Jigen：慈弦
 Sanzu Amado=三途 阿玛多
@@ -733,6 +734,9 @@ Tobiirama：扉间
 Tobiramam：扉间
 Tobiram：扉间
 Tobirama：扉间
+White Demon=白色 恶魔
+White Devil=白色 恶魔
+White Ghost=白色 幽灵
 Hashriama：柱间
 Hahsirama：柱间
 Hashrama：柱间
@@ -747,6 +751,7 @@ Inzuka：犬冢
 Inukuza：犬冢
 Inumuzuk：犬冢
 Konohagakura：木叶
+Zabzua：再不斩
 
 通用词条
 //不限制大小写
@@ -943,8 +948,6 @@ Kagome：笼中鸟
 bakakashi：笨卡卡
 bakashi：笨卡卡
 usuratonkachi：超级大笨蛋
-White Demon：白色恶魔
-White Devil：白色恶魔
 Habanero：火红辣椒
 
 //武器物品
