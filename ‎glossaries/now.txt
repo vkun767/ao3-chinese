@@ -207,6 +207,9 @@ Diablo：迪亚波罗
 Doi：土井
 Doppo：道步
 Douzan：铜山
+Dōzaki：道崎
+Dozaki：道崎
+Douzaki：道崎
 Eboshi：乌兔
 Echo：艾可
 Eiichi：荣一
@@ -406,6 +409,7 @@ Hiro：广
 Hiroaki：广明
 Hiroko：广子
 Hiroki：广树
+Hiromi：广美
 Hirose：广濑
 Hiroshi：广志
 Hiroto：广人
@@ -705,6 +709,9 @@ Kenichi：健一
 Kenji：健二
 Kenjiro：健次郎
 Kenshin：健信
+Kensyū：剑秀
+Kensyu：剑秀
+Kensyuu：剑秀
 Kentaro：健太郎
 Kentarō：健太郎
 Kentarou：健太郎
@@ -738,6 +745,7 @@ Kinoko：木之子
 Kinoya：八香
 Kintaku：金拓
 Kinu：绢
+Kinukawa：木川
 Kira：基拉
 Kirigamine：雾峰
 Kiraku：木乐
@@ -910,6 +918,7 @@ Masashika：正鹿
 Masashi：正志
 Masato：正人
 Masayoshi：正义
+Massashi：齐史
 Masuyo：真代
 Masumi：真理
 Mayu：真由
@@ -970,6 +979,7 @@ Miori：美织
 Mio：澪
 Mioka：美夜香
 Miu：美羽
+Miwako：美和子
 Miwari：美割
 Miyagi：宫城
 Miyako:宫子
@@ -984,6 +994,7 @@ Mizuho：水穗
 Mizuna：水奈
 Mizumi：水见
 Mizuru：水鹤
+Mochizuki：望月
 Moku：默
 Mokomichi：桃己道
 Mokoshi：木越
@@ -1333,6 +1344,7 @@ Shiba：志巴
 Shibata：柴田
 Shibiki：志木
 Shiemi：诗惠美
+Shigaki：志垣
 Shigeru：志茂
 Shige：茂
 Shigeo：茂雄
@@ -1560,6 +1572,9 @@ Tetsuo：哲夫
 Tetsurou：哲郎
 Tetsuya：哲也
 Tiger：虎
+Tōchi：东池
+Tochi：东池
+Touchi：东池
 Toji：门次
 Tobira：扉
 Tobitsuki：扉月
