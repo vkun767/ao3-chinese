@@ -389,7 +389,7 @@ White Zetsu：白绝
 Hoshigaki Kisame=干柿 鬼鲛
 Samehada：鲛肌
 Deidara：迪达拉
-Sasori of the Red Sand
+Sasori of the Red Sand：赤砂之蝎
 Sasori：蝎
 Hidan：飞段
 Kakuzu：角都
@@ -983,7 +983,7 @@ Benihisago：红葫芦
 Kohaku no Jouhei：琥珀净瓶
 Kohaku Jouhei=琥珀 净瓶
 katana：武士刀
-wakizashi
+wakizashi：胁差
 tantō：短刀
 tanto：短刀
 tantou：太刀
