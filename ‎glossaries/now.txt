@@ -1,5 +1,5 @@
 维护者：临时用
-版本号：1.0.6
+版本号：1.0.7
 更新时间：2025-10-26
  
 词条
@@ -1321,6 +1321,8 @@ Sebamaru：濑羽丸
 Sei：真
 Seiichi：诚市
 Seiji：清司
+Seijiro：清次郎
+Seijun：清俊
 Seiko：圣子
 Seiryū：青龙
 Seiryu：青龙
